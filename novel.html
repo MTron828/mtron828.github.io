@@ -18,7 +18,12 @@
         var novel_request = await fetch('./novels/'+nov+'/data.json');
         var novel_data = await novel_request.json();
         console.log(novel_data);
+        var chapter_nums = [];
         for (let i of novel_data.chapters) {
+          chapter_nums[chapter_nums.length] = parseInt(i);
+        }
+        chapter_nums.sort();
+        for (let i of chapter_nums) {
           var html_content = "<a><div id = '"+i+"' class = 'chapter'><h5>Chapter "+i+"</h5></div></a>";
           document.getElementById("chapter_list").innerHTML += html_content;
         }
