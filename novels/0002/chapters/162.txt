@@ -1,0 +1,391 @@
+
+ChatGPT
+
+Title: Episode 162 of the 100th Regression of a Max Level Player
+
+Rune Test of Lightning
+
+└ Defeat 7 Archangels
+
+└ Current number of Archangels defeated (1/7)
+
+└ Success ▶ ?????
+
+"A quest for Soul Bond? Have I ever seen such a quest?"
+
+I've only looked at main and sub quests; this is the first time I've seen a quest like this.
+
+"It looks like a quest triggered by killing Archangels..."
+
+The rewards are secret, and the difficulty is high.
+
+You have to kill a total of 7 Archangels to succeed.
+
+"Judging by the term 'Soul Bond,' could it be a quest that continues even after the round ends?"
+
+Usually, quests have a deadline until the end of the round.
+
+They don't continue until the next round.
+
+But considering the term "Soul Bond" and the impossible difficulty to complete in one round...
+
+"It seems to be a quest that continues until death."
+
+There was no other way to think about it.
+
+"Is it practically necessary to kill all 7 Archangels before the 20th round? Well, now it's 6."
+
+It was truly an absurd difficulty.
+
+While pondering, Yantti approached.
+
+"Master."
+
+Just as Ryu Min's transformation ended, revealing his bare face.
+
+"Is it all over?"
+
+"Yeah. The business is done."
+
+"The last angel you killed seemed quite strong..."
+
+"It's a 7th-rank Archangel, the highest-ranking among angels."
+
+"Wow, you killed such an incredible being?"
+
+"It was impressive. But when I actually faced it, it wasn't a big deal."
+
+After a wry smile, Ryu Min, who had cleared up the corpses, spoke.
+
+"Let's go. Time for the sub-quest."
+
+As Ryu Min left the temple, he hid the title of the Last Time Reverser.
+
+[The Holy Empire's reputation for the Last Time Reverser has changed from 'Hostile' to 'Neutral.']
+
+Because of killing the angels and even the archangels, the temple's wrath was incurred.
+
+"In the end, it's the other angels who killed the archangels."
+
+Although hiding the title would prevent any inconvenience, bitterness couldn't be concealed.
+
+"After doing something good for a long time, I end up hated or in trouble by fellow humans."
+ChatGPT
+
+Well, it was just grumbling without any real concern, and frankly, I didn't care.
+
+Whether considered an enemy or an NPC, in a situation where it's uncertain whether they are from the game or the real world, who would bother with such matters?
+
+"Regardless of others' reputations, as long as I receive rewards, it's fine."
+
+Anyway, there are plenty of titles, so there are many alternatives.
+
+"Master, should we part ways now?"
+
+"Yeah. As I said, if we start the strategy from here, we should be able to fill in at least four before the time limit. Then we'll easily become achievers."
+
+"Aw, I don't want to part..."
+
+"Stop pretending to be cute and go quickly. If you hesitate and miss a quest, you might disappear. I'll find you all the way to hell and scold you."
+
+"Oh, I understand! I'll definitely survive!"
+
+Yantti must survive.
+
+Her abilities will be useful in the future.
+
+After parting with Yantti, Ryu Min moved straight ahead.
+
+"I've already completed one sub-quest, and I have to finish nine in the remaining nine hours."
+
+He had already thought about which quests to prioritize.
+
+Using his experience, he had prepared the optimal route to minimize time and movement.
+
+"First, here."
+
+Ryu Min entered the alley where stalls were gathered next to the square and spoke to an NPC.
+
+"I've come to buy some things."
+
+"Welcome! What can I get you?"
+
+"Give me everything from here to here."
+
+"Excuse me?"
+
+The second sub-quest was to 'flex at the stalls.'
+
+Finding a sub-quest in the 10th round isn't difficult.
+
+If you wander around, you'll discover various types of quests.
+
+Delivery, errands, favors, monster extermination, escort missions, and more.
+
+There are even tasks like temporarily managing a store as a part-time worker.
+
+"But that one consumes too much time, it's inefficient."
+
+For sub-quests, it's best to complete them quickly.
+
+Currently, the fastest ones were making donations at the temple and clearing out all the goods at the stalls.
+
+"Except for these two, the others take at least 30 minutes."
+
+After purchasing the items, Ryu Min went to find the next quick quest, which was visiting a mercenary group.
+
+"Welcome. What brings you to our Golden Eagle Mercenary Corps?"
+ChatGPT
+
+"I want to take on a subjugation mission."
+
+Monster subjugation is a quest that takes quite some time, but if you have the skills, it can be a quick quest that can be completed in under 30 minutes.
+
+The receptionist at the desk looked at Ryu Min and spoke cheerfully.
+
+"Oh, I see. You're a skilled-grade mercenary. There happens to be a suitable subjugation mission. Let me introduce it to you."
+
+[Please touch the monster you want to subjugate.]
+
+└ 1. Lizardman
+
+└ 2. Werewolf
+
+└ 3. Skeleton
+
+└ 4. Sandworm
+
+[To cancel, please express your intention to reject.]
+
+Ryu Min chose the strongest among them, the Sandworm.
+
+"Since subjugation times are similar, it's better to take down a strong one and gain some experience."
+
+After waiting for about a minute or so at the suggestion, the door of the mercenary group opened, and a group of mercenaries approached Ryu Min.
+
+"Are you the Black Scythe? Nice to meet you. I'm Hark Berman, the 3rd subjugation captain of the Golden Eagle Mercenary Corps. Is it okay to depart right away?"
+
+"Of course."
+
+The place Ryu Min followed the subjugation captain to was in front of a futuristic-looking giant machine.
+
+It's called a 'Warp Device,' a machine that teleports instantly to various places.
+
+"Come here."
+
+Ryu Min stood on the warp device with the subjugation captain and his subordinates.
+
+Zzt zzt zzt-
+
+In the blink of an eye, they arrived in a desert where Sandworms periodically emerged.
+
+"From here, we have to walk. Shall we go?"
+
+└ Condition ▶ Subjugate 100 Sandworms
+
+└ Current number of Sandworms defeated (0/100)
+
+Seeing the message, Ryu Min smirked.
+
+"It might take two hours for others, but for me..."
+
+For Ryu Min, it was a quest that would take less than 30 minutes.
+
+If there were enough monsters, he could even shorten it further, but considering the frequency of Sandworm appearances, 30 minutes was the limit.
+
+Ryu Min moved along with the subjugation team consisting of ten members.
+
+They were all NPCs, and it seemed like they had no interest in Ryu Min. Perhaps it was because they were mercenaries gathered for business, competing with each other, rather than forming a party as per the setting.
+
+"But I don't have to worry about my share being taken away."
+
+The skills of the mercenaries here were nothing special.
+ChatGPT
+
+"In player terms, it's like level 30, so even three people struggle to defeat a Sandworm."
+
+"Essentially, NPCs play the role of drawing the monster's attention, but the actual killing is the player's responsibility."
+
+Well, Ryu Min didn't need help drawing attention.
+
+The Sandworms would already be corpses before they noticed him.
+
+"It appeared!"
+
+At the mercenaries' shout, Ryu Min looked, and something wriggled beneath the sand.
+
+Although not visible, it had already been detected through his sense of presence.
+
+It was a Sandworm.
+
+Ryu Min, about to unsheath his scythe, put it back into his inventory.
+
+"Should I test the rune I obtained this time?"
+
+As he hadn't used the Rune of Lightning before, he was curious about its effects.
+
+If he wanted to utilize it later, he needed to familiarize himself with the sensation in advance.
+
+Spark spark -
+
+Sparks flew from Ryu Min's hand.
+
+"This feeling... Lightning magic isn't favorable against Sandworms, which move underground. But is it okay?"
+
+Magic is a powerful attack method, but there are elemental matchups.
+
+Against Sandworms, which move through the earth element, lightning magic, which is of the electric element, is less effective.
+
+In simple terms, the damage is reduced by half.
+
+"Well, the damage will still be substantial."
+
+With a high intelligence stat, there should be no problem in defeating them.
+
+"Grrrr!"
+
+"It's out!"
+
+The Sandworm, emerging from beneath the sand, boasted a massive size resembling a tree trunk.
+
+However...
+
+"Sizzle."
+
+The lightning discharged from Ryu Min's fingertips struck the Sandworm directly.
+
+Zap zap zap -
+
+The creature turned into a charred worm, completely defeated in a single blow.
+
+Thunk -
+
+Seeing the Sandworm, which had turned pitch black and died instantly, the mercenaries couldn't close their astonished mouths.
+
+"Were you a magician?"
+
+"To kill that terrifying Sandworm in one hit, you're amazing!"
+
+"A truly extraordinary archmage has joined our subjugation team!"
+
+Despite the praises pouring in from all directions, Ryu Min didn't respond.
+
+He was a bit taken aback himself.
+
+"I expected it to some extent due to the high intelligence, but to actually kill it in one hit..."
+
+The damage was overwhelming enough to ignore the elemental disadvantage.
+
+You could probably convince others that he was a great archmage.
+
+"If someone questions how a prophet fights, I can just show them this."
+ChatGPT
+
+Crackling sparks burst from his fingertips as Ryu Min chuckled and moved again.
+
+Subjugation turned out to be easier than expected.
+
+A mercenary can only perform subjugations up to three times.
+
+Ryu Min managed to finish all three within the shortest time of 30 minutes each.
+
+It was thanks to the Rune of Lightning.
+
+"Well, even if I had used the scythe, I could have finished it within 30 minutes."
+
+However, Ryu Min only used the Rune of Lightning throughout the subjugation.
+
+He didn't even draw the scythe.
+
+It was to familiarize himself with the rune's ability...
+
+"But above all, it's more convenient."
+
+Standing still and casting spells was definitely more convenient than running around with a scythe.
+
+With enemies being defeated in a single blow, it was easy to catch them.
+
+Perhaps due to the universal skill of hand dexterity, hitting them wasn't too difficult.
+
+"Sizzle, Charge, AoE Discharge, Amplification. Have I used almost everything?"
+
+Of course, he didn't have the courage to use self-destruct.
+
+The damage was high, and using it wrongly could cost him his life.
+
+"I should only use self-destruct as a last resort. I don't know if there will be a need for it, but..."
+
+Certainly, while being a mage had the advantage of having many area-of-effect skills and being convenient in battles, it wasn't all pros.
+
+"When all cooldowns are running, there's nothing to do."
+
+After using the Rune of Lightning, Ryu Min found out that each ability had a cooldown.
+
+"Sizzle had the shortest cooldown of 6 seconds, but..."
+
+In a battlefield where life and death could change in a matter of seconds, a 6-second interval was a tremendous penalty.
+
+"Is this why magic-using professions save and manage cooldowns while using skills?"
+
+Of course, as a hybrid, Ryu Min didn't need to worry about it.
+
+If there was nothing left to do after using all the magic, he could just switch to using the scythe.
+
+[Subjugation has concluded.] [Your contribution is recorded in the mercenary corps.] [Your mercenary corps rank has risen from 'Skilled' to 'Professional.']
+
+Having successfully completed consecutive subjugations, the mercenary corps' rank increased.
+
+"Well, next time, I might be able to take on more challenging missions."
+
+But catching a dragon was still a long way off.
+
+"Now, the next place to go is..."
+ChatGPT
+
+Ryu Min, who had left the mercenary corps, checked the time and moved.
+
+It seemed he could comfortably finish ten of them.
+
+Ten hours.
+
+It was a quite long time, but as he was doing quests, time passed quickly without him realizing.
+
+"Oh no, there's not much time left!"
+
+"We need at least one more..."
+
+Players who were shouting noticed a change and looked up.
+
+Suddenly, they were back in the neutral-colored space that had been the starting point.
+
+"Has it already been ten hours?"
+
+"Ah! The quest was almost finished!"
+
+Since the ranking system revealed that the number of quests completed determined the rankings, people were relentlessly focusing only on quests.
+
+As a result, many people arrived midway, but unfortunately, ongoing missions were treated as abandoned.
+
+[Hello, everyone? It's Nell. Have you all been doing the quests well? Now then...]
+
+"Archangel! I had a mission I was about to complete just a moment ago! If you could give me just 10 more seconds, it would have been a success, but you marked it as a success..."
+
+[A human who dares to interrupt an angel's words? And I said you could ask anytime, right? Are you asking me to kill you?]
+
+"S-Sorry..."
+
+[Don't bother responding. I don't want to hear it.]
+
+As Nell's gaze became ominously intense, the player tightly shut their mouth.
+
+[How dare an inferior human interrupt the words of an angel? And when did I say you could ask questions? Are you demanding to be killed?]
+
+"I'm, I'm sorry..."
+
+[Don't bother answering. I don't want to hear it.]
+
+The reason for Nell's bad mood was one.
+
+[Originally, I should show you the aggregation results, but before that, let me ask you one thing.]
+
+Nell's bad mood stemmed from the upheaval in Heaven due to the death of the 7th Archangel Ramiel.
