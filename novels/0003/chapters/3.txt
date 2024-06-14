@@ -1,0 +1,73 @@
+
+Here is the translation of the text to English:
+
+Chapter 4: Properties
+
+In the afternoon, he had been thinking about the allocation of properties in his mind for countless times.
+Compared to ordinary players who looked confused, he could determine his properties based on his profession.
+In the past, he, a novice, had been recommended by his classmates to play a warrior profession to quickly get started, as it had a low entry difficulty and short training time.
+However, mages such as wizards, priests, and paladins would often get stuck in the process of learning spells, even warriors who had reached level 2. It was like they were stuck in the beginner's process.
+
+Later, after crossing into the real world of Arthus, Zhao Xiu finally realized that the ability to cast spells was what gave him the right to speak. The level of magical abilities could reach the legendary level of nine, which meant he had the right to make decisions and have his voice heard.
+
+As for the warrior profession, it was not much different from the mage professions in the later stages.
+
+Therefore, Zhao Xiu was determined to choose the wizard profession, even if it meant he couldn't follow his previous warrior experience. If his account was indeed a dual elite profession, his second profession would also be a priest.
+
+He just wanted to go all the way down the path of magic.
+
+Through his later adventures, he had witnessed many phenomena where magic was the truth.
+
+However, the key attribute for wizards was intelligence, while for priests it was perception.
+
+The Arthur model used the adjusted property values, which were calculated by subtracting 10 from the property value and dividing by 2.
+
+For example, 10 points of strength would result in an adjusted value of 0, and 12 points of strength would result in an adjusted value of 1.
+Here is the translation of the text:
+
+Decimal points will be discarded without compensation.
+
+Therefore, the odd-numbered attributes will be relatively disadvantaged at the beginning, but can be compensated by obtaining attributes through upgrades.
+
+Zhao Xu directly distributes attributes according to the predetermined plan.
+
+Regardless of strength, Zhao Xu directly assigns 8 attributes, and will discuss it later.
+
+Agility costs 5 days to assign and raises to 13 attributes, which are crucial for attacking, defense, and reflexive avoidance. Zhao Xu is willing to sacrifice.
+
+Constitution costs 6 days to assign and raises to 14 attributes, completely meeting the requirements.
+
+As for intelligence, it is the most important attribute for a mage, and Zhao Xu spends 10 days to assign and raises to 16 attributes.
+
+It may not be high in today's mage community, but it is still acceptable for the vast majority of mages.
+
+In terms of perception, Zhao Xu hesitates for a moment and spends 6 days to assign and raises to 14 attributes.
+
+On the other hand, charm, a seemingly insignificant attribute, costs 5 days to assign and raises to 13 attributes.
+
+Finally, Zhao Xu's attributes are as follows:
+
+Strength: 8 (-1)
+Agility: 13 (+1)
+Constitution: 14 (+2)
+Intelligence: 16 (+3)
+Perception: 14 (+2)
+Charm: 13 (+1)
+
+Looking at his final attribute panel, especially the adjustment values in parentheses, Zhao Xu falls silent for a moment before confirming.
+
+Although charm will indeed affect people's physical appearance and temperament as well as others' perception of them after crossing over.
+
+However, for Zhao Xu, who prioritizes survival, these are not decisive factors.
+
+After crossing over, even someone with a professional level of adventuring like Arthur will have a hard time, let alone ordinary people.
+
+Zhao Xu will not hesitate to sacrifice his appearance for survival, not to mention his physical appearance.
+Here is the translation of the text:
+
+It was because he had vaguely heard a great god's saying that he decided to transfer the allocation points allocated to perception to charm, as charm has a different, extraordinary significance for priests. As someone who had never known the meaning of this significance before, he ultimately chose to believe in that saying when allocating attributes.
+
+"Dong, dong, dong..."
+The originally quiet creation hall was filled with the sound of a bell, resonating throughout the area.
+
+"Please players ascend the ladder, prepare to make a career choice."
