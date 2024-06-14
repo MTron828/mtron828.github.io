@@ -17,7 +17,8 @@ for novel in novel_data["novels"]:
     print("Novel: "+novel["title"])
     for chap in glob.glob("./novels/"+id+"/chapters/*.txt"):
         print("Chapter: "+chap.split(".txt")[0].split("/")[-1].split("\\")[-1])
-        data["chapters"].append(chap.split(".txt")[0].split("/")[-1].split("\\")[-1])
+        data["chapters"].append(int(chap.split(".txt")[0].split("/")[-1].split("\\")[-1]))
+    data["chapters"].sort()
     json_str = json.dumps(data)
     with open("./novels/"+id+"/data.json", "w") as f:
         f.write(json_str)
