@@ -113,7 +113,7 @@
         var num = searchParams.get("num");
         var nov = searchParams.get("nov");
         var content = await fetch('./novels/'+nov+'/chapters/'+num+'.txt');
-        document.getElementById("content").innerText = content;
+        document.getElementById("content").innerText = content.text;
       }
       window.onload = () => {
         var num = searchParams.get("num");
