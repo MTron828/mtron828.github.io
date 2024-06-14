@@ -1,0 +1,45 @@
+
+<html>
+  <head>
+    <title>Web novel reader</title>
+    <style>
+      .chapter {
+        display:inline;
+      }
+      a {
+        color: inherit;
+        text-decoration: inherit;
+      }
+    </style>
+    <script>
+      async function loadNovels() {
+        var novel_request = await fetch('./../novel_data/{{id}}.json');
+        var novel_data = await novel_request.json();
+        console.log(novel_data);
+        for (let i of novel_data.chapters) {
+          var html_content = "<a><div id = '"+i+"' class = 'chapter'><h5>Chapter "+i+"</h5></div></a>";
+          document.getElementById("chapter_list").innerHTML += html_content;
+        }
+      }
+      window.onload = () => {
+        loadNovels().then(()=>{
+          console.log("Done loading novel");
+          var divs = document.getElementsByClassName("chapter");
+          for (var div of divs) {
+            var chapter_num = div.id;
+            div.parentNode.href = './../chapter/{{ id }}/'+chapter_num;
+            /*div.addEventListener("click", (event)=>{
+              console.log(novel_id);
+              window.location.replace('./novel/'+novel_id);
+            });*/
+          }
+        });
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Web novel reader</h1>
+    <h3>Chapters:</h3>
+    <div id = "chapter_list"></div>
+  </body>
+</html>
