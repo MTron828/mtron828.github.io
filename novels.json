@@ -1,0 +1,14 @@
+{
+  "novels":[
+    {
+      "title":"Kenja no Mago",
+      "chapters":311,
+      "id":"0001"
+    },
+    {
+      "title":"The 100th Regression of the Max-Level Player",
+      "chapters":355,
+      "id":"0002"
+    }
+  ]
+}
