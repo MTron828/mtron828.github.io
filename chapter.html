@@ -149,8 +149,9 @@
         document.getElementById("content").style.fontSize = sessionStorage["font_size"] + "px";
       }
       function changeChapter() {
+        var nov = searchParams.get("nov");
         var chapter = document.getElementById("chapter_dropdown").value;
-        window.location.href = './'+chapter;
+        window.location.href = './chapter.html?num='+chapter+'&nov='+nov;
       }
     </script>
   </head>
