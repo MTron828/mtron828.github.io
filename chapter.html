@@ -1,0 +1,164 @@
+
+
+
+<html>
+  <head>
+    <title>Web novel reader</title>
+    <style>
+      .text {
+        margin: 1px 5px;
+        padding: 1px 1px;
+        text-align: justify;
+        white-space: pre-wrap;
+      }
+      h1{
+        text-align:center;
+      }
+      a {
+        text-decoration: inherit; /* no underline */
+        margin: auto;
+        display:inline-block;
+      }
+      #buttons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      @media only screen and (orientation: landscape) { 
+        @media only screen and (max-width: 800px) {
+          #content {
+            width:95%;
+            margin:auto;
+          }
+        }
+        @media only screen and (min-width: 800px) {
+          #content {
+            width:800px;
+            margin:auto;
+          }
+        }
+      }
+      @media only screen and (orientation: vertical) { 
+        #content {
+          width:100%;
+        }
+      }
+
+      .btn {
+        display: inline-block;
+        padding: 20px 20px;
+        font-size: 30px;
+        font: color black;     text-align:center;
+        width:150px;
+        background-color: lightblue;
+        border-radius: 30px;
+      }
+
+      button {
+        display: inline-block;
+        padding: 0px 0px;
+        font-size: 30px;
+        font: color black;     
+        text-align:center;
+        width:70px;
+        height:70px;
+        background-color: lightblue;
+        border-radius: 20px;
+        justify-content: center;
+        align-items: center;
+      }
+
+      img {
+        object-fit: cover;
+        width: 60px;
+        height: 60px;
+        display:inline-block;
+      }
+
+      #button_container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: fit-content;
+        margin-left:auto;
+      }
+
+      select {
+        display: inline block;
+        width: 140px;
+        height: 65px;
+        border-width:0px;
+        border-radius: 20px;
+        text-align:center;
+        font-size:18px;
+      }
+      
+    </style>
+    <script>
+      async function loadChapters() {
+        var novel_request = await fetch('./../../novel_data/{{novel}}.json');
+        var novel_data = await novel_request.json();
+        console.log(novel_data);
+        for (let i of novel_data.chapters) {
+          var html_content = "<option value = '"+i+"'>Chapter "+i+"</option>";
+          if (i == {{ num }}) {
+            html_content = "<option value = '"+i+"' selected>Chapter "+i+"</option>";
+          }
+          document.getElementById("chapter_dropdown").innerHTML += html_content;
+        }
+      }
+      window.onload = () => {
+        var num = {{ num }};
+        if (num <= 1){
+          document.getElementById("prev").display = "hidden";
+        }
+        document.getElementById("prev").href = './'+(num-1);
+        document.getElementById("next").href = './'+(num+1);
+        setFontSize();
+        loadChapters();
+      };
+      function increaseFontSize() {
+        if (sessionStorage["font_size"] == null) {
+          sessionStorage["font_size"] = 16;
+        }
+        sessionStorage["font_size"] = parseInt(sessionStorage["font_size"]) + 1;
+        setFontSize();
+      }
+      function decreaseFontSize() {
+        if (sessionStorage["font_size"] == null) {
+          sessionStorage["font_size"] = 16;
+        }
+        sessionStorage["font_size"] = parseInt(sessionStorage["font_size"]) - 1;
+        setFontSize();
+      }
+      function setFontSize() {
+        if (sessionStorage["font_size"] == null) {
+          sessionStorage["font_size"] = 16;
+        }
+        document.getElementById("content").style.fontSize = sessionStorage["font_size"] + "px";
+      }
+      function changeChapter() {
+        var chapter = document.getElementById("chapter_dropdown").value;
+        window.location.href = './'+chapter;
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Chapter {{ num }}</h1>
+    <div id = "button_container">
+      <button onclick=increaseFontSize()><img src="/images/plus.svg"/></button>
+      <button onclick=decreaseFontSize()><img src="/images/minus.png"/></button> 
+      <select id = "chapter_dropdown" onchange=changeChapter() >
+      </select>
+    </div>
+    <div id = "content" class = "text">
+      {{ txt }}
+    </div>
+    <div id = "buttons">
+      <a id = "prev"><div class = "btn">Previous</div></a>
+      <a id = "next"><div class = "btn">Next</div></a>
+    </div>
+    <br><br><br>
+  </body>
+</html>
+
