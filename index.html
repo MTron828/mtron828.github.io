@@ -16,7 +16,7 @@
     </style>
     <script>
       async function loadNovels() {
-        var novel_request = await fetch('./novels.json');
+        var novel_request = await fetch('./novels/novels.json');
         var novel_data = await novel_request.json();
         console.log(novel_data);
         for (var novel of novel_data.novels) {
@@ -32,7 +32,7 @@
           var divs = document.getElementsByClassName("novel");
           for (var div of divs) {
             var novel_id = div.id;
-            div.parentNode.href = './novel/'+novel_id;
+            div.parentNode.href = './novel.html?nov='+novel_id;
             /*div.addEventListener("click", (event)=>{
               console.log(novel_id);
               window.location.replace('./novel/'+novel_id);

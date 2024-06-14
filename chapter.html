@@ -95,27 +95,38 @@
       
     </style>
     <script>
+      const searchParams = new URLSearchParams(window.location.search);
       async function loadChapters() {
-        var novel_request = await fetch('./../../novel_data/{{novel}}.json');
+        var nov = searchParams.get("nov");
+        var novel_request = await fetch('./novels/'+nov+'/data.json');
         var novel_data = await novel_request.json();
         console.log(novel_data);
         for (let i of novel_data.chapters) {
           var html_content = "<option value = '"+i+"'>Chapter "+i+"</option>";
-          if (i == {{ num }}) {
+          if (i == searchParams.get("num")) {
             html_content = "<option value = '"+i+"' selected>Chapter "+i+"</option>";
           }
           document.getElementById("chapter_dropdown").innerHTML += html_content;
         }
       }
+      async function loadContent() {
+        var num = searchParams.get("num");
+        var nov = searchParams.get("nov");
+        var content = await fetch('./novels/'+nov+'/chapters/'+num+'.txt');
+        document.getElementById("content").innerText = content;
+      }
       window.onload = () => {
-        var num = {{ num }};
-        if (num <= 1){
+        var num = searchParams.get("num");
+        var nov = searchParams.get("nov");
+        document.getElementById("title").innerText = "Chapter " + num;
+        if (num <= 0){
           document.getElementById("prev").display = "hidden";
         }
-        document.getElementById("prev").href = './'+(num-1);
-        document.getElementById("next").href = './'+(num+1);
+        document.getElementById("prev").href = './chapter.html?num='+(num-1)+'&nov='+nov;
+        document.getElementById("next").href = './chapter.html?num='+(num+1)+'&nov='+nov;
         setFontSize();
         loadChapters();
+        loadContent();
       };
       function increaseFontSize() {
         if (sessionStorage["font_size"] == null) {
@@ -144,7 +155,7 @@
     </script>
   </head>
   <body>
-    <h1>Chapter {{ num }}</h1>
+    <h1 id = "title">Chapter searchParams.get("num")</h1>
     <div id = "button_container">
       <button onclick=increaseFontSize()><img src="/images/plus.svg"/></button>
       <button onclick=decreaseFontSize()><img src="/images/minus.png"/></button> 

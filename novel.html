@@ -12,8 +12,10 @@
       }
     </style>
     <script>
+      const searchParams = new URLSearchParams(window.location.search);
       async function loadNovels() {
-        var novel_request = await fetch('./../novel_data/{{id}}.json');
+        var nov = searchParams.get("nov");
+        var novel_request = await fetch('./novels/'+nov+'/data.json');
         var novel_data = await novel_request.json();
         console.log(novel_data);
         for (let i of novel_data.chapters) {
@@ -23,15 +25,12 @@
       }
       window.onload = () => {
         loadNovels().then(()=>{
+          var nov = searchParams.get("nov");
           console.log("Done loading novel");
           var divs = document.getElementsByClassName("chapter");
           for (var div of divs) {
             var chapter_num = div.id;
-            div.parentNode.href = './../chapter/{{ id }}/'+chapter_num;
-            /*div.addEventListener("click", (event)=>{
-              console.log(novel_id);
-              window.location.replace('./novel/'+novel_id);
-            });*/
+            div.parentNode.href = './chapter.html?num='+chapter_num+'&nov='+nov;
           }
         });
       }
