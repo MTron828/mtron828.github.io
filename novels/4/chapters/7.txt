@@ -1,0 +1,303 @@
+[Kang Junhyeok [Solo]: Isn't the shopkeeper too stubborn? Why does he always make a comment when selling something?] [Lee Taeyeon [Solo]: You too? If he's a shopkeeper, why doesn't he just sell stuff like one? I really want to stab him with a knife, but I can't because I'll be the one hurt. Ah, I'm so annoyed.]
+
+“Why are you doing this for me?”
+
+Taesan had to ask. Lee Taeyeon had no reason to lie to him, so she must have been really poorly treated by the dwarf. But the current behavior of the dwarf was hard to believe.
+
+“What’s the matter if I’m kind? Can’t I care a little?”
+
+The dwarf was grumbling while organizing the items one by one.
+
+“Think of it as a simple investment.”
+
+“Investment?”
+
+“Quiet. Now, choose. These are the items you can afford right now.”
+
+He laid out nearly ten items on the floor. Taesan was still suspicious of the dwarf, but since he didn’t answer, he decided to go shopping.
+
+Most of the items were potions. Taesan picked up a red potion.
+
+[Health Recovery Potion] [Recovers 50% of health] [200G]
+
+Health recovery potions were very hard to obtain anywhere but at the shop. They were also limited in number in the shop, so they were essential items to buy.
+
+However, Taesan put the health recovery potion back down.
+
+‘I won’t need it in the early stages anyway.’
+
+There were also many other potions.
+
+A fury potion that temporarily increased attack power.
+
+A quickness potion that temporarily increased all speeds.
+
+A teleportation potion that allowed you to move to the location where it was thrown.
+
+All of them were useful. They were indispensable potions for clearing the labyrinth.
+
+But they were not the things to use right now.
+
+He had heard that potions were very hard to obtain in Solo Mode. If he had to use them at these lower levels, that would be a disaster, so there was no need to buy them now.
+
+In other words, it was a kind of trap.
+
+There were more important items that he needed to buy right now. Taesan picked up a small bow.
+
+[Cheap Bow] [Accuracy + 20%] [It seems quite difficult to use.] [200G] [Cheap Arrow] [Attack Power + 1] [The arrow is properly shaped.] [10G]
+
+One ranged weapon was absolutely necessary. If he had a bow, he could avoid a lot of headaches. With his current gold, he could buy one bow and four arrows.
+
+“How much for the leather?”
+
+“For this quality, around 70 gold?”
+
+“Then I’ll sell it.”
+
+He immediately purchases seven more arrows for seventy gold. The dwarf was watching him with a satisfied face. Taesan was baffled by his excessively friendly face.
+
+‘What’s going on?’
+
+“You know that health doesn’t really recover in the labyrinth?”
+
+“I know.”
+
+In the labyrinth, the natural recovery rate was horrendously slow. Even if a whole day passed, only 10 health points would recover. Mana recovery was somewhat better, but it was still slow.
+
+There were three solutions. One was to drink a recovery potion. You could also kill monsters and absorb their health to recover.
+
+Or you could use the Fountain of Life, something that existed in the labyrinth.
+
+“There’s a Fountain of Life on the first floor. If you don’t leave the first floor, you can use it an infinite amount of times. Let me tell you its location. There’s a crazy old man there, but you should have no problem.”
+
+It’s different. Definitely.
+
+The dwarf also guided Lee Taeyeon to the Fountain of Life.
+
+But she had to listen to all sorts of contemptuous words. He told her to starve and die there, but now he was being incredibly kind.
+
+“Let me map the location for you.”
+
+He was even marking it on the map.
+
+“Do you know how to use a Map Ball?”
+
+“I know.”
+
+Taesan checked the map. His path was marked on the black map, and a bright light was placed in the darkness.
+
+That was the location of the Fountain of Life. Taesan looked at the dwarf quietly.
+
+“What? Do you need something else?”
+
+“…No, nothing.”
+
+Taesan then said his farewell.
+
+“I’ll be going now.”
+
+“Yeah. See you later.”
+
+Lee Taeyeon had no reason to lie to him. The dwarf must have treated her quite poorly.
+
+But he did not treat him the same way.
+
+‘Is it because of the method?’
+
+Lee Taeyeon ran away without catching the Big Rat. But he caught the Big Rat and returned.
+
+That difference might have changed the dwarf’s attitude.
+
+He couldn’t be certain for now, so he headed toward the Fountain of Life. He put the Rusty Sword into his inventory and tightly gripped the Tower Shield with both hands.
+
+As he was walking through the labyrinth, a Big Rat appeared.
+
+[A Big Rat has appeared.]
+
+Squeaking, the Big Rat eyed him. Taesan quietly raised his shield.
+
+His agility had increased by 2. Such a small numerical difference was significant in these early stages.
+
+For example, he could now react to the Big Rat’s movements. Not perfectly, but he was no longer just observing muscle movements to block attacks; he could predict its movements and reduce the damage.
+
+Taesan deliberately lifted his shield, exposing his ankle as if setting a trap.
+
+The Big Rat lacked the intelligence to determine whether it was a trap.
+
+The Big Rat charged.
+
+[You received 4 damage.]
+
+The moment he saw the damage window appear, Taesan slammed down his shield.
+
+The shield pressed its body down as the Big Rat tried to quickly dodge. A high-pitched scream erupted from below.
+
+“Squeeeeek!”
+
+[Your attack connected.] [The Big Rat is incapacitated. It takes more damage.] [You inflicted 4 damage to the Big Rat.] [You inflicted 4 damage to the Big Rat.] [You have defeated the Big Rat.] [You received a large amount of experience.] [Your health has recovered by 5.] [You acquired 33 gold.] [You acquired the Big Rat's skin.] [You acquired the Big Rat's meat.]
+
+He happily looked at the system window blocking his vision.
+
+‘The shield really is the best.’
+
+A sword could only hit a narrow area and required precision. There was a very high chance of missing.
+
+However, with the Tower Shield, he just needed to slam it down. After the Big Rat’s attack, it only tried to retreat backward, so there was no chance of failure.
+
+By meeting the minimum stat requirement and obtaining enough money to purchase the Tower Shield, this strategy was the most perfect.
+
+Furthermore, beginners were most afraid of taking damage, so the Tower Shield, with its high defense, was a significant advantage. After he posted this strategy on the community forum, beginners began carrying around the Tower Shield.
+
+Recalling that time, Taesan checked the system window.
+
+[Your level has increased.] [You are in the best condition.] [As a reward for leveling up, your health has increased by 10.] [As a reward for leveling up, your agility has permanently increased by 2.] [Your Skill Enhancement has been activated. Your agility has permanently increased by 1.] [You have acquired the basic skill [Shield Technique].] [Your proficiency in Perception has increased by 1%.]
+
+“Status Window.”
+
+[Kang Taesan] [Level: 2] [HP: 110/100] [Mana: 10/10] [Strength: 10] [Intelligence: 10] [Agility: 15] [Attack + 1] [Defense + 7] [The target is in a state of hunger.]
+
+Taesan smiled in satisfaction after checking his stats.
+
+He was still on the 1st floor, yet his agility was already at 15. Looking solely at agility, it was similar to when he had reached the 10th floor.
+
+The difference between 10 and 15 may not seem like much, but even a small stat difference was very significant in this place.
+
+If those with a strength stat of 10 and 15 were to fight, the one with 15 could take down five of the other.
+
+That’s why players in Hard Mode could survive in this crazy world. Those possessing thousands of stat points had the strength to even cut down a mountain.
+
+And now, Taesan could also have that power. He was very excited. Taesan sprinted through the maze.
+
+After that, he encountered more Big Rats, but he was able to handle all of them without a problem.
+
+The stat difference was now too large. Without even receiving a single point of damage, he reached the vicinity of the Fountain of Life.
+
+“Hmm…”
+
+Taesan opened the map. A bright light was present just in front of his location. It meant that the Life Spring was just past this one corridor.
+
+Taesan stepped into the corridor.
+
+‘It’s longer than I thought.’
+
+The door on the other side looked far away. It would take at least five minutes of walking to get there. He thought it was unnecessarily long and kept walking.
+
+When he was about halfway there, a system window appeared.
+
+[A Big Rat has appeared.]
+
+Taesan raised his shield without any panic. Encountering monsters in the corridor was a frequent occurrence. However, he frowned at the system windows that appeared after.
+
+[A Big Rat has appeared.] [A Big Rat has appeared.]
+
+“Squeak. Squeak.”
+
+“Squeak.”
+
+Their cries overlapped and echoed. Three Big Rats were approaching Taesan.
+
+One was in front of Taesan. The other two were behind him.
+
+[You are in a difficult situation.] [Confusion judgment in progress...] [Fear judgment in progress...]
+
+There were three Big Rats in a corridor where there was barely any space to move. They had also encircled him. Even for Taesan, this could be dangerous, but his expression did not change.
+
+[...]
+
+He did not waver. He had seen countless people die due to sudden unexpected variables, despite having the capability to overcome them. Taesan had no intention of becoming one of them.
+
+[All judgments passed!] [You have withstood through excellent mental strength!] [All stats have increased.] [You have obtained an unwavering mind.] [Proficiency of Composure has increased by 1%.]
+
+His leveling efficiency had given him full readiness. The width of the corridor was roughly the size of an apartment staircase. There was room to turn his body.
+
+[Proficiency of Field of Vision has increased by 3%.]
+
+Due to the successful judgment check, all of his stats had increased by 1. With his current stats, he would win a battle of reaction speeds against a Big Rat.
+
+The odds were overwhelmingly in his favor.
+
+[Proficiency of Insight has increased by 1%.]
+
+He raised his shield. This time, he does not leave his ankles exposed. He quietly stared at the Big Rat in front of him.
+
+“Squeak. Squeak.”
+
+“Squeaaak.”
+
+The Big Rats happily squealed. They had encircled a big human with their brethren. They could tell they had the upper hand, even with their weak intelligence.
+
+And that thought led them to let their guard down.
+
+Whooosh!
+
+Taesan took the first step. He rushed toward the Big Rat in front of him.
+
+“Squeak!”
+
+The Big Rat in front of him was startled and ran away. Startled by the sudden charge, it ran a good distance away. It would take some time to approach again, as a substantial distance was created.
+
+“Squeak, squeak!”
+
+The Big Rats that were quietly sneering behind him were surprised and charged. At that moment, Taesan quickly turned his body as if he had anticipated this.
+
+“Squeak!”
+
+The Big Rats abruptly stopped at the sight of the shield pointing at them. But the body that had been accelerating couldn’t stop so easily. Taesan’s shield crushed a Big Rat.
+
+“Squeaaak!”
+
+[You have triumphed over the Big Rat.] [Your level has increased.]
+
+Taesan dismissed the system window that popped up. He quickly rushed towards the remaining Big Rat.
+
+“Squeak, squeak!”
+
+But this time, it didn’t succumb so easily. It quickly put some distance between them.
+
+The Big Rat that had escaped earlier then charged back belatedly. Thinking that Taesan’s turned back was an opportunity, it bared its teeth.
+
+Swish.
+
+And then Taesan stopped chasing the Big Rat and turned his body. The charging Big Rat tried to halt in surprise, but it was too late.
+
+Thud.
+
+“Squeaaak!”
+
+[You have triumphed over the Big Rat.]
+
+He had taken down two Big Rats in the blink of an eye. It was a one-sided victory. Taesan pointed his shield toward the remaining Big Rat.
+
+“Come on.”
+
+“Squeak, squeak.”
+
+[The Big Rat is overwhelmed by you.] [The Big Rat's thinking slows.]
+
+Fueled by rage, the Big Rat charged. In this situation, even its quick speed was quite easy to predict. Taesan waited for the right time and struck with his shield.DiiScôver 𝒏𝒆w stori𝒆s on no/𝒗/e()/lbin(.)com
+
+Thud.
+
+“Squeaaak!”
+
+[You have attacked.] [The Big Rat is in a weakened state. Damage will be significantly increased.] [8 damage to the Big Rat.] [9 damage to the Big Rat.] [You have triumphed over the Big Rat.]
+
+‘Nice.’
+
+Taesan grinned widely. He had already faced several Big Rats. He knew all about their habits - if he charged, they would run far away. If he turned his back, without any hesitation, they would aim for his heel. Fundamentally they only had a hit-and-run attack pattern.
+
+The value of information in this place was not to be underestimated. Taesan reopened the window he had previously closed.
+
+[Your level has increased.] [You are in top condition.] [As a reward for leveling up, your Health has increased by 10.] [As a reward for leveling up, your Agility permanently increases by 3.] [Your permanent Agility increase has been activated. Agility permanently increased by 3.] [You emerged victorious without faltering in a desperate situation. Your Intelligence increased by 1.] [Cold Judgment skill proficiency has increased by 5%.] [Field of Vision skill proficiency has increased by 3%.] [Discernment skill proficiency has increased by 2%.]
+
+“Leveling up nicely.”
+
+His Agility had already surpassed 20. Considering that even increasing skill proficiency by 1% was quite a struggle, this was unbelievably rapid progress.
+
+In addition, there were also many gold coins, leathers, and bones. He could make a good amount of money if he sold these at the shop.
+
+Taesan walked down the passage with a smile. This time, no monsters appeared.
+
+A square room. Inside there was a small spring without a single fish living in it.
+
+[You have discovered the Fountain of Life for the first time.]

@@ -1,11 +1,14 @@
 import time
+import random
 import requests
 import json
 import undetected_chromedriver as uc
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
-
+import os
+from fill_chapter_data import fill_chapter_data
+from progress_bar import printProgressBar
 
 driver = uc.Chrome()
 
@@ -13,11 +16,11 @@ data = {}
 
 def loadData():
     global data
-    with open("novelbin_data.json", "r") as f:
+    with open("novelbin_data.json", "r", encoding='utf-8') as f:
         data = json.loads(f.read())
 
 def storeData():
-    with open("novelbin_data.json", "w") as f:
+    with open("novelbin_data.json", "w", encoding='utf-8') as f:
         f.write(json.dumps(data))
 
 def jump(url):
@@ -124,36 +127,106 @@ def scrapNovelTags():
         storeData()
 
 def getLinks(link):
-    #TESTING - delete later
-    link = "https://novelbin.com/b/nine-star-hegemon-body-arts"
+    print("Getting links...")
     jump(link)
     getById(driver, "tab-chapters-title").click()
+    print("Waiting to load...")
     while len(getElsByClass(driver, "loading")) != 0:
         time.sleep(0.1)
     panel = getByClass(driver, "panel-body")
     res = []
+    print("Scrapping links...")
     for li in getElsByTag(panel, "li"):
         a = getByTag(li, "a")
         res.append(a.get_attribute("href"))
+    print("Done, returing {} links.".format(len(res)))
     return res
 
 def getChapter(link):
-    html = requests.get(link).text
-    soup = BeautifulSoup(html)
-    txt = soup.find(id="chr-content").get_text()
+    """user_agents = ['Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36']
+    headers = {'User-Agent': random.choice(user_agents)} 
+    html = requests.get(link, headers=headers).text
+    soup = BeautifulSoup(html, features="html.parser")
+    txt = soup.find(id="chr-content").get_text()"""
+    jump(link)
+    txt = getById(driver, "chr-content").get_attribute("innerText")
     return txt
 
+def getNovelId(name, chap_cnt):
+    print("Getting novel id...")
+    print("Opening json...")
+    novels = {}
+    with open("./novels/novels.json", "r", encoding='utf-8') as f:
+        novels = json.loads(f.read())
+    print("Searching novel array...")
+    max_id = 0
+    for novel in novels["novels"]:
+        if novel["title"] == name:
+            print("Found, novel id: {}.".format(novel["id"]))
+            return novel["id"]
+        else:
+            max_id = max(max_id, novel["id"])
+    print("Not found, creating new entry into novels:")
+    print("  title:    {}".format(name))
+    print("  chapters: {}".format(chap_cnt))
+    print("  id:       {}".format(max_id+1))
+    novels["novels"].append({
+        "title":name,
+        "chapters":chap_cnt,
+        "id":max_id+1
+    })
+    print("Saving modified novel data...")
+    with open("./novels/novels.json", "w", encoding='utf-8') as f:
+        f.write(json.dumps(novels))
+    print("Done, returning id: {}".format(max_id+1))
+    return max_id+1
+
+def updateNovelFolder(name, id):
+    if not os.path.exists("./novels/{}".format(id)):
+        os.mkdir("./novels/{}".format(id))
+    if not os.path.isfile("./novels/{}/data.json".format(id)):
+        with open("./novels/{}/data.json".format(id), "w", encoding='utf-8') as f:
+            f.write(json.dumps({
+                "title":name,
+                "chapters":[]
+            }))
+    if not os.path.exists("./novels/{}/chapters".format(id)):
+        os.mkdir("./novels/{}/chapters".format(id))
+
 def downloadNovel(name):
+    print("--------------------------------------------------------")
+    print("Downloading all chapters from novel {}.".format(name))
+    print("Getting link from data")
     novel_link = data[name]["link"]
+    print("Calling getLinks")
     links = getLinks(novel_link)
+    print("Calling getNovelId")
+    id = getNovelId(name, len(links))
+    print("Calling updateNovelFolder")
+    updateNovelFolder(name, id)
+    chapter_directory = "./novels/{}/chapters/".format(id)
+    print("Downloading chapters of {}:".format(name))
+    for i in range(len(links)):
+        if not os.path.exists(chapter_directory+"{}.txt".format(i)):
+            txt = getChapter(links[i])
+            with open(chapter_directory+"{}.txt".format(i), "w", encoding='utf-8') as f:
+                f.write(txt)
+        printProgressBar(i+1, len(links), prefix = "Progress: ", length = 50)
+    print("Updating chapter data...")
+    fill_chapter_data()
+    print("Done.")
+
+def downloadNovels():
+    for name in data:
+        downloadNovel(name)
 
 loadData()
 print("Data loaded...")
 print("Data size: {}".format(len(data)))
-downloadNovel("Ascension Through Skills")
 #scrapNovelTags()
 #scrapNovelDescriptions()
 #scrapNovels()
+downloadNovels()
 storeData()
 driver.close()
 
