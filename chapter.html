@@ -110,13 +110,13 @@
         }
       }
       async function loadContent() {
-        var num = parseInt(searchParams.get("num"));
+        var num = searchParams.get("num");
         var nov = searchParams.get("nov");
         var content = await fetch('./novels/'+nov+'/chapters/'+num+'.txt');
         document.getElementById("content").innerText = await content.text();
       }
       window.onload = () => {
-        var num = parseInt(searchParams.get("num"));
+        var num = searchParams.get("num");
         var nov = searchParams.get("nov");
         document.getElementById("title").innerText = "Chapter " + num;
         if (num <= 0){
