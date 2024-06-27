@@ -119,6 +119,9 @@
             html_content = "<option value = '"+i+"' selected>Chapter "+i+"</option>";
           }
           document.getElementById("chapter_dropdown").innerHTML += html_content;
+
+          document.getElementById("prev").href = './chapter.html?num='+prev_chap+'&nov='+nov;
+          document.getElementById("next").href = './chapter.html?num='+next_chap+'&nov='+nov;
         }
       }
       async function loadContent() {
@@ -134,8 +137,6 @@
         if (num <= 0){
           document.getElementById("prev").display = "hidden";
         }
-        document.getElementById("prev").href = './chapter.html?num='+prev_chap+'&nov='+nov;
-        document.getElementById("next").href = './chapter.html?num='+next_chap+'&nov='+nov;
         setFontSize();
         loadChapters();
         loadContent();
