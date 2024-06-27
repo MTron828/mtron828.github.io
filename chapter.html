@@ -96,12 +96,24 @@
     </style>
     <script>
       const searchParams = new URLSearchParams(window.location.search);
+      var prev_chap = "";
+      var next_chap = "";
       async function loadChapters() {
         var nov = searchParams.get("nov");
         var novel_request = await fetch('./novels/'+nov+'/data.json');
         var novel_data = await novel_request.json();
         console.log(novel_data);
+        let prv = "";
+        let nxt = false;
         for (let i of novel_data.chapters) {
+          if (i == searchParams.get("num")) {
+            prev_chap = prv;
+            nxt = true;
+          } else if (nxt) {
+            nxt = false;
+            next_chap = i;
+          }
+          prv = i;
           var html_content = "<option value = '"+i+"'>Chapter "+i+"</option>";
           if (i == searchParams.get("num")) {
             html_content = "<option value = '"+i+"' selected>Chapter "+i+"</option>";
@@ -122,8 +134,8 @@
         if (num <= 0){
           document.getElementById("prev").display = "hidden";
         }
-        document.getElementById("prev").href = './chapter.html?num='+(num-1)+'&nov='+nov;
-        document.getElementById("next").href = './chapter.html?num='+(num+1)+'&nov='+nov;
+        document.getElementById("prev").href = './chapter.html?num='+prev_chap+'&nov='+nov;
+        document.getElementById("next").href = './chapter.html?num='+next_chap+'&nov='+nov;
         setFontSize();
         loadChapters();
         loadContent();
