@@ -10,7 +10,8 @@ import os
 from fill_chapter_data import fill_chapter_data
 from progress_bar import printProgressBar
 
-driver = uc.Chrome()
+
+driver = uc.Chrome(executable_path = "./chromedriver.exe")
 
 data = {}
 

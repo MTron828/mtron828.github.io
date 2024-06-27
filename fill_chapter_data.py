@@ -18,12 +18,22 @@ def fill_chapter_data():
         data = json.loads(json_str)
         data["chapters"] = []
         #print("Novel: "+novel["title"])
+        chaps = []
         for chap in glob.glob("./novels/"+str(id)+"/chapters/*.txt"):
             #print("Chapter: "+chap.split(".txt")[0].split("/")[-1].split("\\")[-1])
-            data["chapters"].append(int(chap.split(".txt")[0].split("/")[-1].split("\\")[-1]))
-        data["chapters"].sort()
+            chaps.append(int(chap.split(".txt")[0].split("/")[-1].split("\\")[-1]))
+        chaps.sort()
+        ai_chaps = []
+        for chap in glob.glob("./novels/"+str(id)+"/chapters/ai/*.txt"):
+            ai_chaps.append(int(chap.split(".txt")[0].split("/")[-1].split("\\")[-1]))
+        ai_chaps.sort()
+        for chap in chaps:
+            data["chapters"].append(str(chap))
+        for chap in ai_chaps:
+            data["chapters"].append("ai/"+str(chap))
         json_str = json.dumps(data)
         with open("./novels/"+str(id)+"/data.json", "w") as f:
             f.write(json_str)
         printProgressBar(cnt, len(novel_data["novels"]), prefix="Updating chapter data: ", length = 30)
 
+fill_chapter_data()

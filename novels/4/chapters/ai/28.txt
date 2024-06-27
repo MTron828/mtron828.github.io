@@ -1,0 +1,319 @@
+
+Episode 29
+
+29. 3rd Floor, Boss Room (3)
+
+Taesan was also surprised. Insight. It reveals important information with a very low probability. As described, the probability was indeed very low, but it activated on every floor.
+
+"Not bad."
+
+This is pure luck, not skill, experience, or sense. The right answer is to accept it with joy.
+
+Taesan entered the secret room.
+
+Inside, the traps were the same as on the 2nd floor. Knowing exactly how to bypass them all, he took out a dagger from his inventory without entering.
+
+A humble thief's tool. Reward for confirming secrets on the 2nd floor. Effect: Attempt to disarm traps.
+
+Taesan brought the dagger to the first arrow trap.
+
+[Disarm trap attempt in progress.....] [Judgment failed! Trap is triggered.]
+
+Ping!
+
+An arrow flew. Taesan simply moved his hand to catch it.
+
+Failure was expected. Unless it's a high-level item, the failure rate for disarming traps is quite high. Taesan approached the second trap, which was a floor collapsing trap.
+
+[Disarm trap attempt in progress.....] [Judgment successful! Trap disarmed.]
+And onto the next trap. Similarly, he attempted to disarm the trap.
+
+The attempt failed. The wall started to collapse. He punched and broke through it.
+
+He tried the next trap in the same manner.
+
+After nearly ten attempts like that, he was able to gain a skill.
+
+"You did it."
+
+[Special activation skill: Trap Disarm] [Mana cost: 1] [Proficiency: 1%] [Attempting to disarm the trap. It seems you're not quite ignoring it yet.]
+
+It was a dismal explanation. With only 1% proficiency, it was natural.
+
+Taesan inserted the dagger and began to use the skill to disarm the traps. Most attempts failed, but disarming wasn't the original goal.
+
+[Trap Disarm proficiency increased by 1%.]
+
+Proficiency rises with use of the skill. It was important to raise proficiency early in useless places like this so that when it was really important, he could use it without issue. The ghost seemed to not understand.
+
+"Do you really have to go that far? Whether you have Trap Disarm or not, it's not a big deal of a skill. Just pass through with your body, right?"
+
+"That could work too."
+The ghost's words were not wrong.
+
+Even as they ascended floors, the types of traps didn't change much.
+
+Even with weak stats, it was possible to handle them without problems now. If they could just get past the tenth floor, they could push through with their body.
+
+But Taesan had no intention of stopping.
+
+"I don't know about this place."
+
+What he cleared was the Easy Mode. This place was the Alone Mode. Even Taeyeon's information had many gaps. She was essentially speedrunning the clear.
+
+"The more traps, the better. I don't know how they'll be used. I'll take everything. That's my motto."
+
+Taesan had overcome crises like this before. The ghost's appearance momentarily faltered.
+
+"…Yeah. That's right. I died because I couldn't keep that."
+
+With a bitter voice echoing, he disarmed the final trap.
+
+[Judgment Successful! Trap Disarmed.] [Trap Disarm proficiency increased by 1%.]
+
+Overall proficiency increased by a total of 7%. He planned to do this every time he found a secret room from now on. Taesan opened the box.
+[Crushed Ring] [Strength +3] [A ring squeezed by someone with strong strength. It appears misshapen and distorted, but seems to contain power.]
+
+A ring with Strength +3. This isn't just any accessory found on the 3rd floor. Taesan, though slightly dulled by acquiring too much already, recognized it as good equipment.
+
+Now, the secret rooms were done.
+
+All that remained was one boss.
+
+Taesan stood up.
+
+* * *
+
+Having already navigated the labyrinth, he knew the location and didn't wander. It didn't take long for Taesan to arrive at the red door.
+
+"This is the goblin's floor. You have an idea what might appear, right?"
+
+"I know."
+
+He had heard it from Taeyeon too. Taesan opened the door.
+
+*Creak.*
+
+Inside, there was a goblin. About the size of another goblin's belly. Its entire body adorned in ornate decorations like an ancient sorcerer.
+
+In its hand was a staff. The goblin straightened up and pointed the staff at Taesan.
+
+"Kaak!"
+
+[The Goblin Chieftain has appeared.]
+
+A goblin ruling over goblins. In Easy Mode, it was a high-level monster that required delving deep.
+
+"Karruk."
+The chieftain sends a furious glare towards Taesan. Whether it's because he killed its fellow goblins or just the creature's natural instinct, it's hard to tell, but it was clearly a deep-seated anger.
+
+"Kaak!"
+
+The staff trembles. Taesan charges forward. Unlike other monsters, the chieftain has no reason to watch from the sidelines.
+
+[The Goblin Chieftain has cast a curse.]
+
+A curse. A type of magic that can slow down bodily movements or decay parts of the body.
+
+Unlike mental magic, it cannot be resisted with mental fortitude alone, as it attacks the body itself.
+
+Taesan puts strength into his legs and activates a skill.
+
+[You have activated Evade. The next attack is evaded.]
+
+The curse misses. Checking his status screen, Taesan sees all his stats and health decreased by 10%. If not for the Evade, it would have been 30%.
+
+Approaching closely, Taesan swings his sword down.
+
+"Kaak!"
+
+The chieftain blocks with its staff. A dull impact reverberates through the sword.
+
+Despite the chieftain's strength, it doesn't overwhelm Taesan. The chieftain pushes Taesan back and raises its staff again.
+
+[The Goblin Chieftain has unleashed a shockwave.]
+
+Shockwave. A magical attack that blasts opponents away with a shockwave.
+
+Glancing at the system window, Taesan immediately draws out a randomly enchanted staff of mental domination.
+[You have triggered Confusion.] [Assessment in progress……]
+
+"Kak, kaak?"
+
+The chieftain momentarily falters. As its mind falters, the magical power imbued in the staff dissipates. The chieftain shakes its head roughly.
+
+[Judgment failed!]
+
+Although the Confusion attempt failed, the activation of the Wave was canceled. Taesan swung his sword. The chieftain's arm was struck.
+
+"Kaak!"
+
+[Goblin Chieftain takes 21 damage.]
+
+He remembers the chieftain's health to be 200.
+
+He would only need to attack ten times more. Taesan charged forward. The damage window continued to appear.
+
+"Ka, kaak!"
+
+The chieftain tried to push him away vigorously with its staff. However, Taesan persisted with skills like evasion and counterattacks. Finally, the chieftain, unable to hold out, began to use magic.
+
+[Goblin Chieftain has initiated an explosion.]
+
+The system window appears.
+
+Taesan immediately grabs and breaks the chieftain's arm.
+
+The spell that was being completed disappears.
+
+The chieftain uses magic through its staff. But magic is not instantaneous. It requires a certain amount of preparation.
+If only one can interfere and break that process, it's practically impossible to use magic.
+
+Normally, it would push through based on high stats to manifest magic. Once the distance is widened, it's difficult to stick to consecutive curses and magic.
+
+It's quite tricky, but to Taesan, who knows the strategy, it wasn't very difficult.
+
+"Kaaak!"
+
+The staff swings wildly. It's pushed away with a shield. Taesan thrusts his sword.
+
+[Goblin Chieftain takes 22 damage.] [You have defeated the Goblin Chieftain.]
+
+"Kaaah...."
+
+The chieftain disappears. The ghostly reaction seemed to indicate anticipated disappointment.
+
+[If it's the chieftain, your opponent isn't much. Originally, he's a pretty tough guy, you know.]
+
+Taesan checked the system window blocking his view.
+[Your level has increased.] [As a reward for leveling up, your health increases by 20.] [As a permanent reward for leveling up, your agility increases by 2, strength by 3, and mana by 3.] [You have triumphed over a formidable enemy alone. As a result, your intelligence permanently increases by 2, and mana by 4.] [Your keen senses have activated. Agility permanently increases by 1, intelligence by 3, and mana by 3.] [You have defeated the boss on the 3rd floor. Basic reward: [Beginner Health Boost Potion] obtained.] [You have acquired the Worn Wooden Staff.]
+
+The system window remained lengthy. Above all, the increase in mana was conspicuous.
+
+It had increased by a staggering 10 points. Now, mana exceeded 50. With such growth, reaching the stats of the past didn't seem so far off.
+
+Taesan used the Beginner Health Boost Potion. Health increases by 50.
+
+Now, health was at 295. Just 5 more to reach 300.
+
+Taesan inspected the staff.
+
+[Worn Wooden Staff] [Magic +3] [Faint magical power is contained within. Seems usable by a talented individual.]
+
+"What's this again?"
+
+It wasn't mana or intelligence but magic. Taesan had never seen such stats before. Even in Easy Mode, similar equipment hadn't been found. The ghost marveled.
+
+"A magical staff? Your luck seems really good. Did you obtain that?"
+
+"Do you know about it?"
+
+"Literally a staff that can wield magic. Feels like it broadens the versatility from your randomly controlled mind-dominating staff? You can enhance the power of the magic you've learned through the staff."
+
+"...Learning magic?"
+"In a world where monsters use magic, is that really surprising?" The ghost spoke solemnly. Having lived in a world with monsters and magic, it was nothing unusual to him.
+
+But Taesan was a human who had lived in modern times. The fact that he could use magic with his own power, not borrowed through a staff, was astonishing to him.
+
+"I never heard of such information before."
+
+Another reason he was surprised was because using magic was something completely new to him.
+
+In Easy, Normal, or Hard mode, magic could only be used by borrowing the power of a staff. Since Itaeyeon had never used magic in his own power, he believed that it was impossible to learn magic as a concept of skills.
+
+But when he suddenly heard that he could learn magic, he couldn't help but feel confused. Taesan organized his complicated head.
+
+"If I learn, how do I learn it?"
+
+"You recognize and realize the concept of magic yourself, or you learn from someone else. It's one of two."
+
+The former is impossible. So it's the latter.
+
+'Is it an NPC?'
+
+Surely, in the depths of the maze, there must be an NPC who uses magic.
+"I'll put it in the inventory for now since I can't use it right away."
+
+"Now, it's the 4th floor. Let's hurry down."
+
+"Before that, I need to inform Laki Latas."
+
+"I've defeated all the monsters on the 2nd and 3rd floors. Since I completed his quest, I had to go down to the 2nd floor. Taesan, who was about to leave the room, stopped."
+
+"Why?"
+
+"Just a moment."
+
+Taesan raised the system window to check. Level up reward. Nemesis reward. Spiritual rise reward. 3rd floor clear reward.
+
+There's no reward for understanding secrets.
+
+"Is there something else hidden here?"
+
+It's a reward for understanding all the hidden elements of that floor.
+
+I thought I'd found everything on this floor, but it hasn't been cleared yet. The ghost seemed to realize it late, too, smiling slightly.
+
+"Ah, really? Why isn't it there? Is there something else?"
+
+"How were you?"
+
+"I couldn't even find a secret room and just passed by. Are there two secret rooms?"
+
+There was originally only one per floor. However, this is an all-modes game. There was a possibility.
+
+"Should I search all over again?"
+Here's the translation of the text into English:
+
+"This time, it really seemed impossible. The breakthrough was luckily revealed through insight, meaning I had to check the entire floor. Instead of that, it would have been much quicker to just go down and become stronger.
+
+It was when Taesan was about to give up.
+
+The boss room was decorated in various ways. It was natural to think that, with the boss's name being Goblin Chief, it could be ignored.
+
+But now, I realized that the decorations were forming some kind of pattern.
+
+It was as if it was a path meant for someone.
+
+Taesan took a step. He approached the wall in the direction indicated by the decorations and placed his hand on it.
+
+Click.
+
+["Huh?"]
+
+The sound of a mechanism operating echoed. The wall smoothly slid open to the side.
+
+A moving wall in the trap.
+
+It had been disguised as an ordinary wall.
+
+["...What? There's a place like this here?"]
+
+Even the ghost looked quite surprised, as if seeing this place for the first time. Naturally, it was a place Itaeyeon hadn't found either.
+
+Taesan stepped inside.
+
+Countless decorations.
+
+Much more splendid and tidy than the boss room. It clearly showed how the goblins here thought of those who were in this place.
+
+A massive throne came into view.
+
+There, a single goblin sat like a king.
+
+["...Lord?"]
+Here's the translation of the text into English:
+
+With a voice filled with astonishment, the goblin opened its eyes. It stared at Taesan intently. Its mouth opened.
+
+"Human."
+
+A low murmur.
+
+Then, it reached out its hand to the side.
+
+Thunk.
+
+A greatsword appeared in its hand.
+
+"You are the Goblin Lord. I have encountered Haeg-Hwa."
