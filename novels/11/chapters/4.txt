@@ -1,0 +1,270 @@
+Majestic Desert Splendor
+0.00 / 0.00
+
+After Ves finished freaking out, he read the mission description again and understood he missed out an important detail. The mission demanded that he sell virtual mechs ’of his own creation’. What the phrasing implied that he wasn’t stuck with trying to peddle the ungainly Fantasia 2R-E to a group of idiots.
+
+As long as Ves spent the month designing a couple of decent variants and promoting them on the local net, he might reach the sales figure.
+
+A hundred sales a month might sound like peanuts to established virtual mech designers, but meeting it remained a hefty challenge to a nobody like Ves.
+
+"I can’t physically build all hundred models by hand." Ves concluded as he formulated a basic plan. "At this tier, pilots don’t demand too much from their models. It’ll be fine if I outsource the manufacturing to the game."
+
+The game made it easy to automate production of any design as long as the owner had fabricated it in the virtual workshop by hand at least once.
+
+It came with hefty downsides if Ves decided to enlist this service. The cost of production doubled and the quality of the finished mechs took a substantial hit. These were deliberately set by the BSBH Corporation in order to avoid the mech market being dominated by a small number of professional producers.
+
+The biggest challenge was to design a custom mech that was still worth buying even after its quality took a dive when put into mass production. It had to offer at least one substantial advantage over the competition.
+
+He’d never be able to accomplish such a design without help. Luckily, the bright credits and the Design Points he earned from the previous tutorial missions could help him out a lot, if he spent them wisely.
+
+Despite the tight 1 month deadline, Ves felt highly motivated. The reward for completion mentioned that he could receive a production license for a real mech. Licensing costs for outdated mechs were modest, but nobody bought antiques except for special purposes. The licenses for current mechs started with prices ranging from tens of millions of bright credits, not an easy amount for Ves to pull out of nowhere. The System taking care of the license reduced his projected spending by at least 80%.
+
+Only the randomness of the reward kept him a little vigilant. He hadn’t received much luck with the System so far, so he felt there might be a possibility he might receive a useless model.
+
+Any design over a hundred years old were too obsolete to be of use in the battlefield. While some mech designers have found a niche by refurbishing classic models with modern materials and technology, it had never been a large enough market.
+
+Perhaps the System’s randomness might also screw him in the other direction. Ves could receive a model that was too high-end, one that cost billions in materials alone to produce. His small-scale second-hand 3D printer might not even have the capabilities to process all of the exotic materials involved with the production of the parts. If he was particularly unlucky, some big players might even wonder why his small mech boutique possessed such an expensive production license in the first place.
+
+Ves shook his head and got down to Earth. "First, lets spend the Design Points. They’re not much, but enough for a total beginner like me."
+
+He had received a windfall of a 1000 DP for completing the tutorial mission, but he couldn’t rely on earning the same amount going forward. He only earned 1 DP for completing a successful design, and another point for selling it. At this pace, he’d face a considerable drought of DP in the near future.
+
+"The points aren’t doing anything sitting in my Status. I might as well spend them as I desperately need to improve my basic capabilities."
+
+His recent experience in designing a mech variant and putting it on the market helped put his skill level in perspective. Ves had a better what his good and bad points are in comparison to other inexperienced mech designers who sold their work in Iron Spirit.
+
+[Status]
+
+Name: Ves Larkinson
+
+Profession: Novice Mech Designer
+
+Specializations: None
+
+Design Points: 1012
+
+Attributes
+
+Strength: 0.6
+
+Dexterity: 0.7
+
+Endurance: 0.6
+
+Intelligence: 1.2
+
+Creativity: 0.3
+
+Concentration: 1
+
+Neural Aptitude: F
+
+Skills
+
+[Assembly]: Novice
+
+[Business]: Apprentice
+
+[Computer Science]: Incompetent
+
+[Mathematics]: Incompetent
+
+[Mechanics]: Apprentice
+
+[Metallurgy]: Apprentice
+
+[Physics]: Novice
+
+Evaluation: A loser on the right track.
+
+His status hardly changed since the last time he viewed it. Only his concentration had improved by 0.1. While he could work hard to raise his attributes and skills on his own, the System could do the same.
+
+While he could have bought more equipment or pets from the System, what he really needed right now was to improve his own capabilities. Ves had enough sense not to rely too much on external help.
+
+After browsing the Shop and the Skill Tree for a couple of hours, Ves formed a spending strategy based on the prices set by the System.
+
+Attributes formed the basics. Not all of them were useful, but intelligence, concentration and creativity had a pretty big influence in Ves’ future limits.
+
+His creativity especially appeared deficient, something he could confirm first hand as any casual drawing he sketched would draw looks of disgust.
+
+Ves wanted to raise his three core attributes substantially, but if he did that, he might not get an immediate benefit for the amount he spent. They were just too big and vague.
+
+Developing his skill tree provided immediate results. He could improve practical sub-skills like increasing his proficiency when working with the 3d printer or become more proficient in balancing a mech’s weight distribution. A lot of the fancier and impressive skills cost millions of DP to unlock and required the acquisition of other skills first. Those goodies were still too far away for the moment. Ves spotted plenty of low-hanging fruit that could improve the value of his designs for a modest amount of DP.
+
+Frankly, Ves was spoiled for choice. But if he wanted to accomplish a hundred sales within a month and earn enough credits to meet his interest payment, he needed to ignore the extras and focus on the money makers. Spreading himself out in too many areas of interest would dilute his gains, resulting in a marginal increase in the value of his designs. An improvement of 1% in every category was not as eye catching as a jump in 10% in a single criteria.
+
+"I need to think deep about this. My choices here will affect the rest of my career."
+
+Many star designers gained their fame from standing out in a particular aspect. Raul ’The Armorer’ Mendoza was a genius in the area of developing new armor alloys and employing them in ingenious ways in his mech designs. The mechs his company manufactured supposedly boasted the highest survival rate.
+
+Another star that Ves admired was Jonathan Rasmussen, known as ’Apollo’. He only developed one line of mechs in his entire life, Sunburst series. Each of the Sunbursts incorporated fire attacks in its arsenal, and they grew increasingly refined with the development of every new generation. In fifty years, Apollo had introduced the Sunburst as a quirky but niche mech into the pinnacle of heat-based mechs.
+
+Naturally, there were also stars who went in the opposite direction. ’The Polymath’ Claire Gramza possessed one of the most formidable intellects in human space. Any field she put her mind into, from physics to computer science, she reached the top. She was also notoriously prolific in pushing out designs, many of them incorporating the latest advances in whatever field of science she was studying at the moment.
+
+Ves knew he wasn’t a genius who could spread his attention everywhere, so he had no intentions of imitating the Polymath. He’d be better off imitating the previous two examples and pick one or two things he could do better.
+
+He always did better in the mechanical side of things. His skill proficiency in his status screen reflected this. Ves browsed the skill tree and picked a couple of interesting choices.
+
+[3D Printer Proficiency I]: 200 DP
+
+[Jury Rigging I]: 150 DP
+
+[Lightweight Armor Optimization I]: 200 DP
+
+[Speed Tuning I]: 200 DP
+
+His choices reflected a bias on light mechs. This was a practical decision reflecting his economic circumstances. Outside of games, heavier mechs were mainly employed in professional and military outfits, groups who generally did business with the major arms manufacturers and disdained taking orders from small, one-man mech boutiques.
+
+Lighter mechs required less raw materials to build up and the low-end production licenses were dirt cheap. The public market consisted mostly of less formal outfits who try to save costs everywhere, so they widely use light and medium weighing mechs whenever they could get away with it. Ves had little to worry about running out of buyers if he went with this route.
+
+He spent much of his remaining points on boosting his Creativity attribute. It was a deliberate choice on his part. Though increasing intelligence might provide him with a better mind, it cost a lot more points to improve since it was already relatively high. His creativity on the other hand was severely dysfunctional. Designing mechs was not just a science, but also an art.
+
+As Ves bought 0.7 points worth of Creativity, he immediately felt the benefits as the amount of ideas bouncing around his mind had skyrocketed. He looked around and saw the world in a slightly different way. Everything looked beautiful, and each object had its charm. Lucky looked especially appealing, having been modeled after a cat but retaining its mechanical origins quite clearly. Ves felt as if he had been seeing the world in black and white for so long and only now did he start to see color.
+
+"This major boost of creativity is really making a difference. I haven’t realized that it has always held back my ambitions."
+
+[Status]
+
+Name: Ves Larkinson
+
+Profession: Novice Mech Designer
+
+Specializations: None
+
+Design Points: 12
+
+Attributes
+
+Strength: 0.6
+
+Dexterity: 0.7
+
+Endurance: 0.6
+
+Intelligence: 1.2
+
+Creativity: 1
+
+Concentration: 1
+
+Neural Aptitude: F
+
+Skills
+
+[Assembly]: Novice - [3D Printer Proficiency I]
+
+[Business]: Apprentice
+
+[Computer Science]: Incompetent
+
+[Mathematics]: Incompetent
+
+[Mechanics]: Apprentice - [Jury Rigging I] [Speed Tuning I]
+
+[Metallurgy]: Apprentice
+
+[Physics]: Novice - [Lightweight Armor Optimization I]
+
+Evaluation: Someone who likes ’em skinny.
+
+The results of his spending put Ves in a good mood. He was itching to engage the designer and let his creativity loose once he finished selecting a couple of virtual licenses in the game. Just before he visited the in-game market, Ves first looked up his 2R-E variant and chose to let Iron Spirit take care of the manufacturing. The minimum price rose to 3200 gold, which was still not too pricey but not the best deal available on the market. This time he left the price alone, as he wasn’t intending to earn a profit this time. He just wanted to reach a hundred sales as soon as possible.
+
+"Not that anyone is stupid enough to throw 3200 gold on an ugly mech like the 2R-E. Now that I’ve raised several of my skills, I can see the flaws from its crude design. I’m really embarrassed I actually built such an abomination."
+
+Still, a sale was a sale, so Ves hadn’t deleted the design from his account.
+
+Ves spent the next few hours scouring the components section of the market. His new sub-skills helped weed out the awful parts from his selection. His improved creativity allowed him to consider unconventional combinations. Though difficult to implement, he might be able to forcibly cobble them together with his jury rigging skill. He eventually settled for purchasing the virtual licenses of a couple of good quality 1-star components.
+
+[Astoria Experimental Flight System]: 25,000 bright credits
+
+[Fayette ECM Mk. I]: 7,000 bright credits
+
+[Red Eye Assisted Aim Module]: 9,999 bright credits
+
+[MTTR Removable Battery Pack]: 3,000 bright credits
+
+[Harconix Light DMR Version 3]: 19,999 bright credits
+
+[Festive Cloud Generator]: 5,000 bright credits
+
+[Mirin-21 Ultralight Armor Plating]: 10,000 bright credits
+
+Almost 80,000 bright credits exited his spending account as Ves finalized his purchases. Parting with half of his newly gained credits hurt, but he consoled himself for making the necessary investments. The component licenses he chose performed exceptionally in the 1-Star range.
+
+Their high prices also ensured that not many of Ves’ competitors incorporated the components in their own designs. The 1-Star mechs ultimately served as training wheels for new potentates, so it wasn’t worth investing too much when one had access to much better mechs in a few years.
+
+Overall, the parts Ves had licensed all revolved around enhancing flight. The early mechs such as the Fantasia lacked flight options due to the immaturity of flight technology back those ages. The Astoria flight system had been invented a hundred years after the introduction of the Fantasia, and featured lackluster power, short flight capacity and an over-sized wing profile that was easy to damage.
+
+But it did the job. It had been one of the first successful modules to allow for mechs to fly in standard planetary conditions, thus introducing a new dimension in mech battles.
+
+"Let’s get to work. I have to integrate them into a single coordinated platform."
+
+Ves opened the System’s designer and loaded the stock Fantasia 2R model in his virtual workspace. He loaded the components he just bought one by one and spent hours integrating them properly into the Fantasia 2R’s frame. It was never as simple as bolting them on. Each placement needed careful judgment and tedious work.
+
+The Astoria wings came first, its huge skeletal ’wingbones’ flaring impressively outwards, making the Fantasia appear like a fallen angel. Its combination of thrusters and antigravity systems meant the wings had been designed to maximize its surface area. This also made it easy to damage, as any casual hit could reduce the component’s performance and ground the mech.
+
+To combat this vulnerability, Ves choose to carefully bulk the Astoria’s limbs with the Mirin-21 Ultralight armor plating. This was a delicate and error-prone job, one that could easily reduce the flight system’s efficiency by a drastic amount. He ultimately had to spend an entire day trying to get it right.
+
+He placed the Fayette electronic countermeasure or ECM over the left eye, making sure to align it so the short antenna extended from the Fantasia’s ear. The ECM insured that automated and aim-assisted systems had a harder time tracking the mech. It worked particularly well against guided missiles, as long as they were from the same tier.
+
+The Red Eye Assisted Aim Module had been placed over the other eye. Its red, gleaming lens giving the Fantasia a menacing look. The Red Eye performed well against mechs without ECM, helping pilots keep their aim onto enemy mechs once they acquired their targets. Aim assistance was practically essential in all low-tier flying mechs. Pilots simply couldn’t aim steadily enough if they jerked around in the air.
+
+All of these systems drained energy, especially the flight system. The modules came with their own energy storage, but as 1-Star parts they lacked endurance compared to modern alternatives. This required Ves to place rectangular MTTR battery packs anywhere he could fit on the Fantasia without overburdening the frame. The only place he could fit more battery packs was at the front upper torso. He papered over the vulnerable packs with additional ultralight armor plating.
+
+He placed most of them around the waist, making the chassis look like it wore an overfilled tool belt. The great thing about the MTTR was that the packs were disposable, allowing pilots to eject them once they were drained of energy. He covered them up with Mirin-21 armor plates to make them less prone to damage.
+
+Finally he added in an unconventional but potentially effective system, the Festive Cloud Generator. A specialty of Cloudy Curtain, Ves had visited many mech shows on his home planet that used the colorful cloud generator to create patterns in the sky. Though its bright colors hardly helped with stealth, Ves thought that it might help obscure the Fantasia and its vulnerable wings if placed on the rear just underneath the Astoria.
+
+Once he had integrated all of these components, he set the Fantasia’s default weaponry to be a bog-standard combat knife and the new Harconix Light DMR. Not quite a sniper rifle nor a standard assault rifle, the Harconix nevertheless offered precision at a generous firing rate. The rifle’s hefty power requirements necessitated a power coupling with the mech, meaning that if the Fantasia dropped the DMR, it couldn’t be fired anymore.
+
+Once Ves brought all of the newly bought parts together, the new variant looked nothing like its stock model. Though it gained a generous amount of mass, the new Fantasia also appeared like a predator, capable of striking down any interlopers from afar.
+
+He enjoyed putting this variant together. He had been able to flex his improved creativity and newly acquired sub-skills to do a much better job of integrating the parts than if he was still a fresh graduate.
+
+"This is hardly a Fantasia anymore, so let’s call you a Fantasia 2R Seraphim."
+
+Before Ves submitted the design for approval, he painted over the entire frame in Cloudy Curtain’s national colors. It made the Fantasia appear as if it was born in the skies.
+
+[Design Evaluation: Fantasia 2R Seraphim.]
+
+Variant name: Fantasia 2R Seraphim
+
+Base model: Fantasia 2R
+
+Original Manufacturer: Kezia Armaments
+
+Weight Classification: Light
+
+Recommended Role: Aerial Marksman
+
+Armor: D
+
+Carrying Capacity: F
+
+Aesthetics: A
+
+Endurance: D-
+
+Energy Efficiency: D-
+
+Flexibility: C+
+
+Firepower: C
+
+Integrity: F+
+
+Mobility: A-
+
+Spotting: B
+
+X-Factor: F
+
+Deviance: 44%
+
+Performance improvement: 17% L𝒂aTest nov𝒆ls on (n)𝒐velbi/𝒏(.)co𝒎
+
+Overall evaluation: The Fantasia 2R Seraphim features a superior aerial performance at a horrible cost. Its performance in close-ranged combat has been sacrificed for powerful long-ranged firepower. The mech is able to outperform its opponents as long as it has energy to spare, which isn’t much. The Seraphim further shines out due to its attractive appeal.
+
+[You have received 50 Design Points for completing an original design with a performance improvement of over 10%.]
+
+Ves whooped into the air with a cheer. He actually did it! He completed a custom design that outperformed the base model significantly. Sure, he overspent way too much to achieve such a boost, but it nonetheless propelled his Seraphim in the top tier of custom Fantasias.

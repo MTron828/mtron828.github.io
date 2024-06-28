@@ -1,0 +1,229 @@
+Playvolume00:00/00:00
+Truvid
+fullScreen
+
+As a reputable mech simulator, Iron Spirit only featured real mechs. The base designs sold in its virtual store could be bought in real life with almost the same performance. With its vast and extensive database, the game worked hard to group them together in a simple manner.
+
+The BSBH Corporation eventually decided to adopt a 1-star to 5-star rating. They later added even higher ratings with the introduction of even higher performing models.
+
+The game’s database included many older designs, but its library of current designs was incomplete. Many top-notch mech designs were highly guarded secrets. These so-called next generation models represented the cutting edge of mech design. L𝒂aTest nov𝒆ls on (n)𝒐velbi/𝒏(.)co𝒎
+
+The Age of Mechs spanned four-hundred years, so the game offered plenty of models even without the latest designs.
+
+Iron Spirit’s lowest 1-star mech models used to plow the battlefield alongside legends such as Mack Liu, the mech pioneer. Compared to contemporary models, these ancient relics fell short in many ways. They were slow, clumsy, inefficient and sometimes looked ridiculous. When Ves took a peek at these clown-like models, he wondered if their designers had a few screws loose.
+
+System’s designer mode already loaded one such design. The Fantasia 2R incorporated a radical humanoid design scheme, and was the second iteration of a flawed first edition. The Fantasia massed very little due to its slim and narrow design, allowing it to run faster and longer than the stockier models available at the time. These gains were made at the cost of other parameters such as armor and firepower.
+
+For whatever reason, the designers shaped the Fantasia 2R in the form of a woman. Its concave torso, sloping breastplate, thin limbs and narrow head evoked the appearance of a supermodel in dressed in skimpy armor.
+
+The older 1R model already looked like a feminist’s worst nightmare. The manufacturers doubled down by attaching hair-like sensor threads on top of the 2R’s head. The sensors at least served a practical purpose, since they turned the model into a decent scouting mech.
+
+Since the Fantasia was such a light and thin mech, Ves had very little leeway in modifying its parts without destroying its good points.
+
+In contrast, Ves could easily tinker with heavier models, shaving ten percent of its mass without sacrificing too much of its defense. After applying modern techniques to the ancient design, he could easily raise the performance of his variant by two or three percent compared to its base model.
+
+"This Fantasia the System provided me is really too skinny."
+
+Since he couldn’t go for the route of subtraction, he needed to find another way to add value. Ves could easily improve the design by adding additional components. Unfortunately, the System only provided the license of a single component, giving him very little options.
+
+The virtual component license the System gifted him came with an overly lengthy name. The creators called it the Gemini twin rear ejection energy booster.
+
+The complicated component did three things at once. First, it allowed a cockpit to eject from the rear in case of emergencies. It provided a fairly large amount of energy storage, allowing mechs to last longer without resupply. Lastly, it provided a large amount of straight-line acceleration with its boosters, though such boosts consumed a lot of energy.
+
+Normally, such attributes matched perfectly with the Fantasia 2R’s focus on speed. There was only one major snag. The Gemini’s dimensions were drastically over sized.
+
+The Gemini had been designed to accommodate the first heavy mech in existence, the Megacrab. This mech was a behemoth that required eight legs and twin cockpits for two pilots.
+
+Trying to affix the Gemini system to the Fantasia 2R was like trying to put a stuffed backpack onto a clueless toddler.
+
+"If only I had more assets. I can’t do much without more licenses. I’m not good enough to modify the base design extensively."
+
+Ves tinkered with the System’s designer functionality. Surprisingly, he found it remarkably easy to implement his modifications. The design tools responded to his thoughts alone, cutting back errors resulting from unsteady hands or faulty calculations. The designer’s assistance to his work was like adding wings to a tiger.
+
+Despite his enjoyment, Ves found it hard to wrap up a finished design in a single day. He reluctantly shut down the Mech Designer System and took care of his needs. He gobbled up a cheap nutrient pack and cuddled his new pet to sleep in an unfamiliar bed.
+
+Ves wrestled with the problem for three more days. He spent most of the time trying various ways to combine the hefty Gemini add-on to the thin and wispy Fantasia frame. From a total of seventeen attempts, he outright failed fifteen times, leaving only a couple of barely functional designs.
+
+When he projected the design in all of its glory, he felt like finding a hole to burrow into. It looked ridiculous!
+
+Ves had attached the Gemini to the rear of the frame. It sounded simple, but the Fantasia’s various restrictions made it a tricky problem. The profile of the 2R’s lower torso was so thin that the Gemini simply couldn’t be attached to that location. He already tried to do so several times.
+
+From his many attempts, Ves concluded he could only attach the Gemini onto the upper back or the lower waist. Since placing such a heavy add-on too high would severely unbalance the Fantasia to the point of tipping it over, Ves could only add the Gemini onto the Fantasia’s waist.
+
+The combination looked obscene. His cheeks turned red as he beheld the model’s mock-up. Its only saving grace was that the custom design had improved on some points. Though the mech became heavier and less agile with the addition of such an uneven weight, its straight-line traveling speed rocketed upwards.
+
+The pilot also enjoyed a massive increase in safety with the improved cockpit ejection system. It could eject both cockpits at once, one real and one decoy. This provided a marginal benefit in Iron Spirit, as a successful ejection lowered the cost of repairing a defeated mech in the game.
+
+"Alright System, does my first design make the cut?"
+
+[Scanning design. Simulating performance. Completed. Do you wish to name the design?]
+
+"Let’s go with Fantasia 2R-E. My variant’s rear end is the only thing that’s improved."
+
+[Design Evaluation: Fantasia 2R-E.]
+
+Variant name: Fantasia 2R-E
+
+Base model: Fantasia 2R
+
+Original Manufacturer: Kezia Armaments
+
+Weight Classification: Medium-Light
+
+Recommended Role: Sprinter/Harasser
+
+Armor: F
+
+Carrying Capacity: F
+
+Aesthetics: A-
+
+Endurance: C+
+
+Energy Efficiency: C
+
+Flexibility: D-
+
+Firepower: D+
+
+Integrity: E
+
+Mobility: B+
+
+Spotting: B
+
+X-Factor: None
+
+Deviance: 23%
+
+Performance improvement: 4.5%
+
+Overall evaluation: Horribly overweight for its intended purpose, the Fantasia 2R-E is nevertheless redeemed by its amplified power and forward potential. Its improvement in open terrain and long-distance missions does not outweigh its anemic flexibility and horrible performance in close-quarters combat. The model’s unique appearance may appeal to a small sub-set of pilots.
+
+[You have received 1 Design Point for completing an original design.]
+
+[Congratulations on completing the first part of the tutorial. The rewards have been sent to your inventory. You have also received a bonus for exceeding the requirements of the mission.]
+
+Ves sighed in relief. He had worked hard to merge two entirely different things together. While he succeeded on a fluke, he still managed to pull through.
+
+Now that he finished this ungodly mission, he could move on and forget this abomination of a mech. He wiped away the projection of the design and opened his inventory. Two gift-wrapped packages awaited his eager fingers. Ves quickly tapped both icons, letting them unbox together.
+
+[You have received a virtual license for the following mech: Kezia Armaments Fantasia 2R.]
+
+[You have received a virtual license for the following component: Maxodron Gemini twin rear ejection energy booster.]
+
+"Really?! You’re giving me the same stuff I’ve been torturing myself for three entire days?"
+
+[You have received a new mission. Please read the details in the Missions page.]
+
+[Mission]
+
+Mission: Tutorial Part 2 - Your First Sale
+
+Difficulty: F-Rank
+
+Prerequisites: Completed Tutorial Part 1
+
+Description
+
+You cannot call yourself a proper mech designer if your design isn’t used. Please endeavor to sell a mech based on your first design.
+
+Reward: 1000 Design Points
+
+"You’re setting me up, System! Even if I can find someone stupid enough to buy the 2R-E, I still don’t have the credits to purchase the raw materials. Iron Spirit doesn’t let designers fabricate a virtual mech for free even if I possess the necessary licences."
+
+The game taxed mech designers by charging them for the raw materials.
+
+[You have forgotten your bonus. Please look at the currency tab in your inventory.]
+
+A red packet awaited Ves when he switched his view. He tapped it, causing the the virtual envelope to unfold into imaginary bills. It eventually landed into a neat stack with the total amount displayed on top.
+
+[Congratulations for receiving 100,000 bright credits.]
+
+Ves widened his eyes. Exceeding the expectations of the system provided considerable rewards. With the sudden windfall, he had a lot more options to earn money now. While a hundred thousand credits might not let him purchase a license for another mech, he could still purchase plenty of cheap components such as armor plating, cooling systems, batteries and even weapons.
+
+Before Ves put his newly gained credits to good use, he first made sure to complete the mission.
+
+He uploaded the saved design of the 2R-E onto Iron Spirit’s virtual workshop. He then spent about ten-thousand credits collecting the raw materials required to fabricate the design. While he could spend twice as much to let the game fabricate the design automatically, Ves wanted to save every single credit so he went for manual assembly.
+
+Ves spent two days fumbling around the virtual workshop’s 3D printer to print all the required parts. He then took three more days fumbling around the assembler trying to put all the diverse and heavy parts together. Somehow, Ves felt a little closer to his first creation as he finally clicked the final part together. He even took some time and credits to paint the chassis purple and red.
+
+"You’re not the prettiest girl, but you’re my first." Ves shook his head. "That sounds wrong."
+
+While trying to erase the unpleasant image of mech-human romance from his mind, he quickly put the finished model onto the market.
+
+He didn’t choose to sell the virtual mech for real credits, though the option was available. Practically all low tier mechs in Iron Spirit were sold in gold, the in-game currency that mech pilots earned when they won matches against their opponents. The market set a minimum price of 1600 gold, reflecting the cost of raw materials if Ves had paid for them in gold.
+
+"I’m not stupid enough to sell it at cost. Let’s add a hundred gold. My labor’s has got to be worth something."
+
+Just after he finished with the lot, he also checked his user profile. He chose to hide his real name for now. It wouldn’t do for his future career in mech design to be tainted with this awful design. He casually set his nickname as Chasing Clouds, as a reference to his home planet and and his aspirations.
+
+With that chore done, Ves threw the mission to the back of his mind and went to Mech section of the market.
+
+He browsed all of the available variants of the Fantasia 2R. If he wanted to design a competitive but affordable Fantasia model, he needed to do his research on what market already offered. He could then tailor a list of requirements and scour the market for fitting components.
+
+Ves sunk into his work. He fell into the enthusiasm starting his career in mech design. Even if designing virtual mechs for a game didn’t bestow him with the qualifications of a real mech designer, he could still polish his basic skills. Once he accomplished a handful of sales, he could purchase better licenses and design better variants.
+
+"Still, I can’t play with virtual mechs forever. There’s no way I can earn enough credits to meet my next interest payment."
+
+He needed to earn enough credits to fund the operations of his real mech business. If the expensive fixed cost of purchasing licences was left out, then he could easily make the deadline. Reality wasn’t so kind.
+
+"Virtual licences only apply to in-game designs. There’s no way I can afford a legitimate production licence with my current assets."
+
+Actual production licences came with prohibitive costs and restrictions. For the privilege of using another company’s intellectual property, Ves had to pay a high price. He also had to give the original owners a cut of his earnings.
+
+Along with the cost of raw materials, profits grew thin.
+
+"It’s impossible to make it without the help of the System. I hope the 2R-E is going to sell out quickly, because I have a feeling I’m going to need all the Design Points I can get."
+
+Lucky sauntered over and meowed at Ves.
+
+"What’s up buddy?"
+
+The cat tugged at Ves’ pants and tried to lead him outside. Curious, Ves followed the mischievous cat outside and spotted something sparkling behind the weeds. Ves came close and picked it up, revealing a green gemstone. Upon realizing its significance, he hurriedly dropped it down.
+
+"Even if you’re a machine, I’m still not touching your crap." Ves told the cunning cat.
+
+He scanned the gem according to the System’s instructions.
+
+[Emerald of Minor Armor]
+
+Increases the durability of a mech’s armor plates by 0.5% when installed.
+
+For a gem of its size, its effects were heaven-defying. Despite the paltry boost, the gem cost nothing to make. If he kept feeding Lucky the same cheap ore, he could end up with a pile of emeralds. If they all had the same effect, they might accomplish something great if combined.
+
+"System, if I have two of the same gems, do their benefits stack?"
+
+[Of course not. A mech can only benefit from a limited amount of gems. Gemstones that provide the same effects do not provide more benefits when put into the same mech.]
+
+Every time the System hinted at something amazing, it turned out to be limited.
+
+"I need to feed my cat something better." Ves muttered and resolved to order something better and have it delivered to his workshop tomorrow.
+
+Unknown to Ves, on the other side of Cloudy Curtain, a certain twelve-year old potentate sat down in a fully-enclosed simulator. He had just finished school and rented a sim pod from the local gaming center downtown.
+
+The boy avidly played Iron Spirit ever since he recently finished his basic lessons on mech piloting. It hardly turned him into a qualified pilot, but it allowed him to pass the minimum requirements to finally play the game.
+
+Calling himself Shifter66 in the game, he enjoyed piloting faster mechs. There was something about running in a multi-ton machine that charmed him. Playing the heavier mechs bored him to tears. He preferred to be quick on his feet, pestering enemies and dodging shots rather than slugging it out in a head-on collision.
+
+As a twelve-year old, he couldn’t lay any claim to greatness, but he thought he possessed a solid foundation in piloting the simplest of 1-star mechs. He played a couple of hundred matches, and while he lost most of them, he still managed to put together a few thousand gold for a new purchase.
+
+When Shifter66 visited the game’s online market, he somehow wavered his attention to a line of feminine models. A young man like him already started to pay some attention to the girls in his school. He channeled that energy to the graceful models on display. He picked a random direction to explore further, coming upon the old but still fairly popular Fantasia series.
+
+While the boy only halfheartedly inspected the models, he made an abrupt stop once the random selection displayed a highly unusual variant. The boy held out his palm, freezing the image and allowing him to look at the model in greater detail.
+
+[Fantasia 2R-E]
+
+Tier: 1-star
+
+Base Model: Fantasia 2R
+
+Purchase price: 1700 gold
+
+"She looks perfect!"
+
+A more demanding mech pilot might comment that the mech looked horribly out of balance. Any sane pilot might also complain that the added weight of the variant’s rear addition served to slow it down to the point of making the mech useless in any short-distance engagements.
+
+Shifter66 on the other hand kept his eyes glued to the rear end. "I gotta have it!"
+
+And so Ves’ first mech got sold.
