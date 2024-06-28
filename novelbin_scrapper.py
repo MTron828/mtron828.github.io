@@ -221,13 +221,22 @@ def downloadNovels():
     for name in data:
         downloadNovel(name)
 
-loadData()
-print("Data loaded...")
-print("Data size: {}".format(len(data)))
-#scrapNovelTags()
-#scrapNovelDescriptions()
-#scrapNovels()
-downloadNovels()
-storeData()
-driver.close()
+
+while True:
+    try:
+        loadData()
+        print("Data loaded...")
+        print("Data size: {}".format(len(data)))
+        #scrapNovelTags()
+        #scrapNovelDescriptions()
+        #scrapNovels()
+        downloadNovels()
+        storeData()
+        driver.close()
+    except:
+        try:
+            driver.close()
+        except:
+            pass
+        driver = uc.Chrome(executable_path = "./chromedriver.exe")
 

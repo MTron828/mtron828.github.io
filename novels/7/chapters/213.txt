@@ -1,0 +1,106 @@
+Winter Wonderland
+0.00 / 0.00
+
+Chapter 214 - Dungeon Cleared
+
+After Morlock died, he dropped a total of four pieces of Mysterious-Iron Equipment. Everyone received a share of 34 Copper Coins and a large amount of EXP. Meanwhile, Shi Feng obtained a pair of Wind Extinguisher Leg Guards, increasing his collection of the Wind Extinguisher Set Equipment to two pieces.
+
+Everyone on the team looked at each other with a smile after they had killed Morlock, a High Chieftain ranked Boss, with such ease. They all felt blissful from the fact that Shi Feng had joined their team.
+
+Right now, no one on the team felt the same panic they had when they first entered the Dungeon. They could joke around with each other and had even become pals with Shi Feng. Occasionally, they would even ask Shi Feng to teach them a few battle techniques.
+
+While Shi Feng gave out casual pointers, the team members’ admiration for Shi Feng gradually grew.
+
+Under Shi Feng’s casual guidance, many players in the team exhibited noticeable improvement.
+
+Soon after, everyone arrived at the final throne room. Here, they met the final Boss, the Dark Warlock Salou.
+
+[Dark Warlock Salou] (High Chieftain Rank)
+
+Level 12
+
+HP 500,000/500,000
+
+---
+
+Elsewhere, while Shi Feng and the others had arrived before the final Boss, Dark Star’s Lone Tyrant still tangled with the first Boss of the Beastman Munition Factory, Karur.
+
+As of this moment, Lone Tyrant and his team had already experienced three team-wipes. Moreover, Karur’s Avatar Slash had caused all three. They had not improved one little bit since their first battle.
+
+Lone Tyrant grew hysterical at this situation. He did not know why a 20-man Dungeon would have such a huge increase in difficulty compared to a 10-man Dungeon.
+
+After pondering for a long time, Lone Tyrant discovered the reason for their failures.
+
+This Boss needs to be dealt with as quickly as possible. However, our overall damage simply isn’t enough to finish him. Unless the team’s equipment is further upgraded, the possibility of clearing this Dungeon doesn’t exist. Do we really have to go and upgrade our equipment before trying again? Lone Tyrant wore a hesitant expression as he glared at Karur.
+
+Due to his previous boasting, he was now stuck between a rock and a hard place. However, Lone Tyrant suddenly came to a realization. If the damage of his own team were insufficient to deal with Karur, then the Assassin’s Alliance, who had poorer quality equipment, would have even less of a chance of killing Karur. At this moment, the team from the Assassin’s Alliance must certainly be stuck at the first Boss as well. When Lone Tyrant thought about this, his mood immediately lifted. He decided to reflect on their raiding strategy, giving the Boss another try.
+
+---
+
+Meanwhile, in the magnificent throne room of the Beastman Munition Factory...
+
+The Assassin’s Alliance had already investigated the Dark Warlock Salou’s skills.
+
+Aside from Dark Arrow being Salou’s most basic attack, Salou was immune to all controlling effects. Salou also possessed two killing moves. One of them was a skill called Shadow Wound. When cast, the Boss would fire 12 Dark Arrows. Each Dark Arrow would cause -800 damage and inflict a Fear effect that lasted 6 seconds.
+
+The other was a skill called Summon Flame Giant. The Flame Giant was a Level 12 Special Elite with 50,000 HP. Each Flame Giant that Salou summoned possessed Self-immolation effect that dealt -300 flame damage to all targets within a 10-yard range every second.
+
+The Flame Giant was also the largest hurdle to overcome when raiding the Dark Warlock Salou, as the self-immolation was an AoE DoT[1]. If any players other than MTs received -300 flame damage every second, they would last four to five seconds at most. Meanwhile, Salou would summon an additional Flame Giant every one to two minutes. Factoring in the fear effect from Shadow Wound, many players in the team would die under the combination of these two skills.
+
+Even if this combination did not immediately kill them, with three Flame Giants running about, they would similarly end in destruction. Three Flame Giants would mean -900 total damage per second. Even Shi Feng could not last 3 seconds under this damage, much less the other players in the team.
+
+However, if they focused their attacks on the Flame Giants summoned instead, they would waste precious time. As a result, Salou would fully recover his HP due to his battle recovery. A battle of attrition like this would only end with the healers exhausting their mana and a team-wipe.
+
+Meanwhile, after sending a group of half a dozen players to test the waters, everyone learned Dark Warlock Salou’s true strength. As a result, their hearts sunk, and their confidence wavered.
+
+Ignoring the fact that each of Salou’s Dark Arrows could cause -800 damage to their MTs and -1,000 damage to everyone else, the Flame Giants alone were extremely difficult to deal with. After all, none of the melee players could go near a Flame Giant, and even if only the MTs tanked it, the healers still wouldn’t be able to cope with the high damage. Not to mention, there was also Salou’s AoE skill, Shadow Wound, that would suddenly cause -800 damage.
+
+The Flame Giant itself could cause over -300 damage to the MT with its attacks. Coupling that with the Flame Giant’s self-immolation effect, its prowess could rival that of a Boss. If they suddenly received an attack from Salou’s Shadow Wound in addition to the Flame Giant’s attacks, even their MTs might instantly die. Moreover, if they did not kill the first Flame Giant within one to two minutes of its summoning, Salou would summon the second Flame Giant. Under the simultaneous attacks of two Flame Giants, their MTs wouldn’t have a chance.
+
+With their current equipment and levels, it was impossible for them to face Dark Warlock Salou head-on in battle.
+
+Thinking up to this point, everyone’s moods grew somber.
+
+“Isn’t this only Hard Mode? Why is the difficulty so high? What would happen if this were Hell Mode?” Stabbing Heart was similarly bitter after seeing Dark Warlock Salou’s capabilities.
+
+The Guild Leader of the Assassin’s Alliance, Cruel Sword, wrinkled his brows, falling into deep thought.
+
+Salou’s raiding difficulty was clearly much higher than the previous two Bosses. As expected of a final Boss, it won’t be easy to clear this hurdle. At the very least, Cruel Sword did not have any good methods to raid Salou.
+
+While everyone was discouraged...
+
+“Why don’t we give it a try first? It’s not like we’re completely helpless right now,” Shi Feng suddenly said in the team chat.
+
+Shi Feng’s words were like a ray of hope.
+
+“Brother Ye Feng, can we really raid this Boss?” Mu Qing blinked her mesmerizing eyes, her delicate body sticking close to Shi Feng as she asked. Fị𝒏dd 𝒏ew upd𝒂t𝒆s on n(o)v/e/l𝒃in(.)com
+
+“It should be possible. We can only find out if we try it, right?” Shi Feng merely shrugged as he spoke, his calm appearance giving Mu Qing a slight surprise.
+
+Following which, Shi Feng gave a brief overview of his raiding plan.
+
+Shi Feng’s plan was simple. He, alone, would kite the summoned Flame Giants, while the other members of the team would focus their attacks on the Boss. In this situation, three of the four healers on the team would be responsible for healing the MTs, while the last healer would be responsible for keeping Shi Feng alive. However, this plan was very risky. Its success relied heavily on Shi Feng’s ability to kite the Flame Giants. As the throne room did not provide a wide area for movement, Shi Feng needed to be mindful of his positioning. Any mistakes could lead to a team-wipe.
+
+However, nobody rejected Shi Feng’s proposal. They did not even have the slightest opinion about Shi Feng’s plan. They had long since been convinced of Shi Feng’s strength. Since Shi Feng shared his plan, he must be very confident about it. Thus, they believed that Shi Feng could really pull it off.
+
+“Water Lake, you’ll activate Darkness Aura. White Feather, you’ll activate Crusader Aura. Let’s start the raid, then,” Shi Feng said.
+
+A Guardian Knight’s Darkness Aura could provide an additional 5 points Dark Resistance to allies, decreasing the darkness damage they received. Meanwhile, the Crusader Aura could increase allies’ Movement Speed by 10%, letting everyone have an easier time evading the Flame Giants. With these two auras, the team would have a much easier time raiding the Boss.
+
+Water Lake was the first to dash at Salou. While Salou was still in the process of casting a spell, Water Lake smashed Shield of Vengeance into Salou’s face, causing -181 damage. Water Lake then followed up with Righteous Punishment, dealing -201 damage.
+
+However, neither of these attacks had interrupted or delayed Salou’s chanting, and shortly after, a streak of dark light skewered Water Lake through the chest, causing -800 damage to him. A moment later, three Healing Lights landed on Water Lake’s body, recovering over 700 HP of his HP.
+
+After Water Lake solidified his grasp on Salou’s aggro, Shi Feng instructed the other players to initiate their attacks.
+
+After a moment, Salou pointed his staff towards the sky. A large, azure-green fireball descended from the sky, crashing into the throne room. Immediately, Shi Feng tossed out the Blazing Meteor at the azure-green Flame Giant, causing -621 damage and instantly becoming its main target.
+
+Seeing the Flame Giant charging at him, Shi Feng spun around and fled, luring the Flame Giant away from the rest of the team. He then started circling around the hall with the Flame Giant right behind him.
+
+As Salou’s HP continued decreasing, the Flame Giants he summoned also grew stronger. Unfortunately, Shi Feng lured away all of the Flame Giants Salou summoned, spoiling his fun.
+
+After more than ten minutes, Salou released a resentful bellow. His body fell to the throne as he passed away.
+
+TL Notes:
+
+[1]DoT: Damage-over-Time.
