@@ -1,0 +1,118 @@
+Sweat, Strength, Success
+0.00 / 0.00
+
+The shuttle pilot faced an uphill struggle trying to get back to their mothership. Ves, Ketis, Soapstone and their escorts wanted nothing more than to return to the safety of their well-armored combat carrier.
+
+A shuttle in the middle of a space battle might as well be flying naked, because a single hit from a mech-sized rifle could instantly blast it and its occupants into pieces!
+
+Shuttles were meant to ferry passengers and small cargo between different ships and between planets and ships. Their designers built them small, light and energy efficient in order to fulfil a vital logistical role in any fleet or settled planet.
+
+They were expressly ruled out as active combatants in a spaceborn mech battle. They were barely better armored than aircars in their standard configuration. Heavier variants such as combat shuttles may have been used to drop squads of infantry into hostile territory, but the purpose of their slightly less flimsier armor was to protect them against small arms and man-portable missile launchers.
+
+Against the might of mechs, they might as well be naked, because literally any mech could tear them to pieces!
+
+The shuttle jinked from port to starboard, up and down, and spun on its own axis for some reason. The pilot in the cockpit didn’t hold back anything in reserves and pushed her shuttle’s mobility past the threshold where the antigrav modules and inertial compensators prevented its passengers from feeling any g-forces.
+
+They were basically riding a barely controlled shuttle that was one step away from spinning out of control in an inevitable crash!
+
+"I really hope the pilot knows what he or she is doing!"
+
+"Trust in our comrades, Ves." Soapstone spoke from the side. "This isn’t any different from entrusting our lives and our safety to the mech pilots who sortie out into the battlefield every time."
+
+"Yeah, but at least in those cases, I’m safely tucked inside the protective embrace of a big fat combat carrier. Now, I’m riding a supercharged shuttle that is approaching the direction of the main battle in orbit!"
+
+Hundreds of mechs slugged it out on each other, and Ves had no clue how the battle progressed. His limited feed to the Vandal internal network cut off as local jamming from both sides of the conflict threw the local information sphere into turbid noise. The shuttle’s sensors captured some of the battle, but it didn’t have the resolution or processing power behind it to fully resolve the details of the fight taking place many thousands of kilometers away. The pilot already drew out the full resources of the shuttle to help in navigating the chaotic battlefield!
+
+"Soapstone."
+
+"Yes?"
+
+"Since this battle erupted so suddenly, did you manage to secure the final batch of fuel and supplies for the fleet?"
+
+"Oh, the last batch already shipped out an hour ago. Back then, it wasn’t so clear if the Flagrant Vandals would be dragged into this fight. I’m sure the transports have dropped off their cargo at our logistics ships."
+
+At least they didn’t have to worry about missing out on their final resupply.
+
+"Did you manage to secure anything else?" He asked.
+
+"A few knick knacks here and there. You’re not the only one who went on a detour for personal reasons. The only difference is that I was much closer to the pier when the fighting truly erupted! Wading through all of those malfunctioning cleaning bots was a slog!"
+
+"That’s the weirdest thing about this entire incident. I can imagine why the pirates who lost all of their life savings stirred up trouble. I can even imagine why the Castle Breakers would be impulsive enough to attack the Omen of Misfortune out of the blue. What I can’t wrap my head around is why the bots were able to rebel in the first place."
+
+He already formed his previous guess that whoever hacked the bots did so as a prank gone out of control or to destabilize the entire Mancroft Independent Harbor. He wanted to hear what Soapstone had to say and if she concurred with his theories.
+
+"Hm.." She paused for a moment. "I don’t have a solid explanation about the bots. My experience suggests that it’s unlikely that a bug in the programming is to blame. Cleaning bots may look cheap to you, but they are sold and used in every single indoor location in human space. Do you know how many cleaning bots are used in the Bright Republic alone? Some estimates put their total number at five times the Republic’s total population, and that is just a conservative estimate!"
+
+"So because a cleaning bot is so prevalent, a lot more care is put into their design than other products?"
+
+"Exactly! They are some of the most bug-tested, optimized and abused bots the galaxy. They are frequently employed in sensitive rooms where matters of great import to a state, planet or company is discussed. Will their buyers allow these bots to clean these sensitive rooms if they are embedded with hidden sensors and recording devices? Absolutely not! Therefore, the integrity and soundness of the hardware and software of cleaning bots endures some of the most rigorous tests in the galaxy."
+
+It made sense. Soapstone rambled a bit about all the certifications a cleaning bot had to go through before being pronounced ready for use. A silly bug like mistaking open wounds on living bodies as a stain to be wiped away really shouldn’t have occurred in even the worst cleaning bots on sale today.
+
+Ves nodded in agreement. "So that directs us strongly to the possibility of deliberate sabotage. Still, if cleaning bots are so rigorously tested and developed, how come a hacker managed to penetrate through their ironclad programming?"
+
+Now that he thought about it, it took more than a single whiz kid who knew his way around the virtual battlefield. Cleaning bots were everywhere, out in the open and vulnerable to all kinds of intrusions. Nolsen tried to engage his military-grade automatic hacking module on the stupid bots, but it plainly couldn’t find a way to drill through their firewall. Gét latest 𝒏ovel ch𝒂pters on n𝒐v(e)lbj/n(.)c/𝒐m
+
+What the cleaning bots lack in hardware prowess, they more than made up for it with exquisite and virtually impenetrable software!
+
+Soapstone announced her conclusion. "It’s a premeditated hack, and far too complex to be done by a single hacker with a vendetta against cleaning bots. This smells like the kind of stunt a state-backed intelligence agency would pull off. Only they are sophisticated enough to research and dig out an unpatched bug hidden deep within the programming of the bots."
+
+That partially matched his own guesses. "I concur. Whoever is behind it has plenty of hacking muscle at their disposal."
+
+This also highlighted the risks of becoming too dependent on machines. Fortunately, the Vandals and the Swordmaidens ran their most important systems through manual controls, only relying on machinery to perform bulk calculations or precise movements that couldn’t be done by human hands or minds. They were considerably hardened against a virtual attack.
+
+In the worst case scenario, their combat carriers even came with the option of pulling the metaphorical plug! This shut off virtually every digital system on the ship and delegated controls to actual human beings who needed to perform every action by hand.
+
+It was terribly inefficient, but it was better than nothing when faced with an overwhelming hacker on the enemy’s side.
+
+As for mechs, they possessed natural protection from most forms of hacking due to their peculiar control method.
+
+The neural interface practically blended the mech pilot’s mind with the cold hard circuits and processors of the mech. In that active state, the line between the human mind and the machine mind became a little blurred. It was difficult to say where one reached the end and where the other began.
+
+From what Ves had learned from Iris’ tutoring sessions, an active mech was controlled by a hybrid amalgamation that was neither exclusively man or machine, but both at the same time. This led to a lot of strange repercussions that was wildly out of the scope of her tutoring session, but one of the strongest reminders she imparted him was that this amalgamation couldn’t be hacked.
+
+"It takes man-machine hybrid to hack a man-machine driven mech." She solemnly spoke back then. "Do you know how weird that sounds? It requires a potentate with the potential to pilot mechs, but instead of pursuing their natural vocation, they instead dedicate their life to becoming a mech hacker."
+
+Mech hacker! This forbidden profession formed the bogeymen of every living mech pilot! If there was anything they feared above all else, mech hackers must be close to the top of their list!
+
+Still, Ves didn’t fear their presence here in Mancroft. The MTA loathed mech hackers with the same vehemence against weapons of mass destruction and actively hunted them down whenever they showed up in civilized space.
+
+If any hackers were still present at Mancroft, then they could only work their magic on regular machinery.
+
+Machinery like.. their shuttle!
+
+"Damnit, do you think our shuttle is secure?"
+
+"Hey, calm down Ves." Soapstone gestured him to remain strapped to his seat. "Have some faith in our own gear. We’re very thorough in updating the firmware of all of our vehicles and equipment, shuttles included. We also employ our own hackers who are constantly on the lookout for enemy hackers."
+
+He needed that reminder. As a military mech regiment, the Vandals wouldn’t be caught off guard by a virtual attack.
+
+As Ves contemplated many possibilities, the shuttle kept juking along the periphery of the battlefield. It was slowly but firmly navigating towards the formation of Vandal and Swordmaiden ships.
+
+As the shuttle flew closer to its mothership, the vehicle had a few close shaves. The most threatening part of their journey came when missiles fooled by ECM systems lost their targets and flew off into random directions. One of them almost engaged a lock on the shuttle, and if not for being shot out of the sky by a distant Akkara on anti-missile duty, the shuttle and its occupants would have been blasted into pieces by a missile designed to wreck starships!
+
+None of the occupants were religious in any way, but they silently prayed to whatever superstition gave them warmth in these trying times.
+
+A sudden thud clanked from the deck. The rough impact almost threw Ves off his seat, and only the straps kept him firmly in place.
+
+"We’ve arrived at the Shield of Hispania! We’re home!"
+
+Everyone sighed in relief or let out a deep breath. Nobody was in a mood to cheer or celebrate considering that they had just run the gauntlet.
+
+"Let’s move, let’s move, let’s move! Everyone out! We need to secure the hangar bay!"
+
+The straps holding him in place automatically disappeared, enabling Ves to get back on his feet. The passengers poured outside the shuttle, upon which Lieutenant Nolsen threw Ves a quick salute.
+
+"My escort mission is over. My menn and I are needed elsewhere, so see you later, Ves!"
+
+"It’s been a pleasure, Nolsen!"
+
+They all moved away from the landing deck and exited the shuttle bay in order to avoid getting in the way of busy servicemen. Ves was very much aware that they practically hot-dropped onto a combat carrier in the midst of a running engagement! He eagerly wanted to apprise himself of the situation and see if he could be of assistance.
+
+Ves turned to Ketis. "If I recall, you aren’t cleared to enter the command center yet. Since you don’t have any formal combat posting, it’s best for you to stay out of the way. Go back to our office and stay put."
+
+"But whyyyy? That’s boring, teacher! I want to go fight, or at least watch the battle!"
+
+"I can give you the recordings later but right now the Vandals don’t have time to entertain your wishes. Go to the office, go to the bunk, or head down to the mess hall and grab some chow if you need to fill up your stomach!"
+
+The Swordmaiden grumbled a bit but she knew she couldn’t go against the Vandals on her own. As she grudgingly trudged away, Ves briskly marched towards the upper decks.

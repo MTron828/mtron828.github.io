@@ -1,0 +1,126 @@
+Winter Wonderland
+0.00 / 0.00
+
+Chapter 2245 - Starburst Module
+
+Turning the Valkyrie Redeemer into the second coming of the Lady Death’s Heel was impractical.
+
+It may have worked in the simplified setting of virtual reality, but modern mechs were considerably hardier.
+
+It took quite some effort to pierce through the armor of second-class mechs. When Ves performed some quick calculations and simulations with his implant, he realized that a dive attack with a weaponized pair of legs would more likely crumple the Valkyrie Redeemer than its target!
+
+This was because the Valkyrie Redeemer was too light!
+
+Ves would need to reengineer the mech’s entire frame to withstand the immense forces that came from underneath. While he estimated it would be possible to do so, it would come at the cost of almost every other advantage of the mech.
+
+He resolutely shelved this idea aside. From a practical standpoint, such a mech was too specialized and monotonous for his liking. As a mech designed to fight as an independent flanking element, the machine needed to possess at least some versatility in order to respond to various threats.
+
+Even if the current configuration did not give his marauder mech a lot of pronounced advantages, its current toolkit at least boosted its survival rate, which was very important for independent mechs.
+
+Speaking of survival, one of the most precarious moments the Valkyrie Redeemer could end up in was when it had just completed a charging dive attack. Once it stopped on the ground, it would take at least a few seconds for the marauder mech to leap back into the air!
+
+He turned to Gloriana’s physical projection. "I think it’s best to add a disengagement tool to the mech. You know as well as I do that our mech is at its most vulnerable when it is stationary, and that happens to be the moment when it has just rammed its spear through a target or the ground."
+
+His partner gazed towards the incomplete design schematic. "We’ve used up all of the capacity of the mech. If we add an extra module, its mass and power draw will increase to an unacceptable degree."
+
+"It’s a tool of last resort. Against weaker targets, the Valkyrie Redeemer shouldn’t have to make use of such an ability. I only want to provide our mech with some additional help in case it has landed in hot water."
+
+As a mech designer, Ves needed to know his audience. Though he couldn’t claim to know Hexer mech pilots in depth, he performed enough study and made enough observations to know that female Hexer mech pilots tended to be aggressive by nature.
+
+Their upbringing, training and combat doctrine all caused them to grow overconfident. Certainly, the women would probably learn to respect the Fridayman properly once the Komodo War dragged on, but until then Ves expected many of these female tyrants to die ignoble deaths on the battlefield!
+
+Ves did not believe he could single-handedly stop this foolhardiness. He merely wanted to avoid blame when the Valkyrie Redeemer finally began to fielded. He was sure that the Hex Army would assign some of its most hot-headed female Hexers to pilot this mech. If those idiotic women began to drive themselves to their deaths in droves, it would definitely lead to a strong degree of pushback towards his involvement in the Komodo War!
+
+After a bit of persuasion, Gloriana came around to the idea. She added some caveats, however.
+
+"Let’s limit our selection to a smaller auxiliary module. I don’t want to ruin the sweet spot that we have already managed to settle upon."
+
+Finding a good balance between offense, defense and mobility was crucial to the Valkyrie Redeemer. Adding some utility to the mix would disrupt this beneficial balance.
+
+Ves did not look worried. "We don’t need a module that needs to be active every time, so it doesn’t have to be too big. What we do need is something that is potent in the few times it’s activated. This is a lifesaving tool that needs to work in the most dangerous moments."
+
+"We’ll have to find something that is based on cartridges. The endurance and energy efficiency of our mech is not that great and the value of our mech will drop considerably if its effective deployment time is lowered even further."
+
+Independent flanking mechs were designed to roam in the sides and outskirts of an active warzone. They needed to remain in the field for at least several hours to half a day in order to be worthwhile.
+
+Ves and Gloriana proceeded to search through the Hex Army’s internal mech catalog. Though they did not have access to the full range of exclusive Hexer components, the list of auxiliary components provided them with sufficient options.
+
+The pair eventually settled on the Starburst S*tc 343x-z. Odd model name aside, the Starburst was a disengagement module that worked similar to a flashbang and a smoke bomb.
+
+Upon activating it, the Starburst released a strong but short-ranged ECM pulse around the mech. At the same time, it also released a burst of short-duration interference particles.
+
+Due to its small size and capacity, the Starburst was only effective for an instant, and its disruptive effects only worked at short range. It was only effective on land and would not do much in aerial clashes.
+
+This was sufficient. What the Valkyrie Redeemer feared the most was getting struck by a strong blow shortly after landing.
+
+Adding the Starburst module to the Valkyrie Redeemer resulted in few issues. Its small size and limited capabilities did not fundamentally alter the current mech design’s sweet spot.
+
+Sadly, the new auxiliary feature came with a very restrictive limitation. It could only hold three cartridges. Once the Valkyrie Redeemer activated the Starburst module three times, it could only replenish this function by going back for resupply.
+
+"Three times is enough." Ves affirmed.
+
+If the Valkyrie Redeemer had to activate the Starburst three times, its energy reserves should have probably dipped considerably. Without sufficient energy, the mech wouldn’t be able to fly much longer.
+
+There was no cooldown to the Starburst module either. If the Valkyrie Redeemer just needed to obtain some extra assurances, it could just activate this function once.
+
+If the marauder mech happened to land straight into a prepared ambush or something, then the mech pilot could always expend all three cartridges at once, thereby producing an incredibly bright and confusing spectacle!
+
+There was another downside to the Starburst module, though. Since much of its effectiveness depended on consumable cartridges, their cost was considerable. Each activation of the Starburst module consumed a considerable amount of hex credits, though the exact cost varied depending on where it was produced.
+
+Supplying them to the front was another issue. Ves wasn’t sure how widespread the Starburst module was being used in other Hexer mech models, but he didn’t believe it was ubiquitous.
+
+"You don’t have to worry about this problem." Gloriana reassured him. "As long as the battle effectiveness of our mech design is good enough, the Hex Army will definitely invest enough logistical capacity."
+
+If the Blessed Squire was any indication, the Hexers might embrace the Valkyrie Redeemer with just as much enthusiasm. From what Ves had learned of Hexers, they were similar to the Ylvainans in their reverence for design spirits that affirmed their beliefs.
+
+Whether the Hexers were secular or religious, they all revered the Superior Mother as a symbol and an ideal.
+
+The particularly strong reaction among the soldiers of the Wrathful Doves towards the Blessed Squire proved that the Superior Mother strongly resonated with them. The nature of design spirits meant that Ves would always be able to achieve more results with people who held distinct values! Religion was one of the easiest ways for him to find common ground with a specific target audience!
+
+Therefore, even if the Valkyrie Redeemer design did not immediately stand out performance-wise, Ves still believed the Hexers would still embrace the distinctive mech design.
+
+With all of the design choices they made, the direction of their mech design was pretty much set. From a technical perspective, the remainder of the design process did not require any further pivotal decisions. Ves and Gloriana could pretty work on it on autopilot as they only needed to solve the smaller, more immediate problems.
+
+At this stage of the design project, the Valkyrie Redeemer acquired enough of a spiritual foundation for Ves to mold some spiritual constructs.
+
+He grinned. The experiments he performed on his test subjects vastly expanded his understanding of spirituality and spiritual constructs. He gained a lot of clarity on how spiritual energy behaved and he discovered many useful interactions that produced specific effects.
+
+Even though the spiritual foundation of a mech design was different from the spirituality of a living human, they were based on the same building blocks.
+
+Plenty of time had passed since the start of the Valkyrie Redeemer Project for Ves to come up with some good ideas on how to develop its triggered abilities.
+
+Though Ves wanted to discuss them with Gloriana, he was very reluctant to do so through the Darkbreak module. He would definitely reveal too many secrets to Master Willix and the MTA if he began to mention anything about spiritual engineering! L𝒂aTest nov𝒆ls on (n)𝒐velbi/𝒏(.)co𝒎
+
+Fortunately, Gloriana understood him quite well. He only had to give her a slightly meaningful look for her to respond with a trusting smile.
+
+They did not need to exchange any words.
+
+With Gloriana concentrating on integrating and perfecting the technical elements of the mech design, Ves proceeded to manipulate the Valkyrie Redeemer’s spiritual foundation with an open mind.
+
+All of this was still new to him. What troubled him most was that there wasn’t a convenient way to test his implementations until the prototype phase. The mathematical models that supported the virtual simulations were only able to calculate defined variables.
+
+Against something that was as obscure and unknown as triggered abilities, not even Ves could come up with an accurate mathematical model! He still hadn’t developed a sufficient theoretical foundation of spirituality!
+
+Even so, it was not as if he had been doing anything different in his previous designs. He usually possessed enough confidence that his spiritual implementations would work out as expected.
+
+It was just that the stakes were very high and the uncertainty was greater than usual. He could not afford to botch his additions. They played such a key role to the battle performance of the Valkyrie Redeemer that their absence would instantly cause the mech to lose 10 to 20 percent of its value!
+
+As Ves initially envisioned, he added the Marked For Death ability first. The implementation of it was fairly simple. Instead of radiating the mech’s glow around it like a sphere, the ability sought to concentrate this output and turn a blazing sun into a concentrated laser!
+
+He hoped to increase the intensity and range of the Valkyrie Redeemer’s death-oriented glow in this fashion.
+
+To form this triggered ability, Ves created a meticulous spiritual construct that looked like a strong and straight spear. He molded its surface and proportions in order to create a specific impression of a thrown spear that would spell death to anyone who had been struck with its tip!
+
+His mind went a little fuzzy during this spiritual design session. He relied on intuition, feeling, his shallow understanding of spirituality and plain old trial and error to achieve the outcome he wanted.
+
+When Ves believed the spiritual construct came into form, he took a step back and evaluated the death spear.
+
+It radiated supremacy, control and death. The spiritual spear actually contained three spiritual attributes instead of one. This was because it did not consist of one spiritual construct but actually three of them put together!
+
+This was another innovation he came up with during his previous experiments. While it was all well and good to develop spiritual constructs that embodied a single spiritual attribute, what if he wanted to develop something more complex? What if he wanted to make use of several spiritual attributes?
+
+The solution seemed obvious. He could just form several spiritual constructs and assemble them together into a compound construct!
+
+The result this time was a speartip that represented death, a shaft that contained supremacy and a grip that embodied control!
+
+With three of them combined, Ves believed he nailed the first triggered ability of the Valkyrie Redeemer!

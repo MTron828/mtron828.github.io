@@ -1,0 +1,122 @@
+Winter Wonderland
+0.00 / 0.00
+
+After Ketis left for parts unknown, Ves finished his feedback session and planned to resume his design work. After gathering a bunch of opinions, most of which Ves immediately threw away, he gained a broader perspective on the application of his mechs.
+
+As light frontline mechs that had more in common with slow artillery mechs, the mech pilots of the Enduring Protector had to adhere to different rules in order to survive and thrive on the battlefield.
+
+A mech designer like Ves could never completely envision all the possible uses of a mech. Every design profession suffered from this myopia. Although his mastery partially compensated for his lack of practical, in-depth familiarity, he therefore listened more carefully to the opinions of the laser rifleman mech pilots.
+
+"My client may be Captain Byrd, but my target audience are those mech pilots specialized in piloting ranged mechs."
+
+This was a crucial distinction. The people who approved of a design and procured the mechs may not be the ones who piloted them. Ves had to please both of them, but if it came down to it, he needed to place the demands of the client over the mech pilots that had to live with the design choices he made on their behalf.
+
+"Fortunately, there isn’t much of a conflict between the two at the moment."
+
+Ves knew that eventually he’d be faced with a situation where he might be forced into listening to the demands of a client who didn’t know what he was talking about. This often happened in the case of custom mechs where the client could dictate every aspect of the design.
+
+A certain customized mech with a codpiece came to his mind for some reason. He quickly shook his head and tried to scrub his mind of that awful memory.
+
+"Well, let’s move on to the next step of the design process."
+
+Having performed some minor corrections to his draft design, Ves wanted to flesh it out by defining its internal components and defining the final shape of its exterior.
+
+He didn’t particularly care for the components this time as they needed to be reliable and resilient. This was very different from his previous selection criteria where he carefully chose to incorporate components by the cost of their licenses and the performance edge they provided.
+
+"I’ll have to pick and choose from a library of obsolete component designs."
+
+Modern mech components were way too finicky and vulnerable to the breakdown effect for Ves to make use of. Ves already fixed his mind on making use of components from earlier mech generations.
+
+Having designed a bunch of virtual mech designs based off obsolete technology and component licenses, Ves was very familiar with the styles of older mechs and mech parts. Miniaturization hadn’t reached the extent as it had today so mech parts consisted of a smaller number of larger subcomponents.
+
+The local database of the Flagrant Vandals contained a vast library of old and obsolete component designs. They were so worthless that their original developers no longer licensed them out and simply allowed the MTA or other organizations to release them in the public domain.
+
+There was really no point in trying to milk out any mech or component design that was older than a hundred years or about three to four mech generations. Supply vastly exceeded the paltry demand for the right to use such old and easily copied designs that licensors could only conceivably sell their licenses at a nominal cost of ten credits or so.
+
+The administrative costs alone surpassed the licensing fees. Therefore, even if they didn’t want to, licensors had no choice but to let go of any intentions to exploit their obsolete designs.
+
+When Ves browsed through the design library of the local database, he nodded with satisfaction at the selection of component designs. The database only stored so many designs, and the Mech Corps made a clever selection accounting for many different motivations to opt for older components.
+
+If the local database contained a completely random selection of components, then Ves would have to tear his hair out because most of the components that developers came up with never became good enough to achieve commercial success.
+
+The same applied to mech designs for that matter. Any mech designer who graduated from a university or institution could design a mech from the first day on the job. That didn’t necessarily mean that they ought to. As Ketis constantly struggled with lately, it was extremely hard to put theory into practice and design an appealing mech that was good enough to compete against the competition.
+
+As Ves dug into the origin of the component designs, he found them to be a mix between retired components designed in-house by the Mech Corps and components that used to be bestsellers when they first came out.
+
+The quality of both types of components were fairly high, and Ves had nothing to complain about when it came to their optimization and efficiency.
+
+"However, none of them are specifically designed to resist something as inconceivable as the breakdown effect."
+
+Just because these obsolete component designs were less complex than their modern counterparts didn’t mean that Ves could adopt them without a problem. Vulnerabilities still existed no matter how much the components dumbed down as Ves turned back the clock.
+
+Instead of chasing after perfection, Ves had to settle for a selection of components that were good enough.
+
+He spent extra care in picking out the parts such as the power reactor, engine, laser rifle barrels and etcetera. He picked the newest parts he could get away with, but most of the parts were so complicated by their very nature that Ves had to go back more than three-hundred years for the engine design alone.
+
+As the source of the motive force of a mech, the mech engine was the most prone to breakdowns short of the legs. Ves actually spent an entire day of filtering through thousands of individual engine designs.
+
+The brief but vital lessons he received from Master Olson in the field of battle mechatronics helped him out a lot. Mech endurance and mech engine design were both part of her specialties.
+
+Making use of what he learned, Ves evaluated the parts that entered his vision with a critical eye until he finally became satisfied with what he selected. He felt as if he was a kid in a candy store shopping for the yummiest treats.
+
+"Still... is this the best I can get?"
+
+Ves frowned when he projected the main component designs on his desk. All of the parts he picked out weren’t impressive by any means, but they delivered exceptional results in terms of reliability.
+
+Yet for some reason, Ves had a nagging urge that he could do more with them if he modified their original designs.
+
+After all, their designers didn’t know as much in the past. Technology had come a long way since then, and Ves possessed enough confidence to improve on these obsolete component designs.
+
+He resisted the urge to do so, though. "I’m not experienced in component design. The chances of screwing up is significant. Any change I make has to go through a round of simulation and optimization before the improvement is set in stone. How much time does that take?"
+
+Besides the lack of time, Ves also lacked a lot of manpower. He couldn’t possibly do all of the work alone within a year. To help him complete the improvements faster, he needed to solicit the help of many other mech designers as assistants.
+
+Yet how many of them were at his disposal? The Vandals always received far less mech designers than other mech regiments, and even fewer followed him down to the ground. They mostly consisted of forgettable low-ranking mech designers who were barely competent enough to replace the role of a chief technician.
+
+They were sorely needed in their current positions and couldn’t be diverted no matter what.
+
+Faced with the lack of time and manpower, Ves gave up any fanciful notions about improving the component designs and decided to work with their original incarnations unless he was compelled to make a change. Vissit n𝒐velbin(.)c𝒐m for 𝒏ew 𝒏ovels
+
+"Now that I’ve filled up my basket of parts, it’s time to work them into my design."
+
+Ves continually focused his mind with the image of Beast Rider Bubal as he proceeded to flesh out his draft design. Having performed these actions many times, he worked deftly and without too much delay.
+
+This process stretched out for several long weeks.
+
+Different from his previous design attempts, Ves couldn’t close himself off and isolate himself inside a locked chamber. Each day, he needed to resume his regular duties and make the rounds around the workshops. He also had to take care of the necessary paperwork that came with his position and decide on a couple of crucial matters that required much thought.
+
+The frequent interruptions grated on Ves. It took a lot of effort for him to concentrate his mind and fall into a groove where his design work flowed from his mind. In his highest state of design focus, the image of Beast Rider Bubal actively assisted him with his design choices.
+
+Such an experience was sublime. It was as if a god guided his design work. He didn’t have to think about certain decisions or procrastinate about a range of options. He simply left the matter to Beast Rider Bubal who instinctively guided him towards the most appropriate choices, even if they didn’t seem very good at first glance.
+
+Yet how could Ves endure it when he only fell into this state for an hour or two at most before his responsibilities pulled him away?
+
+Still, while Ves never quite got used to the frequent halts, he resolved to endure them and continue his vital work despite the difficulties.
+
+As the days went by, he didn’t claim to have adjusted fully to this hectic schedule, but at least he didn’t enter a sour mood as soon as he was pulled away from his zen-like design moods.
+
+To Ves, it was kind of like living in a non-soundproofed apartment next to a busy intersection. While the noise of vehicle and foot traffic penetrated the apartment, Ves simply got used to it and stopped letting it bother him as much.
+
+He still preferred to live out in nowhere rather than anywhere noisy, though.
+
+"It’s kind of like living among the dwarves who never invented a proper toilet." He scoffed to himself. "Their smell is unbearable, but the dwarves who grew up with their stink probably got so used to the odor that it’s like perfume to them at this point."
+
+Due to the low-tech nature of his components and mech design, Ves didn’t take very long to flesh out his draft design. The Enduring Protector had a lot more in common with his virtual designs such as the Young Blood and the Old Soul rather than his production designs such as the Blackbeak and the Crystal Lord.
+
+"Simple is faster. It was much easier to design a mech in the past."
+
+Just as mech pilots underwent more training to cope with the increased complexity of mechs over time, mech designers also had to keep up with the developments in the industry.
+
+It became more and more difficult to graduate with a degree in mech design, though this didn’t stop the hopefuls from trying. Far too many people aspired to become a successful mech designer.
+
+The most challenging aspect of designing his frontline mech was designing its internal architecture from scratch. However, this also provided him with complete control over this aspect, allowing him to stretch his imagination and design the internal architecture in a way that resisted the breakdown effect the best.
+
+He took a lot of inspiration from the problems that frequently rolled into the mech workshops. Having seen almost every possible way a mech broke down, Ves was determined to avoid the same design choices that led to those vulnerabilities.
+
+After more than three weeks of intermittent design works, Ves finally finished the first iteration of the Enduring Protector.
+
+While it still needed to go through a round of testing and iteration, Ves felt inordinately proud for what he accomplished over the weeks.
+
+"It’s not a good-looking mech by any means, but its reliability is rock-solid."
+
+Beast Rider Bubal expressed satisfaction in his mind. Ves knew he was on the right track when his image was happy.

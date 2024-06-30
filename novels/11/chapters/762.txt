@@ -1,0 +1,110 @@
+Urban Oasis
+0.00 / 0.00
+
+Ves actually requested two sets of knowledge from the library of the local database. One set consisted of a sampling of textbooks on FTL drive technology.
+
+The other consisted of a set of books on designing and fabrication combat armor.
+
+When Ves initially requested knowledge on this subject, Major Verle actually offered an alternative. "The books we contain on combat armor isn't very elaborate. It's not worth your while to study them. We usually order our suits in large batches from the Mech Corps. According to them, it's more efficient, but I think it's because they don't want us to produce suits of heavy armor or exoskeleton armor in our own production facilities and sell them through the black market."
+
+"Really, sir?" Ves looked puzzled. "They allow mech regiments to fabricate their own mechs, but not their own combat armor?"
+
+"Even the cheapest mechs costs millions of bright credits to produce. They're big and fairly distinctive, so if any mech regiment engages in the practice, they can easily be tracked down. It's different for combat armor because they're far cheaper and humans don't need genetic aptitude to be trained in their use. Producing combat armor is big business, and the best suits are firmly in the hand of the military."
+
+What Major Verle said made sense. They were in such high demand that producing combat armor en masse allowed for real cost savings as economies of scale went into force. A handful of large defense contractors dominated the industry because they produced the most suits of combat armor at much cheaper prices than anyone else in the domestic market.
+
+"I have a suggestion, Mr. Larkinson." The mech officer offered.
+
+"What's that, sir?"
+
+"What you really want is to modify a good suit of light combat armor. Not everything you want has to be done by yourself. We have very good armorers aboard our ship who made it their life's work to understand everything there is to know about the weapons and gear that keep us safe. I can give our chief armorer an order to help you out as much as possible when you are attempting to build a suit of custom armor."
+
+"Hmm.. I'll take that option, sir."
+
+While Ves would have liked to be able to design his own combat armor, he understood the reality that he couldn't do everything by himself. It wasn't a good idea for him to become like Ketis and become too distracted by side projects. The only reason why he did so against his own advice was because he wanted to gear himself up and couldn't rely on others."
+
+This time was different. Ves planned to pull in both Ketis and the chief armorer in the development of his custom suit of armor. It was high time he did so, as the lacking capabilities of his standard-issue suit of light armor really made him shake his head in disappointment.
+
+Ves pulled Ketis down to the armory compartment, which stored most of the combat carrier's heavy infantry gear and armament. From massive machine guns that required an augmented suit to carry, to expansive arrays of exoskeleton armor in a row, the armory contained enough gear to outfit a full boarding party!
+
+"Chief Mandelsen!"
+
+"Oh, if it isn't the little squirt that's taken care of all of our mechs. So you finally decided to grace the armory again, huh?"
+
+A muscular and fit woman wearing her own custom suit of heavy armor marched over to the younger pair. Chief Kayla Mandelson looked like a veteran soldier in her mid-fifties, which put her roughly in the same generation as the other chiefs.
+
+From what Ves could gather from her brief record, Chief Mandelson used to be a security officer, but eventually discovered a love in tinkering with her own gear. She cross-trained into her current occupation until she became the head of the armory division aboard the Shield of Hispania.
+
+Much like Ves was nominally in charge of the soundness of all of the mechs in the fleet, Chief Mandelson took charge of all of the weapons and suits in use aboard the ship. Regarding suits, her responsibilities encompassed both all kinds of gear, not just those dedicated to combat such as vacsuits and hazard suits.
+
+"I don't know if Major Verle informed you, but he told me that I could come to you for help in developing a better suit of armor."
+
+"He did." Mandelson said while nodding thoughtfully at Ves. "I can already tell you need it. This suit is way too light on your frame. You lack the training to wear medium combat armor, though."
+
+"I don't need that." Ves responded quickly. "It's rumored that we're heading towards a massive Super Earth where the gravity is five or six times stronger than Old Earth. If I'm assigned to the ground and I end up in an area where there isn't any gravity compensation, I don't want to be crushed and immobilized by my own suit."
+
+"That's a good point." Chief Mandelson nodded sagely. "In fact, that's what I've been working on with at least half of the combat armor in our reserves. While the servos and other motor assistance built into the suits will help their wearers move even if they are exposed to heavy gravity, not all of them are powerful enough to counteract the heavy force. A suit of combat armor optimized for five or six g's is a lot different than combat armor that's optimized for 1 g, which in turn is nothing like a suit meant to be used under zero-g."
+
+Ves understood when he equated the suits to mechs. "I understand. According to the preliminary plans in my hands, there's a high chance I'll be part of the support staff that will be deployed to the surface. I don't want to be caught naked without protection or burdened with a suit that's too heavy for my own good."
+
+While the pair discussed the particulars of what Ves demanded from his custom armor, Ketis kept measuring staring at Mandelson with an appraising glance. The chief noticed her stare.
+
+"You want to have a tussle with me or something?"
+
+"I don't think I stand a chance." Ketis admitted frankly.
+
+Ves looked at her in surprise. "Aren't you supposed to pretend you do?"
+
+"That's only when we're facing strangers or enemies. There's no shame in recognizing that I can't beat your chief armorer in a fight. If I was as old as her, the story would be different." She stated that last bit confidently, if only to soothe her pride as a Swordmaiden.
+
+"Whatever you say, kid." Chief Mandelson smirked before she turned back to Ves. "As for you, there's no need to design and build a suit from scratch. It takes way too long, requires expertise that none of us have and it's completely unnecessary when we can modify an existing suit."
+
+"We do that all the time back at the Swordmaidens." Ketis added. "Most combat armor we salvage are fitted for men. It's a lot of trouble to convert them into somethign wearable for girls."
+
+With the advice of Chief Mandelson with a little commentary from Ketis, Ves selected a semi-modular suit of light armor from a model line called the C22 Custom.
+
+Chief Mandelson unlocked one of the lockers and showed them a copy. "The C22 Customs don't offer the best protection nor the best servo-assist out of our stock of light armors, but they're adaptable and score high on reliability. You need that reliability when the suit is constantly subjected to five times normal gravity."
+
+"Is there anything special besides those qualities?"
+
+"Nope. If you want any bells and whistles added to this armor, then we need to add them ourselves. This is a suit designed for support staff deployed in the rear of the field."
+
+"Alright. Let's draft up a modification scheme then. I'm curious to see how much we can improve a standard suit of combat armor."
+
+Quite a lot, it turned out. The chief armorer knew almost every trick in the book, and plenty more that nobody ever wrote down in a book. They took the schematic of the C22 Custom, stripped down every standard part and replaced them with higher quality ones.
+
+Upon Ketis' suggestion, they bulked up the light armor a bit to make room for extra modules. This was so that Ves could store his vulnerable weapons and gadgets underneath the protective shell of his armor instead of exposing them to all sorts of environmental dangers.
+
+"You'll have to say goodbye to your toolbelt, Ves." Ketis cheekily teased.
+
+Ves laughed at that. "The toolbelt does give me the impression of competence."
+
+Some mech technicians didn't know who he was or why a young man like him got to be in charge. Wearing a toolbelt helped reinforce the impression that he knew what he was talking about.
+
+Still, wearing a toolbelt on a Super Earth risked crushing some of his tools if he ever fell down for some reason. Ves did not want to know the outcome if he inadvertently squashed one of his ultracompact batteries. Even though he reinforced their casing to withstand a considerable amount of abuse, he did not wish to tempt fate.
+
+Since they added a bit of extra room, they even decided to add in integrated armament such as hidden knife holsters along the torso, arm, leg and boot sections. That made for ten small backup knives in total, each of which incorporated enough exotics to cut through steel like butter!
+
+The best part was that they were so hidden that cheap weapon detectors wouldn't be able to distinguish them in a normal sweep. Ves incorporated some of his insights into stealth tech and stealth detector tech into their implementation.
+
+"Damn, this is a really great way to hide those backup knives." Mandelson commented in awe. "I'm glad we cooperated on this. Do you mind if I copy your tricks?"
+
+"Feel free to do so."
+
+Ves did not mind sharing these tricks because they didn't involve the core insights into stealth tech, which he couldn't disseminate without suffering repercussions.
+
+One of the other areas they looked at was the armor plating. Ves knew a thing or two about armor, but only the ones scaled up for mechs. Infantry-sized armor plating utilized different paradigms and different armor system formulas in order to make the most out of their limited mass and volume allowances.
+
+"One of our biggest concerns is balance. It's already important in normal gravity conditions, but it's ten times more important under heavy gravity conditions." The chief explained. "Keeping the center of mass firmly in the middle is essential. This is why the bulk of the armor is around the torso while the arms and legs are comparatively lighter. We also have to take into account that the leg armor should be strong enough to support all the other weight when put into a locked position." T/his chapter is updat𝓮d by n𝒐v(ê(l)biin.co/m
+
+Mandelson selected two different armor system formulas. A heavier and sturdier set of plating for the torso and a small part of the legs formed the base. At the projected thickness, it possessed enough defense to withstand a few rifle rounds, which was more than Ves could say about his current armor. A lighter set of plates encompassed the arms and the remainder of the legs to allow him to move his limbs even if the servo-assist failed to work.
+
+The reliability of the servos and the lack thereof became one of their major concerns.
+
+"Are you really concerned about them?"
+
+The chief laughed. "Not everyone is like you. Major Verle granted you the full treatment we reserve to senior officers. The servos and motors built into your suits are a lot more expensive than almost any other suit that passed my hands. I've adjusted all of the servos in the armor reserved for our personnel in the ground, but even then they are several times more fragile than yours."
+
+At least Ves got his money's worth with regards of this concession. The chief armorer accommodated his every wish as best she could. Ves felt as if he got the same treatment as a VIP shopping for a custom mech.
+
+He spent so much time as a provider of services and producer of goods that it was nice to experience the other side of the equation. He had lost touch with what it was like to be a customer for a change.

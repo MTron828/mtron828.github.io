@@ -1,0 +1,104 @@
+Energize and Prepare
+0.00 / 0.00
+
+The next day brought the hundred surviving mech designers back to the arena complex. This time, the arena fields had been separated, which meant that the second round no longer took place on a mass battlefield.
+
+Ves had a good talk with Dietrich last night about how he should go about designing a mech for a swordsman. Though Dietrich did not specialize in this area, many of his subordinates did and he was a wealth of practical knowledge.
+
+"Good morning Ves." Patricia greeted him once she spotted him. "Are you ready for the second round?"
+
+"The successive duels are always tricky. It’ll be a struggle, but I’m confident I can make it."
+
+Only a hundred of the best designers who came all the way to Leemar survived up to now. Those who made it this far were not soft persimmons. No matter who he faced, he had a tough fight on his hands. While he did not guarantee he could win every duel, he still wanted to stand out.
+
+After opening the day with a brief performance from some musicians, the announcer explained the rules for the second round.
+
+"In the first test, we’ve tested our designers on whether they could deliver a working product on time. The second round revolves around efficiency and longevity. A mech designer must deliver a product that does the job as long as possible with the least amount of cost."
+
+The projection changed into a list of available base parts. They were the same outdated junk they’ve used in the previous round, but now they had a price tag on them. The number varied widely according to their quality.
+
+"The first major challenge is to design a mech that costs no more than a thousand points in six hours. If you happened to worry about not being able to reach this height, then don’t be. I can assure you that you will wish the limit is higher."
+
+Those who reached this stage were all capable of designing a decent mech in that time. A six hour design time was rather short, but for Ves who used the QuickForge system to design a mech under three hours, it was an eternity.
+
+"The finished mechs will then have to duel four random opponents in a standard duel environment, with a two-hour interval between each fight. The mech designer is only allowed to use the QuickForge system to make as much repairs as possible. If you can’t finish your repairs in that time, then tough luck, because many repairmen have faced the same situations during wartime."
+
+These four consecutive duels tested a designer in multiple ways. First, they had to design a mech in a way that made it easy to repair if it incurred any damage. Second, they had to deal with a wide variety of possible damage and allocate their limited time to repairing the most essential parts.
+
+This could get pretty brutal by the time the fourth duel was about to be held. Also, many times a mech sustained so much damage it could not fight on, which straight-up brought the mech designer and pilot out of contention.
+
+In this case, the pilot had to make their own judgement on how to fight. Taking risks meant fights could finish quickly, but it also left them open to heavy damage that wasn’t easy to repair. They also had the option to forfeit a duel at anytime in order to avoid accumulating damage when facing a losing proposition. Yet giving up too often dragged down the ranking. Only the top 25 qualified for the third round.
+
+When Ves approached his now-familiar QuickForge system, he went over the design templates he had in mind. The last time he designed the Unicorn, he did so with the expectation that it would be compatible to any pilot.
+
+This time was different. He knew the pilot. He read his profile. He watched him fight. Cadet Lovejoy fancied himself as a swordsman, so Ves should design a mech that revolves primarily around the use of a single sword.
+
+Swordsmen mechs different substantially from the standard knight type. Whereas knights benefited from a substantial amount of armor along with a trusty shield, a swordsman had less mass in order to speed up its reaction.
+
+In a tactical sense, knights acted as door stoppers. They excelled at defensive engagements where the enemy had to go past the knight in order to complete their objectives. Swordsmen fared worse in head-on clashes, but they performed well when used as a flanker or as a follow-up.
+
+A swordsman mech was built around its sword. Ves read up on the basics. A swordsman mech relied on a combination of mechanical power along with momentum in order to deliver fast or heavy strikes. The mech needed to be heavy enough to add a lot of mass to a committed strike, but it also had to be flexible enough to maneuver like a duelist trying to get the upper hand.
+
+"There’s too many things to take note of when trying to design a swordsman mech." Ves concluded as he started to get a headache on how many balls he had to juggle. "I can’t design a mech as heavy as a Caesar Augustus, and neither can I make it as light as an Octagon."
+
+He had to leave familiar territory and design a new mech from a different mold. It had to be another rushed design, though the generous margin of six hours should leave him with a decent mech this time.
+
+First, he constructed a mental image again. With his frequent practice, he became more proficient in getting in the right mood. He hardly needed more than a minute to reach a state of sharpened mental focus.
+
+The profile Ves received painted Lovejoy as a talkative but diligent cadet. He practiced a lot but became frustrated when his climb up the ranking stagnated. He reached a ceiling where he could not progress fast enough.
+
+"He probably bumped against the people who benefited from genetic boosts." Ves guessed to himself. If he ended up in a situation like that, he’d tear his hair out until he became bald.
+
+While the pilot could not improve, the mech could make all the difference. Ves thought back on the conversation he had with Patricia yesterday. Either the mech had to accommodate the pilot, or the pilot had to adjust to the mech.
+
+"Well, I’m not designing a mass production model. I have specific information about the pilot so I don’t have to dumb down my mech."
+
+He envisioned a fairly advanced and mechanically complex mech. A whirling dancer with a sword. One that was swift and agile, but also one that benefited from strategically placed armor. Not enough to weigh it down too much, but enough to add some heft to each sword strike. The model should be nimble enough to facilitate heavy strikes where the entire weight of the mech was added to the attack.
+
+With a solid image of the Sword Dancer, Ves went to work. He first picked out the basic components. In order to keep costs below a thousand points, he started picking the most essential parts first.
+
+"A swordsman mech is built around its sword, so the first thing to choose is the weapon."
+
+Ves had to admit he did not know much beyond the basics when it came to mech swords. As the default melee weapon for mechs, a mech sword was a heavy, sharp instrument of destruction. It had to be sharp enough to slice through armored portions and sturdy enough to support the weight of two mechs clashing against each other.
+
+"It’s got to be big and heavy, but how far should I go?"
+
+The profile did not mention Lovejoy’s preferred sword type. He could be specializing in a thin one-handed rapier or a heavy two-handed claymore. In the end, Ves made a judgement call and picked out a one-handed longsword model that cost a hundred points.
+
+With the sword model in place, he designed the rest of the frame around the use of a one-handed sword. He spent two hundred points on a powerful pair of engines and power reactors, fifty points on high-performance energy cells, a hundred points on legs optimized for burst performance and a whopping two-hundred-and-fifty points for heavy but powerful arms.
+
+He spent much of his remaining points on the parts he prioritized less. With two-hundred points spent on many entry-level parts like the sensors, cockpit and a backup laser pistol, he completely wiped out his savings.
+
+As for his final hundred points, he picked out a middle-of-the-road armor system that only distinguished itself on the ease of which it could be compressed.
+
+With all of the parts selected, Ves quickly drew up a basic design. He could afford to spend more time on its design, so he made sure to optimize his prospective mech for close-ranged high-speed engagements.
+
+He tweaked many things such as strengthening the fingers so their grip on the sword became stronger. He reduced some of his mech’s rear torso armor in order to improve his mech’s agility. In order to keep the mech balanced, he also had to shift a few internal components so that the mech wouldn’t have a tendency to tip over.
+
+Once he finished a detailed outline of his design, he activated the forging module of his QuickForge system. His time was a little tight due to the lengthy procedure of compressing all of the armor plates, so he rushed through the construction again, though not as extreme.
+
+Unlike Barakovski, he started from the inside and worked his way outward. This way, the mech’s integrity could be insured while he could cut back on the alloy compression if he ran out of time.
+
+Fortunately, it never came to that point. He spent a solid two hours on forming the internal frame and the internal components.
+
+The QuickForge system worked a lot better than the second-hand 3D printer and assembly system his father acquired for his workshop. The assembly system even came with automated functions that automatically layed out the cabling and other internal infrastructure in the most optimal and non-intrusive way. Thê sourc𝗲 of this content n/o/v/(𝒆l)bi((n))
+
+"If my assembly machine was as good as this one, I’d be able to assemble two mechs a day instead of a single mech over two days."
+
+Once he reached the process of forging the armor plating, he got to witness how the QuickForge system fabricated them in a single comprehensive procedure. It definitely impressed him when he saw how various liquified materials combined together under intense pressure and heat, all of which happened in plain view. An extremely powerful combination of electromagnetic, gravitic and some other sorcery Ves wasn’t aware of kept the process contained.
+
+All that mattered was that he kept control over the process. Despite the dazzling technologies employed by the machine, the steps it followed differed little from the standard process.
+
+His mech finally took shape after the plates started attaching to his frame. The metallic plates treated with the most rudimentary level of compression shone in blue. A sword that underwent a slightly different compression procedure came at the end. Combined with the thick arms and slim legs, it gave the mech an impression that it was an icy warrior.
+
+As Ves had timed his work meticulously, he finished a few minutes before six hours had passed.
+
+"Time’s up designers! Lay down your work while your mech gets ready to fight. The first duel starts in a couple of minutes!"
+
+He finished his job. Now it was up to his pilot. He hoped he could perform miracles with the Sword Dancer. After all, he formed this mech exclusively for him. He only found it unfortunate that he did not gain any new insights with regards to the ever-mystical X-Factor.
+
+"I got a hint of a future direction with the Unicorn. Why do I feel I missed the opportunity with the Sword Dancer?"
+
+Perhaps the extended time gave Ves too little pressure to feel impassioned. He was a little confused, to be honest. Could the X-Factor only be ignited when he was caught in an extreme mood? That made it difficult to employ it whenever he wanted to. After all, while he could hone his thoughts, he could not completely control his emotions.
+
+"I’ll have to unfold this puzzle later. First I have to prepare for repairs."

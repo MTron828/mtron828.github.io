@@ -1,0 +1,127 @@
+Energize and Prepare
+0.00 / 0.00
+Chapter 5615 Viktor MacMillan
+
+It did not take much time for Ves to understand the gist of Viktor MacMillan's strengths as a mech designer.
+
+The man studied at an elite mech design university and managed to demonstrate enough talent and other qualities to become apprenticed to a Master Mech Designer.
+
+Once he started to receive special tutelage, his progress took off. He rapidly increased his understanding of all of the necessary fields related to energy shield systems.
+
+More than that, Viktor MacMillan also learned many of the well-established design solutions of his Master, thereby enabling him to immediately design mechs with a mature set of defenses!
+
+However, just because he inherited the design philosophy of his Master did not mean he was resting on the laurels of his elders. Years after he set out on his own and emigrated to the Red Ocean, he had been working to increase the efficiency of his master's signature invention even further.
+
+MacMillan did not have the scientific and technological accumulation to substantially improve the core mechanisms of close-surface energy shield systems.
+
+This was why he diverted to improving the control systems instead.
+
+Most mechs with energy shield generators tended to activate them whenever they were about to enter into a dangerous situation where attacks could come at any time.
+
+While energy shields tended to expend energy a lot more rapidly when resisting incoming attacks, they also strained the power reactor even when they were running idle.
+
+That was a considerable waste, especially if a battle dragged out over time.
+
+Keeping an energy shield generator running even when they weren't necessary at the time also wore out a lot of components and increased the heat buildup of a machine.
+
+All in all, if there was a way to keep them inactive during all of the times when the mech did not actively face any dangerous pressure, then that would do much to extend their presence in the field!
+
+"Let me get this straight." Ves said as he analyzed what he heard. "The close-surface energy shield system is your Master's work, while the dynamic energy shield activation system is your own solution. Is this correct?"
+
+Viktor curtly nodded. "That is so, but I have not dedicated all of my later years to developing the latter. I am still dedicated to improving my Master's work in my own way. I have mainly been doing this by adapting phasewater technology and more recently hyper technology to close-surface energy shield systems. Once I have grasped both new fields to a strong degree, I hope to develop a new category of energy defense that can offer comparable protection to azure energy shields but at a much greater efficiency."
+
+Ves asked a few more questions related to Viktor's most recent mech designs and design solutions. It quickly became clear that the candidate was primarily focused on increasing efficiency and reducing waste.
+
+These were good goals to strive for, because energy shield systems generally imposed a heavy burden on a mech, particularly second-class and third class ones.
+
+The value of his design philosophy was a bit lower when applied to first-class mechs because they no longer struggled to sustain the operation of a hungry energy shield generator.
+
+Even so, efficiency never lost its usefulness.
+
+"How is the performance of the dynamic energy shield activation system that you have developed in extreme situations and edge cases? Can it maintain the same 95 percent block rate when the mech is targeted by energy weapons?"
+
+"My proprietary software cannot achieve this success rate when it is being attacked by energy weapons." Viktor MacMillan plainly admitted. "My activation system is most effective at efficiently blocking physical projectiles. Their velocities are much slower than the speed of light, so there is always enough lead time for my energy shield to rise to full power from a special standby state. Laser beams travel at the speed of light, so it is impossible to react after the energy weapons have opened fire. My system heavily depends on sensor input or external data feeds to carefully monitor the actions of opposing mechs and warships. There are usually indications when they are about to open fire. Even exotic alien weapons with strange operation rules can be deciphered by the adaptive learning component of my software after gathering enough observation data."
+
+That sounded fairly useful, but Ves still felt this was a gimmick that any decent high-ranking mech designer could come up with. They just didn't bother to do so because they had better things to do with their time.
+
+So far, Ves' impression of Viktor MacMillan was not entirely good. The man had yet to develop any truly strong or original design solutions by himself.
+
+However, his foundation was strong and he still had plenty of time to refine his specialization in the future.
+
+"How large are your energy shield generators?" Ves questioned. "Can they be small enough to fit inside a light mech?"
+
+"The efficiency of my energy shield systems has made them much more suitable to be mounted into smaller and lighter mechs. Their energy shields can last up to three times longer due to all of the energy saving measures that I have implemented." Viktor proudly answered.
+
+That meant that Viktor MacMillan was an efficiency-oriented mech designer. He mainly sought to improve his mechs by making his systems cheaper, less demanding and more long-lasting.
+
+This did not mean he ignored the need to improve the hard defensive parameters of his energy shield systems, but he did not obsess over it like other specialists.
+
+This made Viktor a lot more suited to work on lighter and more limited mech designs. Larger and heavier mechs possessed a lot of capacity for everything. Efficiency was not that big of a deal. Instead, they pursued greater power even if they generated more waste!
+
+All in all, Viktor was a good addition to the Design Department. His work was already relevant to the LMC's many second-class mech models, which meant he could be put to work almost right away.
+
+"Before we proceed, do you have any questions about the job that you are applying for? I am sure that Miss Streon here has already given you plenty of answers, but she is a fairly recent hire so she doesn't know everything."
+
+Viktor MacMillan was not shy about asking questions.
+
+"I have heard from your disciple that each lead designer has the opportunity to obtain an EdNet quota and undergo an accelerated deep learning training program that entirely takes place in virtual reality. How can I earn this benefit?"
+
+Well, the man certainly had a definite goal in mind. Ves was not surprised that a Journeyman like him developed a strong desire for this rare reward. There were few second-class employers who would ever think about allocating their rare and precious quotas to unrelated mech designers.
+
+"Our clan has accrued over a dozen permanent EdNet quotas, and we will earn more in time." Ves calmly answered. "Currently, anyone can redeem this quota after earning enough Larkinson merits, which you can earn by making any sort of contribution to our clan. It is not difficult to earn Larkinson merits by performing your normal duties, but if you want to get a head-start and outpace your peers, you will need to work harder and be more inventive in your solutions."
+
+"How many merits must I earn in order to secure a quota?"
+
+"The redemption price of an EdNet quota is affected by supply and demand. There are many Larkinsons who are yearning to undergo up to 20 years of focused learning in order to be promoted to first-raters. However, mech designers play an especially important role in our clan. They have priority on any quota. As long as you are decent enough, you should be able to redeem this reward within 10 or so years provided that you have not spent your Larkinson merits on other attractive rewards."
+
+This was reasonable. Ves wanted to hire a lot of Journeymen in order to expand the Design Department's pipeline for second-class mech designs.
+
+If he made it too easy for these mech designers to earn an EdNet quota, he wouldn't be able to get any use out of them in the short term!
+
+While it was possible for first-class mech designers to go back to designing second-class mech designs, the Journeymen still needed to put in the hard work and prove their dedication to the Larkinson Clan before he was willing to lend them a hand.
+
+"I have heard that the lead designers of the Design Department are able to receive one of your impressive companion spirits for free. Is that true, professor?"
+
+Ves nodded. "That is true. This benefit should ordinarily be redeemed for Larkinson merits, but our manpower shortage in the Design Department is so great that I am willing to suspend the requirements and grant people companion spirits upfront. You can consider it as prepayment for all of the services that you will render in the future."
+
+"It is an investment and not so much a welcome gift." Viktor said.
+
+"That's pretty much correct. Companion spirits can open up a lot of possibilities for mech designers. They can also help you speed up your understanding of hyper technology and work around our proprietary design solutions a lot better. I can guarantee you that you will become a much better mech designer once you acquire a helpful and supportive companion spirit."
+
+This was everything that Viktor MacMillan needed to hear. He was completely sold. No other second-class or first-class mech company was willing to provide comparable benefits to their Journeymen!
+
+Seeing that both sides were happy with each other, Ves held up the Larkinson Mandate and gestured Viktor to come close and place his palm on the purple and golden book cover.
+
+"I hope that you have prepared yourself for this, because you will only receive one chance. Please make your oath and pledge your loyalty to the Larkinson Clan."
+
+Viktor did not appear to have any strong attachments to other organizations, because Goldie approved of his joining without issue.
+
+A spiritual connection seamlessly formed between the two. From today onwards, Viktor MacMillan had become the latest member of the Larkinson Clan! Gêtt the latest ch𝒂pters on n𝒐/velbin(.)com
+
+"That... proceeded faster than I expected." Viktor said with evident relief as he started to get acclimated to all of the additional sensory information fed by the Larkinson Network. "Thank you for taking me in, professor. I am grateful that you have accepted me into your fold. I am eager to start my work on your mech design projects."
+
+"There is no hurry for the time being. You are not yet familiar with the Larkinson Clan. You will need to spend at least a couple of weeks to understand how we operate before we are ready to assign you to a mech design project. In the meantime, you should already gain access to our extensive internal library. If you do not have any ongoing assignments, I highly recommend you take advantage of our learning resources. I have written a few guides on hyper technology that should be of considerable interest."
+
+"I shall read them right away."
+
+Ves soon dismissed the eager new Larkinson mech designer.
+
+"Good find, Alexa. I hope that the rest are at least comparable in quality." He commented after Viktor left. "1 down, 24 more to go. This is going to be a long day."
+
+Ves continued to bring in the candidates one by one. Each of them possessed different backgrounds and origins. Their specializations also differed a lot from each other.
+
+However, they also possessed a few common traits that made them highly desirable to Ves.
+
+None of them were older than 40.
+
+None of them developed any low-value design philosophies.
+
+None of them possessed any obvious personality disorders.
+
+What Ves cared about the most was that almost all of them were young Journeymen who used to be direct disciples of various Master Mech Designers.
+
+The key was that their Masters had all been left behind in the Milky Way Galaxy!
+
+This meant that all of this high-quality stock was much less dependent on any other existing forces.
+
+It shouldn't take much effort for the Larkinsons to instill a strong sense of loyalty and attachment to the clan!

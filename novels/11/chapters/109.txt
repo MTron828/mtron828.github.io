@@ -1,0 +1,176 @@
+Energize and Prepare
+0.00 / 0.00
+
+Lucky playfully twisted his tail as he followed Ves into the lab. The Barracuda’s lab bot finished analyzing Master Olson’s present. Depending on the results, he’d either feed it to his cat or reserve it for another purpose.
+
+When the lab bot presented the data, Ves looked intrigued for a moment. Disappointment set in right after. The miniaturized equipment of the lab ultimately lacked the power to break the veil surrounding the ore. The lab bot ineptness also couldn’t be helped.
+
+"I know its size, mass, hardness, and other basic attributes. As for its composition, I still have no clue."
+
+Unless Ves entrusted the ore to a materials science institute, he could get nothing else out of this piece of rock. It wasn’t worth the hassle.
+
+He turned his attention to Lucky, who sat next to Ves looking pleadingly at him. The cat even stretched his paws in a grabbing manner, as if it was a starving kitten.
+
+"Are you sure this thing won’t poison you or something?"
+
+"Meow!"
+
+"Then have at it!"
+
+He nonchalantly threw the ore onto the floor. The chunk rolled a short distance before stopping. The gem cat pounced on the rock without mercy. Lucky gnawed at its surface with his alloy teeth, which surprisingly bounced off. The cat appeared indignant and employed his energy claws to break up the rock.
+
+The claws only managed to scratch tiny chunks out of the rock. The resilience of Master Olson’s ore was something else. Lucky’s most powerful weapon easily sliced through exoskeleton armor had to admit defeat.
+
+Lucky eagerly gobbled up the tiny chunks before beginning to slice again. Ves could tell his cat could take a while to digest the entire rock, so he left his cat to enjoy his buffet in peace and went back to work.
+
+During the Barracuda’s uneventful journey across the border of the Friday Coalition, the ship encountered nothing unusual. Perhaps no one had pursued them, or perhaps their strategy of travelling through uninhabited systems worked. The Barracuda successfully evaded pursuit, if there was any in the first place.
+
+Everyone relaxed after a few days. Dietrich finally had his fill of the bar and slowly explored the rest of the ship. Lucky kept slicing his new toy, swallowing piece after piece.
+
+As for Ves, he started to work on improving his mathematics. He recognized that his poor math dragged his designs down. It might not have manifested during the competition due to its incredibly short time limits. When it came to regular designs, a good foundation in math could absolutely increase its optimization.
+
+The key use of math was to create and adjust complicated models that could test out different design choices. For example, if he wanted to make a mech run faster, he could shave off armor from different spots. If he wanted to minimize the impact on the mech, he should lighten the area which would be least affected by the change.
+
+How could he determine such a thing on his own? Up until now, he always used his judgement and intuition. For example, the chest was usually the most heavily protected portion of a mech. If he shaved off half a layer, it might not impact the mech a lot. In truth, he was merely guessing. He might think he only diminished the armor’s effectiveness by five percent, when in reality it was ten percent.
+
+Ves risked introducing a fatal flaw in his design if he was not aware of this discrepancy. The only way to make sure was to construct a mathematical model simulating the armor’s performance. While the Mech Designer System came with a large amount of ready-made models, Ves ultimately didn’t understand the essence of most of the math behind their complicated programming.
+
+Using a model was like using a firearm. He only had to pull the trigger if he was content to shoot at someone. If he wanted to modify the firearm and achieve more penetration or a higher firing rate, then he had to thoroughly know the ins and outs.
+
+Instead of using the System to forcefully upgrade his Mathematics skill, Ves tried to do the hard work himself. His mathematics remained at an incompetent level which was quite disgraceful. While it only took 500 DP to upgrade it to novice, Ves did not wish to waste the valuable points.
+
+As his intelligence received a minor boost, Ves did not encounter too many roadblocks during his cramming sessions. He borrowed quite a few low-level textbooks from the Clifford Society’s Star Library.
+
+These bottom-level books were so worthless that the Society didn’t bother with any elaborate security restrictions. As a Knight, Ves could directly study the content of the books inside the premises of the virtual library.
+
+Ves made for a remarkable sight. A Knight not only stayed at the Star Library, but he was solving problems that others have mastered in their sleep. The Squires and Knights who visited the library couldn’t help but pause at the sight of a solemn Knight cracking his head over basic college-level math.
+
+"Haven’t these people seen enough?" He complained inwardly as his cheeks grew hot.
+
+He wanted to find a hole to burrow into. While the library offered to rent private rooms, Ves had to pay a merit in order to reserve one for a month. Considering his stingy nature, he refused to waste his valuable merits again. He already regretted tossing a merit into the virtual fountain.
+
+Despite the embarrassment, Ves quickly learned to tune out the distractions and focus on his studies. His progress picked up and he quickly devoured every book he borrowed. In truth, Ves was capable of advancing his math long ago as he utilized a lot of elements already in his other skills.
+
+His increased intelligence helped him in grasping new concepts. The content wasn’t especially challenging, but there were hardly any shortcuts in improving his math. He had to study and master different kinds of math. His laser-focused concentration allowed him to persevere far longer than all but the most dedicated math fanatics.
+
+All of that hard work eventually paid off. It took merely five days to raise his Mathematics skill from Incompetent to Novice, and another two weeks to raise it from Novice to Apprentice. Ves saved 1500 DP which he could use to buy something shiny. He studied his Status and confirmed that the System acknowledged his efforts.
+
+[Status]
+
+Name: Ves Larkinson
+
+Profession: Apprentice Mech Designer
+
+Specializations: None
+
+Design Points: 1223
+
+Attributes
+
+Strength: 0.8
+
+Dexterity: 0.7
+
+Endurance: 0.8
+
+Intelligence: 1.3
+
+Creativity: 1
+
+Concentration: 1.7
+
+Neural Aptitude: F
+
+Skills
+
+[Assembly]: Apprentice - [3D Printer Proficiency II] [Assembler Proficiency II]
+
+[Business]: Apprentice
+
+[Computer Science]: Incompetent
+
+[Electrical Engineering]: Novice
+
+[Mathematics]: Apprentice
+
+[Mechanics]: Journeyman - [Jury Rigging II] [Speed Tuning III]
+
+[Metallurgy]: Journeyman - [Alloy Compression I]
+
+[Metaphysics]: Incompetent
+
+[Physics]: Novice - [Lightweight Armor Optimization I] [Mediumweight Armor Optimization III]
+
+Abilities
+
+[Superpublish]: Available. Can be activated once a year.
+
+Evaluation: An apprentice who has taken a step in the true world of mech design.
+
+He also took note of his DP. His public efforts and Marcella’s promotion caused his virtual mechs sales to spike up for a short time. Due to their low specs and primitive design, his sales hadn’t reached a significant height, but the boost was welcome.
+
+"If I have 2000 DP, I can upgrade my Mathematics skill to Journeyman. Once I reach that point, my overall ability to optimize my design will achieve a comprehensive transformation."
+
+With a solid foundation in math, he wouldn’t get lost when he used the System’s more advanced mathematical models. With these tools in hand, his ability to correct hidden flaws in his design improved to a point where he could even be of assistance to more senior mech designers.
+
+"Too bad it will take months for me to raise my skill level to journeyman. I also have to pay a lot of merits to borrow a decent book."
+
+The value of a merit outweighed the value of DP. The former had to be earned through lots of effort or risk. The latter could be earned casually if he pumped out a couple of new designs.
+
+"Hey System, if I update an existing design, will I earn any DP from its creation?"
+
+[Any design that is similar to an existing design by the user will not reward any Design Points upon creation. This includes the act of improving an existing design. This limitation does not affect the Design Points granted through selling a design.]
+
+The System’s caustic words shut down the easiest way for Ves to earn a large amount of DP. Sure, he could update his designs in order to improve his running sales, but what was the point? Modelling his designs took a lot of time. He might as well design something new.
+
+He made an exception for his Marc Antony design. As the only product of his workshop, Ves needed to make it as attractive as possible in order to lure over customers. When Ves last designed the Marc Antony, none of his skills reached journeyman. It could desperately use a tune-up.
+
+"Still, it’s a waste if I work on it now. I still need to bump my Mathematics to Journeyman-level and Physics to Apprentice-level."
+
+That was the absolute minimum Ves had set. The Mark II version of his first commercial design should be a competitive product. If his improved Marc Antony still fell too far behind, he’d be making a mockery out of his status as an Apprentice Mech Designer. Reêad latest 𝒏ov𝒆ls at n𝒐𝒐v/e/l/bi𝒏(.)com
+
+"I can’t be as sloppy as those amateurs who are stuck at the Novice level."
+
+With no solution in sight, Ves put the problem aside. He revisited the Star Library and started working on improving both his Physics and Electrical Engineering skills. By now, most of the Society members had gotten used to his cramming sessions.
+
+Meanwhile, the Barracuda discretely made her way across the Komodo Star Sector. Past the central territories of the second-rate states, the amount of traffic vastly decreased. Most ships ignored this region due to the lack of wealth, development and exotic resources.
+
+Occasionally, the spaceship detected light activity in the inner system. They usually turned out to be scouts or small-time mining outfits. No one bothered to station a significant force in these empty systems, so the Barracuda ignored the paltry presences.
+
+As they were crossing the territory of yet another trivial third-rate state, the ship suddenly detected unusual activity. When Dietrich investigated the issue, he deemed it serious enough to interrupt Ves.
+
+Irritated at being pulled away from his studies, Ves followed Dietrich to the bridge. "So what’s the alarm?"
+
+"The sensors detected the remains of a raid. Some secret base got invaded and destroyed." Dietrich explained as he summoned a projection compiled by the Barracuda’s long ranged sensors. "Whoever attacked the base succeeded in wiping out the opposition. They obviously salvaged the fallen mechs, but they didn’t take everything."
+
+The ship detected signs of the battle on a mundane rocky planet. The boring planet was as dry as a bag of salt. It lacked both water and an atmosphere. Two tiny moons orbited around the planet at a fair distance.
+
+Ves studied the exterior scans of this fallen base or outpost. It did not bear any insignia, which was usually mandated by galactic laws. This meant that the base was an illegal operation. Who built this base? Was it pirates? Shady mercenary gangs? An intelligence agency?
+
+Ves failed to puzzle out the clues. As for his companion, he had a much better eye for battlefields.
+
+"Both the attackers and the defenders tried to erase all of their marks. I can’t be sure of my guesses." Dietrich stated upfront. "My instincts tell me this is a fight between two corporations."
+
+That certainly came as a surprise. Any corporation usually preferred to avoid getting their hands dirty.
+
+"Oh, I don’t mean to say that their security departments went into action directly. This is likely the case of one corporation employing shady mercenaries attacking a hidden base protected by other mercenaries. The traces on the battlefield are a bit too varied on both sides. They both employed individualized mechs with their own unique loadouts."
+
+Though not an ironclad rule, corporations and the military usually employed a uniform force of mechs with no more than a handful of different types. Excessive individuality increased the amount of maintenance and complexity an organization had to deal with. Only a sloppy organization went into battle with dozens of different models.
+
+"Do you have any indication on what this base was up to? This star system is quite desolate. There shouldn’t be any exotics here. What company wanted to build a base so far out in the middle of nowhere?"
+
+"Why not find out?" Dietrich grinned and cracked his neck. "I’ve been dying to make myself useful. Let’s get close and explore the site. The battle should have ended at least a month ago, or else there wouldn’t be so much erosion. It should be completely deserted."
+
+Should they explore the fallen base? The notion excited him. What kind of treasures could he find from these abandoned ruins? Certainly, the attackers must have salvaged anything valuable, but if they were merely mercenaries, then they might have only reached out to the obvious. Depending on the purpose of the base, it might hold lots of specialized equipment that mech pilots might casually dismiss.
+
+If the base turned out to be some kind of mech research facility, then he might even stumble upon an alloy compressor or a chemical treatment machine.
+
+Greed almost overtook him before a note of caution doused his enthusiasm. Just because the invaders had left didn’t mean the risks were gone. Who knows if the aggressors left behind a guard.
+
+What Ves worried about the most is if either party came running with a quick-response ship if he tripped an alarm.
+
+Was he contemplating adventure or disaster? Could he afford to take this risk when home was just a few leaps away?
+
+"Let’s do it. Navigator bot, please approach the designated planet carefully but maintain a low profile."
+
+Dietrich already rubbed his hands. He loved treasure hunts like this. As for Ves, the only reason why he dared to approach the base was because he thought it was unlikely anyone had left a ship behind. What was the harm in taking a look?

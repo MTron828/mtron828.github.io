@@ -1,0 +1,120 @@
+Energize and Prepare
+0.00 / 0.00
+
+Now that he went down to business, Ves quickly fell into his groove. Ideas emerged in his mind about what sort of mechs he could deliver that best showcased the strengths and uses of his Carmine System.
+
+Having a highly competent first-class Senior Mech Designer as his sole assistant was an incredible luxury that made his life much easier.
+
+Jovy Armalon might not have that much experience with designing second-class mechs, but he possessed an excellent understanding on how to operate all of the exclusive high-end workshop equipment of this workshop.
+
+Not only that, his extensive familiarity with Ves' design philosophy, mech designs and overall work approach also saved a lot of time. Jovy did not need to hear any lengthy and exhausting explanations on what living mechs were like or how Ves preferred to fabricate his works.
+
+The input he provided to Ves was always helpful or insightful.
+
+"I do not recommend you design a landbound mech to fulfill this demand." Jovy gently advised. "If I understand our bosses well enough, they will want to test your works under different circumstances. Flight capability is essential. Your first Carmine mech has to be able to fly in space."
+
+"Okay. It will take a bit of extra time to design such a mech, but oh well. What about the demimech and the conventional mech that is meant to be paired with a norm? The former doesn't have enough space for bells and whistles. The latter will become a lot more dangerous and complicated to pilot to an individual who has never piloted an actual mech in his life."
+
+Jovy quickly referenced the list of demands. "It shouldn't be a problem to leave a flight system out of the demimech. It has to be small enough to operate within the halls and corridors of a starship if possible. Flight is not essential in this case. As for the latter... the candidate assigned to pilot this particular work of yours is not ignorant of mech operation. According to his record, he is an avid fanatic of mechs. He has not only taken numerous theoretical classes related to mechs, but he has also spent tens of thousands of hours of his free time on playing virtual mech piloting games."
+
+Ves raised his eyebrow at that. "How realistic are those games?"
+
+"Not too high. There is a limit to how much a norm can safely pilot a mech with the use of a limited interface. Many of the more complicated operations are automated in those games. This should not be a major problem. We are not asking for this norm to become a champion as soon as he enters the cockpit and forms a bond with your Carmine mech. We only want to see if he can actually perform decently enough that he will provide a net benefit to our armed forces after he has undertaken more training."
+
+In other words, the Survivalists wanted to determine whether they could turn norms into qualified cannon fodder. There was no need for any of these dummies to be overly proficient at their new jobs.
+
+Now that he thought about it, Ves thought that this might be a good way to put the Polymath's batch humans to good use!
+
+No matter whether those test tube products developed genetic aptitude or not, each of them could be stuffed inside a Carmine mech and sent to the battlefield after a short period of acclimatization!
+
+"I think I have a good understanding of what your superior expect from me now." Ves confidently spoke. "Let's complete these drafts and determine their overall configurations."
+
+Ves did not even have to reassign his cyborg leg and Veronica from their current assignments to complete these relatively simple design tasks.
+
+He occasionally borrowed parts of their brainpower at times in order to speed up his considerations, but that was the extent of his 'cheating'.
+
+Ves had no illusions about the fact that he was under constant observation at the moment.
+
+With both the Polymath and the Xenotechnician stationed aboard the Khamatar Reign, it would be beyond foolish for Ves to pull off any naughty tricks in their vicinity!
+
+Fortunately for him, the demands imposed by the panel did not make his life unnecessarily difficult.
+
+It only took a short amount of time for him to design a second-class space knight that shared many parallels with his previous works.
+
+He took the Bastion as the main inspiration of his draft and heavily reworked its design elements to fit a standard mech.
+
+He borrowed a lot of design elements from other works when appropriate.
+
+After all, why should he spend his precious time reinventing the wheel when he already had an existing copy in storage?
+
+He took bits and pieces from designs such as the Bright Warrior, the Doom Guard, the War Squire and even the Eye Project.
+
+His professional sensibilities screamed in pain as Ves kept plagiarizing his old works. He always prided himself on designing mechs from the ground up with solutions that were precisely tailored for the jobs at hand.
+
+Recycling old solutions was a lazy and suboptimal way of designing a mech. Parts, components and systems that were originally meant to increase the performance of other mech designs would never work as well when applied in a substantially different context!
+
+Ves forcibly suppressed these impulses. He was not tasked with creating living works of art. He just had to create a bunch of functional tools, nothing more nothing less.
+
+"Alright. What do you think of my Carmine Trooper, Jovy?"
+
+"I think its mechanical structure is sound enough given the short amount of time you invested in it, but it lacks... skill expression. Don't forget that this is the mech that is meant to be paired with one of our existing mech pilots. We want to see how the Carmine System by itself and the combination between it and the neural interface will affect the control of the pilot. It is much easier to gather solid data on any performance improvements if you pair your machine with a ranged weapon."
+
+He made a good point, so Ves rapidly adjusted the draft and ended up with a hero mech instead.
+
+As far as hero mechs went, the draft design did not come close to the Everchanger or Ouroboros.
+
+The second draft of the Carmine Trooper possessed a broad and blocky shape. Any mech designer could see that while the mech boasted good defenses and possessed a greater fault tolerance than average, its speed and maneuverability left much to be desired.
+
+"Is it truly necessary for you to open up so much capacity to accommodate the Carmine System for this design?" Jovy questioned with a hint of skepticism. "You should be able to get away with a much slimmer version of your earlier implementations."
+
+"I know, but I don't want to take any chances with this design." Ves responded. "I do not want the Carmine System to fail or glitch when this work is subjected to a battery of tests. I am unable to determine how strong or resilient the organic components of this design will be, so 1 prefer to err on the side of caution. Let's treat the most basic Carmine Trooper as our control group. We can try to vary the proportions of the Carmine System in the other designs."
+
+This way, if the three other designs somehow malfunctioned or failed to produce adequate results, Ves would still be assured that the boring but solid Carmine Trooper would do its job with certainty!
+
+Once Ves was done with planning the configuration of the Carmine Trooper, he moved on to a much more dumbed down machine.
+
+"I don't think it is a good idea to copy the Carmine Trooper for the mech that is designed to be piloted by a norm." Ves responded. "Even if the chosen candidate has fought thousands of battles in virtual reality, the real piloting experience is vastly more complicated and demanding than what those simplified games can deliver."
+
+"Are you thinking about falling back to a knight mech for this design?"
+
+"No. That's too big of a leap I think. It may be better to design a frontline mech instead."
+
+It was Jovy's turn to shake his head this time. "You are overshooting in the other direction if you do that. You should stick to a complete humanoid mech design. Trust me. A knight mech should be more than enough. You don't even need to include a flight system at this time."
+
+"Alright. 1 guess 1 will do that instead."
+
+It took even less time for him to design the simplified Carmine Conscript. The codename might not sound dignified, but Ves didn't really care.
+
+He tried to increase the buffer and fault tolerance of the Carmine Constript as much as possible while maintaining reasonable proportions. This caused the mech to look a lot fatter and cumbersome than the Carmine Trooper.
+
+The reason why he compromised its mobility was because all of the added defenses and redundancies protected the mech and its pilot to the maximum possible extent when it was being inexpertly handled.
+
+The mech would not incur significant damage if it tripped on its feet and fell flat on its chest, for example.
+
+Adding a lot of mass and bulk to the mech also prevented the pilot from moving any of its limbs too quickly and losing control because of that. It was a lot less important for this mech to have a lot of skill expression because the 'pilot' wasn't supposed to be controlling a mech in the first place!
+
+The Carmine Conscript did come with fully articulating arms and hands, so it could always pick up a ranged weapon and test the candidate's marksmanship when controlling a giant machine through the Blood Pact.
+
+With that out of the way, Ves and Jovy moved on to the third request.
+
+"A demimech, huh?" Ves spoke. "The list doesn't contain too many detailed specifications and requirements. I can pick any size I want, right?"
+
+"That is correct. This is because none of us know the extent to how much you can miniaturize a mech and still preserve the operation of both the machine as its shrunken Carmine System."
+
+That was understandable.
+
+"Do I have to design this demimech for a professional mech pilot or a norm?" Ves asked.VIssịT n0(v)eL/b(i)(n).𝘤𝑜𝓂 for the best novel reading experience
+
+"A mech pilot." Jovy replied. "The higher ups preferably want a copy of both, but it is more important to quickly determine the viability and the combat effectiveness of a demimech when it is being used with great skill. It will take too much time for a norm to operate the demimech with an acceptable degree of performance."
+
+"Understood. Let me think about this..."
+
+Ves did not draft any lines until he roughly determined the scale of his demimech.
+
+He ultimately settled for a size that was a bit smaller than an ultra-light mech.
+
+He did not try to push his limits and shrink the demimech down all the way until it was barely larger than a suit of heavy combat armor.
+
+This was because such a tiny 'mech' resembled infantry more than a mech at that point.
+
+What Ves had to create was an intermediate form between infantry and armor that sat in between but retained much of the advantages of both.

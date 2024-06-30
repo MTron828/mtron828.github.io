@@ -1,0 +1,134 @@
+Energize and Prepare
+0.00 / 0.00
+
+Chapter 1874 Weakest Configuration
+
+Once the first round of testing came to a close, Ves and Gloriana gathered the design teams to discuss their impressions.
+
+"Each of you have analysed at least some aspects of the Larkinson mech and its configurations." Ves spoke when everyone gathered in a conference room at the design labs. "While I'm aware that we haven't processed all of the data, we should have learned enough to form an informed opinion about our work. Let's take turns. Miles Tovar, you are up first."
+
+Miles looked a bit nonplussed when he was put on the spot. His training and upbringing quickly kicked into gear. He soon regained his composure and gathered his thoughts.
+
+"As an aerial mech specialist, I have mainly focused on the flight performance of the Larkinson mech." He began. "From a mobility standpoint, the four configurations are all average in terms of acceleration and agility. Obviously, the space knight configuration is the slowest due to all of the armor weighing it down."
+
+"Do you believe the mobility of the four configurations are adequate?"
+
+Miles hesitated for a moment. "For a regular third-class mech, they're quite mobile. They can all move around in space and reach their destinations in a reasonable amount of time. It's just.."
+
+"They're not exceptional on this front." Gloriana filled in the silence. "There is no qualitative difference between the mobility of the Larkinson mech and a premier third-class mech. It's better than average, but nothing boundary breaking."
+
+"This is a deliberate design choice." Ves explained. "Increasing the mobility of a mech is one of the most surefire ways to increase the difficulty of piloting it. In addition, increasing the mobility of our current design any further will drastically increase the production cost of our mech. I've already incorporated plenty of expensive materials and components in the Larkinson mech design. Adding even more will strain our finances!"
+
+Even though the LMC was making a lot of money these days, Ves was already spending those earnings on other investments.
+
+Most notably, Ves had to pay a hefty price for every light carrier! Ever since he decided to order a considerable batch of light carriers, Ves had to spend the bulk of his savings!
+
+He reserved his remaining money for other necessities, which included the need to produce the first batches of the finished product. Ves wanted to field at least some Larkinson mechs in the near future!
+
+"Let's move on." He said and turned to Cherie Tovar. "You're mobility-focused as well, right?"
+
+The female Tovar nodded. "My specialty concerns the flexibility and range of motion of mechs. Due to the way that modular mech platforms work, the Larkinson mech doesn't score well. The swordsman mech configuration will never be able to match a genuine swordsman mech in a contest of finesse."
+
+Ves and Gloriana showed no surprise to this answer. They already made a conscious choice to sacrifice this aspect in order to boost the other attributes of the mech.
+
+"We already know this." Ves said. "What we want to know is whether you found something new or formed a strong opinion that is worth sharing."
+
+"Well... I don't think I have anything to add that isn't already known." Cherie replied.
+
+"That's okay. What about you, Vela?"
+
+"I've been diving in the performance of the rifleman mech." The ranged mech specialist replied. "I have plenty to say about its performance. Overall, it's a decent mech, though it's very unbalanced in nature. The primary role of a rifleman mech is to output damage at a distance. The Larkinson mech doesn't do a good job at that. The rifleman mech configuration is far more powerful in terms of defense than offense!"
+
+This was upside down. While a strong defense was a boon to the survival of the mech and mech pilot, its relatively weak offense meant that it wouldn't be able to punch through second-class mech armor at all!
+
+The only way to do so was to rely on the shoulder-mounted missile launchers, but they could only fire a couple of salvos before they ran out of reloads!
+
+"The rifleman mech configuration doesn't pose much of a threat against second-class mechs. That is true." Ves conceded. "However, we won't be putting our hopes on this configuration to punch through the armor of second-class mechs. Pascal, what's your feedback on the lancer mechs?"
+
+"I would much prefer to talk about the fantastic armor system." Pascal Curin from the second design team replied.
+
+"We're all familiar with how well the Breyer alloy protects our mechs. I'd like to hear your input on whether our lancer mech configuration is capable of defeating superior mechs with comparable armor systems."
+
+"Well.. as long as the lancer mech configuration can build up its maximum allowable charge, then it is more than possible for it to be able to punch a hole through the space knight configuration. It depends on whether the space knight has its shield. Without a shield, it's possible for the lancer mech configuration to knock out the space knight with a well-aimed charge. This requires a lot of skill as well as knowledge of the space knight's weak points."
+
+"Understandable. How well do you score the lancer mech's lethality against second-class mechs?"
+
+"As long as they aren't interrupted in some way? Quite good. The lancer configuration is perhaps the closest to a second-class mech than we can get. Aside from its average mobility, its offense and defense are both impressive."
+
+That didn't mean that the lancer configuration was a genuine second-class mech. The average mobility meant that it took a lot more time for the lancer configuration to build up a lethal charge.
+
+Other aspects also left a lot to be desired. The endurance, energy efficiency, redundancy and other criteria could not keep up with the strengths of the lancer mech configuration.
+
+Regardless, Ves was pretty happy with what they managed to design. They couldn't have everything with all of the limitations they were working with. Getting to this point was already an accomplishment!
+
+The feedback session continued. Every junior mech designer had their say. If they weren't willing to speak up, Ves would simply force them with a question.
+
+He wanted to gauge everyone's opinion of the Larkinson mech. While the design teams only played an auxiliary role in the design process, their sense of belonging in the design was real.
+
+This was good. If his subordinate mech designers took pride in the results of the projects they participated in, then they would be much more committed to the LMC!
+
+This was particularly pertinent to the Tovar mech designers. Though they were officially a part of the Tovar Family, Ves noticed that they had become increasingly more content with their current assignments.
+
+Ves hadn't made up his mind yet whether he wished to retain the Tovar mech designer on a long-term basis. Currently, they were all on loan, but this could change at any moment in the future.
+
+"The swordsman mech configuration is the weakest version of the Larkinson mech." Pachtold Tovar explained. "Aside from lancer mechs, melee mechs are a lot less useful in space combat due to the distances involved. Our swordsman mech configuration may have the defensive strength of a second-class mech, but the force it can bring to bear against its opponent isn't impressive."
+
+"The lancer mech configuration is in the same boat." Gloriana nodded in agreement. "When an opponent forces it into a dogfight, its inferior flexibility, acceleration and mechanical strength will severely hamper its close combat capabilities."
+
+Her point was clear to Ves.
+
+"The redeeming factor of lancer mechs is that they can amplify their mediocre offense by preparing a charge. That is not an option for swordsman mechs."
+
+Unlike the lancer configuration, the swordsman mech configuration wasn't able to absorb the shock of a charge. Therefore, any mech pilot who tried would definitely regret it for the short moment they remained alive!
+
+The weakness of the swordsman mech configuration weighed heavily on Ves. Every other role had a redeeming factor that proved their worth.
+
+The rifleman mech configuration provided valuable ranged support. When massed, they posed a serious threat against superior mechs!
+
+The lancer mech was their only answer against superior mechs. Visitt nov𝒆lbin(.)c𝒐/m for the l𝒂test updates
+
+The knight mech was the defensive bulwark that defended more vulnerable mechs and assets against enemy firepower.
+
+In the face of all of these vital functions, what was the raison d'être of the swordsman configuration?
+
+"This configuration is not as useless as you think." Ves declared to the other mech designers. "First, let's consider the overall use of swordsman mechs. Why do they exist? What makes them popular?"
+
+A short pause ensued before Pachtold spoke again.
+
+"Swordsman mechs are designed to defeat other mechs through a combination of power and technique. In space, their advantages are not as great, but they're decent all-rounders. They're resilient enough to act as budget space knights, they're fast enough to chase down ranged mechs and their ability to outduel superior opponents is amazing as long as the mech pilot is skilled enough."
+
+"Good summary, Pachtold." Ves nodded to the Tovar in appreciation. "If we don't have the swordsman configuration, we would miss an all-round option. It's our best duelist option by far and it can plug many of the gaps in our lineup. That said, there is one important reason why I insist on including this configuration."
+
+No one managed to guess his answer, which disappointed Ves.
+
+"They're needed to counter light skirmishers." He said.
+
+Realization appeared in some of the mech designer's faces.
+
+Unfortunately, some of the mech designers didn't take this revelation seriously.
+
+"DON'T UNDERESTIMATE LIGHT MECHS!" He shouted, startling his audience. "Look, I almost failed to escape the clutches of the Friday Coalition due to the power of light skirmishers. Sure, their armor is as thin as a data pad and their weapons are usually just a pair of daggers, but their edge in mobility is enough to turn battles around!"
+
+Ves personally lived through several battles where light mechs played a decisive role!
+
+"Can't our rifleman mech configuration shoot them down?" Someone suggested. "Even if they are too fast, we can coordinate the fire of our rifleman mechs to form a cage of fire. Regardless where the light mech tries to evade, it will never be able to escape getting hit."
+
+"That requires a lot of coordination and training, which isn't guaranteed right now." Ves shook his head.
+
+"What about our lancer mech configuration?"
+
+"It's only fast in a straight line, and it needs a lot of time to build up to this point. This is a stupid question."
+
+Merrill O'Brian finally spoke up. "Swordsman mechs aren't ideal against light mechs. I've seen plenty of light skirmishers outmaneuvering swordsman mechs in battle. At best, it's a skill-based matchup, but swordsman mechs are at a definite disadvantage due to their inferior mobility."
+
+Ves grunted in agreement. "You have a point. A better option would be to field our own light skirmishers, but that's not a realistic option at this point. A more defensive option would be to field striker mechs. Their shotguns and other wide-area weapons are excellent in area denial."
+
+"Can't we swap out the sword and shield of the swordsman configuration for a shotgun?"
+
+"We can.. If we want the resulting mech to run out of ammunition after five minutes of combat."
+
+In short, better options existed, but they weren't very viable right now! Depending on the swordsman mech configuration to hinder enemy light mechs was a compromise solution.
+
+Sometimes, a mech didn't have to excel in any single area, though that was often the norm in the mech market. Adding an all-rounder to a mech roster significantly increased the versatility of a mech force.
+
+More importantly, many mech pilots initially started learning swordsmanship in the mech academies. It was one of the foundational skills of mech combat, which meant that any mech pilot that wasn't suitable to pilot the other configurations could still fall back on the swordsman mech configuration!

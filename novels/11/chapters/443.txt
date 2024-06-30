@@ -1,0 +1,110 @@
+Majestic Desert Splendor
+0.00 / 0.00
+
+No one appreciated a light mech except for light mech enthusiasts. It took a special kind of mech pilot to truly enjoy the rush of speed, even if it meant sacrificing a lot of personal protection.
+
+The reason why Ves stuck to a medium weight class for his Crystal Lord design was because he did not wish to narrow its potential audience any further. An overly narrow mech design might not face much competition in its niche, but it would also be destined to obscurity.
+
+The main issue at play with the light skirmisher archetype was that its effectiveness drastically different on land, air and space. Gét latest 𝒏ovel ch𝒂pters on n𝒐v(e)lbj/n(.)c/𝒐m
+
+Light melee mechs saw the most use in landbound mech combat. Combat took place in smaller areas and mechs on land moved slower and their weapons exhibited many restrictions in range. This allowed light mechs to approach their landbound prey with ease by taking advantage of the natural cover of the terrain.
+
+Spaceborn combat stripped most of those advantages. Terrain on land was often complex, while space was literally and empty void. Light mechs would be as bare as as they were born if they flew through this completely open space as they approached their targets.
+
+The effectiveness of this mode of combat could be imagined.
+
+Granted, many battles in space occurred in slightly more complex environment. Only rarely would two enemy forces meet in the middle of empty space. Most of the time, a mobile force attacked a static position, such as a mine or a space station. These fixed features afforded light mechs with sparse but effective cover.
+
+Nevertheless, it would usually be the defenders taking advantage of available cover. This protected them from ranged fire and forced the attacking force to enter their kill zones.
+
+Reading through the summaries of the various battles the 6th Flagrant Vandals had fought, most Inheritors met their end in this way. "Shot down in the process of closing the distance."
+
+It was an ignoble end to any mech. Sometimes, the Vandals were obligated to attack a well-defended position. They possessed a number of knights that could absorb a decent amount of blows, the Hellcat being the most prominent one, but a charge needed to be supplemented by as many mech frames as possible in order to spread the incoming fire.
+
+In these cases, the mech commander in charge of the assault would always accompany the knights with a horde of Inheritors. Despite being one of the most fragile punching bags in space, the Vandals evidently had no qualms in employing them as cannon fodder.
+
+When Ves met with Laida again during lunch and told her his conclusions, she shook her head in sadness.
+
+"It’s horrendous." She spoke with a whisper. "The longer I stay in the Inheritor design team, the more I realize that none of them care. The only mech designer who still cares a bit is the temp from Rittersberg and myself, but we are growing number every day. It’s hard to prioritize decency when we are faced with constant demands to increase its cost-effectiveness."
+
+"I thought your design team isn’t making much progress these past few years."
+
+"That’s not exactly right. It’s true that we haven’t been able to increase the Inheritor’s performance parameters, but we did manage to shave off ten percent of its manufacturing cost in that time. Most of our efforts are spent on achieving as much cost savings as possible as opposed to actually improving the design in battle."
+
+That sounded really crazy to Ves. The Vandals spent an enormous amount of money and resources keeping everything running. He could certainly understand if they needed to be frugal with their spending, but cheapening an already barebone mech design even further was basically starving their own hunting dogs.
+
+"That sounds like your design team is trying to creatively cut as much corners as possible. There’s no way the structural integrity of the Inheritor design can be maintained."
+
+Laida nodded grimly. "It’s a tradeoff. If you can reduce the cost of the frame by one percent by substituting one material for another, you would accept it as long as it won’t weaken the mech too much. In this case, as long as the mech won’t weaken more than a tenth of a percent, the design team will accept the change with open arms."
+
+In other words, the Inheritor design had most likely weakened over time. A performance decrease of a tenth of a percent didn’t sound so bad, but its design team constantly applied new solutions.
+
+A tenth of a percent turned into a half percent. A half percent turned into one percent. One percent turned into two percent.
+
+This slide in performance didn’t happen fast enough for the mech pilots to notice, but that didn’t mean it was negligible. The effectiveness of the Inheritors would continue to decline and their mech pilots risked dying even faster.
+
+The Vandals was like an abusive parent to the Inheritor design. Even as they made use of it, they constantly talked it down or starved it in order to save on costs.
+
+Although Ves did not understand the priorities of the higher ups, he believed that their entire approach to the Inheritor design should be upended from the ground up. Rather than approach it from a perspective of reducing its burdens, they should instead seek to increase its value.
+
+When Ves laid out his suggestion to Laida, she did not seem very hopeful at his suggestion.
+
+"The Inheritor design doesn’t have much of a future in my eyes. All the low-hanging fruit has been plucked, so it’s nearly impossible to increase its parameters without increasing its cost or adding more weight and space."
+
+"I think a change in perspective is still necessary. Your design team has been seeking ways to cut its cost for so long that they forgot to do anything else. If it were up to me, I would have expanded the cost allowance by five percent or so in order to get them to start thinking into the other direction again."
+
+Laida remained skeptical. She believed that the Vandals couldn’t be shaken out of their established impressions of the Inheritor design.
+
+Ves wasn’t willing to settle this issue like that. So when he returned to his office, he compiled a report and sent it to Professor Velten. He also scheduled a meeting with her in order to explain his thoughts in person.
+
+He got to meet her later in the day. As he entered her office and sat down on the other side of the desk, he looked at Velten and tried to figure out if most of the demands on the Inheritor had been imposed by the Senior Mech Designer.
+
+Though she looked like an old lady and her mind wasn’t as agile as before, she still radiated a faint sensation of solidity. It was as if Ves faced a slab of compressed armor instead of a fragile human being.
+
+The Senior Mech Designer took no note of Ves when he entered. Instead, she fixated her attention on an unknown component design projected from her desk terminal.
+
+Ves curiously glanced at the part and tried to figure out what it did. It did not resemble any of the standard mech parts such as an engine or power reactor. His long-buried Signals and Communications Skill started to rouse itself from its sleep after he tentatively identified some sub-components that had to do with sending and receiving signals.
+
+If he had to make a guess, Professor Velten was working on a supersized transceiver customized for a very specific design. At this power and size, the transceiver should have no problem communicating through long distances and strong jamming.
+
+He guessed that Velten was preparing this transceiver for the upcoming grand raid on the Imodris Duchy.
+
+"Ah. Mr. Larkinson. You are here now. Good." She spoke as her head abruptly shifted upwards. She waved a hand which winked the projection out. "I have been anxiously waiting for you to report back on your progress. To my surprise, after an entire week, the only points of note in your reports are rehashes of old problems and a rather ludicrous suggestion that we should shift our paradigms concerning the Inheritor design."
+
+Though she sounded harsh in her judgement of his work, Ves did not immediately concede. He did not wish for his report to be filed away and forgotten by all. He strongly believed that the problems he documented and the solutions he proposed would measurably strengthen the Vandals.
+
+"Professor, forgive me for being somewhat blunt, but the Inheritor mech has long been stagnant as an actively developed design. Hardly anything improved except for its cost efficiency, and you know as well as I do that these cost savings came at a cost. The war we are waging against the Vesia Kingdom won’t end until a few years later. If the Flagrant Vandals intend to depend on the Inheritor design to carry them through the next five years, they should invest in making it stronger, not weakening it any further."
+
+The professor looked at Ves with a small frown. She tutted at Ves and knocked her desk with a finger. "Let me ask you something. Do you know how much credits it takes to support an entire mech regiment?"
+
+"I’m sorry, ma’am. I don’t have a clue."
+
+"There are many costs associated with running a force of over two-thousand mechs and all the logistics necessary to maintain them and to convey them across the stars. Fuel, salary, maintenance, replacements and more all form a persistent drain on our finances."
+
+"Yet the Hellcat and Akkara designs are both expensive and extravagant in terms of features. From my time in the Hellcat design team, I’ve noticed that everyone is constantly working on squeezing out more performance out of the hybrid knight. They might not always succeed, but they always strove to climb the stairs. It’s entirely different for the Inheritor. Everyone is walking backwards, going lower and lower until eventually they reach the ground."
+
+The analogy succinctly illustrated his point. Ves just hoped that Professor Velten would be swayed by his argument.
+
+Unfortunately, her face remained impassive. "The Hellcat and Akkara designs fulfill a very different role in our mech lineup. These mechs carry a substantial amount of armor and their longevity is great."
+
+In other words, even the professor treated the Inheritor like dog poop.
+
+"I think it’s a disservice to the Inheritor design if we think of it as a burden." Ves emphasized. "I am aware of the costs involved with improving the quality of this design, but I really think it is necessary to do so, ma’am. Just give it a chance."
+
+"No."
+
+"Uhm, pardon me?"
+
+"Nothing of the sort will be done." Velten spoke with finality. "Though I can see the merits in your unique perspective, that doesn’t outweigh the priorities of the Vandals and the mech Corps. There is no leeway in this matter."
+
+Ves continued his attempts at persuasion, but got rebuffed by the professor each time. He started to believe that Velten did not hold any decision-making power on this matter. She never relented on the expectations she had set on the designs she surpervised.
+
+The issue ended without any changes to the policies set by the Vandals. Ves was deeply disappointed at this outcome. It made him feel as if he wasted the entire week.
+
+"Perhaps it is a mistake to assign the Inheritor under your supervision. It is a very complex design that is bound to many goals." She thought of something else. "Perhaps you could need a break. It just so happens to be that we will soon be transitioning out of FTL to meet with a delegation of the Vesian Revolutionary Front. One of the terms of our deal with them is that they commit their own mechs to our forces. I’d like you to join Alloc as he studies their designs."
+
+His eyes began to shine. "I’ll do my best, ma’am."
+
+After wasting his time on the Inheritor, Ves deeply wished to experience something else. Meeting the Vesians and studying their mechs up close sounded just the right kind of thing to distract him from his failures.
+
+He also wanted to see for himself how chummy the Flagrant Vandals and the Vesians rebels acted in each other’s presence. Did they consider their cooperation a necessary evil, or was there something more behind this scheme?

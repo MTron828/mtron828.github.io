@@ -1,0 +1,158 @@
+Winter Wonderland
+0.00 / 0.00
+
+Ves looked at the fifth iteration of the Octagon’s radically redesigned armor scheme. He spent a week to come this far. The main changes he made involved setting plates in certain oblique angles that made it easier to deflect damage instead of taking it head-on. The use of subtle angles and a ribbed pattern made the mech appear as if it wore a crocodile’s skin.
+
+Incorporating such an unusual armor scheme came with a major disadvantage. By stacking the armor plates at an angle, Ves needed to incorporate more armor in the same surface area than if he stacked the plates at a flat angle.
+
+It was like using a pack of cards to make a house of cards instead of just placing them side by side. One method maximized the surface area, while the other method increased the density. In order to keep down the Octagon’s weight, Ves was required to shave off the amount of SquarePlate armor layers and skimp down on the FlexiPlate.
+
+"After all this work, I don’t think the mech’s armor has improved very much." Ves sighed. The dramatic improvements he anticipated hadn’t come true. Physical limitations simply couldn’t be bypassed no matter how many tricks he employed.
+
+"Still, it’s impressive enough that its ability to absorb damage is improved by 5% or so without impacting its agility."
+
+It came at a significant cost. The SquarePlate armor that he liberally used was more expensive than the Octagon’s stock armor while actually providing a slightly lesser amount of protection. If Ves wasn’t insistent on using a modular armor system, he could have made much higher gains with alternative armoring.
+
+Through his work, Ves felt he was missing an ingredient to make his ideas work. An invisible wall stopped his efforts in completely harmonizing the armor with improved protection while avoiding too many speed reductions.
+
+"This is a more complex problem than I thought." He concluded, and admitted that he underestimated the difficulties in conjuring up a magical solution that no one had ever thought about. "I’m too burned out to work any further on this design."
+
+He noticed a difference when he worked on the Octagon. When he worked on his two best products, the Fantasia 2R Seraphim and the CA-C1 Marc Anthony, he worked on them with a great amount of passion to the point of ignoring difficult-to-solve defects in their design.
+
+That was especially the case concerning the Seraphim, which he whipped up in record time very early in his career. If Ves revisited the Seraphim, he might just die from embarrassment from all the faults he left in the design. Yet Ves felt none of his pride for the design diminishing. The Seraphim was a successful product, and a handful of young Bronze League players enjoyed their time with it. The design possessed a spark of life.
+
+Could he say the same for his latest project? Ves estimated if he forcefully grinded out a new variant off the Octagon, he’d end up with a pile of junk. He learned something new today. No matter how much you focus your mind on a single intent, it didn’t replace real capability. His skills needed to keep up with the image in his mind.
+
+He revisited the image he kept in his mind. He wanted to design a hunter, a predator of the streets, one that could match the range of motion of apes while being able to fight like a human. He eluded all pursuit and instead chose to pursue his enemies. None could survive a blow they couldn’t see coming.
+
+"It’s missing a stealth option." Ves realized, then scratched his head.
+
+The 2-star generation of mechs offered more mature options for stealth, but they still had their flaws. It cost a lot of credits to purchase a license that was only effective in a very small range. He couldn’t justify the expenditure in a pure cost to benefit judgement.
+
+"But my feelings say it needs this option."
+
+The original Octagon made due without stealth. In highly urbanized environments, metal was everywhere, from the structures to the vehicles and even the pipes running underneath the streets. All these obstacles severely hindered certain sensors but not all of them. If an Octagon managed its heat and footsteps well, it could sneak up behind its prey or let them pass its hiding spot without detection.
+
+"It’s too slow though." Ves noticed the hole in such a tactic. "There’s no way the Octagon can jump on an alert opponent."
+
+In real life situations, mech pilots never knew how many opponents were on the battlefield. That wasn’t the case with arena-style matches, as the game always gave a team an equal amount of opponents. With such information in hand, the pilots would never let their guard down if they haven’t killed the expected number of adversaries.
+
+"There’s no way I am getting out of this without buying a stealth module."
+
+Ves let out a resigned sigh and followed his instincts. It kept nagging at him to plug this hole. He exited the Designer and turned to his desk terminal. He booted up Iron Spirit and visited the 2-star section of the market. He skipped all of the other goodies in his sight and focused solely on the stealth components.
+
+When it came to hiding mechs from the senses of others, the market offered many options. None of them were perfect but all of them cost a fortune.
+
+The particle ejector was the cheapest option. It worked by throwing a bunch of specialized particles in the air and let it spread wide in other to overwhelm his opponents with false readings. Specialized anchoring incorporated in the minute particles allowed them to hover in the air for an extended amount of time.
+
+The problem with such an approach was that it did not distinguish between friend or foe. You were likely to blind yourself and your allies if you pumped a lot of junk in the air. It also pretty much announced to the enemy that you lurked nearby and wished to come close and jump at them. Furthermore, the particles followed the wind and could be blown away easily in certain situations despite their anchoring.
+
+Another option involved employing active sensor countermeasures such as ECM. They came in many flavors and sometimes could do a lot of things at once. They could pump out noise that disabled certain long-ranged sensors. They could project a fake mech a distance away or they could produce many identical mechs in a small area to make it seem a single mech came in a big group.
+
+Ves wasn’t entirely unfamiliar with ECM systems. He used such a thing before in the Seraphim and the Phantasm and it supplemented the evasion of those mechs. It could benefit the Octagon as well as this model relied heavily on evasion when under fire.
+
+ECM came with its own downsides though. The more powerful modules slurped plenty of energy, could not fool all types of sensors and the act of turning it on full blast already radiated signals that could alert an unsuspecting opponent. It also couldn’t fool exotic sensors such as those that measured ground vibration. Lastly, the enemy pilot could simply cease relying on his machine and used his human senses to observe the battlefield.
+
+The last type of stealth measure was the use of specialized coating or armor. By cladding the mech with an outer layer that suppressed signals from bouncing back to the opponent’s sensors, it could quietly sneak around without getting detected by the enemy.
+
+However, same as the other options, such a trick was unable to suppress other signals such as sound and vibration. Opting for stealth coating or armor also meant missing out on more damage resistant options. For example, a popular add-on mech pilots like to buy was a special reflective coating that slightly negated incoming damage from lasers.
+
+The three options of chaff, ECM and stealth coating represented the limited progress of stealth technology at the time. More sophisticated solutions started to pop up in the following decades, but Ves had no access to them due to their higher star ratings.
+
+"The Octagon isn’t a saboteur, even though it can work as one."
+
+There was an important distinction in role. Saboteurs generally avoided seeking out conflicts and operated mainly behind enemy lines to attack critical infrastructure nodes. The Octagon on the other hand specialized in pure combat in dense, complex environments. What it needed was an aid to help it kill its enemies better, not a way to elude detection entirely.
+
+"Seems like the particle ejector is the most appropriate out of the bunch."
+
+The particle ejector might be limited in the amount of particles a single mech could carry, but the ejector was relatively low-tech and could be mounted pretty much anywhere. Besides the payload canisters, it weighed very little and drew very little energy as well, allowing for minimal disruption to the performance of the mech. Much like missile launchers, the real technology was in its payload and not its launching method. The particles one could launch varied in their density, longevity, wind sensitivity and more.
+
+Out of all the choices Ves had available, he picked a module that didn’t last very long but was highly effective in a larger area. His spending account shrank by 300,000 credits once he acquired the famed Relix Systems Valhalla Particle Ejection Module 1st Edition. Many other virtual mechs who sought out battlefield disruption methods chose the same particle ejectors. Its features were taylor-made for short duration but high intensity arena matches.
+
+With a new goodie in hand, Ves read the manual and familiarized himself as best he could with the new technology. The main issue he faced was to decide where to mount it and how many canisters he added to the mech.
+
+"At least the good thing about the canisters is that they can be ejected once they’re used up, much like the modular armor."
+
+Ves decided to be generous and added four refills alongside the canister in the ejector’s chambers. While such an amount was excessive for 1v1s, the pilot could always change his loadout beforehand in the lobby or discard the canisters at the start of the match.
+
+He went to work adding the ejector and canisters to the back of the mech. Adding them there disrupted the balance of the mech but preserved its full range of motion. Still, Ves found the addition to be troublesome. It was like adding a backpack to an athlete. No matter how little stuff was put in the pack, it still dragged down the person’s peak performance.
+
+"Wait a minute. The particle ejector isn’t very complicated. Why do I even need to make a fixed attachment?"
+
+There was nothing stopping him from improvising an external shell around the module. The component drew little power and only required a single data cable to communicate with the mech’s processors. Re𝒂𝒂d the latest stories 𝒐n nov𝒆lbin(.)com
+
+Using the Designer, Ves rapidly constructed a cage that held the projector and four additional canisters. He then added a couple of fixtures that attached the cage to the back of the mech who carried the contraption.
+
+He then turned back to his unfinished mech and modified the back to accommodate these fixtures. It was a little tricky designing slots that allowed mechs to attach and detach something from behind, but the Octagon’s impressive range of motion for its arm helped make it viable. It actually took a day of tweaking to refine the design.
+
+After accomplishing all that work, Ves smiled at his work. The variant’s capabilities had increased without negatively impacting its mobility. If the mech was on the hunt, it could engage its particle ejector beforehand and detach it from its back once it did its job. After stowing it in a corner, the mech could fight to its heart’s content. It could return to re-attach the particle ejector if it successfully survived the battle.
+
+"The only problem emerges if the mech is attacked from behind."
+
+In order to accommodate the attaching system, Ves was forced to poke some holes in the rear armor. While not very large, these gaps provided enemy sharpshooters a small chance to disable the modified Octagon in one shot depending on its damage type and caliber.
+
+Everything had its tradeoffs. Ves chose to go down this path because it fit his variant’s hunter mentality. "Let’s add to the flair."
+
+As Ves had incorporated the Festive Cloud Generator in pretty much all his mechs, the new Octagon was no exception. He added a high capacity version of the module to the particle ejector cage. Ves set its color profile to be a psychedelic mish mash of bright colors, though he also added in the usual white, grey or black presets to its settings so that pilots could pick whatever they preferred.
+
+Ves programmed the Cloud Generator to go off just as the particle ejector launched its own payload. The colorful mist and the disruptive particles would then mix together and drown the local area with both sensor dampening particles and disorienting rainbow mist.
+
+Naturally, mechs possessed alternative sensor modes to make the latter useless, but it was a nice psychological trick to force enemies to switch anyway. He even tweaked the Octagon’s viewing mode to switch automatically once it activated the particle ejector.
+
+"Hm, the Octagon’s sensors aren’t very exceptional either."
+
+The main problem with throwing crap in the air was that it affected everyone indiscriminately, including the Octagon. With the level of technology back then, Ves had no good solutions to mitigate this problem. Incorporating high-powered sensors not only drew more energy than he was comfortable with, they also acted as a lighthouse in the middle of the dark, practically exposing the mech’s location.
+
+"It’s up to the pilot to make the best out of the equipment. I can’t do anything else to help."
+
+Ves refined the mech’s armor scheme once again in order to properly accommodate the cage on its back. With its spear and knives, the mech looked more menacing than the base model. He spent two more days on refining its angles and perfecting its balance so that the mech wouldn’t lean too forward or backwards whether it carried the cage or not. After a final polishment, the variant came near to its final form.
+
+The last step involved adding the coating. Ves chose to mimic the base model and gave the mech in a highly reflective chrome exterior. Such a choice made the mech difficult to hide from optical sensors, but it might provide an interesting appearance when it fought in the middle of its particle cloud.
+
+Once he fully completed his design, Ves gave the mech a name. "Let’s call you the Mist Prowler. Well System, how did I do?"
+
+[Design Evaluation: Mist Prowler.]
+
+Variant name: O-225CM Mist Prowler
+
+Base model: Octagon O-225C
+
+Original Manufacturer: Globe-Elstar Corporation
+
+Weight Classification: Medium-Light
+
+Recommended Role: Guerilla Fighter
+
+Armor: C+
+
+Carrying Capacity: E-
+
+Aesthetics: B
+
+Endurance: B+
+
+Energy Efficiency: A
+
+Flexibility: A
+
+Firepower: F+
+
+Integrity: C
+
+Mobility: B+
+
+Spotting: D+
+
+X-Factor: E
+
+Deviance: 37%
+
+Performance improvement: 14%
+
+Cost efficiency: -50%
+
+Overall evaluation: The Mist Prowler is a reimagining of the base model that performs slightly better at a much higher cost. The mech features a redesigned armor scheme that has marginally improved its damage absorption capacity but provides increased mobility in battles of attrition. The added particle ejection system gives the mech an advantage in shorter battles if the pilot is skilled enough to make the best out of the opportunity.
+
+[You have received 75 Design Points for completing an original design with a performance improvement of over 10%.]
+
+[You have received 100 Design Points for designing a mech with a trace of X-Factor.]

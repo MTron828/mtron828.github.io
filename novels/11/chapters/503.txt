@@ -1,0 +1,124 @@
+Sweat, Strength, Success
+0.00 / 0.00
+
+The official reports and summaries painted a fairly rosy picture of the mechs he needed to take care of. Even a three-year old child could spot that the people who wrote these reports tried to paint themselves in the the most favorable light. ViiSiit n𝒐velb𝒊/n(.)c/(𝒐)m for l𝒂test 𝒏𝒐vels
+
+They might not be telling outright lies, but there were many ways someone could massage a report. Ves did it plenty of times in school when an assignment was due but hadn’t spent enough time in his studies.
+
+Fortunately, very few of the people who wrote the reports had mastered the dark arts of bureaucracy, so Ves easily deduced their transparent attempts.
+
+By and large, most mech captains demanded more or better resources. Both of these demands came with different benefits. Allocating more resources to their units allowed them to bounce back faster after sustaining losses. Raising their allowance better resources allowed them to upgrade their mechs.
+
+Some mech companies wanted to build up a deeper reserve. Others wanted to raise the overall quality of their mech roster. The greediest mech companies even begged for both.
+
+Fortunately, the mech captains already got used to being rejected. No matter how much they whined, the people in charge of procurement and resource management couldn’t conjure materials out of thin air.
+
+Still, the constant exaggerations in the reports made it difficult for Ves to get a true picture of their current state. Ves needed to dig beyond that and study individual maintenance reports and such to get at the heart of the matter.
+
+This was extremely tedious work. A regular person needed months to process all of the documents. They not only needed to pick the most relevant files to read, they also had to recognize the most relevant data and interpret them into useful information.
+
+Leaving the work aside to AIs provided unreliable conclusions, because Ves quickly realized the raw data had been fudged as well.
+
+"It doesn’t take that much volume to replace a chest plate."
+
+The AIs hadn’t been trained to pick up these subtle irregularities in the data. Even an average mech designer wouldn’t be able to spot the differences, because they often skirted around the margin of error.
+
+Basically, it was as if Ves told a kid to purchase lunch for himself. The kid runs to a sandwich store and then comes back to Ves to tell him that it costs 2 credits for a sandwich. Ves had no reason to doubt this price, so he casually transfers the credits to the kid, who proceeded to buy his lunch.
+
+In actual fact, the kid hadn’t been entirely accurate when he reported the price. The sandwich actually cost 1.99 credits, which amounted to a discrepancy of 0.5 percent.
+
+"A loss of half a percent isn’t much in normal circumstances." Ves determined. "But at the scale the Vandals are working with, it’s a serious problem."
+
+Nobody cared about this problem if it happened in a low-level situation such a kid trying to fool their parents. The parents only lost 0.01 credits, which was an absolute pittance to even the poorest citizens of the Republic.
+
+Mech regiments operated at a scale of billions of credits. The upkeep of a standard mech company that consisted of forty active mechs and twenty or so reserve mechs already amounted to tens of millions of credits.
+
+Naturally, this credit sum would easily spike in the hundreds of millions of credits after every operation when a mech company sustained several casualties. These periods of intense demands and vigorous repairs led to a large amount of resource transfers.
+
+It would be easily to slip in a discrepancy in the midst of all of this activity.
+
+Frankly, if Ves hadn’t started up his own business from the ground up and fabricated many copies of his own designs, he wouldn’t have developed an eye for this sort of stuff. The covert manipulation of resource usage effectively amounted to embezzlement.
+
+His face grew dire at this realization. Who was responsible? Who would enrich themselves or increase their leverage at the cost of the entire mech regiment?
+
+"The mech officers probably aren’t in it." He quickly determined. "They don’t have the technical acumen to pull off this kind of heist."
+
+Besides, their whiny reports emphasized other faults.
+
+That left Ves with three categories of culprits that he could think of. "It’s either the mech technicians, the mech designers, the logistics officers, or a combination."
+
+He ruled out the latter two. A conspiracy between multiple parties involved too many people. News would get out sooner or later in that case. As for the people responsible for logistics, having worked alongside them for a time, Ves knew that they held themselves to a rigid standard of precision.
+
+One of the things he learned from Professor Velten’s reports was that logistics had often been in a state of shambles with the Vandals. The lack of talent sent in their way and the dubious integrity of anyone exiled to their mech regiment meant that their records were filled with lies. Their account books contained more imagination than fantasy books and various discrepancies brazen exceeded fifty percent.
+
+Colonel Lowenfield’s arrival to the Vandals upended their awful tradition of sloppy record-keeping. She overhauled the logistics department of the Vandals from the ground up. She kicked out or demoted the worst offenders while forcing the remainder into gruelling re-training sessions.
+
+The Vandals kicked and screamed when they had to go through this painful reorganization process, but it was an act akin to cutting out the sickened flesh from a diseased body. Over time, the Flagrant Vandals enjoyed the benefits of cleaning up their act.
+
+As one of her most important pet projects, the transformation of logistics should have been a continued priority of Colonel Lowenfield. Under her persistent gaze, nobody would even think of skimming from the top.
+
+"So it’s either the mech technicians or the mech designers who are taking advantage of this somehow."
+
+The main question rolling in his mind was how someone benefited from the embezzlement. It wasn’t as if anyone could expect to hide a few hundred tons of alloys underneath their bunks.
+
+"The materials being embezzled will need to be used immediately. They can’t be stored for long, or else the pervasive monitoring system in every ship will pick up the goods."
+
+Ves tried to imagine how it could work. He envisioned a situation where some low level mech technician inputted a resource usage of 5000 kilograms of lightweight alloys, but his actual usage only amounted to 4975 kilograms. That left this mech technician with a small but fairly substantial surplus of 25 kilograms, which would be worth tens of thousands of credits if sold in the open market.
+
+"How can that low level mech technician transform 25 kilograms into actual credits?"
+
+Ves saw no way this could be done, not without the Vandals detecting something fishy.
+
+"Maybe it’s not about earning credits."
+
+Perhaps the illicit trade took the form of an internal black market among the Vandals. Perhaps the mech technicians became tired of working under scarcity, and developed this method as a way to get their hands on critical materials that the high and mighty wizards that worked at logistics refused to dispense in their hands.
+
+This sounded a lot more innocious than trying to sell the embezzlement materials in exchange for money. While it was still an unacceptable practice, it fell into the maxim that the Vandals needed to get things done no matter the rules.
+
+In such a case, Ves didn’t feel inclined to stamp it out as long as the embezzlement remained within the range of the margin of error. He knew that being uptight in a mech regiment with a fairly weak tradition for exactness spelled a lot of trouble.
+
+In the end, Ves wrote up a report of his observations and backed them up with proof from the data available to him. After some thought, he marked his report as sensitive. Only Major Verle and his staff would be allowed to read its contents.
+
+"Iris."
+
+"Yes, boss?" The woman looked up from her desk.
+
+"Please bring this secure data chip to Major Verle or Lieutenant Commander Soapstone."
+
+Iris stood up from her chair and walked over to receive the data chip. "Who do you want me to approach first?"
+
+"Try bringing it to the attention of the major if you can. If not, you can try your luck with Soapstone. Whatever you do, don’t let anyone else receive the data chip. Its contents are fairly sensitive."
+
+Iris threw a questioning gaze at Ves, but he refrained from throwing her a hint. Perhaps he was making a mountain out of a molehill, but he really didn’t wish to leak out his suspicions. If the more serious kind of embezzlement happened under the table, then he risked making powerful enemies among the Vandals.
+
+Now that he wore the hat of head designer, he needed to rely on trust, persuasion and mutual interest in order to enact his changes. Burning his bridges with the offending party within the first days of his job was a one-way ticket to irrelevance.
+
+Ves watched her leave their combined office and hoped that the major wouldn’t refuse the data chip.
+
+Early on, he memorized the names of the staff under Major Verle. He found out that Lieutenant Commander held the reins with regards to resource procurement and allocation. As the powerful staff officer in charge of logistics, she could directly empower or cripple a mech company in the task force according to her whims.
+
+Of course, Soapstone wouldn’t get away with overt favoritism. In fact, from the rumors he heard, Soapstone was one of Lowenfield’s protégés.
+
+One of the more peculiar aspects of logistics officers was that they would sometimes be fulfilled by someone holding a naval rank rather than a mech rank. The Mech Corps operated on a weird organizational structure where the mech officers held army-like ranks while the ship officers adopted naval ranks.
+
+This might lead to confusion sometimes, but overall the primacy of mech officers was well-established. Back in the Age of Conquest, an admiral was more powerful than the president of a state. The power to determine the life and death of entire planets was a powerful drug.
+
+Now that humanity reached the Age of Mechs, nobody would bat an eyelid if a mech captain issued orders to a fleet commander.
+
+Ship officers worked in the background these days, so nobody found it strange that they would be subordinated in such a fashion.
+
+When Ves entrusted the data chip to Iris, he wasn’t afraid she would succeed in cracking it and peek at its contents. While the Flagrant Vandals endured lot of neglect from headquarters, they still enjoyed access to their central database, thereby allowing them to employ the latest technologies available to the Mech Corps.
+
+The military-grade data chip that Ves handed over to Iris came packed with a dizzying array of security features, all without adding to its bulk. The moment someone tried to tamper with it, the entire data chip would go up in flames and melt into a useless puddle of alloys and composites. Nobody could retrieve any data from the melted chip unless they possessed the power to turn back time.
+
+Besides, with the ever-present monitoring going on, Iris would never have the opportunity to fudge the data chip, even if she visited the toilet.
+
+Half an hour later, Iris returned. "Major Verle probably likes you a lot, because once I told him that the data chip, he immediately accepted it. He pushed aside his other work and started digging into it immediately."
+
+"Did he tell you anything or pass on a message to me?"
+
+"Not as far as I’m aware of, boss." She replied. "A few seconds in, he shrugged and dropped his smile. I think he deliberately adopted a poker face in front of me. He also activated a privacy screen around his desk after shooing me away."
+
+That didn’t tell Ves very much. In the back of his mind, there was always a chance that Major Verle might have a hand in the embezzlement. If this sort of dealings happened with the blessings of the major himself, then Ves might have landed himself in a very deep swamp.
+
+He still had his principles though. Ves made his choice. Now the ball was in the major’s court.

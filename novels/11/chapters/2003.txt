@@ -1,0 +1,128 @@
+Cuteness Unleashed
+0.00 / 0.00
+
+Chapter 2003 Design by Role
+
+When Ves began to expand on the draft of the Hexer mech with Gloriana, they encountered a lot of initial difficulties.
+
+Second-class mechs were more powerful than the mechs he was used to designing.
+
+Even so, there were several tiers of second-class mechs, ranging from the cheapest economy models that were only modestly better than his Bright Warrior to the ultra-advanced premier mechs that were within throwing distance to first-class mechs!
+
+A vast spectrum existed between the two extremes. What a newcomer like Ves ought to do was to dip his toes into the water by entering the shallow pool first.
+
+Instead, he dove head-first into the ocean by tackling a mech design that was meant to be on par with the military mechs of the Hex Army!
+
+Having participated in the development and maintenance of the mechs of the Bright Republic's Mech Corps, Ves knew that there was a significant difference between private mechs and government-funded mechs.
+
+Right now, this meant that Ves abruptly had to work with a category of mechs that was a bit too much for him to grasp!
+
+The insane performance parameters of the components made available to them blew any third-class mech out of the water! With each component performing several times better than their third-class equivalents, Ves found it very difficult to estimate the overall performance of his draft in a real setting.
+
+Additionally, many of the components that used to take up a lot of space were suddenly smaller and lighter. Sensor systems, mech engines, power reactors and more came in both bigger and smaller models, providing mech designers with a plethora of options to choose from! Ves soon became unable to see the forest from the trees as he was unable to determine which components he should include in his mech design in a miniaturized form or keep them at full size!
+
+Gloriana placed her hand on his forearm. "Calm down, Ves. I know this catalog of components can be overwhelming to you, but that doesn't mean your old approach is wrong. You've always centered your design choices around your vision. This time should be no different. Ignore the flashy features of all of these components and just choose something by going down a list of priorities."
+
+He sighed. "That's the problem, Gloriana. I initially conceived of my concept when I didn't have a clear picture of how a military mech ought to perform."
+
+"You watched the battle footage of our mechs in action, did you not?"
+
+"I did, but that was from an outsider's perspective. Now that I am exposed to the full might of second-class mechs, I am a bit less certain on what to go for with our Hexer mech."
+
+A brief silence ensued as Ves massaged his forehead while Gloriana fell into thought.
+
+"You have me, Ves. You don't have to shoulder all of the burden alone. In our past design projects, you've taken the lead all the time. Maybe you should relinquish some more decisions to me this time. I'm a lot more familiar with these advanced components than you, and I have a much better grasp on the level of performance that is expected of this kind of mech."
+
+She was right, though Ves noted an issue. "Aren't you incapable of designing non-custom mechs?"
+
+"I wouldn't say I'm incapable. I just don't prefer it. It's not a problem for me to take care of these general problems, but I still need you to help complete this design."
+
+"Okay."
+
+They began to go back to the drawing board in a sense and reviewed their current mech concept. The vision that Ves had come up with was fine, but the technical details needed some refinement.
+
+"So you're still going with a landbound knight mech?"
+
+"Yes." Ves nodded. "It's what I'm most familiar with and it's the simplest mech type by nature. I thought about designing a rifleman mech instead, but they are often spread out throughout the battlefield or placed in the rear. What I want is a mech that can support the female Hexer mech pilots up close."
+
+"That is sound reasoning. I agree. What else?"
+
+"I'm not sure whether to emphasize the defense or mobility of my mech. There are advantages and disadvantages to both, and I'm not sure which one I should choose. Prioritizing defense is good if my support mech is deployed in defensive battles, while prioritizing mobility makes my mech a lot more useful in offensive actions."
+
+The same applied to third-class mechs. His Blackbeak may not be the most ideal defensive mech, but its relative mobility was so good that it could keep up with offensive mechs when they went on the attack!
+
+However, Ves confidently designed the Blackbeak because he was very familiar with the way that third-class battles were being fought. His father was a mech pilot and his entire family regaled him with many tales of mechs in action.
+
+The same rules didn't apply to the higher classes of combat. Second-class mech battles were very different due to the higher levels of performance and added versatility of the main pieces.
+
+A second-class knight mech was often not 'just' a knight mech. They often incorporated at least something extra to make them stand out from the competition. It was like the gimmicks that Ves used to add in his mech design in a much stronger form.
+
+The question now was what kind of capabilities he could add to his Hexer mech.
+
+"What kind of features do existing knight mechs in the Hex Army come with?" He asked.
+
+"There are a lot of choices depending on the intended role of the mech. For example, defensive mechs often incorporate some self-repair functions to sustain its presence on the battlefield. They can also carry jamming arrays that can interfere with scans and targeting systems in order to prevent the enemy from targeting critical assets."
+
+"What about offensive knight mechs?"
+
+"Oh, sometimes they come with augmented flight or boosting capabilities in order to speed up their navigation or charges. They can also come with augmented shields or more specialized fields that can temporarily mitigate energy attacks within a small radius around the mech. There are also knight mechs that can carry support systems that can rapidly repair certain types of battle damage in the field, though those systems are usually found on dedicated support mechs or support vehicles."
+
+Support mechs were machines that weren't explicitly designed to attack. Instead, they worked to support their own side by resupplying their spent reserves or fixing up some battle damage in the middle of an active engagement.
+
+While they weren't as good as a bunch of mech technicians in a mech workshop, these support mechs were nonetheless vital in extending the operation time of a lot of mechs.
+
+Because their functions weren't as critical as mechs designed for battle, some forces eschewed support mechs for support vehicles instead.
+
+Piloted or crewed by norms, support vehicles essentially fulfilled the same functions just as well, though they were completely helpless if they were cornered by an enemy.
+
+As could be imagined, the Hex Army only crewed these support options with boys!
+
+Right now, Ves wasn't interested in designing a support mech or any kind of utility mech for that matter. He was still rooted in third-class mech design where every mech was expected to fight in one way or another.Gett your 𝒇avorite 𝒏ovels at no/v/e/lb𝒊n(.)com
+
+To him, designing a support mech that couldn't even hurt a fly was not a good entry into second-class mechs. He didn't want his products to be interpreted as support machines, even though his design philosophy conveyed a lot of advantages in this aspect.
+
+As a man, he wanted to design mechs that could demolish other mechs!
+
+Unfortunately, the Hexer tradition of limiting the offensive options of male mechs posed a huge hindrance to this urge!
+
+"You can't add secondary weapon systems to our current mech design." Gloriana warned him. "No missile launchers. No electrorods. No grenades. No integrated laser mounts. The extra functions either have to be defensive or supportive in nature. No exceptions."
+
+Ves adopted a sour expression. "I really want to add some ranged options to our Hexer mech. One of my most persistent complaints about my Blackbeak and Aurora Titan designs is that they can't effectively retaliate against ranged mechs. I thought I could change that now that I'm working at a higher tech level."
+
+"It's fine if you want to design a mech for a different audience, but the Hex Army absolutely forbids this. I think you don't quite get it, Ves. Male Hexer mechs aren't truly meant to defeat their opponents. Sure, a knight mech can defend itself when threatened and a ranged mech won't receive any blame if it scores a lucky hit, but female mechs must always be responsible for the majority of kills! Everything that male mechs can do must facilitate the actions of female mechs in some way. Hexers can't imagine a situation where it's the other way around!"
+
+That sounded completely absurd to Ves! Yet so far, the Hexers didn't seem to find a problem with this artificial separation. They were doing decently enough in the Komodo War to suppress any voices that advocated for change.
+
+He breathed deeply. He was not a social activist nor a politician. He was just a mech designer. It wasn't his job to advance certain causes or alter the arrangements of his client.
+
+Perpetuating any perceived injustices, even if it offended his sensibilities, shouldn't even be a factor. As long as he accepted a commission, he had to do his best to advance the interests of his client, even if DIVA forced it down his throat this time!
+
+"What would be a good supportive module to add to our knight mech?"
+
+"Hmm…" Gloriana pressed her finger against her lips. "There are many options to choose from. I think we should first determine the role and sub-role of our mech. Offensive or defensive?"
+
+"Offensive." Ves answered. "I think second-class offensive knights are already resilient enough. Defensive mechs at this level are completely excessive and over the top when it comes to their capacity to resist damage."
+
+"You'd be surprised at what kind of firepower the Fridaymen can bring to bear against fortified positions. Many defensive mechs in the Hegemony are designed to withstand focused bombardment by artillery mechs, you know."
+
+"Well, I don't want to design a turtle. I want a mech that moves!"
+
+"Okay." Gloriana nodded and noted it down. "So right now we have a knight mech that possesses enough mobility to keep up with most offensive actions. What else?"
+
+Ves rubbed his smooth-shaven chin. He recalled the battle footage he had seen and tried to identify the most glaring difficulties the Hexers experienced when they resisted the Fridaymen.
+
+"From what I can gather, Hexers are better in shock tactics while the Fridaymen are more proficient in attrition warfare, isn't that right?"
+
+Gloriana immediately glowered. "We're not that incompetent! We can last in lengthy battles just fine!"
+
+Ves ignored her objection. "I think our Hexer mech should be adapted to the rigors of attrition warfare. This also happens to be one of my strong points. Unlike almost every mech designer, I actually lived through several battles. Even if second-class mechs are fancier than the machines I'm used to working with, they are still subject to the same challenges. Am I right?"
+
+She reluctantly nodded. "There are some differences."
+
+"Whatever. Second-class mechs are energy-hungry machines, right? What if I base our Hexer mech around energy collection, storage and distribution?"
+
+Gloriana shook her head. "A support mech can fulfill that function better."
+
+"In the frontlines? At the tip of the spear? I bet that any support mech will get targeted by the enemy right away! Taking out the source of replenishment and resupply is always useful, especially when they aren't designed to take hit! Our mech will be different! Not only can it function as a source of rapid resupply, it can also make use of all of that energy to empower its own capabilities, all the while advancing to the thick of the fighting!"
+
+This time, his argument took hold. Gloriana looked a lot more intrigued than before!

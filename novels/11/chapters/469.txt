@@ -1,0 +1,158 @@
+Cuteness Unleashed
+0.00 / 0.00
+
+Only half a dozen mech technicians lounged in the mech stables. All of them appeared to be seasoned men and women, so at least Ves wouldn’t be dealing with inexperienced rookies.
+
+He still wore his light combat armor, which would be suitable to wear among soldiers, but not among techs. So Ves removed his helmet before addressing the techs.
+
+"My name is Ves Larkinson, and I’ll be taking charge from here on out." He stated simply, trying to channel his inner chief technician.
+
+Having observed several chiefs in his brief career, Ves learned that they didn’t throw their weight around too much. They just seemed to radiate confidence that their word was law and that obedience was a given. The assumption of authority often times turned into actual authority.
+
+In other words, as long as Ves pretended to be the boss, other people would see him as the boss.
+
+"Who are you?" A burly woman asked with narrowed eyes. "We ain’t listening to brats like you. Scram!"
+
+"I’m a mech designer."
+
+That caused a couple of the mech technicians to laugh. "That’s all the more reason for you to get out! You useless nerds are all the same, thinking you can boss us simple-minded grease monkeys around. Well we grease monkeys know far more about putting mechs back together than you ever will!"
+
+Ves understood what went on. They probably mistook Ves for a low-ranked mech designer that would often be assigned to supervise the mech technicians in the workshops and machine shops. Ves felt for some sympathy for the techs if they had been ordered to follow instructions from a sad sack of meat like Filkis.
+
+However, Ves was not Filkis.
+
+If the assumption of authority failed to go through their thick skulls, then maybe a more direct application of power would work. Ves walked closer and closer until he almost pressed his face against the chest of the tallest and presumably strongest mech technician.
+
+"Will you listen to my orders, I do I have to teach you a lesson?"
+
+Everyone grinned, and the tall guy crossed his meaty arms as if he faced an angry kitten. "You? Teach me a lesson? Are you even qualified?"
+
+Though his combat armor gave him a bit of height, Ves couldn’t match the bulk of the tech in front of him. Nevertheless, Ves reared his armored fist back before punching forward. He deliberately telegraphed the move because he wanted to make a point.
+
+All the techs including his target looked on with amusement. Light combat armor didn’t add any strength enhancements to the wearer like an exo-skeleton suit. Thus, they all expected this young and delicate-looking nerd to hurt his own knuckles.
+
+What actually happened was the giant tech getting punched off his feet. His body slid backwards and landed in a painful heap. To his credit, the man didn’t scream out in pain, but his squirming made it clear that the punch had dealt a significant amount of damage.
+
+"What are you?! You’re no mech designer!"
+
+"You cheated! There must be some engine buried beneath his combat armor!"
+
+"SILENCE!" Ves yelled. Though his voice sounded a little shrill, the apprehension he evoked among the techs with his punch caused them to take him seriously for once. "Fall in and report!"
+
+After helping the tall guy up his feet, the techs all formed a line.
+
+"We’re at your disposal, sir!"
+
+They proceeded to get down to business. Ves toured the mech stables and workshop areas that the Vandals appropriated from Javier’s Dastardly Handsome Bastards. The techs pointed out a couple of details of each mech along the way, half of which consisted of light and medium bestial mechs.
+
+All of the mechs hung silently in their berths, unable to be roused from their slumber without the right access credentials.
+
+"Is anyone from Javier’s Dastardly Handsome Bastards left alive? We might have a chance of unlocking them with the help of a prisoner."
+
+They all shook their heads. "We all thought of that before, but the Bastards ran away through an emergency escape tunnel when they realized they wouldn’t be able to hold the base. Every survivor got away clean."
+
+"Damn." Ves sighed and looked at the fairly cheap but serviceable mechs.
+
+The Flagrant Vandals needed these machines in working condition. Without mechs, the Vandals under Captain Orfan were only Vandals in name. Their ability to project power onto Neron City would be limited to just a few blocks from this former mercenary base.
+
+"Have you managed to activate any mech through your own efforts?"
+
+"No, sir." One of the technicians answered glumly. "We’ve tinkered with the hardware and software locks, and only managed to fudge the former a bit. We’re clueless when it comes to getting around the restrictions set by the operating system."
+
+"Let me take a look."
+
+Ves climbed up to the cockpit of a bestial mech and analyzed the interior. He borrowed a feel tools from the mech technicians that climbed with him and withdrew some panels to look at the electronic guts underneath.
+
+"Well, the good news is that this is a fairly cheap and old mech model. Their security systems are relatively basic and I think it’s possible for me to fudge these components."
+
+"Will we able to bring these mechs back online, sir?" The mech technicians glowed with hope. They finally started to acknowledge Ves as a competent mech designer.
+
+"Not yet. These hardware locks are so basic that they’re only here to prevent some whiz monkey from hacking this mech from a distance. The true challenge for me is to overcome the security restrictions in the software."
+
+A modern mech was not a giant mechanical clockwork that operated through hydraulics, steam pressure or ropes. Mechs were far too complex to rely on such simple and antiquated control methods.
+
+Instead, a mech was more akin to a control center surrounded by thousands of different systems and subsystems.
+
+To control such a gargantuan collection of mechanisms through simple commands was so ludicrous that any mech designer who proposed such a thing would be stripped of his accreditation and be booted from the mech industry!
+
+Having worked under Alloc for a couple of times, Ves gained a new appreciation of the importance of good programming. The material components formed the body, while the programming acted as the mind that allowed the components to work in unison.
+
+Therefore, the complete lock imposed by the operating systems by the mechs simply couldn’t be bypassed through any simple methods, such as wiping them out an installing new programming.
+
+Ves either needed to work within the rules imposed by the operating system, or he needed to hack it in a way that didn’t trip any failsafes.
+
+"I really wish Alloc was here. He would have unlocked these mechs with the snap of his fingers."
+
+Sadly, the task fell to him. It was a good thing he wasn’t completely helpless in this regard. His self-made comm still contained a suite of hacking software. It should be able to hack most lastgen mech models below a certain price point, but the Dastardly Handsome Bastards happen to utilize currentgen mech models instead.
+
+His bootleg hacking software might not be very effective, but the only way to find out was for Ves to make the attempt.
+
+"Stand back." He instructed everyone else. "I’m going to attempt to hack the mechs. While I don’t think anything will happen if I fail, the Bastards may have booby-trapped them against attempts at theft."
+
+The mech technicians obediently retreat. Ves even placed his helmet back on his head to form a completely protective seal.
+
+"Here goes nothing."
+
+Ves activated his hacking software and directed it to work on the bestial mech. Its console came to life and spat out a torrent of data, much of it Ves didn’t understand. After a minute or so of scrambling, the console finally displayed a very firm message.
+
+[ACCESS DENIED.]
+
+"It was worth a try."
+
+Ves didn’t give up. He left the cockpit of that mech and tried to hack another one.
+
+[ACCESS DENIED.]
+
+Undeterred, Ves continued to cycle through several mech. When he reached the sixth mech, Ves finally received a different message.
+
+[ACCESS GRANTED.]
+
+"Yes! It worked!"
+
+The bestial mech in question successfully came online. The cockpit bloomed to life as many different consoles lit up. Outside, its exterior lit up a bit as several lights blinked in different colors that corresponded to a standard startup sequence.
+
+"Mr. Larkinson did it!"
+
+If nothing else, his success truly cemented his authority over the mech technicians. When Ves squired out of the cockpit, he ordered them to ready the mech for action.
+
+"Refuel this mech and perform some light service on it while you’re at it. Get it done within an hour as we can’t afford to keep it idle for long. We need to start the hunt for Lord Javier as soon as possible, and we won’t be able to go anywhere without our own mechs."
+
+"Aye, sir, we’ll get on it right away!"
+
+They didn’t hesitate at all this time. Mech technicians without working mechs were like fish out of water. Now that they finally got to taste some drops, they immediately focused on their tasks. They hadn’t forgotten the import of their duties.
+
+Ves nodded in satisfaction. Even without a chief technician riding over their shoulders, they possessed enough sense not to slack off for too much. Still, as he paused and observed their work, he found out why these techs ended up in the Vandals instead of a more prestigious mech regiment.
+
+Their ability didn’t quite measure up to the true professionals of the Mech Corps. The amount of care and attention they put to their own safety was worrisome, and some exhibited annoying habits such as banging their tools against the object they were trying to service if anything didn’t go too well.
+
+"Stop trying to hit the mech with your multitool!"
+
+"Uh, ahm, sorry, sir!"
+
+A few minutes later, the same guy started hitting the mech with his tools again.
+
+Problematic or not, Ves didn’t have anything else to work with, so he tolerated their eccentricities. Now that he got one mech to work, he was eager to unleash his hacking software to the other mechs in the stables.
+
+After entering and exiting around twenty mechs in decent shape, he got around six of them online. Three of them consisted of bestial mechs while the other three consisted of humanoid rifleman mechs. It was a good mix of mechs, and should serve Captain Orfan well.
+
+He contacted his superior through his comm. "I’ve got one mech ready to go, with five more mechs in the pipeline, ma’am. As for the remaining mechs of the Dastardly Handsome Bastards, it’s unlikely I’ll be able to get them up and running any time soon."
+
+"I knew you wouldn’t disappoint me!" Captain Orfan grinned in a savage manner. "Good work, Mr. Larkinson. Six mechs are sufficient for now, as I don’t have a lot more mech pilots to spare. Ready them all for action as soon as possible. The main Vandal ground force is being stalled by much more resistance from Eneqqin’s household troops than we anticipated. It’s vitally important that we take over some of their duties from behind enemy lines."
+
+Ves wondered whether their meager numbers would amount to anything, but he kept his doubts to himself. "I do have to mention that three of the mechs are bestial instead of humanoid. Will that present a problem?"
+
+That caused Orfan to drop her grin a bit. The Flagrant Vandals uniformly utilized humanoid mechs.
+
+The only exception might be the Akkara heavy cannoneer, but that was basically a really big and fat humanoid mech with four instead of two legs. It didn’t take too much effort for a normal mech pilot to adjust to its control schemes. T/his chapter is updat𝓮d by n𝒐v(ê(l)biin.co/m
+
+"I will be certain to warn my men." She said, though her tone belied the difficulties in store for her mech pilots. "Please prepare the training modules on the mechs in question. Perhaps they could benefit from a brief refresher course."
+
+"Yes, ma’am. I’ll prepare the materials."
+
+Orfan shut off the channel, leaving Ves with very few instructions. It didn’t take too long for Ves to put the bestial mechs in training mode. After that, he instructed the mech technicians to welcome the mech pilots and assist them into taking control of the hacked mechs.
+
+Ves already turned his gaze to the other mechs that stubbornly remained locked. He knew that Captain Orfan’s detachment wouldn’t be able to accomplish anything of significance with six shabby mechs.
+
+"More mech pilots will certainly trickle in during the day. There’s not enough time for the Vandals to complete their objectives. The more mechs I can bring online, the better our chances of completing our objectives."
+
+And making it out of Vesian space alive.

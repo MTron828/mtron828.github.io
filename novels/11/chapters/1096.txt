@@ -1,0 +1,126 @@
+Majestic Desert Splendor
+0.00 / 0.00
+
+Due to the importance of the armor system to the Aurora Titan design, Ves deliberated carefully on his choices before he settled on the Pisaro armor system.
+
+As for the selection of other component designs, Ves did not trouble himself so much over it. The Aurora Titan was basically a super-sized medium space knight so he generally picked components designed specifically for this mech type.
+
+The other components he selected mainly emphasized practicality, defense and endurance. Sadly, Ves hadn’t been able to make his mech as energy efficient as his previous original designs.
+
+"There’s a huge difference in energy expenditure between landbound mechs and spaceborn mechs."
+
+The flight systems of spaceborn mechs expended such vast amounts of energy that hardly any spaceborn mech deployed for more than an entire day. Carriers and motherships served a vital purpose in providing a readily-accessible resupply point for spaceborn mechs to exchange their spent energy cells.
+
+While Ves could increase the deployment time by making use of more efficient but more trouble fuel cells, they were much less practical in use. Since his vision for the Aurora Titan design also emphasized practicality, then he shouldn’t make it more difficult to supply the mech.
+
+"The polarizing module already uses up a lot of energy when employed. If I want the Aurora Titan to last long enough, then I need to make some savings in the flight system."
+
+Each mech type required their own special type of flight systems. Just like each bird possessed a different wing shape, certain flight systems worked better with lighter mechs or heavier mechs.
+
+In general, flight systems designed for space knights tended to be more robust and more armored, but only relative to other flight systems. There were limits to how much armor the wing-shaped flight systems could carry before all of the materials began to impede flight.
+
+After browsing through many different flight systems, Ves eventually settled on a rather eccentric flight system called the Luminant Orca.
+
+When Ves added the Luminant Orca flight system to his unfinished design, the Aurora Titan instantly acquired a radiant appearance.
+
+The Luminant Orca was big. It took up a lot of real estate when in use, but folded back inwards when it didn’t need to accelerate very fast. This meant that the Aurora Titan could fly with marginally acceptable acceleration despite its ungainly mass by spreading its wings. It also meant that it could fold its wing components into a more compact shape when it held a relatively static position while enduring lots of incoming fire.
+
+"It’s a flight system made for space knights!"
+
+This extra functionality came at a cost. First, the extra complexity meant that the flight system was a bit harder and more cumbersome to maintain. When unfolded, the Luminant Orca took up a lot of space, which made it easier to hit.
+
+Yet despite the light show it emitted during active use, the flight system exhibited a decent amount of energy efficiency. It did so by optimizing its use in relatively low acceleration.
+
+Plainly said, the Luminant Orca would never be able to win any speed awards. It came with a hard cap on acceleration in order to optimize its energy efficiently.
+
+To put it in even simpler terms, the flight system was permanently stuck in one gear. While it couldn’t shift to different gears that worked better under different conditions, its performance was very good in the gear it was stuck in. The flight system thereby served as a great complement to the Aurora Titan, which never put too much demands on mobility.
+
+The Aurora Titan design revolved around four core parts. Its armor system, its flight system and its polarizing module all defined the core functionality of his design. The only tech he added from his own end was the addition of alien crystal technology.
+
+In order to kick the Aurora Titan’s ability to withstand energy damage by another notch, he sprinkled eight medium-sized light crystals around the frame of the mech. The front, back and sides of the mechs all became covered by these modest-sized crystals capable of absorbing a limited degree of lasers only to shoot back a powerful light beam.
+
+Due to the decision to incorporate smaller but more numerous crystals, the Aurora Titan enjoyed coverage in almost every direction. This saved the cumbersome mech from rotating all the way around if lasers began to strike it from the rear.
+
+"Still, the wider coverage comes at the expense of damage-absorbing capacity."
+
+Ves didn’t care too much about that as the basic functionality of the smaller crystals provided a sufficient amount of functionality.
+
+"Unlike the Crystal Lord, the Aurora Titan isn’t designed to retaliate with ranged attacks. The crystals are only there as a gimmick." F0lloww new 𝒄hapters at nov/(e)l/bin/(.)com
+
+To be honest, Ves incorporated the alien crystals despite the expense they added and the complications they introduced into the design due to following his artistic sense. He wanted to convey some of the aesthetics of a Sacred God with their god crystals embedded into their hides.
+
+Even though Sacred Gods used very different crystals from those included in his Crystal Lord and Aurora Titan designs, their appearances resembled each other. It helped that Qilanxo’s spiritual fragment liked it as well! With the support of the fragment, Ves indulged his artistic fancy by going through with incorporating this gimmick into his mech.
+
+It may not have been the most prodent design choice he made during this design project, but sometimes it was worth following his heart rather than adhering to logic!
+
+"Thematically, the crystals mesh well with the vision for my Aurora Titan design. It’s just that I’m making it harder on myself with their inclusion."
+
+Each additional system that Ves included into his mech added more and more complexity, to the detriment of the mech’s integrity. This was also the main reason why third-class mechs predominantly specialized in highly-focused mech types that mainly employed a single weapon system.
+
+Hybrid mechs were often more trouble than they were worth! Ves possessed a good understanding of this belief as he once started off with the bloated Caesar Augustus design.
+
+"The inclusion of the polarizing module and the alien crystals into the Aurora Titan design is kind of similar to turning it into a hybrid mech design."
+
+Some of the rules and limitations of hybrid mechs applied to the Aurora Titan design. The inclusion of these extra features imposed more requirements on his design’s internal architecture, taking up valuable real estate that could have been used to strengthen its structure and increase its redundancy and compartmentalization.
+
+"It’s shell won’t crack so easily." Ves muttered. "The benefit of a bigger mech is that I can pile more armor onto it. The gimmicks I’ve added doesn’t change the fact that the Aurora Titan is already a fundamentally tanky design."
+
+Now that Ves defined the four core systems of the Aurora Titan design and matched them with specific component designs, he covered all of his bases.
+
+"Everything else is much more straightforward."
+
+Ves already determined the most suitable power reactor, engine and other systems a while ago. Stuffing them into his design resulted in a much more cramped and busy-looking mech design.
+
+Obviously, there wasn’t an abundant amount of free space available to accommodate a robust internal architecture. This was especially because Ves planned to fill up a large portion of the Aurora Titan’s internal space with lots of energy cells!
+
+The polarizing module and the flight system of his design both served important roles in his design, but they both depended heavily on the supply of energy!
+
+One of the welcome advantages of designing an over-sized mech was that Ves gained a bit more room to work with compared to a regular medium space knight.
+
+"My mech won’t win any endurance contests, but it should at least be able to power its polarizing module for some time."
+
+Still, his mech only provided the tools. It was up to the mech pilot to employ them as effectively and efficiently as possible. In the hands of a badly-trained mech pilot, the Aurora Titan performed much worse than a generic space knight design!
+
+This entire process took a couple of days, which wasn’t very long at all. Ves still needed to move on to the hardest part of the design process, which was to design the internal architecture and shape the armor of the mech in a way that unified the different parts into a coherent whole.
+
+"This is where the good mech designers are able to distinguish themselves from the bad."
+
+It also happened to be an area in which Ves expressed a lot of confidence in his ability to unearth synergies. His wide knowledge base, his abundant amount of practical experience and the many insights he gleaned from his latest Mastery experience all came to the forefront as Ves tackled the most difficult mech design he conceived up to now!
+
+Days went by like the wind. Weeks passed with hardly any interruptions. While Ves did not close himself off from society completely this time, the LMC pretty much ran by itself all this time as it already did so years before.
+
+Phase 2 still went underway, but most of the major changes already came to pass. The company mainly stuck to holding various company events in order to further reinforce the shared identity of its workforce.
+
+By all accounts, Phase 2 largely succeeded in unifying the LMC’s employees with the company.
+
+Phase 2 was less successful in instilling a common set of values and principles amongst their workforce.
+
+Certainly, the sheer amount of indoctrination sessions disguised as company events they went through made sure that everyone began to speak the lingo. Yet reports indicated that at least half of the employees only paid lip service to the vague mission that they should supply their customers with mechs they could treat as partners.
+
+This difficulty partially stemmed from the stubborn and individualistic nature of humans, but the high-minded and abstract mission statement of the LMC didn’t do it any favors! Most of the skeptics found the company’s core principles to be rather vague and wishy-washy.
+
+Why think so much when at the end of the day, a company was all about making as much money as possible?
+
+"Do you think that the skeptics will eventually get around to the company’s ideals?" Ves asked over the comm.
+
+"It’s hard to say, but I think their resistance will inevitably be worn away if the entire company and many of the people around them continue to adhere to the same value. This process of osmosis will ensure that all but the more hardcore skeptics and cynics will come around to the company’s principles."
+
+As long as the company kept up its indoctrination efforts, there would hardly be anyone left in the company who wasn’t brainwashed into becoming a loyal company man! By then, any deviants would stand out like a light in the dark.
+
+In between his design sessions, Ves ordered Gavin to provide him with a daily status update on how the company was doing. While it was tempting for him to set aside every other concern and immerse himself into designing the Aurora Titan for several months straight, he knew he couldn’t adopt his old methods any longer.
+
+Ves should not lose total awareness of the outside galaxy when he designed a mech! If he continued to abide by this habit, it would eventually come and bite him in the butt!
+
+Even though it wasn’t particularly urgent for him to hear about the company’s day-to-day matters, Ves still reserved some time for his daily reports to keep him grounded to reality.
+
+"What else is going on in the company?"
+
+"Our orders have decreased once again. I think the recent publicity boosts have run their course. Now that the war has ended, a lot of notable mech designers returned to their companies. Some have even begun to publish new designs, attracting a lot of attention away from our own products, not that we enjoyed that much attention in the first place."
+
+"That’s because our mech catalog is too meager. Right now, I’m working on rectifying this shortcoming. Is there anything else to report?"
+
+"That’s all, Ves."
+
+"Okay. Make sure to keep me in the loop of new developments."
+
+After ending the comm call, Ves mustered up his concentration yet again and resumed his ongoing design work. The Aurora Titan was slowly and surely taking shape under his ministrations!

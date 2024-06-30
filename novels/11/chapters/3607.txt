@@ -1,0 +1,126 @@
+Majestic Desert Splendor
+0.00 / 0.00
+
+Chapter 3608 Sliver Project
+
+Life aboard the fleet fell back into a familiar routine. Mech pilots trained and polished their skills in order to get ready for the next battle while everyone else performed their own duties.
+
+All of the Larkinson mech designers resumed their work. With no further interruptions of note, the Design Department made brisk progress on most of their mech design projects.
+
+Though Ves was more than a month behind his schedule, the halt on the Fearless Project meant that he could invest his full attention on completing the Deceptor Project.
+
+By spending most of his working time on a single project, he not only made swift progress, but also put more effort into getting the Deceptor Project's nuances right.
+
+Still, the closer it got to completion, the more Ves felt a void within the mech design.
+
+One of the elements that was still missing was its new design spirit. He did not intend to employ any of his existing design spirits to augment the Deceptor Project because none of them aligned with its predominant themes.
+
+As a harasser mech for the Flagrant Vandal Mech Legion, the mech's primary strengths centered around its elusiveness, its persistence and its deceptive nature.
+
+It was an interesting exercise for Ves to design a light mech again. Though he was committed to keeping it as his solo project, he was not arrogant enough to assume that he knew all about this weight class.
+
+He occasionally dropped by Juliet's corner of the design lab in order to sound out ideas and check whether he was overlooking any variables.
+
+Juliet Stameros never held back in offering her critique when Ves presented his progress on the Deceptor Project.
+
+"Your design is overly slanted towards agility in my opinion." She stated. "Its maximum acceleration is not that great in comparison. This poses a danger for the Deceptor Project because it doesn't have the straight-line acceleration and speed to outrun other light mechs, particularly skirmishers such as the Ferocious Piranha. Are you certain you want to go this route?"
+
+Ves nodded. "The Deceptor Project is mainly configured for large battles rather than smaller skirmishes or scouting runs. You're already designing a dedicated scout mech in the form of the Sliver Project, so I do not think our Deceptor Project needs to be shoehorned in the scouting role either."
+
+Juliet was almost completely responsible for designing the Sliver Project, which completed the trifacta of signature mech models for the Flagrant Vandals. Ves only occasionally lent a hand in order to make the mech design alive, but other than that he left all of the important design choices to Penitent Sister mech designer.
+
+Unlike the Ferocious Piranha and the Deceptor Project, the Sliver Project was emphatically not a machine that excelled at fighting.
+
+It was more of an auxiliary mech than anything else. The Sliver Project in its current configuration would probably become the weakest combat machine of the Larkinson Army once it entered into service.
+
+Armed with only a light pistol and a thin knife, the Sliver Project was not able to wield them effectively because most of its capacity was spent elsewhere.
+
+The armor of the Sliver Project was light as well as it mostly focused on reducing its energy signature rather than hard protection.
+
+In most cases, keeping the mech hidden from enemy sensors was its best form of defense. It could not be destroyed if the enemy didn't know the Sliver Project was present in the first place!
+
+Its mobility characteristics were almost opposite to that of the Deceptor Project. As a machine that was never meant to get caught up in a mech duel, it had no need for exceptional agility and range of motion.
+
+Juliet therefore chose to mount it with a flight system model that excelled at straight-line acceleration but sacrificed agility and maneuverability as a consequence.
+
+She implemented all of this so that she could reserve most of the capacity of the mech to empower its various sensor suites.
+
+While it came equipped with a lot more sensor and scanning modules than average mechs, the crown jewel of the Sliver Project was the large orb mounted on its head.
+
+The Samasel Orb was a highly modern directional scanning module that excelled at deep scanning. As long as it came close enough, its focused scanning operation could penetrate through meters of armor and expose crucial details about the interior structure of a starship or other large structure.
+
+Naturally, the Sliver Project was also able to perform deep scans on enemy mechs, though this was a risky prospect.
+
+The biggest downside to the Sliver Project was that activating the Samasel Orb or any sensor module at full power would not go unnoticed. The mech needed to rely on solid cover or powerful escorts in order to keep the enemy at bay.
+
+All in all, the Sliver Project was pretty much the opposite of the Deceptor Project in many ways. Their diverging roles meant they needed to excel at different aspects.
+
+"It's acceptable for the Sliver Project to be lacking in combat capabilities considering it is meant to be an auxiliary mech." Juliet remarked. "It is difficult to justify the same approach to a combat mech. The Deceptor Project will be deployed in the thick of battle. Even if it is not meant to fight against enemy forces head-on, its inferior acceleration characteristics means that it cannot avoid enemy pursuit forever. Since it is a ranged light mech, an enemy light skirmisher can easily cut it to pieces."
+
+Ves nodded. "I'm aware of that, but it is unacceptable for me to weaken its greatest advantages in order to compensate for its shortcomings. The Deceptor Project may possess glaring holes on its own, but the Ferocious Piranha can plug most of them. Once the Flagrant Vandals begin to deploy both mechs alongside each other, they can easily compensate for each other's weaknesses."
+
+He put a lot of thought in coming up with the Deceptor Project. The mech not only had to be good on its own, it had to be even better when fighting as part of a larger system. Each mech legion needed to obtain its own stable of complementing mech models and the Deceptor Project was definitely capable of augmenting the Ferocious Piranha without slowing it down too much!
+
+Juliet understood this point as well so she did not pursue this line of questioning any further. She just wanted to make sure that Ves knew what he was getting into. No one could guarantee whether the Deceptor Project would always be able to deploy alongside the Ferocious Piranhas.
+
+The two Journeymen continued to discuss the finer points of the Deceptor Project. From its sensor-dampening armor system to its notable ECM systems, Ves gained a much more thorough idea on how to refine his mech design after the discussion.
+
+The other mech designers were also making good progress on their respective projects. Each of them were competent and fairly experienced Journeymen so they did not allow any problems to hinder them for long.
+
+Gloriana for example focused most of her effort on completing the New Man Project first.
+
+The custom hybrid mech for Vincent Ricklin might have a lot of elements, but it wasn't particularly difficult for her to design. She just needed to be a bit clever about stuffing all of its weapon modules in a single mech frame.
+
+"I will likely reach the testing phase within two weeks for this project." Gloriana proudly stated. "I've already completed the broad strokes and I'm mostly spending time on integrating all of the elements together. There are a lot of individual weapon modules so it is still a challenge to make them work without interfering with each other's performance."
+
+Ves grunted in understanding. "I don't think it matters that much, though. From how it looks, this mech is more about maximizing its appearance than maximizing its combat effectiveness."
+
+"Just because it looks blunt doesn't mean it is suboptimal. The New Man Project can still perform well in certain situations. It just doesn't excel in duels like Bolvos Rage."
+
+The Bolvos Rage was a truly impressive hybrid mech. It was a relatively balanced expert mech that nonetheless packed a considerable punch. It was mobile enough to duel against other high-tier expert mechs but it was also sturdy enough to endure bombardment.
+
+The New Man Project scored fairly well in offense and defense but received failing marks on mobility. Gloriana had loaded its frame with so much armor and weapons that its mobility resembled a lumbering pig.
+
+The distinct weakness in mobility meant that Vincent Ricklin was better off fighting alongside other friendly units rather than heading forward to duel against powerful opponents by itself!
+
+"We can rely on other Larkinsons to occupy the enemy champions. Given Vincent's proclivities, he can do more for us if he is closely supporting our regular troops. His sociable and approachable nature has made him a lot of friends among the ranks. The New Man Project is designed to maximize his value as a morale booster."
+
+"Like Venerable Joshua." Finnd 𝒏ew chapters on n𝒐ve/lbi𝒏(.)com
+
+"Yes."
+
+Ves blinked. That was certainly a viable reason to make the New Man Project so ostentatious. Just like the Adonis Colossus before it, the new mech looked incredibly manly. He almost couldn't believe that his wife could bring herself to design such an obviously masculine mech by herself!
+
+"It is not that hard, Ves." She said when she noticed his obvious skepticism. "I'm a professional. The client is the client. What they value and what they want to see in their mech are more important than my personal tastes. One of the reasons why I accepted this commission is to prove to myself and others that I can tackle any custom mech design project no matter how far they sit outside my comfort zone. As far as I am concerned, it is better to allow me to design a custom mech than to leave the job to others!"
+
+While the two continued to talk about the New Man Project, a surprisingly vigorous baby happily crawled across the carpeted floor of Gloriana's design room.
+
+She recently renovated her main workplace in order to make it more kid-friendly.
+
+The sterile white and steel furniture had been replaced by pink and pastel-colored variants.
+
+A lot of sharp corners had disappeared, and Gloriana even installed cushioning at certain points, not that they were needed. She had programmed a shield generator to stop her daughter from bumping into anything that might cause her to suffer.
+
+As a result of all of this effort, she allowed Aurelia to crawl around wherever she desired. Anytime she approached a bulkhead or a table, an invisible pressure field softly adjusted her course.
+
+"Bwaaa… guuuuu.. booooobooo…"
+
+Aurelia was already used to it and continued to wander off in another direction.
+
+"Miaow~"
+
+Clixie always followed the baby around as an extra precaution. Sometimes, Aurelia approached the cat instead and always formed a pile of cute when they cuddled against each other.
+
+Ves looked down at his infant child with a mix of happiness and worry.
+
+While he was pleased that his child had grown healthily enough to begin to crawl, Aurelia moved around way too much! Where did she get all her energy from to be able to move as if she was a half year older?
+
+Gloriana noticed the anomaly as well, but she was more happy than worried.
+
+"The Superior Mother blessed our child, remember? She is still watching over Aurelia. Nothing will go wrong. Besides, I regularly take her over to the Dragon's Den to track her physical growth. While her growth has begun to deviate from Witshaw & Seneca's formula, none of the changes are detrimental. She is stronger, healthier and more developed than any other baby at her age!"
+
+Ves believed her. He could clearly sense how her own overdeveloped spirituality continued to meld and reinforce her body cells in mysterious ways.
+
+The problem was that Ves had no idea what this interaction led to. This was a completely new phenomenon to him and he had no way of knowing there would be any danger down the line.
+
+According to his own experiences, power always had a price!

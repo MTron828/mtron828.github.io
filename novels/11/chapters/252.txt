@@ -1,0 +1,162 @@
+Energize and Prepare
+0.00 / 0.00
+
+Chapter 253: Blackbeak
+
+Ves resumed his work on his design after taking a break. The board meeting led to modest changes but gave everyone a lot of food for thought. One thing that struck him was that everyone pushed for mass production. They didn't believe the LMC could deliver the necessary quality to grow into the high end market.
+
+"They're right, in a way."
+
+He'd have to become a Journeyman Mech Designer to break into the top and most lucrative end of the market. That was still a long way off despite the help of the System.
+
+"My various Skills have reached Journeyman-level, but I'm barely scratching the surface. I'm still short on depth and experience."
+
+Ves vaguely estimated he would have to design at least five or six original models to gain the minimum amount of experience to advance. They also had to be distinctly different mech, so Ves couldn't get away with designing six identical knight mechs.
+
+"Let's get back to work."
+
+Ves thought about the implications of forming the structure of his artificial musculature from scratch.
+
+"The more experienced mech designers can do this by heart. I haven't reached that level yet, even with the theories I've learned."
+
+In such cases, it would be a shame to consult a reference book and adapt a expertly designed template that had been derived from examples of nature. For example, knight templates often took their inspiration from studying the bodies of athletes and soldiers.
+
+Ves chose to be fairly extravagant by borrowing a high quality reference book from the Clifford Society's Moon Library.
+
+It took a couple of says for the fast courier to deliver the secure materials required to read the book. For a price of ten merits, the Society went out of its way to make sure that Ves didn't propagate its contents.
+
+He didn't spend his time in vain during the wait. He re-read the textbooks on Battle Mechatronics and looked back on his old designs to study the way their musculature worked.
+
+Mechs generally adopted simplified structures compared to a human made out of blood and flesh. In particular, they didn't require so much fine control for their toes, neck and head. Knight mechs also sacrificed a lot of finesse in their arms in favor of brute strength.
+
+"Still, a strong pair of legs forms the basis of a sturdy knight."
+
+Knights relied on the strength of their legs to build up momentum and withstand shocks. They also depended on their legs for balance.
+
+The reference book he borrowed happened to contain a couple of templates for all the different archetypes. After a lot of browsing, Ves chose to go with the lightest knight template.
+
+"It's the most responsive and agile out of all the medium knight templates. It's the only choice that conforms with my vision."
+
+The black phoenix would never sit still like a rock for long. It wished to endure attacks only up to the extent for it to close in on its opponent and take it out.
+
+A lighter musculature that facilitated movement over force enabled this choice of battle. Unfortunately, Ves also had to accept a substantial reduction in arm strength.
+
+"My knight will never match the strength of a purely offensive type like a swordsman mech."
+
+He accepted the compromise, since his mech's substantial defense made up for its lacking offensive prowess. It aimed to outlast its opponents by surviving to the end rather than killing them off first.
+
+Ves made a couple of tweaks to the standard template.
+
+He increased the range of motion of the shield arm to facilitate bashing with the flat or sharp end of the phoenix-emblazoned shield.
+
+He also strengthened the back and abdominal muscles to insure they wouldn't overstain if his mech dug into hardy ground.
+
+His inexperience with designing a musculature led to long nights of continuous work. The black phoenix remained demanding throughout the process, sometimes even forcing Ves to throw away hours worth of development.
+
+The delays resulted in further refinements that provided greater strength without taking up too much space, which was getting very cramped by now.
+
+He sat back in his seat with a satisfied smile after the latest round of modelling pronounced his work to be without any major flaws.
+
+"This is the best I can achieve at the moment."
+
+It helped that he licensed a fairly premium artificial musculature system from the Society. If he licensed a generic one, he would have been forced to bulk up his frame.
+
+Still, the various compromises he made so far made it clear it didn't excel as a damage sponge. "It's leaning a bit too heavily on the offensive side."
+
+Ves intended to use the armor cladding process as a way to correct this imbalance.
+
+Much like the artificial musculature, the application of the armor system also came with a lot of complexity. Many mech designers either used a reference book or modelled the most optimal layout with sophisticated processors.
+
+This time, Ves declined to borrow another reference book. His experience and his Optimization Sub-Skills should be sufficient for him to design an adequate armor layout.
+
+The Veltrex armor system consisted of a minimum of three layers.
+
+The upper layer consisted of various composites that worked best against directed energy weapons.
+
+The middle layer consisted of heavier alloys that specialized in stopping kinetic weapons.
+
+The lower layer mainly dispersed heat and force that went through the other layers. It also worked great in mitigating explosive damage.
+
+The weakness of this armor system became apparent. If an enemy force stripped the upper layer with a ballistic weapon, it could easily penetrate past the middle and lower layers. While their sheer thickness could still mitigate a certain amount of energy damage, it was obviously not ideal.
+
+"I doubt my models will become prolific enough for enemies to know about this weakness."
+
+Despite this wrinkle, the Veltrex armor system could withstand a surprising level of abuse for its thickness.
+
+Some armor systems could be trimmed or thickened by adjusting the amount of layers.
+
+The Veltrex system worked a little differently by adhering to the same three layers, only this time he could adjust the thickness of each of the layers.
+
+Ves spent a lot of time with the fine-tuning of the armor layout. He adopted a fairly standard medium knight layout but trimmed some fat wherever he could get away with it. However, he didn't go too far, as a knight still had to withstand a lot of blows.
+
+"Even if the internals are easier to repair, it's still not a good idea to make it easy to get past the armor."
+
+He took his time in this phase, dragging it out over four weeks as he meticulously verified his design choices with advanced mathematical modelling. From chilly ice planets to desolate asteroids, Ves simulated every possible hostile environment he could come up with. His model performed surprisingly poorly in vacuum and hot environments.
+
+"My mech doesn't generate as much heat as a laser rifleman, so I didn't put too many heatsinks in its design."
+
+This limited its heat processing capacity. The only way his phoenix could shunt its heat was through shunting it from its feet or dissipating it through infrared radiation. Fôllôw 𝒏ew stories at n𝒐/v(e)lb/in(.)com
+
+"Isn't it ironic for a phoenix knight to be prone to overheating?"
+
+Ves decided to keep the current amount of heatsinks. Adding any more meant decreasing his mech's performance to an unacceptable level in his eyes. He took the Republic's geography into account as well.
+
+"The Bright Republic doesn't have that many hot planets anyway, and spaceborn mechs are far more suitable to deploy in vacuum environments."
+
+After making sure the armor held up in every other environment, Ves surrendered himself to his artistic fancies. He meticulously carved the upper layer of the armor with phoenix-themed reliefs.
+
+He shaped the generic humanoid face into a phoenix's head. He carved up the shoulder pauldrons into a feather-like appearance. He added minor decorative lines throughout the torso to reinforce its association with blackfire and phoenixes.
+
+The only downside to this 'extra' addition was that the carvings affected the structural integrity of the armor system. Ves had to bulk up many of the sections due to the weaknesses he inadvertedly introduced.
+
+"It's worth it, though. My design looks good, really good."
+
+He already applied a coating of black and gold to his mech. The change in color amplified the connection between the design and the image in his mind. The black phoenix strongly approved of the phoenix knight's impressive appearance. It definitely possessed a strong level of gravitas that he only found in his recent Marcus Aurelius limited edition model.
+
+What particularly stood out from its appearance was its underlying menace. The black coating gave his design a sinister association that Ves didn't see very often in knights.
+
+The Marc Antony Mark II radiated aggression as well, but it always had a noble and flamboyant touch to it. The phoenix knight decried the brave charge, choosing instead to triumph over its opponent through a mix of guile and speed
+
+"This doesn't fit with the knight ethos. Even offensive knights don't go this far."
+
+Fortunately, Ves still had to design its shield and armor. He compensated for the menace by adding a slightly wider shield. He spent over three days perfecting the phoenix wing design on its surface. The asymmetrical look caused by the exaggerated curling wing gave it a distinctly exotic moon-like appearance.
+
+As for the sword, Ves went ahead with designing it as planned. The winged guards and the phoenix body hilt gave the sword a fine touch, but besides that he didn't stray from standard doctrine. Together with the use of generic sword alloys, it was clear the sword would never be able to outshine the shield, which Ves had cladded it entirely with premium Veltrex armor layers.
+
+His mech came into shape after more than three months of design work. The seasons changed and the tension between the Republic and the Kingdom neared the boiling point. Despite the passing of time, Ves hardly noticed any of it as he became subsumed in perfecting his design.
+
+He spent the final weeks in subjecting his tentatively functional design through a barrage of tests. Quite often, the simulations revealed a host of flaws in the interaction between the armor and the internals underneath. These flaws hadn't showed up when Ves tested those systems in isolation. Only when he put together every piece in a single package did the flaws come to light.
+
+"This is still rather sloppy for me. It's taken longer to eliminate all these flaws than I thought.
+
+Nevertheless, Ves successfully completed his first iteration of what he temporarily called the Blackbeak.
+
+"Blackwing sounds better, but it's too bad my mech isn't capable of flight."
+
+Perhaps he'd adopt the name for an aerial variant of his design. The base model possessed sufficient space in the back to accomodate a flight system, though he would also have to overhaul the internals to increase its heat-handling capacity.
+
+"That's a problem for later."
+
+Now that he finished a solid design with concrete specs, Ves thought about the next step in his design process.
+
+"I'm going to have to fabricate a prototype and subject it to an extensive amount of gruelling tests."
+
+This went doubly so for knights that specialized in long-term durability. Ves couldn't trust his mathematical models to reflect the actual truth. His design might still hide a small number of critical flaws.
+
+"The thing about models is that they reflect a distorted version of reality. No single model exists so far that can simulate our reality with perfect fidelity."
+
+Even the System's impressive models admitted defeat in this area. For an existence capable of materialization and time travel to express its inferiority in this area, Ves didn't delude himself that he could trust his models blindly.
+
+"First, let's see what the others have to say. They must be brimming with anticipation with what I've been cooking up all these months."
+
+He exited his office, only to encounter a worrying development.
+
+"What's happening?" Ves asked.
+
+"You should check the mech portals." Carlos replied as he passed him a data pad. "One of your competitors is one step ahead of you."
+
+Ves glanced at the news article and found to his surprise that another Apprentice Mech Designer debuted an offensive knight design as his first original mech. Could this be a coincidence?
+
+Then he recognized the designer.
+
+"I know this guy."

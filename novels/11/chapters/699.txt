@@ -1,0 +1,130 @@
+Urban Oasis
+0.00 / 0.00
+
+Countless black markets and closed societies existed in the galaxy. Some opened their doors to anyone that entered. The physical black markets at the Harkensen and Mancroft star systems served as iconic examples in the Komodo Star Sector.
+
+Their barrier for entry was so low that practically any random seven-year old could jump over the fence. To call them black markets besmirched the reputation of all other black markets.
+
+"They’re more like the light version of black markets."
+
+Due to their open nature and wide reach, a lot of paupers and poorly-connected power players tended to frequent these markets. This meant that while there would be a lot of customers for sellers to rip off, they weren’t all that well-moneyed.
+
+In order for a buyer to get the good stuff, they needed to veer to a more exclusive black market. One which matched buyers and sellers with more discerning standards, and one which could provide much more security and guarantees than a market stall in some dingy market stall at a murky space station where anyone could get shot at for no reason at all.
+
+Ves already experienced the benefits of a higher class of trading platform at the Clifford Society. Its virtual and physical marketplaces were basically highly dignified black markets. Ves could obtain a number of exclusive goods and services that would have landed the providers in trouble if they offered them up to the open market.
+
+Naturally, buyers needed to be somewhat trustworthy and possess enough wealth to make up the demand side of the black markets. The entry requirements to a rim-wide black market should have been quite stringent, but somehow the Soulless Priest judged that Ves possessed the qualifications to make a play at the invitation.
+
+"I’ll just have to win this design duel, because that’s what the Redemption Duel effectively amounts to. There’s no free lunch in the galaxy." Ves whispered to himself as he beheld the Evaporating Spear that stood before him.
+
+The old, rusted frame of the mech looked rather pithy, and Ves knew it would take a lot of work and ingenuity to get it up and running with a modicum of battle effectiveness.
+
+Though the Redemption Duel ostenible centered around a duel to the death between two mech pilots that fought while enduring unimaginable torture, Ves largely disregarded their story and their skill level.
+
+As long as mech pilots were somewhat competent and similar to each other, the outcome of the Redemption Duel depended more on the mech designer than anyone else.
+
+That was because the tampered neural interfaces threw all of the rules out of the window!
+
+Ves stared at the depressed-looking figure sitting slumped at a pile of crates fashioned into a makeshift chair. Acolyte Gien presented a sorry figure with his worn-out pilot suit and his torn and half-broken robes. He was by far the most pathetic worshipper of Haatumak that Ves had encountered so far.
+
+Gien exhibited a nihilistic attitude to his upcoming duel.
+
+To be frank, Ves would be bummed out as well if he found out he’d be put inside a cockpit that wanted to make him taste the feeling of hell while being pushed out into space and be expected to fight for his life while his very nerves and brains burned from all of the overstimulation of signals.
+
+He could not even see the point of winning. What would the acolyte gain from that when he’d be brain dead anyway?
+
+"Don’t underestimate our ability to restore the winner of the duel to life." Acolyte Villis responded when Ves puzzled over that question. The old woman continued to follow close to his heels for some reason. "The Redemption Duel is an arduous trial that will test their worthiness in the eyes of Haatumak. Those that perish deserve to perish. Those that survive are deserving of Haatumak’s Mercy."
+
+"And what does Haatumak’s Mercy entail?" Ves asked, curious of what they would do to restore a braindead mech pilot back to a semblance of life.
+
+"Haatumak’s Mercy is a ritual of rebirth. Whoever shall win will be ordained as our newest Living Altar!"
+
+Ves blinked. He could argue that transitioning from a living vegetable to a Living Altar was a punishment rather than a reward. Cannibalism wasn’t so bad if you got to live again and received a free pass from your god!
+
+He didn’t even ask what kind of freak medical procedure the Church of Haatumak mastered to restore a burnt-out mech pilot back to a semblance of life. As far as Ves knew, almost every case of neural interface-induced overload onto a mech pilot’s nerves resulted in catastrophic and irreparable damage!
+
+He had a feeling the answer might upset him even more.
+
+"Ignorance is bliss."
+
+Practically every aspect involving this band of crazy fanatics drove him mad. Ves completely believed the decision to banish them from civilized space was justified. In fact, they should have gone a step further and send a CFA battleship to wipe out the Temple and all of its traces for good!
+
+Then again, these bunch of crazies didn’t mistreat their guests too badly and even dangled a carrot in front of his face.
+
+Ves suspected this might be the only opportunity in his life to be offered an invitation to the Angel’s Wing Foundation. In order to save his life from a dormant threat buried inside his chest, perhaps the crazy researchers of the Five Scrolls Compact may be his only hope for salvation!
+
+His very life was at stake in this challenge!
+
+"Win or lose, it is not only my pride that’s at stake here!"
+
+His motivation to win had skyrocketed!
+
+Yet that was not enough to insure a win at the upcoming Redemption Duel.
+
+He needed to get to work.
+
+Ves looked around and ignored the condemned pilot for now. Rather than wracking his brains over his bum of a mech pilot, he’d rather start tooling with something he possessed an ample amount of familiarity.
+
+He sat down behind a spare terminal and loaded in the documents and design schematics of the Evaporating Spear.
+
+"Hm, what the hell is this travesty?"
+
+A single glance at the schematics displayed an ugly combination of internal parts. They may have been built for lancers or melee mechs, but their synergy was poor and their implementation was even worse. The design resembled making a random grab of mech parts and stuffing them inside a poorly-optimized mech frame!
+
+"This is a third-hand mech!"
+
+Ves could read some of the history of the mech frame from the strange combination of mech parts. It originally started out as an affordable lancer mech. Its design must have come from a pirate designer with absolutely no respect for intellectual property. It seemed as if the initial designer had pirated a bunch of random component licenses that only vaguely had to do with this mech archetype.
+
+The result was a poor-performing lancer mech that due to sheer luck possessed some merits compared to other pieces of trash developed by pirate designers in the frontier.
+
+"Still, whoever designed the initial incarnation of the Evaporating Spear must have been a Novice Mech Designer."
+
+The first incarnation of the Evaporating Spear must have been used for quite a number of years before it suffered a devastating stab in the back that pierced through the flight system and penetrated the cockpit from behind.
+
+This attack had wrecked the Evaporating Spear. However, the clean, surgical strike it suffered left the rest of its frame largely intact. Once the winners of the battle salvaged the wreck, they only needed to replace its flight system and its cockpit while slapping over some makeshift armor plates in the rear to restore the mech to functionality. F0lloww new 𝒄hapters at nov/(e)l/bin/(.)com
+
+"Hooking up a new cockpit to replace the old one is normally a huge issue. However, if the initial mech designer pirated the cockpit model from the galactic net, then the mech designer who restored the mech should have access to it as well."
+
+Yet the restorer hadn’t gone for this option. Instead, he tried to insert an entirely different cockpit model inside the empty gaping hole of the mech, to predictable results. Incompatibility problems must have plagued the second iteration of the Evaporating Spear throughout its rebirth.
+
+A few more years passed by until the mech suffered a nasty blow that destroyed its left arms and torso and disabled its power reactor. After drifting in space for a lengthy period of time that spanned up to a decade, the wreck finally fell into the hands of the Church of Haatumak.
+
+They assigned a mech designer to attempt to restore it. By now, the predecessor of Ves succeeded in doing a decent job at patching up the mech. The Evaporating Spear gained a new power reactor as well as a fully restored torso and arm to fill up the left side of the frame.
+
+The only problem was that whoever the Church picked to restore the Evaporating Spear possessed an insufficient understanding of mechs and battle mechatronics. The replaced portions of the mech did not match the original layout of the frame.
+
+"The restoration ruined its balance! The mech is asymmetric!"
+
+There was nothing wrong with an asymmetric mech. However, the Novice originally designed his mech as a symmetrical mech. Throwing its center of gravity and balance out of whack ruined its entire flight and movement profile!
+
+If the Evaporating Spear regained functionality and flew out of the hangar bay right now, its flight would probably lead to make a horizontal loop that resulted in a direct crash against the outer hull of the Temple of Haatumak!
+
+The easiest way for Ves to prevent such a disaster was to tweak the flight system so that its ’steering wheel’ permanently slanted a couple degrees towards the right.
+
+"That’s an awful fix. A software patch to compensate for a hardware inadequacy will only postpone a disaster in the making."
+
+Ves would never allow such a lazy fix in his original mech designs. However, this time Ves was working with a dueling mech. With only two days to make something battle worthy out of this third-hand junk, he needed to cut a lot of corners to make it within the deadline.
+
+"Well, it’s not like this mech is meant to last the battle. The Soulless Priest will probably chuck it out into space once the Redemption Duel is done."
+
+Ves only had to ready the Evaporating Spear for a single performance, rather than a lifetime of battle and use. Having worked with plenty of competition mechs before, he was already used to switching his mentality and set of values to accommodate a rush job.
+
+After spending a precious half hour to analyze the design and decipher its secrets, Ves drew up a plan of action.
+
+First, he needed to finish what his predecessor started and fix up the internal architecture until the mech became capable of activation.
+
+Second, he needed to strengthen the overall frame and patch up the structural weaknesses that had grown as a result of all of the battle damage, neglect, corrosion and botched repairs it accumulated over the years.
+
+Third and most importantly, Ves had to mitigate the ruinous effects of the tampered neural interface so that Acolyte Gien’s effective genetic aptitude rose from F-grade to E-grade!
+
+Since the Church forbid him from tweaking with the neural interface or cockpit, Ves had no choice but to tinker with the rest of the frame in order to achieve this effect!
+
+"I’ll have to work in reverse to manage this difficult feat!"
+
+Theoretically, Ves figured out at least two methods to overcome this issue.
+
+The root of the problem lay in the fact the neural interface overloaded the mech pilot with an excess of signals, with much of it consisting of junk data that only clogged up the tubes while polluting the data that was actually valid.
+
+"I can either restrict the total flow of data, or find a way to decrease the proportion of junk data being transmitted back to the mech pilot!"
+
+The problem may sound insurmountable at first, but Ves only required a quick moment of thought to come up with a number of viable solutions.

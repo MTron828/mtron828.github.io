@@ -1,0 +1,108 @@
+Cuteness Unleashed
+0.00 / 0.00
+
+Extending the hull of a capital ship was not a simple technical feat.
+
+People often mistook the challenges of the exceedingly complicated technical steps needed to complete this seemingly simple task.
+
+When put in the simplest possible terms, the process mostly amounted to cutting a ship in two separate pieces. The shipyard then inserted a newly manufactured hull section in the middle before fusing the three parts into a single whole again.
+
+Simple, right?
+
+Wrong.
+
+Although Vivian did not have the time to explain the full range of complications and additional work that all of these changes introduced, it was enough for Ves to understand the processes in broad strokes.
+
+"I suppose this is why it is worth it to pay millions of MTA merits to commission an MTA shipyard to do all of the work." Ves remarked. "A lesser shipyard will not be able to control all of the variables to a sufficient degree, resulting in many flaws and misalignments."
+
+"Indeed. We can also use the MTA shipyard's help to rearrange the layout and structural design of our starship to meet our future needs. For example, the importance of shield generators is much greater than we anticipated, so we will need to reserve additional space for more of these devices. We also have to provide the necessary infrastructure such as a greater quantity of first-class power reactors in order to compensate for the drastically increased energy drain."
+
+All of these upgrades along with the drastic upgrades to the sub-light propulsion system all added up to a hefty price tag.
+
+"What about the upgrades to her superluminar travel capabilities?" Ves asked. "Have you explored the possibility of equipping her with a genuine superdrive?"
+
+A superdrive was the most advanced means of traveling across the stars that was accessible to the public.
+
+Though the Big Two definitely mastered more advanced forms of superluminar travel such as portal jump technology, neither the MTA or CFA wanted others to gain access to them. Their value in military operations were too great to be shared.
+
+Superdrives already provided an incredible speed boost compared to the conventional FTL drives of yesteryear.
+
+By combining the active effects of an FTL drive and a warp drive in a single cohesive device, a superdrive could make a starship travel from one side of the Milky Way to the other side of the galaxy in as little as a couple of years!
+
+This was a massive change compared to just a mech generation before. Back before the introduction of phasewater and the Red Ocean, most humans assumed that even the fastest ships required almost a century to travel from one side of the galaxy to another.
+
+"Superdrive technology has come a long way, sir, but they are very much being iterated upon at a rapid pace." Vivian warned the patriarch. "Developers are constantly releasing safer, better, more powerful and more cost-efficient models every year. If you want to spend your MTA merits as wisely as possible, it is best to wait a decade or so until the pace of innovation has slowed down."
+
+Though Ves agreed with this sentiment, when he thought about what happened to the Cenatus Prospecting fleet, he remembered that being a cheapskate would ultimately cost him more in the long run!
+
+"Please explain your proposal first, Vivian. Tell me what we can do to speed up our flagship during FTL travel."
+
+"Very well. When it comes to these new and amazing devices, we can choose between first-class and second-class superdrives. Let me begin with the latter. The most affordable second-class capital ship-grade superdrive we can exchange from the MTA is priced at 120,000 MTA merits."
+
+Ves perked up when he heard this price figure. "That is better than I expected."
+
+"I would advise against this specific model, sir." Vivian's projection looked displeased. "At their lowest, a second-class superdrive can speed up the traversal speed of a ship in FTL travel by ten times. However, the cycle time of the superdrive is identical to that of a standard FTL drive, so the ship in question will still have to spend many hours in realspace or switch to using a second FTL drive."
+
+"We can buy two second-class superdrives then." Ves remarked. "We can alternate between one and the other, thereby permanently traveling through FTL at ten times the speed of a ship using a pair of regular FTL drives."
+
+"That can work, sir, but you cannot sustain this pattern for long. This is because the shorter hops will give the spare superdrives much less time to cycle and recover from their previous exertions. If you alternate between them too quickly, they will quickly accumulate stress and fatigue without giving them enough time to unwind. At worst, they might malfunction or break in situations where we can least afford that to happen."
+
+Ves thought for a moment. "If I recall, the Spirit of Bentheim can accommodate three FTL drives right now. We can replace them with three superdrives instead. That should give us enough capacity to endure the rigors of long-distance transluminal travel, right?"
+
+"Theoretically, that is true, but don't forget that we have an entire fleet as well." Vivian reminded him. "Without upgrading the drives of our other starships, they will not be able to keep up with the Spirit of Bentheim. With our current budget, we can upgrade drives of all of our capital ships, but that still leaves us with a large number of combat carriers that will also require their own superdrives. Then we need to account for our allies. If the Glory Seekers and the Cross Clan are unwilling to make superdrives standard-issue for all of their own starships, then our expeditionary fleet won't be able to travel faster than before."
+
+This was because the fleet effectively traveled as fast as its slowest element. The best way to deal with this problem was to abandon every element that was too slow to keep up, but Ves was not willing to go that far. The Larkinson Army and Navy weren't strong or numerous enough to stand on their own in the frontier.
+
+Ves had to rule out this unreasonable option.
+
+"I don't think any of us are willing to go this far. While it is nice to speed up our long-distance travel methods, it is not vital to our operations. To us, it doesn't really matter whether it takes a few days or a month to travel to another zone. Besides, I bet the upkeep and maintenance of all of those high-tech superdrives also impose a substantial burden. I'm not sure our clan will comfortably be able to keep so many high-tech superdrives in working condition."
+
+As the resident ship expert, Vivian understood these problems a lot better, so she could understand this decision.
+
+She just felt it was a missed opportunity. It was not impossible to implement a fleet-wide superdrive upgrade. The Golden Skull Alliance just had to hire a lot of highly qualified naval engineers and drive engineers in order to service the extremely demanding devices.
+
+"Very well. We can come back to this proposal when we are in a better position to implement a fleet-wide upgrade." Vivian dutifully said. "It is not a bad idea to hold off for the most part as the nextgen superdrive models will definitely be twenty, thirty or even fifty percent more affordable than the early models that are available today."
+
+Ultimately, Ves chose to replace the current FTL drives of the Spirit of Bentheim with a set of three decent second-class capital ship-grade superdrives.
+
+He mostly regarded them as a stopgap option in case of emergencies. The second-class superdrives should never operate at their full capacity unless a catastrophe took place and the ship had to run away alone.
+
+With the dangerous state of the Red Ocean, Ves did not dare to take the Spirit of Bentheim on lengthy solo trips across the stars. Escorts were essential in order to deter opportunistic predators from launching raids.
+
+Vivian sighed in regret. "It would be nice if we equipped the Spirit of Bentheim with a set of first-class superdrives. They are so much better on every front. A first-class superdrive is not only at least 100 faster than a standard FTL drive, but their cycle times are also a lot shorter. They are also far more solid and resistant to external shocks. What is even more vital is that they are a lot more resistant to warp interdiction fields. This means that it will become a lot harder for our enemies to prevent our flagship from speeding away from the heat of the action."
+
+"Next time." Ves promised to her. "The modest second-class superdrives that we have decided upon are already luxurious enough for the time being. If nothing goes wrong in the following decade or so, those superdrives will only be used to keep up with the rest of our fleet."
+
+They continued to discuss other possible upgrades, but aside from adding in a Hyper Chamber in the newly-built sections of the extended factory ship, nothing particularly stood out. The minor changes mostly amounted to boring but necessary system upgrades. Ship components such as energy channels needed to be entirely replaced in order to make sure that lots of energy could flow throughout the entire hull without getting bottlenecked, or worse, frying the parts entirely!
+
+Ves tried his best to hold in a yawn. "You don't need to explain each and every individual item on the list. I trust your judgment. Let's make a tally. How much phasewater and how many MTA merits will we have to pay for these upgrades?"
+
+The projection of Vivian Tsai made a gesture. A new list projected into view that precisely explained the costs of all of the discussed upgrades.
+
+"As we have discussed before, extending the length of the hull and upgrading the entire structure and exterior of the Spirit of Bentheim to first-class standards will cost approximately 140 million MTA merits. This is the most far-reaching transformation and one that is much more affordable to us due to providing the bulk of first-class alloys needed to make the necessary changes."
+
+Ves nodded. "Sounds reasonable. It will become a lot easier for us to upgrade the other systems of the Spirit of Bentheim to first-class standards later on, especially since you have retained the highly modular layout of her original design."
+
+The chief shipwright grinned. "That is correct, sir. Moving on, the next major upgrade concerns the power generation and the active defense capabilities of our flagship. It will cost us approximately 50 million MTA merits to equip her with a full suite of relatively basic but economical first-class transphasic shield generators and power generators. The former will also require us to invest around 33 kilograms of phasewater, though you should keep in mind that the producer of the transphasic shield generators will also charge a fee of 33 kilograms of phasewater."
+
+Ves winced, though he did not bother to complain. Though he was sure he could find a competitor that might charge a lower fee, the quality and performance would definitely suffer.
+
+"Fine. What's next?"
+
+"Upgrading the main thrusters, maneuvering thrusters and other aspects of the sub-light propulsion systems with basic first-class equivalents will cost us 19 million MTA merits in total."
+
+"That doesn't sound so bad. The Spirit of Bentheim will become a lot faster, right?"
+
+"Oh, I am certain you will be more than satisfied with her mobility after these upgrades." Vivian grinned.
+
+"What else?"
+
+"Well, the final major item is replacing our flagship's FTL drives with second-class superdrives. Since we are not moving up to first-class this time, the cost is much more manageable. I estimate that we should spend no more than 870,000 MTA merits as well as 9 kilograms of phasewater, though we must also pay a commission fee of 9 kilograms of phasewater."
+
+In this case, the real payment was not the MTA merits, but the scarce and highly desirable phasewater.
+
+"I see." Ves rubbed his smooth and hairless chin. "If we include the expensive Hyper Chamber, then the total cost of upgrading the Spirit of Bentheim to a quasi-first class factory ship will amount to 309.87 million MTA merits and 84 kilograms of phasewater."T/his chapter is updat𝓮d by n𝒐v(ê(l)biin.co/m
+
+That was an enormous price!
+
+Was it really worth it to spend so much to upgrade a single ship?

@@ -5,7 +5,7 @@ import json
 import undetected_chromedriver as uc
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 import os
 from fill_chapter_data import fill_chapter_data
 from progress_bar import printProgressBar
@@ -134,12 +134,22 @@ def getLinks(link):
     print("Waiting to load...")
     while len(getElsByClass(driver, "loading")) != 0:
         time.sleep(0.1)
-    panel = getByClass(driver, "panel-body")
+    """panel = getByClass(driver, "panel-body")
     res = []
     print("Scrapping links...")
     for li in getElsByTag(panel, "li"):
         a = getByTag(li, "a")
         res.append(a.get_attribute("href"))
+    print("Done, returing {} links.".format(len(res)))
+    return res"""
+    print("Getting links...")
+    res = driver.execute_script("""
+var res = [];
+for (let li of document.getElementsByClassName("panel-body")[0].getElementsByTagName("li")) {
+    res[res.length] = li.getElementsByTagName("a")[0].href;
+}
+return res;
+""")
     print("Done, returing {} links.".format(len(res)))
     return res
 
@@ -224,6 +234,11 @@ def downloadNovels():
 
 while True:
     try:
+        try:
+            driver.close()
+        except:
+            pass
+        driver = uc.Chrome(executable_path = "./chromedriver.exe")
         loadData()
         print("Data loaded...")
         print("Data size: {}".format(len(data)))
@@ -233,10 +248,7 @@ while True:
         downloadNovels()
         storeData()
         driver.close()
-    except:
-        try:
-            driver.close()
-        except:
-            pass
-        driver = uc.Chrome(executable_path = "./chromedriver.exe")
+        break
+    except Exception as ec:
+        print(ec)
 

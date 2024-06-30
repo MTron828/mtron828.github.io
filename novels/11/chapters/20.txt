@@ -1,0 +1,84 @@
+Fitness Fun in the Park
+0.00 / 0.00
+
+Designing an armor scheme for a mech took a lot of skills and knowledge. Ves was frankly impressed by the young Jason Kozlowski’s work in making the armor of Caesar Augustus look majestic while still doing its job. Of course, he also enjoyed limitless resources and help. With an abundance of processing power, Jason could easily layer the armor plates in a way that minimized the gaps.
+
+Ves lacked a room full of processors ready to solve any problems by brute force, but the Mech Designer System came with its own perks. The Designer offered a number of simulations that showed how certain sections responded to laser fire or other types of damage. It simulated a mech’s maximum capacity for damage. It also had a tool that showed how to disable the mech with the least amount of effort.
+
+Using these aids saved Ves a lot of effort. Together with his newly gained Mediumweight Armor Optimization I sub-skill, he felt competent enough to start his job as an armorer. Rather than copying Jason’s armor contours, Ves decided to remove most of it and start from the bare minimum, only keeping the ingenious ways Jason and his helpers kept the joints protected.
+
+He started with the legs. For mechs, legs not only provided movement, they made sure the mech stayed stable. While the mech’s engines devoted most of its power to supporting the legs, the limbs had to bear the entire mech’s weight in addition to its own armor. The mech’s legs were absolutely crucial to a mech’s operation. Crippling even one of them might immobilize a mech, effectively achieving the same results as killing it. Protecting the legs was a top priority.
+
+The Caesar Augustus enjoyed luxurious armor on its legs. National Aeromotives knew their business when they developed its proprietary armor. It offered excellent protection at a decent weight. Now Ves somehow had to keep his Marc Antony’s legs protected while not piling up too much armor. Excessive bulk reduced a mech’s flexibility and speed.
+
+"The Marc Antony is a spear that breaks through obstacles. It needs mobility more than armor. The legs has to facilitate a charge. It doesn’t need to be excessively nimble. The Antony doesn’t pretend to be a light mech in that regard."
+
+The Marc Antony featured slightly thicker armor, especially on its front axis. While it made the legs vulnerable to crippling strikes from the rear, it could take about 75% of a beating the base model’s legs could endure. This was already very generous considering the enormous differences in price between Ves’ newly acquired HRF and the original armor plating.
+
+Next came the torso. The core of any mech, it features by far the most space for its systems. The cockpit, power reactor and engines all resided in the torso. This placed unparalleled importance on its protection, especially with regards to shielding the pilot inside.
+
+Mechs were expensive, but potentates were rarer. Only 3.5% of the total population of humans possessed the potential to pilot a mech, but not everyone of them actively pursued a military career. Mechs could be gained fairly easy by spending enough credits, but pilots represented a limited resource that replenished slowly. Thus most countries treated pilots like gold but mechs like silver. The armor schemes of most mechs reflected this demand, making it the thickest part of their armor.
+
+In keeping up with the Marc Antony’s indomitable intent, Ves became bold when working on the torso. He pursued aggressive lines that largely mirrored Jason’s own scheme, but added more bulk to the lower torso and shaved a bit of armor from the upper torso.
+
+The upper torso of a mech usually housed the cockpit and some other delicate components that could fit by the side. Surrounded by the shoulders and arms, it took a lot to excavate the cockpit from the heavily armored chest. The lower torso housed the power reactor and engines. Their central position ensured energy and motive power could flow in all directions of a mech equally. Naturally, not all mechs followed this scheme. Some lighter mechs such as the Fantasia 2R swapped the positions around.
+
+In the Marc Antony’s case, Ves decided keeping its engines and power reactor working his main priority. The mobility of the mech must not be compromised. The cockpit still enjoyed adequate protection, but not to the exaggerated extent of the base model. The cockpit’s frontal protection got reduced by as much as 50%, an inevitability considering the HRF armor plating’s lack of exceptional attributes. Layering too many plates on top of each other not only wasted Ves’ armor budget, it also threatened to upset the mech’s balance.
+
+Still, considering the HRF’s much cheaper cost, it was a price worth paying in some situations.
+
+Ves spent some time with the rear torso, but not too much except for thickening it a little bit. The Caesar Augustus possessed above average rear armor, but if Ves replaced it the same thickness in HRF plating, he’d turn the Marc Antony in a mech with its rear section dangerously naked. He had no choice to bulk up the rear, choosing to incorporate some subtle angles that helped deflect damage aimed at the cockpit or engines, but otherwise keeping it plain.
+
+The shoulders deserved special attention. Jason’s CA-1 employed shoulder launchers for long-ranged missiles. This wasn’t anything unusual for mech designers who wanted to offer a long-ranged solution to round out their mech’s deficiencies in that area, but Jason very clearly half-assed the attempt. The Caesar Augustus was not a mech that specialized in lengthier engagements at longer ranges, so it carried no room for additional missiles. In short, the launchers only fired the missiles in its tubes before they became useless ornaments.
+
+He considered removing them. Sure, the launchers were relatively small and light, and didn’t hinder the mech’s mobility all that much. On the other hand, it added little firepower beyond its initial salvo and the addition of the system and its mechs meant its logistical footprint grew larger than what could be justified.
+
+"Well, it’s not like anyone has to stick to these missiles. They can easily change them to something to their liking."
+
+These days, missile systems became a lot more standardized than in the past, where each manufacturer used different sizes to monopolize the sale of refills. The missile launchers employed by Jason came from a reputable manufacturer, so plenty of missile types could fit in. Shorter ranged missiles that lacked sophisticated guidance options packed a lot of punch, which might be crucial when employed with great timing.
+
+He spent a lot of time refining the torso before moving on to the arms. Most humanoid mechs employed arms as their primary weapon platform. They required protection from harm due to their essential role in a mech’s offense, but they also had to retain their nimbleness in order to operate their weapons as smoothly as real human arms.
+
+Regarding the use of arms, mech designers generally chose from three different options. One was to keep the arms articulated like a human’s, letting the mech depend on external weapons like pistols and rifles. Great importance is placed on mimicking the arms to its biological equivalent, sometimes achieving a synchronization of up to 99%. This allowed marksmen to fire their weapons as accurately as they could in real life without depending on aim assist and other guided aids, which provides a remarkable advantage in certain times.
+
+Another route was to embed weapons in the wrists. Usually smaller and less powerful than handheld weapons, it kept the arms free to wield weapons while simultaneously offered additional firepower without detrimentally affecting weight and carrying capacity all that much. However, such weapons systems needed to be fed energy or other resources from the torso. Accommodating these needs weakened the arms internally and created more weak points. The wrist-mounted weapons also unbalanced the arms and made hand-mounted weaponry less accurate.
+
+The third, most extreme way of employing arms was to replace the lower arm or even the entire arm for a dedicated weapon emplacement. This made mechs lose the ability to hold external equipment, but they gained a powerful weapon affixed to a stable platform. Mech designers generally regarded these designs as trying to marry a tank into a mech. Such a solution is generally employed on frontline mass production models. Larger Mech Corps made the best use of large numbers of uniformly equipped mechs and also had the most need for large-caliber weaponry that the weapon arms usually affixed.
+
+In the case of the Caesar Augustus, Jason went with the wrist-mounted weapons. The laser cannons were actually high quality weapons even in the current generation. They provided a substantial amount of short-to-medium ranged firepower as long as the mech’s energy lasted. They did have a tendency to overheat the mech, and with Ves’ HRF replacing the base model’s heat-resistant armor, the Marc Antony had a much smaller capacity to absorb the heat. Ves could only tune down the cannons to a lower default setting, allowing it to last a little longer.
+
+The base model employed a sword and a shield as the mech’s melee weapon. This lowered the demand for articulation, so Ves happily bulked up the arms in order to improve its armor and heat absorption. It stiffened the arms, but Ves did not place excessive demands on the mech’s accuracy. Its laser cannons remained effective in medium range, only having trouble in closer ranges due to the ability for lighter mechs to circle swifter than a mech’s ability to rotate.
+
+This left Ves with the armaments. Made with the same materials as the armor, the heavy shield could endure a lot of damage at an acceptable weight. The valiant-looking sword possessed enough qualities to cut through enemy armor when it was treated slightly differently at the end of the manufacturing process.
+
+Ves wouldn’t be able to retain the original shield’s design. It offered too little protection for too much weight. At its current state, Ves could either increase or decrease the size of the shield.
+
+"The HRF plating is cheap, so I should employ the shield as a disposable object. The Marc Antony’s main feature is its ability to charge and break through the enemy line, so I’ll make it longer and thicker."
+
+With the Designer’s helpful tools, he reconstructed the bulky kite shield of the base model into a longer and slightly thicker tower shield. Taking inspiration from the equipment of the historical Ancient Rome, Ves emulating the iconic curved rectangular shields. When held in its armed position, the mech could cover almost the entire mech’s length, protecting it from the knees to the lower half of its head. The specific length prevented the lower edge of the shield from bumping into terrain and also left the mech’s eyes unobstructed by the upper edge. ALL new 𝒄hapters 𝒐n n𝒐v(𝒆)lbin(.)com
+
+The shield turned out to be incredibly heavy and was difficult to move, but it also covered a lot more area so it didn’t need to. Made entirely out of cheap HRF plating, pilots wouldn’t feel any heartache when they threw it away if it sustained too much damage or if the mech required a burst of speed. Ves was highly satisfied with the end result. The big rectangular shield fit heavy infantrymen more than cavalry, but Ves didn’t bother reconciling these contradictions. He only borrowed the Ancient Roman theme to make his mech look cooler.
+
+As for the weapon, the HRF was distinctly unsuited to serve as a sword material. Its composition focused fully on frontal protection, and couldn’t retain an edge suitable for bladed weaponry. It also broke much easier when struck hard. He’d either have to change to a different weapon or keep the arm empty.
+
+"The HRF only excels at cost."
+
+Ves took the same approach as with the shield. He bulked up the mech’s weapon and didn’t bother adding any edge. He eventually ended up with a short mace with a bulky rounded end. Since the mech already carried quite a bit of weight from its armor and shield, Ves hadn’t opted for something larger like a hammer or staff. Despite the mace’s simple looks, it still dealt a fair bit of damage if the pilot put its weight behind its attacks.
+
+"It kind of sucks. Too bad I can’t afford another production license."
+
+Even the virtual licenses cost too many credits for Ves to bother buying them. He had to hoard money for now in preparation for producing a real mech.
+
+Only the head remained now. In modern mechs, the head housed the best sensors of a mech. It was a rather poor position for something so important. It stuck out too much. However, most humanoid mechs retained the head due to pilots massively preferring their main view to come from such an elevated position. Mechs that hadn’t bothered with heads and moved their main sensors to the torso, the so-called ’Pangu’ types, never really caught on in the market.
+
+The Caesar Augustus featured an ornate head design that appealed to Jason’s aesthetics. It housed fairly good sensors behind enough armor and embellishments to make them difficult to pick off by a stray shot. Ves hadn’t messed around with the head too much, but he did add a dramatic touch by adding a vertical helmet crest, much like the cool helmets worn by the soldiers of Ancient Rome and Greece.
+
+For its plume, Ves embedded the small Festive Cloud Generator at its neck. With some creative plumbing, he ensured the cloud generator’s red vapor to erupt from the head crest in an even fashion. He put enough power in the ejection of vapor that it held onto its semicircular shape in the wind even if the mech moved around.
+
+Having finished working on the exterior, Ves stepped back and beheld the entire mech. It matched what Ves envisioned for the Marc Antony. A medium mech carrying a heavy shield to facilitate its tendency for head-on and charges and collisions. Discarding the shield allowed the mech to regain its mobility, enhancing its maneuverability in melee combat and leaving a hand free for a spare pistol or knife.
+
+Despite the long hours of fiddling with armor plates and figuring out the best arrangements, Ves enjoyed the entire process with the enthusiasm of a kid trying a new toy. The Designer’s many tools allowed him to waste less time with boring calculations, leaving him more time to utilize his sharpened creativity to come up with aggressive designs. His work culminated in a mech that embodied Ves’ intent of aggression, momentum, burst power and a little bit of flamboyance.
+
+Whilst Ves expected the armoring process to be the most challenging job, his method of channeling his intent while he made his designs paid off. He was sure that others could have done a much better job, but he did a decent enough attempt that he could confidently say he hadn’t wasted his time.
+
+"Now, it’s time to revisit the internals."

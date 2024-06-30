@@ -1,0 +1,122 @@
+Fitness Fun in the Park
+0.00 / 0.00
+
+After a bit of tinkering, they completed the modifications done to the basic frame of the C22 Custom reserved for Ves.
+
+It looked nothing like the base model of the C22. Significantly bulkier than a standard suit of light armor and several times as resilient, the customized version nonetheless weighed only a little more due to the extensive use of high-quality lightweight armor plating. CH𝒆Ck for 𝒏ew st𝒐ries on no/v/el/bin(.)c0m
+
+The contours of the armor had been rounded out as much as possible, changing its profile into a shape that allowed Ves to roll or bend his body a little easier should he ever fall under heavy gravity conditions.
+
+"Sharp edges and completely flat surfaces are bad ideas in 5 g or more." Chief Mandelson explained. "If you happen to fall flat on the ground for some reason, you’re going to have to exert several times more force if you want to roll to the side. That can be the difference between life and death if there’s a battle going on and cover is only a few steps away."
+
+She even strengthened some of the servos assisting his arms and legs to facilitate this kind of movement.
+
+Besides that, she also added a couple of weak but robust internal antigrav modules that lightened the effect of gravity on his head and his upper body by a few g’s.
+
+"One of the biggest dangers you’ll face when you are on a heavy gravity planet is that when you are standing or sitting upright, your blood gets pulled down to your legs. That won’t do your brains any favors. One of the biggest causes of death to people exposed to heavy gravity doesn’t come from breaking their bones and thereby losing their mobility. It’s because so little blood circulated through their brains that they quickly black out."
+
+"I’ve read that in one of the safety instructions Major Verle sent out to the entire crew." Ves nodded. "The manual also states that it helps if you lie down flat against the ground for a time to let your blood access your head without fighting an uphill battle against several g’s of crushing gravity."
+
+"That can actually work, and it can save your life if you’re stranded outside a protected zone, but it’s only a stopgap method at best. Humans don’t belong on heavy gravity planets." She warned. "Just think about it. Someone like me will effectively weigh almost half a ton when I’m on a Super Earth, and that’s without taking my armor into account. While the weight is well-distributed, it’s still a feat of superhuman effort to walk like a normal person."
+
+"I didn’t think it would be that bad." Ketis suddenly frowned and thumped the surface of her own combat armor. "I don’t think my heavy armor is quite up to the task. Can you help upgrade my suit as well? I’m not sure if my own servos can handle the load."
+
+Ves waved his hand. "Just put the account out of my allowance. Major Verle has already given me free reign of the inventory, so I doubt he’ll mind if we take out something extra."
+
+The chief armor shrugged. "If the bean counters complain, I’m sending them to you."
+
+They worked on two modifying two more components before they finished with the plan. First, the chief strengthened the rear mount for the combat armor’s Modular Fitting Standard.
+
+Just as with mechs, combat armor also featured a slot in the rear that could mount standardized backpack modules. While the Vandals adopted the Vesian standard when it came to mechs, they defaulted to the Bright Republic’s standard when it came to infantry-sized suits.
+
+In most exoplanet deployments, specialized oxygen tanks occupied the rear slot. Though the suit stored a small amount of emergency oxygen compounds, they only lasted him an hour at most, and that was if he didn’t exert himself.
+
+What he really wanted was an air cycler module that could recycle the spent air in his suit into something breathable again, but that took way too much space at their current level of technology.
+
+"I hear it’s possible in the second-rate states, but for us even the smallest air cycler weighs far too much to be realistically be mounted onto your back." Mandelson remarked.
+
+Once they went over the MFS, they finally turned their attention to the foldable helmet.
+
+"One of my biggest problems is that my marksmanship is too rudimentary." Ves said. "I’d like to add an integrated targeting and aim assist system into my suit."
+
+"Just like what my armor offers." Ketis piped up.
+
+"Are you sure, kid? If anyone hacks your C22 Custom, you’re liable to shoot your own allies."
+
+"We can just upgrade the security suite of the C22 while we’re at it. If there’s any room left, I’d also like to upgrade the visor with an integrated scanner system. I’m using a regular handheld scanner right now but it’s not powerful enough for my needs. I’d like to add a strengthened transceiver as well to facilitate communications."
+
+"You can’t just keep piling extra features onto your armor. All of that takes up valuable space, not to mention drain your suit’s batteries even faster."
+
+"Don’t worry about the power draw. I already have a solution in store for that." Ves grinned.
+
+They proceeded to incorporate all of the changes Ves requested. They needed to shift a lot of components around in order to make enough space and harden them enough to withstand a high amount of gravity. In the end, they managed to complete a new variant of the C22 Custom that performed almost nowhere near the base model.
+
+Chief Mandelson whistled in appreciation of the design. "It’s more bloated than I like, but it’s practically the best we can cobble together on short notice. It’s a shame you aren’t trained for medium combat armor though, we could have added a lot more goodies in that case."
+
+"We can send some of those goodies to Ketis instead." Ves smiled. "In any case, I’ll go down to the workshops and fabricate these parts. They don’t seem more complex than what I’ve already fabricated before so I can handle them on my own."
+
+"If you say so, kid. You’re going to need my help when you assemble your new C22 Custom though, or you’re bound to miss something important. By the way, this suit is so different from a regular C22 Custom that it deserves its own name. What do you want to call your new suit?"
+
+"Hmm. It doesn’t have to be any fancy." Ves quickly came up with a few options before he settled on one in particular. "Let’s call it the C22 Earth Ant."
+
+The suit had taken on a slightly bulbous appearance that resembled the exoskeleton of ants.
+
+"Not the most flattering name, but it’s your suit."
+
+"It’s my turn now!" The woman in question bubbled.
+
+As Ketis and Mandelson huddled together to discuss the modifications of her own suit of heavy combat armor, Ves took the details of the plan and brought them down to the workshop where he began to fabricate all of the new parts.
+
+This was familiar to him, and despite the differences, his adeptness and experience in handling the 3D printer enabled him to churn out parts without any apparent flaws.
+
+He encountered the most difficulty when he fabricated the compressed armor plating. While Ves wasn’t unfamiliar with the extra treatment they required, he had never produced plates so small and thin.
+
+While he knew how to handle such delicate work in theory, he failed several times before he tentatively got the hang of it at the cost of wasting fifty percent more materials than he thought.
+
+The good news was that he wouldn’t be facing so many stumbles next time he fabricated infantry-sized armor plating.
+
+He also put his concentration to use in attempting to imbue his parts with an X-Factor, but despite his considerable Spirituality, he sensed he hadn’t managed to affect the parts very much. It was pretty much the same story for when he fabricated his other gear as well.
+
+Evidently, Ves did not grasp the essence of crafting other objects besides mechs.
+
+"Well, it’s not as if I need anything more than a faint boost. It’s way too soon for me to experiment on this aspect."
+
+Fabricating all of the parts took almost a full day, which was considerable considering how little he produced compared to fabricating the components of a mechs.
+
+Fumbling around with the compressed armor plating ate up far too much time, but he also wanted to take it slow in order to insure every part was as mechanically perfect as possible. Ves would be relying on the C22 Earth Ant to safeguard his life while deployed to the rumored Super Earth where the Starlight Megalodon could be found, and from his previous experiences he always needed to be ready for battle when stepping foot on exoplanets.
+
+"It would be great if nothing serious happens, but with all the pirates and the Vesians converging on the Starlight Megalodon, avoiding conflict is probably a pipedream."
+
+He didn’t even want to be deployed to the surface of a Super Earth in the first place, but the planning of the missions called for the best mech designer to be on hand in case their landbound mech force required acute adjustments.
+
+Nobody knew what kind of strange conditions they might encounter on a Super Earth in a star system surrounded by a strange and incomprehensible spacetime storm.
+
+That alone caused many Vandals to shudder in fear. Spacetime storms were no joke, and they had often been responsible for insane feats such as launching a meandering starship in FTL halfway across the galaxy or even several decades in the future!
+
+Of course, the most likely outcome to ships being flung off-course by these storms during FTL travel was to crash into a random stellar object in the vicinity. Black holes often had a tendency to slurp ships thrown off-course.
+
+As Ves returned to the armory with a floater platform of parts trailing behind, he waited for the chief armorer to finish her modification plan for the suit of armor worn by Ketis.
+
+The plan was a lot less extravagant than his own, but then again her heavy combat armor already protected the Swordmaiden well enough. She just wanted some strengthening so her suit could continue to operate under heavy gravity.
+
+"Ves?"
+
+"Yes, Ketis?"
+
+"Can you help me fabricate these parts?" She swung a data pad containing her modification plan to him. "I don’t feel confident enough to do it myself like you just did."
+
+"I guess I can show you the ropes." He sighed. He turned to Mandelson. "Chief, here’s the parts. I’d love to help with assembling the C22 Earth Ant, but I have to help our guest designer here."
+
+"Go ahead." She waved her hand dismissively. "Your help won’t be needed anyway."
+
+Unlike Ves, Ketis lacked the skills to fabricate the complicated parts that she planned to introduce in her own armor. Once they returned to the workshop, he carefully demonstrated how to work the 3D printer.
+
+She oohed and awed whenever a new part came into being. Ves put her in charge of scanning and inspecting the products for any deviances and faults. So far, she found nothing to complain about.
+
+"How come you’re so good at fabricating this stuff? This nonexistent failure rate of yours is inhuman!"
+
+"I studied a lot." He fibbed, avoiding any mention of the System. "I also care a lot about craftsmanship. Now that you’ve found your design philosophy and gained a direction, there will come a time where you are tempted to keep designing new mechs without end. That’s not a good approach because you risk distancing yourself too much from the nitty gritty of mechs."
+
+"That’s something you care a lot as well. Not even Mayra pays that much attention to this kind of manual labor. She always leaves the production to others."
+
+"Mayra is at a stage where she doesn’t need to touch a copy of her own design to be able to judge how good it is. Still, even if I become a Journeyman, I won’t ever give up on crafting my own mechs. Sometimes, you need to remind yourself of why you entered the profession in the first place."

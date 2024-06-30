@@ -1,0 +1,120 @@
+Urban Oasis
+0.00 / 0.00
+
+His brain started churning hotter than ever before. The feeling of crisis hounding after his back was distinctly unpleasant. He had to figure a way to climb out of his own hole.
+
+"There’s only two hours left. Before I do anything else, first I should see if Floyd is able to pull another fast one."
+
+As Ves studied Floyd’s jury-rigged centaur mech, he found many minor errors. Instead of starting anew with a basic heavy frame, his opponent chose to forcefully increase his beast mech’s weight class by slapping a lot of parts together.
+
+He understood why Floyd went in this direction. If he replaced the frame, he’d have to throw away at least a couple of hours of work. Evidently, he couldn’t bear to start over.
+
+"Is he crazy?" Ves asked when he realized what Floyd did. In his perspective, it was better to use a frame built to withstand the stresses of a heavy mech than to forcefully reinforce a lighter frame. This ungodly centaur mech certainly had its faults. Compared to a purpose-built centaur mech, his chimera’s speed, power and integrity was awful.
+
+Floyd wasn’t stupid. His mech might not be capable of chasing an opponent, but it possessed enough firepower to devastate anyone at range.
+
+The missile launchers was also a source of anxiety. Floyd had left them empty. He’d probably chose the missile type at the very last second. With the variety of missiles available, Ves had no way of modifying his mech to withstand a specific missile type.
+
+"Odds are, he’s going to resort to one of the three major types: high explosive, thermal, or kinetic. I doubt he’d pick something indirect like EMP or smoke particles."
+
+If Ves could pin down the mix of damage types and optimal ranges of the launchers, he could work some additional armor.
+
+"Hmm, I don’t think he’ll replace those missile launchers with other weapon types. His mech can’t withstand the weight or energy consumption of anything bigger."
+
+This gave him an idea. He looked at his mech’s shoulder lasers and made some optimizations. He enhanced their accuracy and fire rate at the cost of impact. He even went to the trouble of incorporating an enhanced targeting system into the head, allowing it to track fast-moving projectiles. In the end, he turned them into decent anti-missile systems.
+
+Ves spied on his opponent again and confirmed he didn’t change anything again. Floyd still tried to paper over the worst cracks of his hasty modifications. Besides the missile loadout, everything was set in stone.
+
+"His design still stands a better chance than mine." He concluded after a minute of consideration, though with a narrow margin.
+
+They chose to pursue different extremes. Ves designed a structurally sound mech with the time allotted to him. Floyd embraced the weird duel format and changed his design midway in order to counter his opponent’s efforts. While both had their strong points, Floyd took the lead by making his switch at an opportune moment. Ves had no time to change his fundamental design.
+
+"I’ve got about an hour left. There should be something I can do."
+
+He looked left and right but unfortunately he couldn’t steal anyone else’s ideas. The projection systems only made the workshops viewable to their owners and their opponents. Only the audience and the organizers were able to see everything, but they had no way of communicating their observations to participants.
+
+"I need to think outside the box. I can’t just submit this design without taking advantage of the competition format."
+
+He thought about his opponent’s mech. Its main damage dealer was its missiles. The laser rifle also posed a threat, but not too much due to the centaur mech’s insufficient energy and heat absorption capacities. As the mech gained a pair of humanoid arms, Ves also couldn’t rule out that Floyd added a melee weapon such as a spear at the last moment.
+
+He considered his options again in light of this information. While a spear might make the centaur possess some bite at close range, it wasn’t enough to fend off a purpose-built melee mech. If his hunter successfully closed the distance, he’d bet his medium mech could beat the centaur mech eighty percent of the time.
+
+"That centaur is slow as hell, and will probably fall apart if it tries to run. Does my mech even need a lot of speed?"
+
+His mech already weighed a lot for a medium mech, so he gave up any strategies involving a dash. Instead, he considered the opposite. If he beefed up his mech’s armor and shields, then it stood a better chance of fending off the missile barrage.
+
+"I don’t have a lot of leeway in adding more protection. Although..."
+
+If Ves submitted his design in a blind duel, he’d never overburden his mech. Now that he saw what his opponent was working on, he could avoid the pitfall of choosing an overly specific loadout only to risk stumbling on a direct counter.
+
+"I don’t need to stick to conventional limits. The best way to endure a missile bombardment is to put as much layers in between the missiles and the mech."
+
+His memories provided him with some inspiration. He especially revisited the concept of modular armor. Naturally, he had no time to replace his mech’s armor with a modular system, nor did he wish to do so in the first place. Instead, he referred to the system’s premise.
+
+"The goal of a modular armor system is to treat armor as a disposable product. When necessary, it’s better to discard a spent piece of armor in exchange for a reduction in weight."
+
+He could apply this concept to a shield. He wanted to design an incredibly thick shield, one so heavy that it had to be supported by wheels or tracks if possible. Who cared if his mech slowed to a crawl. He’d bet it was still a bit faster than that rickety centaur mech on even terrain.
+
+After regaining his spirit, Ves implemented his crazy idea in the hour that remained. Even if Floyd stopped his tinkering and puzzled out his intentions, there was nothing much his opponent could do to respond.
+
+Ves obfuscated his work by designing only a small portion of his shield. Like a pre-assembled block, if he duplicated its shape, he could easily stack them together, though without alloy compression. Before he did so, his opponent laughed at its small and weak-looking shape.
+
+"Hahaha! That little shield isn’t big enough for what I have in store for you! Even if you used alloy compression, it still won’t stop my firepower!"
+
+Again, Ves questioned Floyd’s sanity. If he stopped laughing so much, he might notice the camouflaged attachment points at the shield’s extremities. Despite his bewilderment, he kept pretending to work on something else.
+
+The last minute initiated some frantic changes. Both Ves and Floyd sped up and added a lot of new parts. Ves kept one eye on Floyd’s actions while he implemented his own plan.
+
+As predicted, Floyd added a melee weapon to his mech. Instead of a spear, he chose to add a halberd instead. As for the missile loadout, he went for an even mix of high explosive and kinetic payloads. The kinetic missiles excelled at damaging shields and slow-moving mechs, while the explosive ones fared better in damaging lighter and more exposed components.
+
+Just as Floyd finished his additions, he took a taunting look at his opponent’s workshop. His grin vanished. "Impossible! That’s impossible!"
+
+Ves removed the useless fittings meant to cover up the attachment points on his shield. He scanned the design and duplicated its very basic shape with the most basic materials. The virtual workshop allowed him to duplicate any material as long as it wasn’t too complex. The shield barely qualified, but Ves successfully duplicated a handful of identical plates with simpler materials.
+
+With the quickest speed, he clicked them all together, forming an oversized rectangular barrier. The main point of the shield was its layered composition. If the front layer became too tattered, the mech could easily detach it by prying off a few locks. With up to four different layers, the wide and tall shield provided enough bulk to withstand the centaur mech’s entire missile complement.
+
+Naturally, his mech could not even lift a big and heavy shield without cracking its arms. To support the shield’s alignment, he hastily added a couple of unpowered wheels to the bottom. They served no function other than to bear the shield’s weight and make it easier to push forward on flat terrain. If the mech came across more complex terrain, its pilot could choose to discard some layers in order to carry it like a conventional shield.
+
+"This is cheating! Anyone! My opponent is cheating!"
+
+Sadly, Floyd received no response. The virtual workshop scanned both designs and approved them without comment. Ves ignored his blubbering and sat down on the field. He worked for eight straight hours. He deserved a rest.
+
+"Ladies and gentlemen, now that you have submitted your designs, we will see whether they can vanquish the opposition. In the interest of finishing this round in a prompt fashion, we will speed up the simulations so that we can receive the results before the hour is over. Let the duels commence!"
+
+The virtual workshop environments vanished into thin air. Instead, a new set of projections appeared. A projection of the automated duels appeared in front of every pairing. As expected, each duel was held in a completely random environment. Some fought in a city, while others fought in a forest. A couple of duels even took place on a low-gravity moon, which threw both AIs off-whack.
+
+Ves and Floyd’s first duel took place in a fairly average desert environment. The hot environment favored the medium mech, as it mainly relied on its melee weapons to deal damage. The centaur mech had to watch its heat buildup, and it showed as its AI chose to slow down its rate of fire when it spotted its humanoid opponent.
+
+"Fucking idiot! Shoot faster! Empty those launchers!"
+
+The fast-forwarding made it difficult to judge what was going on, but Ves saw that his mech held an overwhelming advantage. The relatively flat terrain facilitated the jury-rigged wheels. His unnamed mech sluggishly advanced, making sure to hide as much of its profile behind the giant shield.
+
+"What kind of shit-for-brains did the LIT put in my mech! It’s not even moving a lot!"
+
+Even the centaur’s piloting AI thought it was a bad idea to test his mech’s speed limits. Floyd underestimated the importance of his mech’s integrity. With all the crude additions, it was a wonder his mech didn’t fall apart.
+
+The medium mech started to speed up. It stoically endured the missile bombardments and discarded the damaged layers when they were spent. When the shield lost half of its mass, the mech was able to speed up and cut short the centaur’s lethargic bombardment.
+
+The halberd proved to be a little troublesome, but the centaur AI lacked familiarity with the weapon. In the end, the medium mech discarded the shield and flanked the centaur from behind. The centaur could not keep up with the change in direction and got its rear area wrecked. CH𝒆Ck for 𝒏ew st𝒐ries on no/v/el/bin(.)c0m
+
+Ves won the first match. "Only ninety-nine to go."
+
+The second match took place in one of the worst environments for his design. The hilly forest terrain impeded the mech’s oversized shield. After a few minutes of fruitless fumbling, it finally learned to detach most of its layers and regain its mobility. After a few minutes of patient hunting, the centaur finally revealed itself as it fired a sudden missile salvo from a hill.
+
+The centaur easily prevailed. It leveraged its height advantage as much as possible while the medium mech suffered from discarding most of its shielding.
+
+The duels sped up after the first couple of matches. Ves already determined the overall trend. As long as his mech was able to maintain its shield, it won as it easily blocked every missile in its way. The centaur grew smarter by seeking the most complex environments to make its stand.
+
+Thus, the first couple of victories favored Ves, but after the twentieth duel he lost his lead. The AI pilots both adjusted their tactics while responding better to their opponent’s actions.
+
+The medium mech learned to angle its shields and spread out the impacts.
+
+The centaur mech aimed its laser rifle at the wheels attached to the shield.
+
+On and on the duels progressed, until finally the last one finished.
+
+"Yes!" Ves yelled and raised his fist. He prevailed over Floyd by a comfortable ratio of 58 wins to 42 losses. He qualified for the next round while Floyd was sent packing. While the Leemar graduate possessed some solid skills, he lost his cool and tried to one-up his adversary by turning midway. If not for his questionable decisions, he might have reached further.
+
+After his excitement cooled, Ves faced his opponent and held out his hand. "It was a good duel."
+
+Floyd spat downwards and turned his back on Ves without a word.

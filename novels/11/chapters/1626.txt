@@ -1,0 +1,124 @@
+Fitness Fun in the Park
+0.00 / 0.00
+
+Chapter 1627 Battlefield Mismatch
+
+While Ves hadn't studied the new generation components in detail, he already skimmed over the details. Together with Councilor Veyron's introductions, this was enough for him to gain an overall impression of what he could do with the new generation technology.
+
+"As you all know, one of the main highlights of the new generation in the case of third-class mechs is the substantial improvement in laser weapons."
+
+Everyone at the design lab nodded.
+
+"Sadly, it's not feasible to design a laser-armed mech at the moment. It's also pointless to design a melee mech unless we want to cater to a distant market."
+
+In the current state of the Sand War, every mech designer from a state under attack had to contribute to the war effort. If they couldn't design a viable mech, then they should at least assist other mech designers into doing so! Ves would ruin his reputation if he ignored this obligation!
+
+The higher his reputation, the more he had to according to a fixed pattern of behavior.
+
+While Ves missed the freedom he enjoyed earlier, he gained more than he lost from building up his reputation. Every notable figure had no choice but to accept the price that came with becoming more renowned!
+
+"What mech do you intend to design next?" Miles Tovar asked.
+
+"A marksman mech."
+
+The answer surprised everyone except Gloriana. To be fair, there weren't many viable mech types to choose from. The Sand War outright negated the combat effectiveness of so many types of mechs that everyone was starting to get sick with designing rifleman mechs!
+
+"Will a marksman mech even catch on in the market?"
+
+"I've studied the mech market and I believe that demand for a precision mech is increasing. The most prevalent rifleman mechs on the market are armed with ballistic weapons." Ves explained. "Even the vaunted new Sandbreaker weapon system is a ballistic rifle. The only thing that is special about it is that it is based around specialized rounds that are significantly more effective against the sandmen."
+
+Everyone nodded. Visjt n𝒐velbin(.)c𝒐m for new updates
+
+"Think about it. What are the strengths and weaknesses of ballistic rifles?"
+
+Since Ves turned this into a teaching moment, Gloriana stayed silent.
+
+Before Miles could speak up, his cousin Vela Tovar answered first.
+
+"I've assisted in several ranged mech design projects before." She said. "Ballistic weapons are by far the cheapest and simplest weapon that ranged mechs can wield. They're low tech, low maintenance and very easy to mass produce. Their ability to fire any round that matches its caliber and specifications mean that they're also very versatile. The development of Sandbreaker rounds is a good example of how the same tech can be expressed in different ways."
+
+Ves smiled at the answer. Though he admittedly paid much more attention to Miles, that did not mean that the other Tovar mech designers were useless.
+
+While he still figured that only Miles had the potential to become a Journeyman, he made sure not to neglect the rest.
+
+"Vela is right. Ballistic rifles and ballistic rounds are not the most effective ranged weapon systems that we have at our disposal. It's just that it's the most economical we have on hand. This is a very valuable property in the Sand War because the sandmen come in such overwhelming numbers that our state will go bankrupt if we employ more expensive weapons!"
+
+"There's many downsides to ballistic weapons, though." She continued. "Their low tech nature means that they become less efficient at higher budgets. The rifles themselves are still rather cheap, but the cost of producing more potent ammunition goes up enormously because it's necessary to lace them with low-grade exotics. Therefore, it's possible to produce rounds that can smash the sandmen apart, but the expenditure is so high that it's not sustainable!"
+
+The economic and logistical considerations surrounding high-quality ballistic rounds meant that they only fared well when used during important battles. Unless the situation called for it, most mech forces tended to keep their expensive rounds in reserve.
+
+Naturally, this only applied to well-funded outfits and military mech units.
+
+Vela proceeded with the other weakness. "The muzzle velocities of ballistic rifles are also low due to the limitations of the tech. Ordinarily, this isn't that big of a downside in landbound combat, but in space the battles take place at much larger ranges. When it take four or five seconds for a fired projectile to reach its destination, the target has plenty of time to dodge!"
+
+"Early on in the Sand War, our defensive forces only encountered basic sandman fleets." Ves explained. "The lumbering motherships and escort vessels are so big and inflexible that accuracy was not a big priority back then. As long as the spread of fire was not too excessive, mech designers preferred to pay much more attention to the ammunition capacity and cost-effectiveness of the weapons they paired with their mech designs. I designed the Desolate Soldier along the same rationale."
+
+"The problem is that the sandmen have evolved, while our mechs have stayed the same." Gloriana pointed out. "There is a mismatch between the two. Even the introduction of the Sandbreaker weapon system hasn't done much to solve this issue."
+
+"The swarm configuration has become increasingly more prevalent." Ves stated. "It seems that the sandman admirals are all converging on the same solution. That is, the best way to fight a massed force of mechs and starfighters is to make their sandmen disperse into small and agile drones and pelter their enemies with weak but fast-firing lasers."
+
+Everyone here had access to the unsanitized footage and results of the battles at the front. Each of them knew that each battle against a swarm of sandman drones ended up with a massacre on both sides!
+
+"Due to the limitations of ballistic rifles, our Desolate Soldiers and other rifleman mechs have to close the distance in order to increase their hit rate. However, getting closer to the sandmen is not a good idea, because the hit rate of their lasers increases as well, thereby resulting in much greater casualties!"
+
+What Ves just stated weighed heavily on everyone involved in the war. Would the Bright Republic be able to sustain the losses?
+
+No one was sure.
+
+"The existing mech models that are being employed against the sandmen are no longer optimal." He concluded. "Even the famed Dawnbreaker, with its notable resilience against heavy sandman lasers, have become less relevant! While their notable defensive parameters still make them effective against the other sandman configurations, their Sandbreaker weapon systems still constrain them just as much as other mechs."
+
+"Then... what is the solution?" Miles quietly asked.
+
+Everyone stared at each other.
+
+Ves sighed. "The truth is that there is no easy solution available. Otherwise, every Senior and Journeyman would have published a revolutionary new mech design by now. While the current mech models aren't very optimal against the sandmen, deploying them is better than the alternative."
+
+"Then what is the point of designing another mech?"
+
+"Just because there isn't an easy solution does not mean there is no solution." Ves shook his head. "After a lot of thinking and brainstorming, Gloriana and I have come up with a potential new mech concept that can alleviate the losses our side is suffering in the war."
+
+Everyone paid close attention to Ves as he revealed his idea.
+
+"We have decided to design a marksman mech as our first new generation product!"
+
+Everyone reacted with a measure of surprise.
+
+"Does that mean you'll arm them with kinetic rifles?" Vela guessed.
+
+Ves shook his head. "Yes! In fact, our marksman mech will be armed with a powerful and accurate gauss rifle! Gauss rifles or coilguns differ from ballistic rifles in that their muzzle velocities are much higher! This extends their effective range and makes them particularly useful in space battles. Compared to railguns, gauss rifles are more complex but don't suffer from as much wear and tear, which makes them durable enough to last the Sand War!"
+
+"All of that comes with a price." Vela warned. "Gauss rifles not only require strong materials, but also consume a lot of energy as well as ammunition! In terms of efficiency, ballistic rifles are much more economical!"
+
+"I'm well aware of the drawbacks, Miss Tovar, but my marksmen mechs aren't meant to replace the Desolate Soldiers and Dawnbreakers. They're meant to compliment forces that have already deployed these medium-ranged rifleman mechs."
+
+"Is it useful, though?" Miles questioned. "While I can see that you intend to design long-ranged mechs that can accurately engage the sandmen at much longer distances, it's still very difficult to hit a sandman drone at such difficult conditions. If the mech pilot isn't specialized in marksmanship, then your mech is hardly useful."
+
+"We know that, Miles. We plan to make our marksman mech a premium mech. It's not meant to be deployed in the same numbers as our Desolate Soldiers. We envision that only a small number of marksman specialists will pilot our mechs."
+
+Everyone aside from Ves and Gloriana still didn't see much point in such a mech concept.
+
+"Utilizing gauss rifles is not efficient!" Vela pointed out the problem associated with the mech concept. "Against small and agile sandman drones, the firepower of a gauss rifle discharge vastly exceeds the damage-absorbing capacity of a typical drone. Much of the firepower is wasted in that case! Against a standard or monolith configuration, each hit is able to inflict massive damage against the target, but the problem is that gauss rifles consume so much energy and ammunition that the marksman mech will shoot itself dry while the battle is only halfway done!"
+
+In other words, cheap ballistic rifleman mechs offered much better value than expensive marksman mechs!
+
+Ves grinned. "You're not wrong, Vela, but I haven't told you everything yet. Let me address your points. The reason why I've opted for a gauss rifle is to make use of its high muzzle velocity. I'm not necessarily prioritizing its damage potential. Against the swarm configuration, it's actually more useful if we shrink its caliber so that the mech can make its energy and ammunition reserves last longer!"
+
+"It's still wasteful to employ this mech concept against the sandmen! There are so many drones flying around that it's better to flood the entire space with lots of rounds and hope that some of them hit!"
+
+"As I've said, you're not wrong, but you are missing the ultimate point of my marksman mech. How do marksman mechs and sniper mechs typically operate in human conflicts?"
+
+Miles answered the question first. "They're not typically part of the main battleline in space battles. Instead, they're held back until they find an opportunity to snipe an important mech. Typically, they're used to take out fragile ranged mechs or mechs piloted by officers. Even if they don't manage to destroy those mechs, just the ability to apply pressure on their targets is enough to tilt the battle in their favor."
+
+"Every sandman fleet is led by at least one sandman admiral. Take out the admiral, and you turn a huge swathe of sandmen into leaderless entities! In each battle where a sandman admiral perishes early, the battle decisively tilts in our favor! Our mech concept is expressly meant to exploit this condition!"
+
+Though it made a lot of sense, no one looked optimistic.
+
+Ketis shook her head. "Sandman admirals are never easy to kill. Even in the swarm configuration, there are tens of thousands or even hundreds of thousands of drones flying around. The sandman admiral can hide among any drone in the rear of the formation!"
+
+"Does the new generation offer some new advancements in sensor technology that we can use to pinpoint the sandman admiral?" Miles asked.
+
+Ves chuckled and shook his head in regret. "Such a convenient solution doesn't exist as of yet. Otherwise, the entire mech community would have pounced on it already. Even if the MTA unveiled improved sensor technology, it doesn't really make a difference against the sandmen!"
+
+"Then.. how will your marksman mech be able to snipe the sandman admiral without going through the entire swarm?"
+
+Ves grinned and spread his arms. "Intuition."

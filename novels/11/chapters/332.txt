@@ -1,0 +1,124 @@
+Energize and Prepare
+0.00 / 0.00
+
+"Ah, rifleman mechs. I can tell you a lot about them." Marcella smiled as she leaned back on her comfortable chair. "Ranged mechs form the dominant types of mechs in this day and age. Do you know why that is so?"
+
+"The advantages and tactical flexibility afforded by these weapons are too convenient. If not for the proliferation of heavily armored mechs that could close the gap and take them out up close, every mech would be a rifleman or a cannoneer."
+
+Despite this caveat, rifleman mechs formed the core of today’s mech doctrine. The rifleman mechs among a unit of mechs dictated their actions.
+
+"Rifleman mechs work best at medium range. Since they explicitly wield external rifles, they have the flexibility to drop their weapons and take up a backup knife, although it’s highly inadvisable for them to do so. It’s best they take our their opponents before they close in. And unless they are built to snipe, they aren’t able to take out distant opponents."
+
+At that range, it would be easy for the target to hide behind cover or dodge incoming shots. Ves tapped the desk with his fingers as he summed up his thoughts.
+
+"Rifleman mechs can be divided into two general categories. You have the run-and-gunners that are meant to fight and shoot on the move, and you have the marksman types that fire their weapons behind cover."
+
+"A fair amount of people in the mech industry believe that’s a false dichotomy. Rifleman mechs are vulnerable up close, so the best and most reliable way to fend off any melee mechs is if you can run and remain out of reach of any approaching mechs. Also, it is not as if these high-mobility mechs can remain stationary and use any existing cover to their advantage."
+
+"I don’t believe a mech can excel at both, and neither do I believe that a slow and sluggish rifleman mech is automatically a bad design."
+
+He once designed the 2-star Old Soul rifleman virtual mech, which became a cult classic among the local gaming community. The Old Soul’s rifle only possessed enough heat capacity to unleash a couple of shots, but all of them landed with a lot of power. Combined with its moderate stealth features, it functioned well in its niche as an ambush predator.
+
+Still, the Old Soul never caught on outside of Cloudy Curtain due to its extreme design choices.
+
+The way Ves intended the mech to be used diverged too wildly from what everyone else thought rifleman mechs should be capable of. Even though Ves had developed a love for this type of mech, it did not fit with what Melkor and the market demanded.
+
+He could only give up on developing a real and modern version of the Old Soul.
+
+Marcella collected some reports from her terminal and transferred them to his comm. "Read these when you have the time. They contain all of the recent sales charts and market trends for rifleman mechs. Right now, ballistic rifleman mechs are surging in sales."
+
+The second way to distinguish rifleman mechs was to look at their weapon types. In the Bright Republic, rifleman mechs either wielded lasers or ballistic rifles. Both of them took an equal share of the market.
+
+Some rifleman mechs possessed optimizations to wield either types without penalty. However, this typically resulted in slightly lower overall performance while costing drastically more, so most of the times, only elite mechs might come with this feature.
+
+"That’s odd." Ves rubbed his chin. "The next generation of mechs will be the golden age of lasers. Won’t these outfits be better served if they can hire and train their laser specialists?"
+
+"These forces don’t have the luxury to dream about their future. They have to secure their present first. Right now, mechs that incorporate laser-resistant armor plating are selling like hot cakes. Your Blackbeak is among their number. Can you tell me why you chose to go for the Veltrex armor system?"
+
+"That’s because I’m trying to future proof my design. The Blackbeak won’t be too much out of date once the new generation of mechs arrive."
+
+Marcella pointed a finger at him. "Well, you’re not the only mech designer who thinks so. Every recent design is future-proofed against laser that it’s quite a challenge to find a new design that’s geared against withstanding kinetic and explosive damage."
+
+Now he understood her point. "I see now. There’s such a slant on laser-resistant mechs that ballistic rifleman mechs must be having their greatest time."
+
+"If you aren’t concerned with designing a mech for long-term viability, it’s a good idea to design a mech that specializes in ballistic rifles."
+
+Ves firmly shook his head. "I can’t do that for the moment. One of the reasons why I’m designing a rifleman mech is because I want to design the perfect machine for one of my relatives. He pilots a laser rifleman mech."
+
+"I see. So you are doing it for another Larkinson."
+
+"I do have a friend who’s a decent shot with a ballistic rifle, but he pilots aerial mechs, and that’s not something I’ve got a lot of confidence in designing at this moment."
+
+Dietrich’s Harrier was in bad shape, and while it could be repaired, it would never return to its prime. Ves would be more than happy to gift him with a mech of his own design, but the technical challenges of tackling this advanced scared him off.
+
+Even though one of his earliest virtual designs also consisted of a ballistic rifle-wielding aerial mech, the Seraphim was based on a four-hundred year old primitive Fantasia 2R design.
+
+Aerial Mechs had come a long way since then. The vastly increased complexity of a currentgen aerial mech was not something that a dabbler of the arts could dip their toes in. Ves first had to learn to crawl before he could learn to walk.
+
+"Maybe it’s easier if you laid out your vision. What kind of rifleman mech are you aiming to design?"
+
+What kind, indeed. "I admit I don’t have a solid vision as of yet. I’m still figuring things out. For now, I’ve only set a couple of parameters. It’s going to be landbound, so no fancy flight systems with all the complexity associated with it. It also has be mediumweight but it should be fairly fast and agile. Finally, it should come with compressed armor."
+
+That final portion raised Marcella’s interest. "That’s going to be fairly controversial, depending on your price point. If you are aiming for the same price tag as your Blackbeak models, then it’s only barely acceptable."
+
+"I know. It’s not quite cost effective to clad ranged mechs with expensive armor when they hardly form a hindrance due to their lack of thickness. Still, even a thin layer adds a lot to a rifleman mech’s survivability. I think the tradeoff is worth it even if the dominant market trend advises against such a design choice."
+
+"So long as you are aware." She said. Marcella didn’t seem very eager to argue the point even if she knew it didn’t entirely make sense in the current market. "Just be aware that the private market is used to spending up to 40 million credits for a premium rifleman mech at most. You can’t charge the same exorbitant prices you charge for your knight models because your buyers already know it costs a lot to add all of that armor."
+
+"I’m not looking to design a mech that conforms to the market. This is a mech that I want my relative to excel in. As long as I succeed and design a good enough rifleman mech, I believe the market will be able to swallow a base price of 50 or 60 million credits."
+
+"Good luck with that."
+
+Ves sounded fairly ambitious when he made that boast, but he fully believed he was capable of reaching such a height. He possessed an abundant amount of Skills and saved up an enormous amount of DP to spend on additional Skills and Masteries.
+
+He particularly looked forward to the latter.
+
+Their discussion lasted for another half hour before he had to go. As Ves stood up and walked back to the elevator, he turned around and left some final parting words.
+
+"About the decision to extend a licensing contract to Vaun, I’ll forgive your complicity this once. Don’t let me hear you lead the LMC astray again. As a shareholder, I know you are only acting on behalf of your own interests, but don’t forget who owns the majority."
+
+Ves turned away and disappeared in the elevator, leaving Marcella slightly perplexed.
+
+Previously, if Ves spoke at her with that tone, she’d dismiss it out of hand. In her eyes, he was a kid after all. It was impossible to feel threatened by a toddler.
+
+This time, Ves had changed. ÚpTodated 𝒏ov𝒆ls on 𝒏o(v)𝒆l()bin(.)c𝒐m
+
+It took a lot of guts to put a former mech pilot and war veteran like Marcella on guard. Ves somehow managed to make her pressured, if only slightly.
+
+She grinned long after Ves had left her office. "Looks like the kid is growing up."
+
+Ves had little else to do once he left Marcella’s brokerage. He figured he could pay a visit at the LMC’s branch office, but he had no involvement with what went on there. He remembered from his talks with Jake that the branch office primarily dealt with marketing and after-sales support.
+
+"That’s not something I can stick my head in at this time."
+
+He returned to the Barracuda and proceeded to set course for Cloudy Curtain.
+
+At this time, the grand return of the mass expedition to the Glowing Planet had riled up the entire Komodo Star Sector. The incredible harvest made a lot of other states jealous, especially the territories that the Glowing Planet had previously drifted past.
+
+Many states were green with envy at the Bright Republic and the Vesia Kingdom to occupy a majority of the early harvest of the Glowing Planet.
+
+Prices of a number of exotics had already dropped a fair amount. Meanwhile, a large number of newly enriched outfits started placing mass orders for new mechs to replace their losses and bolster their numbers to reflect their newfound wealth.
+
+This newfound surge came just in time for mech manufacturers who feared that the previous spike of sales had already run its course. This new and explosive surge in demand shifted Bentheim’s mech industry into a newfound renaissance.
+
+"Everyone is going crazy right now." Ves said to the egg that held Lucky. He stroked its solid bone-like surface with care. "How long are you going to take to level up? It’s already more than a week."
+
+Hopefully, Lucky wouldn’t take months to finish his evolution. He needed his pet to stand guard when he finally used up his Transcendence Pill. Even though it was a little premature, Ves looked forward to increasing one of his mental attributes past 2.0.
+
+Despite the excitement in the Bentheim System, the Barracuda effortlessly transitioned into FTL at one of Bentheim’s Lagrange points. A brief journey later brought the corvette at the edge of his home.
+
+A short time later, the Barracuda finally touched down at Cloudy Curtain’s spaceport. Once he entered the armored shuttle, Ves ordered it to bring him to the upcoming manufacturing complex.
+
+Once the shuttle and its escorts flew halfway around the rural planet, they eventually reached an expansive construction site.
+
+A massive site had been cleared in the middle of a lightly forested plain. Picture-esque mountains surrounded the site in the distance, providing the location with an ample amount of peace and harmony underneath the planet’s everpresent cloud cover.
+
+Dozens of contractors from Bentheim worked together with the security and construction specialists of SASS to erect a majestic set of offices and fortifications aboveground. Naturally, bots of various shapes and sizes did all the heavy lifting.
+
+This was merely the tip of the iceberg. Ves knew that a lot more bots and people excavated and reinforced the chambers dug underneath the soil. All of the actual production happened several kilometers below ground, more than enough to shield the vulnerable production equipment against incidental raids and bombardment.
+
+"Still, it won’t do any good if a giant tunneling machine like the Gregarious Wrath decides to knock on my doors."
+
+There was a limit to everything. Ves believed that a tunneling machine the size of a capital ship should be rather unique. The Vesians wouldn’t bother to deploy an equivalent war machine to mess up his production facilities.
+
+Not with Bentheim next door.

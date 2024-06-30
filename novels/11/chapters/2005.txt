@@ -1,0 +1,110 @@
+Urban Oasis
+0.00 / 0.00
+
+Chapter 2005 Energy Transmission Systems
+
+Eventually, Gloriana approved of his mech concept. The idea that Ves came up with possessed a lot of potential, but that depended on whether they were able to meet all of the requirements.
+
+"Don't think our mech will be embraced by the Hex Army at large." She warned him. "Our mech will likely be fielded by auxiliary forces in limited quantities on limited battlefields. Even if it performs decently, I doubt the matriarchs in charge of approving mech models will embrace our work. Adopting a mech with a male as its lead designer is simply a step too far. The most we can hope for is that DIVA appreciates our end result and tries to deploy it in as many battlefields as possible within its own power."
+
+Ves nodded in understanding. "I am okay with that. I'm very much aware that a mech designed by just two Journeymen won't be able to offer the level of performance and optimization that is expected of a fully-vetted Hexer mech."
+
+Unlike the other mech models of the Hex Army, no Masters or Seniors were involved in their project. While Journeymen were very capable in designing serviceable mechs, their efficiency, cost-effectiveness and optimization could not keep up with the efforts of more advanced mech designers.
+
+Personally, Ves believed that the glow he intended for his Hexer mech would make a very huge difference. It might even be able to get those conservative Hexer matriarchs to reconsider their stance on rejecting mechs designed by male mech designers! Follow the latest novels 𝒐𝒏 n𝒐/velbin(.)com
+
+Both Ves and Gloriana became passionate about this project.
+
+It had always been a dream for Gloriana to design a mech that would be fielded alongside the impressive mechs of the Hex Army. As a young Journeymen, the most she could hope for was to join a design team under a more experienced Senior or Master.
+
+Now that she had the opportunity to design a mech with an equal partner, she wanted to make the most of it in order to prove she possessed the qualifications to enter an exclusive circle of Hexer mech designers who were able to contribute to the strength of her home state!
+
+As for Ves, he had several reasons to feel enthused about the vision he came up with. For one, the sheer utility provided by his mech design truly possessed the potential to shift the direction of the war.
+
+Though the mech's energy resupply function wasn't that impressive due to the limited reserves, it was worth its weight in exotics at critical times! Combined with the motherly glow coming from the mech, Ves hoped that his mech would function as a considerable force multiplier that enhanced both the mech and mech pilots fighting on behalf of the Hegemony!
+
+"This is going to be my revenge against the Friday Coalition!" Ves deviously grinned.
+
+His efforts would teach the Fridaymen and everyone else that he was not as passive and defenseless as everyone thought! Anyone who crossed him needed to fear his retaliation in the form of empowering their enemies! Only through developing this kind of reputation would he be able to deter any further opportunistic attacks!
+
+The pair immediately went to work. They revised the draft design and tried to project how much capacity they needed to allocate towards defense, mobility and utility. It was extremely difficult to find a good balance between all of these aspects.
+
+Nonetheless, after selecting a number of suitable components and accelerating their exploration efforts by engaging a virtual design session, they managed to come up with a decent draft design that looked quite adequate for their purposes.
+
+"It's a bit slower than I like, but our mech doesn't necessarily need to sprint to the front either." Ves remarked as his implant tried to calculate the expected performance parameters if they fleshed out the draft design. "It can still keep up with general offensive maneuvers, which is already good. At least it can take a punch, especially with its shield."
+
+As for the energy reserves of his Hexer mech, all he could say about it was that it was adequate. It provided a decent amount of energy to top up the spent energy of a single mech squad, but even then it quickly ran empty.
+
+Due to its limited energy reserves, Ves tried to mitigate this problem by enhancing and increasing its energy transfer and siphoning process.
+
+He expanded on this idea and tried to find some components that the Hexers made available to them. While the parts weren't the top-of-the-line, they were quite decent for Hexer midrange mechs, which matched the budget for their mech design.
+
+Still, it was a huge challenge to integrate all of these components in a single package.
+
+"There are several technical challenges we need to overcome." Gloriana pointed her finger at the energy transmission systems. "Aside from the ones we've discussed before, this is the biggest problem area of all. To make our mech's support function practical, it has to be able to transfer energy to friendly mechs quickly. The huge power flows puts an enormous stress on every system that is responsible for passing energy from one mech to another mech. Not only do we need to prevent the transmission systems from overloading, we also have to manage all of the heat that will doubtlessly emerge as a result of all of those transfers."
+
+No process was completely efficient. Along the way of transferring energy from point A to point B, a miniscule amount of it is wasted in the form of heat and other forms.
+
+Usually, this wasn't a big deal when devices ran at low levels. Yet when energy transfers started to increase in power, inefficiencies rapidly started building up! This was the price of running systems at higher power levels!
+
+Energy transmission systems weren't exempted from this rule. In fact, they suffered more than most because they were expected to transfer a lot of energy in a very short amount of time!
+
+If his Hexer mech took ten minutes to resupply the spent reserves of a friendly mech, then he might as well scrap its design!
+
+While such a gentle energy transfer process resulted in very little waste and heat buildup, it took up way too much time in a fast-paced battle where every second counted!
+
+Ves ideally wanted his Hexer to replenish a quarter of the total energy reserves of a friendly mech in about 30 seconds.
+
+That sounded way too ambitious to Gloriana.
+
+"I highly doubt we can accomplish this standard." She shook her head. "The stress to the energy transfer systems and the rest of the mech is too severe. I'm not sure if it's even doable in a minute. We'll have to explore our design further and see whether our implementation can withstand the rigors of rapid energy transfers. Whatever the case, the heat building will be intense. We need to make sure we add enough heat sinks and other heat management systems to avoid overheating problems."
+
+All of these problems sounded concerning, but the mech held genuine promise!
+
+"We can do it." Ves declared, his passion already firing. "With all of this second-class tech, our Hexer mech won't be as limited as our striker mech! We have a lot more options available to solve all the challenges!"
+
+They continued to expand on their draft until they settled on something that contained all of the parts and other features they thought the mech would need to perform all of its functions.
+
+Due to the need to accommodate a lot of additional hardware, they sacrificed several aspects of the mech.
+
+First, its defense wasn't as good as Ves wanted to. While it was capable of lasting for a fair amount of time under enemy fire, the mech had to rely on cover or the protection of other mechs in order to remain alive for sustained periods of time.
+
+Second, they reduced the mobility of the mech even further. To free up capacity, Ves had to select several miniaturized components that offered reduced performance but took up significantly less space.
+
+The problem with miniaturized components was that they were much more expensive than their normal-sized versions, so the smaller mech engine and other systems ate up a significant portion of their budget!
+
+Third, its offensive power was pretty bad. There was no way around the truth that the mech wouldn't be able to exert much strength or momentum in its sword attacks. Even though Ves wanted to give the male mech pilots of his Hexer mech a chance to prove their battle prowess on the battlefield, he ran out space to accommodate this need.
+
+"It's okay." Gloriana assured him. "Male mechs aren't expected to do the heavy lifting in the first place. It's enough if our mech can stall an attacker. They are only expected to last until they are rescued by female mechs!"
+
+Ves looked glum. In the end, his Hexer mech shared some disturbing similarities with the Good Boy 77S. Both male mechs essentially adopted the role of damsels in distress.
+
+"Oh well." He sighed. "Even if my mech can't defeat another mech, it can at least absorb a lot of hits while evading some of the rest. I can't say the same for the Good Boy."
+
+Making a mech that could last on the battlefield was his highest priority. This was why he didn't limit the energy transmission systems to a one-way flow.
+
+What he really wanted to implement was a mech that could siphon energy as well as donate it whenever required!
+
+He outlined his rationale to Gloriana. "We can't escape the fact that the total energy reserves of our Hexer mech is quite limited. In order to extend the operation time of our product, I want to turn it into an energy vampire!"
+
+Gloriana frowned. "Where will it take its energy from?"
+
+"There are many sources of energy if you think about it." He shrugged. "One readily-available source is fallen mechs. As long as their wrecks are reasonably intact, I'm sure that they carry a lot of energy cells that aren't expended. That's energy for the taking! As long as we can implement a method where our mech can steal all of that juice, our mech won't be forced to return to the rear in order to keep up its functions!"
+
+"All of that energy transfer will generate even more heat, Ves. We'll have to bolster the heat management systems of our mech even more if we try to implement this function."
+
+"Then let's do that! I think this is the key to increasing the utility of our mech! There are fallen mechs in every battle, Gloriana. Usually, the winners get to claim the salvage that is left behind, but they always have to wait until the battle ends before they can pick up the remains! This energy siphoning function can work faster and under more critical circumstances!"
+
+This was truly a great idea, but Gloriana already foresaw a lot of problems trying to turn it into a practical implementation.
+
+Still, she didn't shy away from these challenges. In fact, she embraced them as a test of her mettle!
+
+After designing the Bright Warrior and becoming a masterwork mech designer, she improved substantially. The simple striker mech design they were working in parallel to their Hexer mech design wasn't challenging enough to push her to her new limits.
+
+She wanted to see how much her increased mech affinity and all of the insights she gained from the Quint and Master Willix affected the quality of her work!
+
+"This mech.. has the potential to be very powerful." She cautiously admitted. "Yet.. what stops others from stealing our design? What if the Fridaymen get their hands on the full design specifications and mass produces our own work? It happened before with some of the Hex Army's best mech models."
+
+Ves grinned and laughed. "HAHAHAHA! Let them try! This is one of the problems I'm least worried about! My Holy Soldiers and Deliverers only exhibit their full potential when they are piloted by devout Ylvainans. Our new Hexer mech will be similar once I complete my next spiritual product!"
+
+Any Fridaymen that attempted to pilot his Hexer mech would severely regret it, that was for sure!
