@@ -1,0 +1,146 @@
+Energize and Prepare
+0.00 / 0.00
+
+3159 Initial plan (1)
+
+“Is there anything else?” Chen Xuan asked in confusion.
+
+Xia ruofei said,”all of our work now is based on a certain judgment. That is, each set of floating point patterns represents a Chinese character. Right?”
+
+“Of course!” Chen Xuan said.
+
+“If this premise doesn’t hold, then all the work we’re doing now will be useless.” Xia ruofei said.
+
+Chen Xuan replied nonchalantly,”it’s normal to take a few detours in the process of cracking such a mysterious token. Besides, whether it’s useless or not, we’ll only know after we’ve tried it!”
+
+Chen Xuan didn’t mind wasting a few days. Even though he had spent a lot of time and effort on this plan, he didn’t think much of it. Even if it failed, it would at least eliminate a wrong path!
+
+“Yes, let’s not consider this possibility for now,” Xia ruofei said with a smile. Let’s go back to what I said just now ... Brother Chen, have you ever thought about what the most likely content formed by these Floating Points is if our premise judgment is correct?”
+
+Chen Xuan pondered for a moment before saying,”this is really hard to judge, but I think it might be a cultivation technique.” It couldn’t be some meaningless words, right? If that’s the case, why would you go through so much trouble to record it on the token?”
+
+Xia ruofei did not think so.
+
+The reason was simple. The Grand cloud platform scholar had told him that these floating point patterns would change every 50 years or so.
+
+If it was a cultivation technique, then the content should be fixed. How could it change periodically?
+
+However, this did not affect Xia ruofei’s decision.
+
+He smiled and said,”whether it’s cultivation Arts or other content, we use the method of elimination to crack it. The problem is that there are too few samples. There are countless possibilities. How can the supercomputer rule out those impossible combinations? And how do you choose the most likely combination among the countless possibilities and arrange them in order?”
+
+Without waiting for Chen Xuan’s reply, Xia ruofei continued,””We can’t control the number of samples. There’s only one set, so we can only think of a way based on the judgment ability of the algorithm. This token is very old, so I need to find as many ancient language samples as possible, as well as information such as ancient language grammar, to form a database. I think this will be beneficial for the supercomputer to make a judgment. ”
+
+Chen Xuan and the others didn’t know the exact age of the token.
+
+Of course, Xia ruofei was not sure either. However, he knew that this token had existed for two to three thousand years. Hence, when he went to look for the ancient language samples, he could focus more clearly on his goal.
+
+“That’s true!”Chen Xuan nodded. However, it’s not easy to write down the algorithm for this judgment!”
+
+“If it’s too easy, wouldn’t there be no challenge?” Xia ruofei smiled and said,”brother Chen, I’m going to take some time this afternoon to sort out the framework. From tomorrow onwards, we’ll start working on the ancient language database. We’ll do this first.”
+
+“I think it’s possible!” Chen Xuan nodded.”I’ll have to trouble brother Xia then. I ... I’ll take a look at the code that boss sent me ...”
+
+Xia ruofei smiled bitterly and said,”fine!” Let’s do our own things!”
+
+Xia ruofei and Chen Xuan took out their laptops from their storage space and sat in the living room of the villa, busy with their own work.
+
+The afternoon passed by quickly. UppTodat𝒆d fr𝒐m nô/v/e/lb(i)n.c(o)/m
+
+At night, Xia ruofei’s friends from the capital all came to the Paradise clubhouse. Zhao Yongjun organized a gathering. It wasn’t easy for everyone to get together, so naturally, they had to drink and chat.
+
+Xia ruofei brought along Song Wei and Ling Qingxue to the drinking party.
+
+As for Mu Sheng, Chen Xuan and the rest, they were completely uninterested in such a noisy place. They all stayed in the villa above the array eye.
+
+While Mu Sheng and the rest were busy with their training, Chen Xuan was still immersed in his world of coding.
+
+In fact, Wang Chi and his group were also in the club, but they were in another private room, accompanied by one of the club’s management.
+
+Xia ruofei also took the time to bring Song Wei and Ling Qingxue over for a round of toasts.
+
+His main battlefield was still on Zhao Yongjun’s side.
+
+Of course, he was the best at drinking in the room. Everyone had long given up on trying to get Xia ruofei drunk. The main reason was that they were happy together as brothers, so they had a few more drinks.
+
+Other than Zhao Yongjun, who still had to manage things, he was more or less able to control himself. The others were all drunk. Song Rui was the first to collapse. If Xia ruofei had not held him up, he would have probably slipped under the table.
+
+After three rounds of drinks, a club staff member walked in and whispered a few words into Zhao Yongjun’s ear. Zhao Yongjun nodded slightly.
+
+Then, Zhao Yongjun said to Xia ruofei,””Ruofei, academician Wang and the others are preparing to go back. Let’s go see them off!”
+
+“Alright!” Xia ruofei immediately stood up and walked out of the room with Zhao Yongjun.
+
+Wang Chi and the others also walked out of another private room not far away, a little tipsy.
+
+This afternoon, they had been treated like a VIP at the Paradise clubhouse, and all the services were free. In the evening, they had tasted the best food that they couldn’t usually eat.
+
+In addition, today’s exchange meeting was also quite carefree.
+
+Therefore, after eating and drinking to their heart’s content, the experts were very satisfied.
+
+“Academician Wang, Professor Guo, professor li, and Dr. Feng, did you all have a good meal?” Zhao Yongjun smiled and asked.
+
+Wang Chi chuckled and nodded,”I’ve had my fill!” Director Zhao, your hospitality is too warm! Thank you!”
+
+“You’re too polite!” Zhao Yongjun smiled and said,”of course, we wouldn’t dare to neglect ruofei’s instructions! I’m afraid we won’t be able to serve you well!”
+
+Wang Chi looked at Xia ruofei thoughtfully, then smiled and said,””President Xia, I realized that you’re pretty good in the field of Computer Science. Why didn’t you do research in the end? why did you start a business instead?”
+
+Wang Chi’s tone carried a tinge of regret. He clearly felt that Xia ruofei’s business was a waste of his academic talent.
+
+Xia ruofei chuckled.”Actually, whether it’s doing business or learning computer – related things, they’re all personal hobbies. I’ll just have some fun occasionally!”
+
+Feng Xiaoyi, who was standing behind Wang Chi, was speechless. This kind of winner in life was really annoying. You created a company with a market value of billions just by playing around, and you have such a high level of expertise in the field of supercomputer application. How can we, poor PhD students, bear this?
+
+At this time, the car that was supposed to send Wang Chi and the others back arrived. It was still a three – Car car ride. The Paradise clubhouse had around 20 of these commercial cars, which were specially used to provide pick – up services for important guests. Naturally, they wouldn’t just send one car to the experts and take all kinds of detours in order to save resources.
+
+At this time, Zhao Yongjun took four envelopes from the staff around him and handed them to Wang Chi and the others. Even Wang Chi’s follower, Dr. Feng Xiaoyi, had one.
+
+“Director Zhao, this ...” Wang Chi hesitantly took the envelope and asked,”this isn’t very appropriate, is it?”
+
+“Ruofei is my good brother,” Zhao Yongjun said with a smile. “Several experts and professors have helped my good brother a lot this time. As his brother, I must express my gratitude.” Academician Wang and the other experts, this is a little token of my appreciation. Please accept it. ”
+
+Wang Chi pondered for a moment, then nodded and said,”Alright then! Then, thank you, President Zhao!”
+
+The organizers would usually pay for experts and professors like Wang Chi to participate in discussions or lectures. They didn’t charge anything for coming to the Paradise clubhouse this time. As the organizer’s representative, Zhao Yongjun had to pay for their transportation and appreciation, so Wang Chi and the others didn’t feel any pressure accepting the invitation.
+
+“You’re too polite! Academician Wang, please get in the car!” Zhao Yongjun said with a smile.
+
+The first car was for Wang Chi and Feng Xiaoyi, and the two cars behind were for Guo Qian and Li Yufu.
+
+Xia ruofei stood beside Zhao Yongjun and waved goodbye to the car with a smile. After the experts and professors left, Xia ruofei said,””Thank you, brother Zhao!”
+
+...
+
+“We’re brothers, so we naturally have to do things beautifully. ” Zhao Yongjun said nonchalantly,”you don’t understand these things. As your brother, of course I have to help you take care of it. Otherwise, these old professors will think that you don’t understand the ways of the world!”
+
+“Brother Zhao is so thoughtful.” Xia ruofei smiled and then asked curiously,”what kind of standard transportation fee did you prepare for them?”
+
+Zhao Yongjun laughed.”You don’t have to worry about that. They’ll definitely be happy!”
+
+……
+
+In the Mercedes – Benz of the Taoyuan clubhouse, Feng Xiaoyi held the thin envelope in his hand. He was a little excited, but at the same time, he was a little curious.
+
+He didn’t expect that he would be able to enjoy the service of a top – notch club after coming out with his mentor. He didn’t even do much work, and he even had a share in the transportation fee before he left.
+
+He saw that Wang Chi had already closed his eyes to rest. He could not help but gently open the envelope and take a look at the contents.
+
+Feng Xiaoyi couldn’t help but exclaim and immediately covered his mouth.
+
+However, Wang Chi had already heard it. He opened his eyes, turned around, and frowned slightly. He looked at Feng Xiaoyi and asked indifferently,””What’s wrong?”
+
+Wang Chi thought to himself,”this little Feng is too rash and not steady at all. I’ll have to teach him a lesson in the future!”
+
+“Teacher, the transportation fee that director Zhao gave us ... Is a little too ...” Feng Xiaoyi stuttered.
+
+...
+
+“Too what?” Wang Chi asked impatiently,”if you have something to say, then say it. Why are you hemming and hawing?”
+
+Wang Chi felt that Feng Xiaoyi was still inexperienced. This kid came from a small place, and although his academic ability was good, it was obvious that he was not very knowledgeable. Even if the Taoyuan club paid a little more than a regular meeting, he should not be so scared!
+
+“You ... You should take a look yourself ...” Feng Xiaoyi said.
+
+Wang Chi opened the envelope in confusion. After taking a look, he, who had just been criticizing Feng Xiaoyi, couldn’t help but take a deep breath.

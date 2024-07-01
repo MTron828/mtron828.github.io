@@ -1,0 +1,120 @@
+Sweat, Strength, Success
+0.00 / 0.00
+
+3187 A new direction (2)
+
+Xia ruofei’s heart sank. He was responsible for the last 250 documents, which were the ones in the top 1000 that the supercomputer thought had the lowest possibility of getting the correct answer.
+
+In fact, after reading the first few documents, Xia ruofei had already felt that the hope was slim.
+
+The brain development of golden core cultivators far exceeded that of ordinary people. Thus, their speed of reading documents was very fast.
+
+In less than half an hour, everyone had already finished reading the 250 documents assigned to them. Even Chen Xuan, who was the slowest, was only a few minutes behind.
+
+Everyone closed their laptops and gathered together with serious expressions.
+
+“How is it?” Xia ruofei asked.
+
+The three of them slowly shook their heads, and Mu Sheng said,””Unless it’s a code word or something like that, none of them are fluent.”
+
+Liu Mansha and Chen Xuan also nodded in agreement.
+
+In fact, smooth sailing was the minimum requirement. As the content preserved in the rising Dragon Order, it must contain some secret. Now, they couldn’t even do a simple smooth sailing, which already explained the problem.
+
+In fact, Liu Mansha, Mu Sheng, and the others had always thought that the most likely situation was that there was a cultivation technique recorded in the rising Dragon Token.
+
+Looking at it now, there wasn’t even the most basic and smooth document, let alone the cultivation technique.
+
+“I’m in the same situation as everyone else,”Xia ruofei said with a dark expression.
+
+In order to save time, no one had finished reading all 1000 documents, but there was no need to hide this kind of thing. Everyone had all 1000 documents in their hands, and it would be very quick to read them after they had finished reading them. At this time, the lie would be exposed very quickly.
+
+“Then, there is a high probability that the data we obtained this time is not the correct answer!” Xia ruofei continued.
+
+Mu Sheng, Liu Mansha, and Chen Xuan all nodded their heads. There was no doubt about this.
+
+Xia ruofei said,”let’s analyze it first!” As for the algorithm, brother Chen and I worked together to create it. We’ve checked it many times and even built a simulation environment for a trial run. The situation is very good, so the possibility of problems occurring is not high. ”
+
+At this point, Xia ruofei paused for a moment and continued,””Although I don’t want to admit it, I still feel that ... Maybe we are going in the wrong direction!”
+
+“Our algorithm is based on the judgment that each floating point represents a character,” Chen Xuan said with a slight frown.”If this judgment is wrong, we naturally won’t get the correct result.”
+
+Xia ruofei nodded and said,”yes!” I’m also highly suspicious that our basic judgment back then might have been wrong. ”
+
+Xia ruofei had never thought that the rising Dragon Token recorded a cultivation technique.
+
+This was because he had more information than Chen Xuan, Mu Sheng, and Liu Mansha.
+
+He had already learned from layman Yuntai that the floating point pattern on the rising Dragon Order could change. Basically, it would change once every 50 years or so.
+
+If what was recorded was a cultivation technique, how could the content be changed?
+
+Because of the periodic change, Xia ruofei had a feeling that it did not make sense for each floating point to represent a character. Expplôre 𝒖ptod𝒂te stories at no/𝒗el//bin(.)c𝒐m
+
+However, everyone felt that this was a huge step forward and was very close to the truth. That was why Xia ruofei and Chen Xuan used this as a basis to further optimize the algorithm.
+
+Now, it seemed that there was really a possibility that he had made a basic judgment.
+
+Xia ruofei was hesitating whether he should tell everyone about the characteristic of the floating point pattern’s periodic changes.
+
+It was undoubtedly easier for him to draw on the collective wisdom of others, but the biggest problem was that he could not explain the source of this information.
+
+Before this, no one in the entire cultivation world had collected all five tokens, let alone know that the five tokens would form the rising Dragon Token. How did Xia ruofei know that the floating point pattern on the rising Dragon Token would change periodically?
+
+Moreover, this cycle was 50 years long. Xia ruofei was only in his 20s!
+
+Xia ruofei hesitated for a long time and finally decided not to tell her.
+
+After all, even if he pushed all the blame to his Yuanying stage master, it was not very reasonable. There was no record of the rising Dragon Order in the cultivation world, so how did the Yuanying stage master know?
+
+Xia ruofei pondered for a moment and said,”two seniors and brother Chen, let’s study the token again.” Maybe there’s some information that we’ve missed!”
+
+“That’s the only way ...”Mu Sheng nodded.
+
+“Fellow Daoist Xia, are you going to put everyone’s tokens back together?” Liu Mansha asked.
+
+After a high – definition scan in the Forbidden City, everyone disassembled the tokens and stored them separately.
+
+Xia ruofei thought for a while and said,”let’s take a look at the scan!” If we can’t find anything, we’ll assemble the tokens!”
+
+The resolution of the scanned image was extremely high, and basically all the details were preserved. Moreover, it could be enlarged at will in the computer, which was more conducive to observing the details of the token.
+
+Xia ruofei opened the scan on his laptop.
+
+Everyone gathered behind Xia ruofei and quietly observed and analyzed the map.
+
+At this moment, everyone’s mood was somewhat low. After all, they had always felt that they were very close to the answer. Everything had been very smooth up until now, but they did not expect the final result to give everyone a head – on blow.
+
+Xia ruofei’s emotions were not affected much. After he opened the scan, he stared at the computer screen without blinking.
+
+He sometimes observed the floating point pattern as a whole, and sometimes enlarged it so that a single floating point occupied the entire screen. He then carefully observed the black dot matrix pattern on the floating point.
+
+After a long while, Xia ruofei said,”since the possibility of these Floating Points being words is very low, then ... Does everyone think that they might represent numbers?”
+
+Chen Xuan revealed a pensive expression and said,””It’s not impossible. Numbers can represent coordinates, or they can be passwords. So, in fact, in encrypted content, there are many scenarios where numbers are used.”
+
+Mu Sheng and Liu Mansha didn’t know much about this, but they had their own thoughts.
+
+“Little brother Xia, if it’s just a number, even if we can crack it, we can’t judge whether it’s correct or not!” Mu Sheng said.
+
+If words could be logically judged through context, how could numbers be judged?
+
+If it was the wrong result, and he still tried to crack the digital password based on this result, he would be running in the wrong direction and would never get the correct result.
+
+Xia ruofei thought for a moment and said,””If each floating point image represents a number or a group of numbers, the answer should be unique and there won’t be many possibilities. However, there’s still one point, and that is, it must be based on the premise that the judgment is correct. If the judgment is wrong, then the result of the wine will be useless. ”
+
+“Why don’t we try it first?” Liu Mansha said.
+
+Chen Xuan pondered for a moment before saying,””Brother Xia, let’s try again in this direction! Wasn’t there still a few hours left? According to the direction of the numbers, the calculations shouldn’t be too big, so we should have enough time!”
+
+Xia ruofei nodded and said,”okay!” We have to reserve at least two hours to modify the algorithm!”
+
+“There are about 60 to 70 black dots in each floating point image. The total number is not constant, and the array combination is not constant either. Therefore, the number of calculations that have to be done is more than that.”
+
+...
+
+Xia ruofei nodded and said,”yeah!” In addition, we also have to consider the possibility that the answer to the number is binary, octal, or hexadecimal. After all, we don’t know anything yet, so we can’t just assume that it’s decimal!”
+
+“Then the workload will be even greater!” Chen Xuan said with a frown.
+
+Xia ruofei shook his head with a bitter smile and said,””I have to try even if the workload is heavy! Moreover, there’s no way to break it down, so I have to complete it by myself. Brother Chen, please help me check and fill in the gaps!”

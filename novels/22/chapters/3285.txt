@@ -1,0 +1,64 @@
+Sweat, Strength, Success
+0.00 / 0.00
+
+3286 Victory of mathematics_The White – haired Daoist Zhen Yang revealed a happy expression and said, “That’s great! As expected, scholar Xia was a straightforward person! There are a few questions that have been bothering me. The first question is ...”
+
+At this point, old Daoist Zhen Yang shook his head and said,”Today, there are 35 battlerabbits in the same cage. There are 94 legs below. May I ask where each of the battlerabbits is?”
+
+Xia ruofei had a strange expression on his face. He couldn’t tell! This thick – browed and big – eyed old Daoist Zhen Yang was actually a math enthusiast! No matter how genteel his question was, it couldn’t change the fact that it was a mathematics question! Wasn’t this the original version of the chicken and rabbit problem?
+
+If the words of Daoist Zhen Yang were to be translated into the modern Language, it would be: A chicken and a rabbit were locked in the same cage. There were 35 heads on the top and 94 legs on the bottom. How many chickens and rabbits were there?
+
+In ancient times, this might have been a very clever mathematical problem, but in this era, a middle school student could easily solve it by solving a linear equation of two variables. How could this be called a problem?
+
+After Daoist Zhen Yang finished speaking, he smiled and said,”Scholar Xia, you have the time it takes an incense stick to burn to answer this question.”
+
+As soon as he finished speaking, the little Daoist boy, Qing Feng, had already brought in an incense burner that had been prepared long ago. There was a newly lit incense stick stuck in the incense burner.
+
+Xia ruofei didn’t know whether to laugh or cry.”Daoist Zhen Yang, there’s no need to go through so much trouble, I’ve already solved this problem.”
+
+Old Daoist Zhen Yang raised his eyebrows and said,”Scholar, you’re actually so fast? Then tell me, what’s the answer?”
+
+” 23 chickens and 12 rabbits, right?” Xia ruofei smiled and asked.
+
+Of course, old Taoist Zhen Yang was not really trapped by a difficult problem. The question he asked Xia ruofei was actually a test.
+
+Xia ruofei believed that if the other members of the exploration team, including Ling Qingxue, had entered this scenario, Taoist Zhen Yang would have used the same tone and tone to throw the question at them.
+
+As soon as Xia ruofei gave this answer, Taoist Zhen Yang couldn’t help but raise his eyebrows and said,””This is indeed the answer to this question ...”
+
+“So, I’ve solved this problem?” Xia ruofei asked with a smile.
+
+“Hold on!” Old Daoist Zhen Yang said,”I’d like to know, what kind of calculation did scholar Xia use to be able to solve it in such a short time?”
+
+Xia ruofei thought,”a linear equation of two variables! Can’t you just do a verbal calculation?”
+
+However, Taoist Zhen Yang definitely did not know about linear equations of two variables. When Xia ruofei was thinking about how to change the solution to an easy – to – understand way to express it, he suddenly thought of an interesting solution he had seen on the internet. Although it looked a little ridiculous, it could indeed be calculated quickly.
+
+Hence, Xia ruofei smiled and said,”my method is very simple!” Daoist priest, there are thirty – five heads, which means that there are thirty – five chickens and rabbits in total, right?”
+
+Old Daoist Zhen Yang nodded his head and didn’t say anything, because this was basically nonsense.
+
+Xia ruofei smiled and continued,””If the chicken and the rabbit both raise two legs, then there should be 70 legs less, right? Out of the 94 legs, there were only 24 legs left. As the chicken only had two legs, after it lifted them up, the remaining 24 legs would all belong to the rabbit. Each rabbit had two legs raised, so they were all standing on two legs. The 24 legs naturally corresponded to 12 rabbits. There were a total of 35 chickens and rabbits. There were 12 rabbits, so naturally, there were 23 chickens. Isn’t the answer already out?”
+
+Old Daoist Zhen Yang was dumbfounded. He didn’t think that he would get the answer so easily. Fôllôw 𝒏ew stories at n𝒐/v(e)lb/in(.)com
+
+After a long while, he said with a strange expression,””Why would the chicken and rabbit obediently raise their feet? Also, the chicken is raising both its legs, what kind of position is this ...”
+
+Xia ruofei almost burst out laughing. He held back his laughter and said,”Daoist priest, this is not important, it’s just a hypothesis! The main point is that this method can get the answer the fastest, right?”
+
+Old Daoist Zhen Yang thought for a moment and said,”scholar Xia is a genius!” This method of solving the problem is very clever, this poor Daoist is impressed!”
+
+“In that case, I’ve solved this problem?” Xia ruofei asked with a smile.
+
+“Of course!” Old Daoist Zhen Yang said,”this poor Daoist still has a question. I hope that scholar Xia will not be stingy with your advice.”
+
+“Daoist priest, please speak!”
+
+After a moment of silence, old Daoist Zhen Yang said,”There are things that I don’t know the number of. Two is left from three, three is left from five, and two is left from seven. Where is the item?”
+
+Fine! It was another classic ancient mathematics question, and it was also from Sun Zi’s computational Canon.
+
+If this question was translated into modern words, it would be: There’s a pile of items. If you count three, you’ll have two left. If you count five, you’ll have three left. If you count seven, you’ll have two left. Please find the number of items in this pile.
+
+Xia ruofei had a faint smile on his face. This question had a trap. The answer to this question was not unique. To be precise, it should be an equal difference column with a difference of 3*5*7. If the ancient people who had not studied much mathematics faced this problem, they would have gotten the answer by testing the numbers one by one. However, it was likely that they had neglected the fact that there were many answers to this problem. If they only said one, it was likely that they would not be correct.

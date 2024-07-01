@@ -1,0 +1,76 @@
+Energize and Prepare
+0.00 / 0.00
+
+3188 New news about scholar Yuntai (1)
+
+“Good! There’s no time to waste, then I’ll have to trouble brother Xia!” Chen Xuan said.
+
+Part of the algorithm could still be used, but it needed some logical judgment. Besides, the ancient language database that Xia ruofei had spent a lot of effort on was basically in vain.
+
+Only cultivators like Xia ruofei and Chen Xuan could complete the modification in such a short time. If it were an ordinary programmer, they would have to work for at least a week to complete the task. Ch𝒆êck out l𝒂t𝒆st 𝒏𝒐v𝒆l𝒔 on nov𝒆l/bin(.)c𝒐m
+
+Mu Sheng and Liu Mansha couldn’t help either. The only thing they could do was to accompany Xia ruofei and give him some spiritual encouragement.
+
+Song Wei and Ling Qingxue saw that the four of them had finished their discussion and walked over.
+
+Song Wei saw the serious expressions on everyone’s faces and could not help but ask softly,””RUO Fei, what’s wrong? The results aren’t too good?”
+
+Xia ruofei nodded.”Maybe we were going in the wrong direction. We were preparing to try other ways.”
+
+Song Wei and Ling Qingxue could not help but look at each other. Xia ruofei had spent a lot of energy on this matter. They did not expect that he would be running wildly on the wrong path. They both felt that this was a big blow.
+
+Xia ruofei smiled and said,”I’m already mentally prepared for this result.” The Legend of the Five sacred badges has been circulating in the cultivation world for so many years. It would be abnormal if it could be easily cracked by a supercomputer!”
+
+Xia ruofei’s mentality was indeed much more peaceful than Chen Xuan and the rest.
+
+The main reason was that he had a higher estimation of the difficulty. After all, he had more information about the nascent soul and immortal soul Stage cultivators in the ancient cultivation world, as well as the rising Dragon Order.
+
+“We won’t disturb you then. You can go back to your work!” Song Wei nodded.
+
+Xia ruofei nodded and sat cross – legged on the sofa with his laptop in his arms. He opened the original algorithm program and thought about how to modify it.
+
+The entire algorithm was still based on the high – Level scan sketch. The image recognition part did not need to be changed. The main part was the logical judgment part. Let’s assume that each floating point represented a number or a group of numbers, and each group of numbers had two, three, four numbers ... At the same time, these numbers could be in binary, octal, decimal, or hexadecimal ...
+
+Based on the black dot matrix patterns among the more than 3000 Floating Points, especially the floating Points where some patterns repeated, he could determine what number or array each different floating point represented.
+
+It was still an impossible task if the human brain were to do the calculations.
+
+However, if he were to use a supercomputer, the amount of calculation required would not be that large.
+
+Compared to the previous method of elimination, which listed the possibilities of every Chinese character combination, the amount of calculation was much less.
+
+Xia ruofei opened a new document and jotted down some of his thoughts.
+
+At this moment, the voice of scholar Yuntai suddenly rang in his mind ...
+
+“Little brat! What are you busy with?” Scholar Yuntai laughed and said,”this old man has been in seclusion for a long time, right? I have to say that closed – door cultivation is really comfortable. It’s so refreshing to wake up!”
+
+Xia ruofei couldn’t help but feel surprised. He quickly used his spiritual will to communicate with scholar Yuntai,””Senior Yuntai, you’ve finally come out of seclusion!”
+
+“Hey! From your tone, you seem to miss me a lot!” Said scholar Yuntai with a smile.
+
+“We’ve been studying the secret of the rising Dragon!” Xia ruofei said,”I have many things to ask you!”
+
+“Oh? You’ve already put the tokens together?” Upon hearing this, scholar Yuntai immediately became interested.”I’m right, right? Did it become a token with the words “Rising Dragon” and a floating point pattern?”
+
+“Of course, senior is right!” Xia ruofei said.
+
+“Did you make a copy of the floating point pattern?” Scholar Yuntai immediately asked.
+
+“Uh ...... It should be considered a skill storing!” Xia ruofei hesitated and said,”I’ve already scanned it with a high – resolution camera. It’s even clearer than a copy!”
+
+“Oh, really? Give me some reference!” Scholar Yuntai said with great interest.
+
+“Senior, please wait a moment ...” Xia ruofei said after a moment of silence.
+
+This high – resolution scan image was stored in both of Xia ruofei’s laptops. The laptop that he had taken out from the space was still in the outside world. Mu Sheng was using the same laptop just now. He had only read the first 250 documents. Since he had nothing to do now, he opened the remaining 700 documents and went through them again. It was considered a cross – check.
+
+Xia ruofei said,”senior Yuntai, I have something urgent to do now. I can’t show you the scanned image for the time being. Wait for a while. My computer is free. I’ll put it in the small space for you to look at it!”
+
+“What’s a computer?” Scholar Yuntai asked curiously.
+
+Although Xia ruofei had specially built a communication channel so that scholar Yuntai could still communicate with him through spiritual thoughts in the spirit map space, it was impossible for scholar Yuntai to sense the situation outside. Otherwise, no matter what Xia ruofei did, others could spy on him, and he would definitely not be happy.
+
+“I’ll explain it to you later!” Xia ruofei said,”senior Yuntai, let me tell you about our progress in cracking the secret of the rising Dragon Order!”
+
+As expected, the interest of layman Yuntai was immediately diverted, and he said,””Alright! Alright! Kid, have you made a breakthrough discovery?” I’m afraid that won’t be easy!”

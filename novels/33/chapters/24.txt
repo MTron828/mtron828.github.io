@@ -1,0 +1,190 @@
+Colorful Balloons Take Flight
+0.00 / 0.00
+
+Chapter 27: The Final Test
+
+Translator: MJ_ Editor: Millman97
+
+The next couple of days went by peacefully. Han Xiao’s daily routine now included going to the junkyard every morning to produce guns. He was paid in cash daily after each session, and was able to salvage a number of spare parts for creating the rover. He had already begun to craft some of its parts, but was holding back on assembling it.
+
+Old Man Lu would occasionally lurk around to spy on Han Xiao as he worked. He was trying to figure out Han Xiao’s background from his craftsmanship. However, because Han Xiao was self-taught, his efforts were in vain.
+
+The tall old man frequently came over to compete with Old Man Lu at 5 in a Row, which Han Xiao found hard to understand. Is 5 in a Row that fun? The tall old man also gradually began to converse with Han Xiao more, and Han Xiao was more than happy to entertain him. Everything was going according to plan.
+
+For Mechanics, crafting rewarded the most experience, followed by enhancement, repairing, and lastly, assembly.
+
+As Han Xiao had no way of acquiring advanced knowledge for now, he decided to use his accumulated experience points to raise the 3 skills of [Beginner Machinery Affinity Lv. 3], [Basic Combat Lv. 8], and [Basic Shooting Lv. 6] to close to max level, and he gained quite a number of talent points from this.
+
+The prerequisite for advancing to a [Trainee Mechanic] happened to be unlocking [Intermediate Machinery Affinity], which required Lv. 5 in [Beginner Machinery Affinity]. Machinery Affinity was one of the common prerequisites for many blueprints and skills.
+
+Although Han Xiao now had a whopping 15 talent points, which seemed a lot, it was always better to save some for rainy days. This was something that he had learned the hard way.
+
+To think I actually had to spend over tens of millions of Enas (universal currency) just to buy Water of Lethe to reset my talent points back then!
+
+At Kero Junkyard, Han Xiao had been busily producing guns all morning.
+
+When he was about to leave, Raccoon passed him a stash of money that he pocketed without counting.
+
+“That should be enough for today. I’ll make a move first,” said Han Xiao.
+
+“Thank you for your contribution. We don’t need any more guns for the time being. However, our deal is still valid. You can continue to salvage any junk parts.”
+
+Now that Han Xiao had served his purpose, Raccoon planned to get rid of him. However, it was not time yet. Raccoon was an extremely cautious person.
+
+“Fine by me,” replied Han Xiao, who saw through his intentions.
+
+He left the junkyard, remembering to make a few extra turns to shake off his tail before coming to a large mechanic market.
+
+This market was popular among students from the Western Capital School and the Mechanic School due to the variety of machine parts and metals it offered.
+
+Han Xiao spent all of the 70,000 Aquamarine Dollars that he had earned to buy the remaining materials that he needed for both the rover, as well as another Lightweight Mechanical Arm.
+
+After obtaining the materials, he returned to his room to continue working on them.
+
+...
+
+A few days later, Han Xiao had finished crafting all of the rover’s parts, and he was now assembling the robot in his room.
+
+1.2 meters tall and armor-plated to protect its interior. Its top half was the shape of a person, except that it didn’t have a neck. It ran on a basic integrated circuit.
+
+It had two sectioned mechanical arms that could bend and rotate like a person’s, and its fingers were remodeled by Han Xiao into guns. Its torso could also rotate 90 degrees, and was inlaid with magazine compartments.
+
+Instead of legs, it moved on tank tracks.
+
+The system prompted Han Xiao to name his creation. Adopting his past naming style, he named it “Rover 1”.
+
+_____________________
+
+Rover 1 (Tank-style)
+
+Type: Robot
+
+Grade: Common
+
+Basic Stats: 800/800 Durability, 18 Defense, 59 Power Output, 23 Max Speed, 120/120 Energy
+
+Height: 1.18m
+
+Weight: 64.8kg
+
+Mode of Control: Remote (Electrical Signal)
+
+Control Radius: 50m
+
+Energy Source: Battery Unit
+
+Energy Usage: 8/min
+
+Power Capacity: 36/80 Ona
+
+Right Arm Module: Small Caliber Machine Gun – 35-40 Dmg, 4 Firing Speed (Max 7 – for 10 seconds), 30 Magazine Capacity (+60 Belt Capacity), 40 Power Output, 18% Accuracy
+
+Left Arm Module: Small Caliber Machine Gun – 35-40 Dmg, 4 Firing Speed (Max 7 – for 10 seconds), 30 Magazine Capacity (+60 Belt Capacity), 40 Power Output, 18% Accuracy
+
+Skills:
+
+– Self-destruct: Self-destruct to inflict 280-430 explosion damage in a 30m radius.
+
+– Metal Armor: Reduces damage taken by 8% (except penetrative attacks).
+
+Note: Don’t underestimate this little fella just because he looks stupid.
+
+The name [Rover] is not exclusive to one type of robot.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+The key materials used to craft Rover 1 were two common materials: steel and plastic resin. If Han Xiao had used a higher quality steel alloy, Rover 1 would have higher durability and defense. Nevertheless, he would be able to update or upgrade the rover with better parts when he got them to keep it relevant. This was a selling point of Mechanics.
+
+The number of modules that could be installed on robots, vehicles, and mobile suits, was limited by their ‘Energy Capacity’. Beside the quality of the energy source itself, ‘Energy Capacity’ could be upgraded by ‘Energy’ talents. Rover 1’s energy source was a standard battery unit, so its Energy Capacity was low.
+
+Completing the rover rewarded Han Xiao with 24,000 exp.
+
+The following day, Han Xiao finished crafting the Lightweight Mechanical Arm.
+
+_____________________ L𝒂aTest nov𝒆ls on (n)𝒐velbi/𝒏(.)co𝒎
+
+You have crafted Lightweight Mechanical Arm (Left), gaining 2,500 exp.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+His second Lightweight Mechanical Arm was still a left arm, like before. However, the materials he had used to craft it were lower in quality than before, causing it to have a lower grade.
+
+_____________________
+
+Lightweight Mechanical Arm (Left)
+
+Grade: Common
+
+Base Stats: 28-45 Damage, 8-12 Defense, 26 Power Output, 205/205 Durability
+
+Prerequisite(s): 23 STR
+
+Bonus Stats: -4 Attack Speed
+
+Length: 0.51m
+
+Weight: 6.1kg
+
+Additional Effects: Bonus +6 STR
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Currently, Han Xiao strongest form of combat was melee combat, so the Lightweight Mechanical Arm suited him well.
+
+Mechanics that favored melee combat were known as Mecha-warriors. Han Xiao did not intend to walk down this path as it was long-ranged capabilities that Mechanics truly excelled in, after all. However, since Mecha-warriors was the style that offered low level Mechanics the highest combat prowess, it would have to do for now.
+
+Han Xiao hid the Lightweight Mechanical Arm before heading downstairs. Lu Qian was engaged in a conversation with a customer who kept on glancing at Han Xiao when he appeared. He was clearly yet another agent from Division 13.
+
+Division 13 had, over the past few days, sent many undercover agents to spy on Han Xiao, but since Han Xiao was a tough nut to crack, they were now attacking from a different angle.
+
+“Why are there so many people asking about you?” asked a puzzled Lu Qian when the agent left.
+
+“Well, I’m popular.”
+
+“But they’re all guys.”
+
+Han Xiao froze up.
+
+“It’s not what you think-”
+
+“Don’t worry! I won’t judge you,” replied Lu Qian as she started giggling.
+
+Why are you giggling like that!
+
+Suddenly, Han Xiao’s turned serious. He had received a system alert.
+
+_____________________
+
+You have triggered the Class-E Mission, [Assailants!]. Accept/Reject]
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Han Xiao was bewildered. What could have triggered such a mission?
+
+“Accept.”
+
+_____________________
+
+Mission Synopsis: The bounty on your head is being eyed. Your enemies are near and they are hiding in the shadows. Meanwhile, a certain group of people has been watching you to assess your potential. What will you do?
+
+Requirement: Avoid death
+
+Reward: 10,000 experience
+
+Bonus Reward: 1x Skill Level-up Card (Basic)
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Han Xiao rolled his eyes at the dramatic synopsis.
+
+The ‘group of people’ referred to in the synopsis most definitely referred to Division 13. Han Xiao put the clues together and conjectured that Division 13 could have leaked intel on him in an elaborate set-up to test his combat strength. However, if that were the case, the people after him must not be too strong. After all, Division 13 wouldn’t risk things blowing up in the city.
+
+Although Han Xiao wasn’t interested in typical Class-E mission rewards, the bonus reward caught his eye. A Skill Level-up Card was certainly something handy to have.
+
+If a mission had a bonus reward, it meant that there was a secret condition to fulfill. Han Xiao guessed that this mission’s secret condition was most likely to kill all of his assailants.
+
+“Since the enemy could appear at any moment, I’d better not stay in the workshop.”
+
+Han Xiao didn’t want to rely on Old Man Lu. After contemplating for a moment, he thought of the perfect location for battle.
+
+Kero Junkyard.
