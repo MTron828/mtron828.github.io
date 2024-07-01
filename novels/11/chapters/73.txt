@@ -1,0 +1,155 @@
+Playvolume00:00/00:00
+Truvid
+fullScreen
+
+As Ves glanced at his Status, he almost got scared by the amount of DP he accrued. Just a short time ago he still got excited when he earned a couple of hundred DP, but right now his breath caught when he saw he earned more than 5000 DP just from his virtual sales.
+
+"Damn, earning so much DP is a cheat. If even one of my design catches on, I’m set for life."
+
+Naturally, Ves did not think the System was generous. The way it handed out DP told him that it encouraged Ves to develop one good design rather than a hundred forgettable designs. The DP earnings from sales should be his primary source of income. And though he could earn a lot of DP from simply getting one design right, the costs of more advanced Skills from the Skill Tree ramped up pretty fast.
+
+He switched to his Skill Tree and stared down his Mechanics section. Upgrading his Mechanics skill from Journeyman to Senior demanded 100,000 DP. Even if he gathered so much DP, he also had to satisfy the additional prerequisite of raising three related sub-skills to Journeyman as well.
+
+"It’s not worth it to go down a single tree if I only have five-thousand DP to spend. I’m better off increasing my attributes or some of my other skills."
+
+With this much DP, it became possible for him to buy a couple of candies from the Store in order to boost his intelligence. Still, just because it was possible didn’t mean it was useful. If he wanted to compete against the geniuses who studied at Leemar, then he needed an immediate boost in skills and knowledge.
+
+"I’ll think about attributes later when the situation is not so urgent. First up, let’s see what main skill I can upgrade."
+
+Though he could afford to upgrade two main skills, he was apprehensive about overloading his brain. Every major category came with a wealth of knowledge that took weeks to settle in. If Ves bit off more than he could chew, he might end up mentally crippled for a time. The last thing he wanted was to knock himself out of the competition before it even began.
+
+Thus, he started to scour the Skill Tree for a modest collection of sub-skills first. After taking a brief look at some of the newer and more exotic sub-skills, he turned down most of them in favor of upgrading his existing ones.
+
+[Alloy Compression I]: 1000 DP
+
+[Speed Tuning III]: 800 DP
+
+[Mediumweight Armor Optimization III]: 1200 DP
+
+[Metallurgy - Journeyman]: 2000 DP
+
+The upgrades to Speed Tuning and Mediumweight Armor Optimization spoke for themselves. They increased the depth of his specializations and would help him make faster and better protected mechs.
+
+As for Metallurgy, he decided that achieving Journeyman level in this field was essential if he wanted to compete in terms of armor. He still remembered the extraordinary toughness of some of mechs that participated in the Fusion Cup. A solid background in Metallurgy helped close the gap and enable him to purchase another sub-skill.
+
+"So that’s how they did it." Ves muttered when he finally added Alloy Compression to his shopping list.
+
+Though not the only way to improve a piece of armor plating, it nonetheless provided remarkable results with comparatively little effort. The concept sounded simple. Certain alloys transformed when subjected to a large amount of even pressure. While most either ruptured or ended up as a piece of scrap, some alloys instead successfully compressed into a tougher plate.
+
+"Too bad it requires a special machine in order to compress these special alloys." Ves sighed. Just buying the cheapest model set him back at least a couple of hundred-million bright credits.
+
+Though still outside his budget, he could still apply the knowledge to any designs as long as he did not intend to produce it in his workshop. Not only was it usable at the upcoming competition, he could also apply it to any virtual designs where the game provided him with every possible fabrication machine he could ask. Thus, the extravagant purchase of 1000 DP for just the first rank of Alloy Compression still paid off.
+
+As Ves intended to absorb a lot of knowledge at a time, he spaced them out. He first started with Speed Tuning III and Mediumweight Armor Optimization III. Both of these sub-skills at the third tier provided similar kinds of knowledge in that they were light on fundamentals but heavy on details.
+
+While absorbing the data from Speed Tuning happened without problems, Ves could not say the same for Armor Optimization. His shallow background in Physics increased the difficulty of absorbing the advanced data. He got the feeling he received a large bunch of encrypted gibberish, and the only way to unlock them was to increase his proficiency in Physics.
+
+"That’s a thing for later when I have the DP to spare."
+
+Having learned a lesson on the importance of main skills, he opted to absorb Metallurgy first.
+
+"Urgh!"
+
+The influx burdened his mind, but not as bad as the first time he upgraded a skill to Journeyman. Somehow, Ves found that his mind had expanded somewhat, as if his previous experience left a hollow that could be recycles over and over again.
+
+With the help of this boon, Ves focused on absorbing everything about Metallurgy and its varied fields of knowledge. Journeyman-level Metallurgy mostly consisted of learning the properties and uses of the most commonly employed exotic minerals. It provided him with an extensive understanding in how to use and shape armor plating and gave him a primer on how others developed their own armor systems.
+
+As for Alloy Compression, the sub-skill went into greater detail in how most armor systems improved their specs without getting too heavy. With the right mix of exotic materials, the compressed piece of armor was capable of withstanding much more damage for its weight and thickness. The trade-off for this procedure was that it took a lot of time to process the materials and that a lot of expensive exotics had to be used.
+
+It turned out the original Caesar Augustus model employed compressed armor plating to achieve its lauded durability. National Aeromotives spent a lot of effort in developing their heat-resistant armor, so Ves was a long way in developing armor that performed anywhere near such a great product. At least he possessed enough of a foundation to handle a compression machine skillfully and reproduce any advanced piece of armor so long as he had the license.
+
+[Status]
+
+Name: Ves Larkinson
+
+Profession: Novice Mech Designer
+
+Specializations: None
+
+Design Points: 74
+
+Attributes
+
+Strength: 0.7
+
+Dexterity: 0.7
+
+Endurance: 0.7
+
+Intelligence: 1.2
+
+Creativity: 1
+
+Concentration: 1.7
+
+Neural Aptitude: F
+
+Skills
+
+[Assembly]: Apprentice - [3D Printer Proficiency II] [Assembler Proficiency II]
+
+[Business]: Apprentice
+
+[Computer Science]: Incompetent
+
+[Electrical Engineering]: Novice
+
+[Mathematics]: Incompetent
+
+[Mechanics]: Journeyman - [Jury Rigging II] [Speed Tuning III]
+
+[Metallurgy]: Journeyman - [Alloy Compression I]
+
+[Metaphysics]: Incompetent
+
+[Physics]: Novice - [Lightweight Armor Optimization I] [Mediumweight Armor Optimization III]
+
+Evaluation: A novice about to spread his wings.
+
+While he lost a lot of DP, his capabilities improved beyond the norm. Ves vaguely suspected that he had surpassed a regular mech designer who had just graduated from a second-rate institution. As for matching the skills of a genuine elite like Edwin McKinney, Ves still lacked the confidence for a rematch.
+
+"Perhaps I’ve gotten within striking distance to Edwin, but that doesn’t mean anything yet. He’s bound to develop his skills as well. I can’t imagine how far he’s already reached."
+
+Life went on. While Ves sorted out his overstuffed mind, the Torch of the Vanguard entered Coalition space. She finally reached the end of her journey.
+
+The Friday Coalition’s immense size meant it held multiple port systems. From the Bright Republic, any ship wishing to enter Coalition space first passed through the The Hostin System. As a strategically important location and a prime invasion point, the Coalition forces in charge of this area built it up as a fortress.
+
+Countless mechs and fixed emplacements dotted the system even as the Torch of the Vanguard exited FTL at the edge. A patrol of spacefaring mechs arrived at the ship and called her to a halt. Despite the massive traffic coming to and from the Hostin System, the Coalition still possessed enough manpower to inspect each ship.
+
+As a vessel registered in Coalition space, the inspectors went about their work with haste. Dietrich stood besides Ves as they both got checked out by the incoming personnel. Though Dietrich’s status was a little dubious, the identity of a proven mech designer proved enough for Ves to vouch for his companion.
+
+"Man, these Coalition guys sure take visitors seriously."
+
+"I think the recent terrorist attacks have them spooked as well, even if they haven’t suffered yet from any attacks."
+
+All of the Coalition troops bore a distinct symbol underneath their Coalition sunflower logo. It looked like a set of five tapering blue triangles, like a fan consisting of five blades.
+
+"We’ve entered the territory of the Konsu Clan. They’re rather strict and uptight so don’t pull anything funny."
+
+"Yeah, yeah, I know. I’ve seen enough Coalition broadcasts to know how pissed off they get when someone has their hair out of place."
+
+That was an exaggeration, of course, but it demonstrated the Konsu Clan’s values. As a rigid family Clan that never bent their principles, they clashed often against their rival Clans in the state they originated. Eventually they pissed off so many groups that they all banded together against the Konsu Clan, devastating their worlds and forcing their upper echelon to flee to the distant Komodo Star Sector.
+
+One would think that the Konsu Clan loosened up after such a harrowing ordeal. Instead, they doubled down, coming across as even more stubborn and uptight. Only their might as the second most powerful military power of the Coalition kept them safe from outside pressure. No one wanted to provoke the dragon.
+
+"Luckily, the Leemar System is part of the more liberal Carnegie Group." Ves said as the inspectors finished their work. They caught a couple of suspicious characters and escorted them out of the ship. "We only have to tough it out for a few days before we leave Konsu space."
+
+The Torch finally reached her final stop at a massive spaceport orbiting one of the system’s moons. No outsiders were allowed to approach the Konsu Clan’s settled planets, so the station handled most of the traffic.
+
+The insides of the station embodied the quiet arrogance of the Clan. Occasional trees and sculptures brought in some much-needed vitality in the otherwise sober white decor. After leaving the Torch, they transferred to a smaller and cheaper passenger transport.
+
+There was no helping taking the cheaper option this time. Paying everything in cols ate up a large amount of their money. Ves and Dietrich could only afford to pay for the cheapest option which let Dietrich bring his mech along.
+
+"I think with the recent trouble, this trip might not be very quiet. The Coalition is powerful, but that just means that there are more interests competing against each other."
+
+Dietrich nodded seriously, his customary grin already gone from his face. "I know. I’ve prepared as best I can."
+
+The Saint Hearst lacked the various luxuries offered by much larger vessels such as the Torch of the Vanguard. Instead, she focused on maximizing her internal space, trying to stuff as many passengers as possible in a single ship while still adhering to the Coalition’s laws.
+
+That meant their cabin was simply two bunks, a desk, some chairs and a tiny bathroom. While it sufficed for a simple trip to Leemar, the contrast between the royal treatment they received from their previous ship was too much.
+
+While the Saint Hearst devoted only a small portion of her interior to shops and restaurants, Ves and Dietrich found that most of them were on the more affordable side. Ves bought a couple of fancier-looking clothes that allowed him to fit in a little better, while Dietrich happily tried out all the cheap drinks the Coalition offered.
+
+The one good thing about the Saint Hearst was that she didn’t lose out on speed. Her modern FTL drive possessed quite a reach and hopped over many light-years with each transition. As they entered deeper into the Konsu Clan’s territory, they started to encounter more populated systems. Yôur favorite 𝒏ovels at n/𝒐(v)el/bin(.)com
+
+The Saint Hearst stumbled upon an invasion after a couple of days. Ves and Dietrich’s luck in avoiding incidents failed spectacularly at the worst possible moment. A group daring enough to openly assault a system under the rule of the Konsu Clan could not be anything but a rival Coalition member.

@@ -1,0 +1,116 @@
+Majestic Desert Splendor
+0.00 / 0.00
+
+Every time the Wolf Mother transitioned in and out of FTL, the entire deck lurched and a nauseous feeling overcame Ves. He never really got used to it, but the other mech designers in the design department shrugged it off like they got sprayed by mist.
+
+The Wolf Mother already transitioned over seven times. From this, Ves could infer that either the range of the Wolf Mother’s FTL drive was really short, or they traversed a huge distance.
+
+The Vandals didn’t release a lot of information to someone low in the totem pole like Ves. He learned more from eavesdropping the spacers in the canteen than in the pathetic amount of documents made available to him. The most he knew about the layout of the factory ship came from contingency plans in case of disaster, and they only outlined the most direct path to the escape pods.
+
+What he did learn from from listening in on the crew was that the factory ship’s exhibited an onion ring-like shape. The original logistics ship that formed the core had already been changed beyond recognition, but most of the central functioning of the Wolf Mother was buried here. It contained the databases, the processors, the combat information center and many more goodies.
+
+Tacked on to the top, bottom, port, starboard, bow and stern of the original structure were many other modules. For example, the compartments that made up of engineering took over the entire rear end of the Wolf Mother. Those who entered this section in person described it as a chimera of ship components that kept the factory ship up and running.
+
+One day, Professor Velten called up every mech designer in the department for a general meeting. Ves filed into the conference room after the others and sat on a random chair in the rear. The room could have housed over a hundred mech designers.
+
+With only sixteen people present, the place had obviously seen better times.
+
+"It is the time for our monthly update. For the six of you who transferred in recently, this meeting serves to bring us all on the same page." The old woman nodded to Ves and the other temps. "Let us begin with everyone’s works. Journeymen, please present your progress."
+
+The Journeyman Mech Designers who led their individual design teams walked up to the front and projected their results. Ves watched keenly as he got to see the details of the other two actively developed designs.
+
+The 6th Flagrant Vandals started up as a spaceborn mech regiment in order to raid Vesian shipping lines. Only later on did they acquire the capability to field mechs on land.
+
+Still, spaceborn combat remained the norm among the Vandals as most of the time they couldn’t afford to stick around a star system long enough to go through the trouble of descending and ascending from orbit.
+
+The most widely-used design in active development was therefore the Inheritor line of spaceborn light skirmishers. Their small stature enabled the Vandals to fabricate them fast and cheap from the Wolf Mother’s own production lines. Their simple nature also lowered the burden of training rookie pilots into becoming proficient in piloting these mechs. Thê sourc𝗲 of this content n/o/v/(𝒆l)bi((n))
+
+"We failed to find any means to reduce the weight of the cockpit by zero-point-three percent while retaining the same level of protection. I have personally tried to vary different shapes and sizes, but the current iteration is already highly optimised. Tweaking the ratios of the alloys used to construct the cockpit has led to a minor amount of weight savings, but will also weaken the cockpit by a disproportionate amount."
+
+As the Journeyman in charge of its development reported on his team’s progress, Ves understood more of the nuances of its design. The Inheritor aimed to be fast. It had to be nimble enough to turn on the fly and powerful enough to accelerate to a great speed. The Inheritor relied on these strengths to close the distance quickly and tear apart vulnerable ranged mechs with its twin knives.
+
+This was extremely hard to accomplish on a light mech which needed to devote a substantial amount of internal volume to its flight system.
+
+"How much progress have you accomplished in decreasing the size of the Inheritor’s flight system?" Velten asked from the side.
+
+"We accomplished a little bit more in that area. The Mech Corps recently released new formulas for alloys and composite materials. I’ve selected the formulas that are most compatible to the Inheritor’s flight system and tried to simulate what would happen if we substitute the old formulas with the new ones. Most outcomes didn’t come out in our favor, but I’ve tasked my team to tweak the design in order to provide a better fit for the new formulas. These results look more promising, as you can see on this projection."
+
+Ves paid a lot of attention on this particular topic. He lacked first-hand experience in working with actual flight systems. Working with outdated flight systems for virtual mechs didn’t count in his eyes.
+
+He noticed that every other mech designer paid a lot of attention as well. In a way, this was a valuable opportunity for the Apprentices to listen in to the insights of a Journeyman Mech Designer.
+
+As Ves learned more about the development process of the Inheritor, he found out that the current state of the Inheritor was in a very good place. Its relative lack of complexity made it easier to tweak some of its elements without throwing everything else into chaos.
+
+Of course, the mech designers faced many limitations as well. They weren’t allowed to exceed the Inheritor’s mass and volume, no matter how much of an improvement they achieved. This truly frustrated the designers who worked on the Inheritor because they accumulated a list of over a hundred easy changes they could implement if only the Vandals relaxed the restrictions.
+
+"To sum up my report, I truly believe it will benefit the Vandals if we can convince Colonel Lowenfield to agree to a two-point-five percent increase in mass and three-point-seven percent increase in volume for the Inheritor design. There are so many new innovations just waiting to be implemented."
+
+Professor Velten nodded gently. "I will take your words under advisement in my next meeting with the colonel."
+
+In other words, nothing would change and the status quo persisted. The Journeyman must have realized it as well and looked deflated as he returned to his seat.
+
+Another Journeyman went up to report on the work done on the Akkara line of heavy landbound mechs.
+
+The 6th Flagrant Vandals predominantly used Vesian mechs, which was very unusual for a mech regiment of the Republic. They didn’t buy these mechs from the market and neither did they fabricate them in-house.
+
+Instead, they stole the brand-new machines by raiding mech manufacturers or scavenged damaged ones from battles. The Vandals had become so adept at sourcing mechs in this manner that they stopped ordering mechs from the Mech Corps entirely.
+
+There was only one downside. They couldn’t get their hands on any heavy mechs.
+
+Only a proper military force fielded heavy mechs. To the Vandals, they could only obtain Vesian heavy mechs by raiding military bases or attack proper Vesian mech regiments.
+
+The Vandals would be crazy to do so. The losses they’d sustain in any single assault wouldn’t make up for the acquisition of a couple of heavy mechs.
+
+So, as burdensome as it sounded, the Vandals had to continue to develop their own heavy mech design.
+
+"We’ve finally solved the air intake issue for cycling the heat build-up. It turns out that the filters we placed to protect the mechanisms aren’t coping too well when it comes to moisture in the air."
+
+Compared to the more polished state of the Inheritor design, the Akkara appeared to be a lot less refined. The development problems outlined by the Journeyman sounded a lot more basic and impactful. They weren’t dealing with a highly optimised design. The Akkara was still a work in progress.
+
+"We are still unable to determine whether it is better to stick with the older targeting system that is relatively reliable or the newer one that is made available by the Mech Corps."
+
+"What are the issues with the new system?" Velten asked.
+
+"The newer targeting system isn’t interfacing properly with our design. We don’t know why, but I think it’s because the Akkara possesses a lot more gun tubes than it can cope."
+
+The Akkara heavy mech was a landbound mech that weighed so much that the Vandals never moved them from beyond their landing sites. As the only heavy mech of the Vandals, the Akkara distinctly served a defensive role.
+
+On land, the Akkara’s moved on four legs to provide a stable firing platform. Dozens of rapid-fire laser and ballistic cannons dotted its spider-shaped torso, allowing it to bombard anything that approach from the ground and air.
+
+A special feature of the Akkara was that it served as a weapon platform in space as well. Its heavy design incorporated some of the traits more often seen on spaceborn mechs.
+
+This allowed the Akkara mechs to stay relevant in space battles as well. Every Vandal combat carrier incorporated special bunkers that enabled the Akkara to anchor its four legs into the bunker structure and fire out its weapons from the well-placed slits.
+
+"We’ve experimented with changing the layout of the cannon barrels, and have come up with three alternatives that should better balance out the stresses placed upon the mech whenever it fires off its ballistic cannons. One solution is better for land and the other is better for space."
+
+Balancing out the Akkara’s performance on land and in space demanded a lot from its design. Ves didn’t envy their design team, because optimizing the mech for one environment often compromised its performance in the other environment.
+
+Once the Journeyman listed out a bevy of solutions, Alloc finally made his way up to the front.
+
+"My team has not made any significant improvements to the Hellcat design."
+
+With those words, Alloc laid out the reasons why, though Ves already predicted them. The spaceborn hybrid knight incorporated too many systems. Thereby, a change in one system affected the performance of the others, often in a detrimental way. This was a classic reason why hybrid knights hadn’t become more prolific.
+
+"Lately, my work on drawing out more strength from the Hellcat design through tweaking its software has met a wall. I’ve already worked extensively in this area and most of my progress in the last few months represent the easy solutions. Any further improvement requires an exorbitant amount of time to dig up."
+
+Velten honed in on this remark. "So you believe it is no longer worth your time to work on the programming of the Hellcat?"
+
+"It is not cost-effective. All the bugs that I could think of have been squashed or circumvented. Any further improvements demands lots of research. My time is better spent on other things."
+
+"Very well then. If you believe there is no further merit to put your attention in this area, then you may change your focus. What do you have in mind?"
+
+"We are still working on strengthening and miniaturizing its oversized flight system. Our core issue with the flight system is that it generates a large amount of heat, something which our hybrid knight has never really learned to cope with. I’d like to take a stab at improving its heat management systems."
+
+The professor nodded in approval. "Research our options and present them to me in private. I’ll derive a change in the Hellcat’s design according to the data that you present to me. Continue on with the report."
+
+The rest of the report sounded familiar to Ves, as he worked on them himself or helped his colleagues solve some of their conundrums about them. The Hellcat design still hid a lot of secrets, but Ves already understood the broad strokes.
+
+After Alloc finished his presentation and returned to his seat, Professor Velten went up again and made an announcement.
+
+"Pardon the secrecy that is hanging over the department. We needed to make sure that Colen Lowenfield’s plans for the Wolf Mother hasn’t leaked."
+
+Everyone looked at each other in a worried manner. "Ma’am? Where are we right now?"
+
+"That’s a good question." Velten smiled. "The Wolf Mother has just arrived at Tomalin System. There is nothing special about this star system. It is an out of the way location in the Tarry region. The reason why it is our focus is because we are about to meet with the Vesian rebels."
+
+Everyone was taken aback at the news. They were actually collaborating with rebels this time!

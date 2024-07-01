@@ -1,0 +1,101 @@
+Cuteness Unleashed
+0.00 / 0.00
+Chapter 5699 Auxiliary Mech Focus
+
+Auxiliary mechs generally received much less appreciation from the mech community than more direct combat-oriented machines.
+
+Mech pilots generally wanted to become the hotshots that beat up their opponents and saved the day.
+
+However, auxiliary mechs served their purpose in battle. There were many roles that mechs could perform that would otherwise weaken and burden a combat mech.
+
+Ves was not entirely unfamiliar with support-oriented mechs. He had designed a number of them including the Blessed Squire Hexer-exclusive heavy supportive knight mech, the Buzzy Bee commercial light ECM and communication mech, the Cherub Hexer-exclusive communication mech, the Bright Boy Hexer-exclusive ECM mech and the Light Hunter Vandals-
+
+exclusive scout mech.
+
+The fact that most of his support mechs ended up getting used by the Hexers was a reflection of their greater use and integration of machines that depended on others for protection.
+
+Of course, the real reason why the Hex Army employed a disproportionate amount of support mechs compared to other military mech organizations was actually quite banal.
+
+The Hexers insisted that male mech pilots were not qualified enough to make use of mechs with real teeth!
+
+Real combat was reserved for the stronger and much more competent female mech pilots.
+
+It was already a privilege for male mech pilots to step onto the battlefield at all. They could be somewhat trusted to cover the backs of their betters as long as they stuck to piloting harmless support mechs.
+
+Whatever the case, Ves accrued enough experience in designing support mechs to possess a decent understanding of their place and their uses.
+
+As the Hexers had already shown in a less than stellar manner, auxiliary mechs generally had lower requirements on the pilot.
+
+Depending on the role and functions of a support mech, the pilot might need to possess greater situational awareness or special analytical skills in order to effectively employ sophisticated instruments.
+
+However, it was not that difficult to educate mech pilots in these skills. They just needed to be smart enough to pass the required classes.
+
+This granted a lot of mech pilots an alternate career trajectory that did not require them to risk their lives in a more direct way. Many people found it fulfilling to play a vital support function and cover the backs of other mech pilots. 𝒩ewW 𝒏ovels upd𝒂tes on nov/𝒆l/b(i)𝒏(.)com
+
+As Ves turned his attention to the subject of a support mech, he immediately thought of a recent release that already fulfilled this function to a degree.
+
+"The Fey Fianna is already being leveraged as a support mech as far as I am aware of." He said. "The fey all come with an inherent decoy function that can attract a lot of firepower that would otherwise hit a real mech. They can also carry space suppressors, shield generators and other support functions."
+
+The LMC even organized a contest meant to encourage enterprising mech designers to develop new fey types to enhance the versatility of the overall mech platform. A lot of new and interesting third-party fey models became available as a consequence.
+
+Gavin's temporary replacement nodded. "That is correct, sir. The nature of your Fey Fianna model enables it to adopt any role, including support. It may not be the best or most cost-efficient means to fill up auxiliary mech roles, but your popular drone mech is filling a need in a good way."
+
+"Doesn't this mean that it is not entirely necessary for us to design an auxiliary mech?"
+
+"The Fey Fianna is a flexible drone mech model. It is not supposed to be a universal solution for everything. It is a high-end mech that is more expensive and more difficult to pilot than most second-class mechs. There are many mech organizations that have already developed a mature mech doctrine where they have devised the most optimal mech compositions for their forces. It is not entirely necessary for them to employ expensive Fey Fiannas when they can resort to much more efficient auxiliary mechs instead. The latter might not have the flexibility and decoy function of the former, but it is usually capable of performing a single support role to a much more extensive degree due to their specialized focus. It is also much easier to recruit and train mech pilots for this singular purpose."
+
+In other words, the market demanded a specialized tool that was really good at doing a single job, not a multitool that could adequately perform multiple jobs at the same time.
+
+Ves leaned back and clasped his hands in thought. "I get it. So what sort of support functions are in demand?"
+
+"There are multiple support functions that are in demand. They generally fall into three categories: electronic warfare, direct damage mitigation and battlefield replenishment."
+
+"I see. These are already functions that were in demand before the start of the Red War."
+
+"That is true, sir, but the current solutions are not adequately helping linefighters reduce their loss rate. The Red War is shaping up to become a war of attrition. Both sides are grinding their forces against each other, hoping to exhaust the war-making potential of their enemies first. Our side is at a heavy disadvantage in this contest due to obvious reasons. The mech forces at the frontlines cannot sustain all of the casualties that they are incurring for long. Any solution that can shrink their losses and allow more of their mechs and mech pilots to return from the battlefield alive is beneficial."
+
+This would become more important when the Red War dragged on. The small gains made over time could add up to a lot of lives being saved down the line.
+
+This was not just because mech pilots managed to survive where they otherwise would have died.
+
+The presence and availability of those additional troops would go on to win a lot more battles and prevent a lot of human territories from getting razed by the aliens!
+
+The question was what sort of mech Ves should design to effectively satisfy this burning demand.
+
+"What are your thoughts on the categories of support mechs that I should delve into?" Ves asked.
+
+"The specific demand for electronic warfare solutions encompasses any means that directly or indirectly makes it harder to damage friendly troops effectively. As you have previously pointed out, the Fey Fianna is actually doing well at this already. However, mech forces have found out that the decoys produced by the living fey can fool alien sensors much more effectively if they are paired with ECM mechs such as the Buzzy Bee. By generating additional jamming, it becomes harder for alien sensor and scanner systems to discern the real mechs from the fake ones."
+
+"The Buzzy Bee is already on the waiting list to get updated into a hyper mech." Ves explained.
+
+"That is excellent, but the Buzzy Bee model is largely optimized to degrade the combat effectiveness of opposing mechs and mech pilots. They are not adequately equipped to disrupt the performance of warships, especially at a distance. They are also not able to support a large quantity of mechs. They are ultimately designed to excel in a different sort of warfare. I do have to note that the Buzzy Bees still perform well when deployed against alien starfighters, which are slowly becoming more prevalent among the native aliens. There is no need to retool the design to optimize it against alien warships."
+
+"Hm, I agree. What about direct damage mitigation, then?"
+
+"Dedicated energy shield mechs have seen a decline in demand because it is not feasible to resist the powerful damage output of alien warships." The temporary assistant explained.
+
+"Evasion is much more effective than blocking."
+
+"That is generally the case, but not always, sir. Not all mechs are shot down by the powerful main cannons of a large battleship. The firepower of these enormous guns is overwhelming, but their firing rates are slow and not capable of tracking fast-moving targets. It is mostly the smaller and more rapid-fire gun batteries that are responsible for eliminating the majority of mechs in space. It is still possible to resist their firepower for a short amount of time. It has become increasingly important to rescue distressed mechs that have suffered crippling damage on the battlefield but can still be recovered. A remote shield mech can come forward, deploy an area shield that can block follow-up attacks and buy enough time for the mech to limp back to safety or for the mech pilot to eject from a heavily damaged machine. Mech forces that are attentive enough to deploy these mechs have managed to reduce their average loss rate by as much as 20 to 30 percent!"
+
+This showed that a lot of mechs struck by a powerful warship was not beyond saving. They could still be recovered and put back into use in the future as long as the mech force made an effort to rescue these assets.
+
+"I imagine that being more serious about rescuing distressed and injured units also helps to raise morale." Ves remarked. "I can see how this sort of mech can be useful, but the problem is that I am not entirely confident in designing a remote shield mech that can outperform the products that are already on the market. There is little point in designing my own version if it isn't actually better. I know that this role is a lot more prevalent in first-class mechs, but the technological limitations of second-class mechs makes it too difficult to develop ones that are effective enough to reach mass adoption."
+
+He might revisit this sort of mech once he started to design first-class mechs, but for now he decided it was best to leave it aside.
+
+"Then that leaves battlefield replenishment as the final option. Whether it is ammunition or energy, mechs are expending their resources at a rapid rate. Any mech force that engages an alien warship must go all out right from the beginning. Holding back will cause small losses that will eventually produce major losses. Battles are generally shorter, but the intensity is much higher due to the need to overwhelm the defenses of the other side. It is becoming especially difficult to sustain an assault against a larger alien fleet. It takes so much effort to break down their defenses that mechs may find themselves running dry before all of the enemy vessels have been neutralized. It is vital that the exhausted machines can be replenished quickly without needing to return to their motherships."
+
+Ves nodded. "I see. The old Blessed Squire design used to fulfill this function in landbound combat. Are you suggesting that I should design a spaceborn version of this concept?"
+
+"It is a possibility." The assistant responded. "It is up to you to make this determination. I can tell you that the demand for a mech that can not only replenish supplies in the field but also comes with a glow that can lift the mood of battleworn mech pilots may be high enough to invest in its development."
+
+All of these possible auxiliary mechs sounded useful in one capacity or another.
+
+Ves actually felt the urge to design all of them, but that was not a wise course of action. The competition was heavy. A half-hearted effort would not be able to stand out in the mech market.
+
+He would rather limit his options and focus heavily on designing a single excellent auxiliary mech that did its job than any other equivalent on the market.
+
+"I will need to think about this." Ves eventually decided. "I agree that it is probably a good idea to add a new auxiliary mech to our lineup, but I haven't thought about them for a while. I need to delve into them myself in order to refresh my understanding and get a read on the sentiment of mech pilots. Thank you. I will make sure to read your full report on this subject."
+
+He wanted to talk about auxiliary mechs with other people aside from a newly assigned assistant who never worked directly with mechs in his life. There were plenty of people that Ves could think of who might be able to provide much greater insights on this matter.

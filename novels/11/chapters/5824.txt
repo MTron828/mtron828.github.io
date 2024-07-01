@@ -1,0 +1,115 @@
+Fitness Fun in the Park
+0.00 / 0.00
+Chapter 5825 The Power of the Data Web
+
+﻿5825 The Power of the Data Web
+
+Ves only possessed a shallow understanding of shield link technology.
+
+Eric Poderin was different because he designed plenty of warships equipped with this powerful tech.
+
+"Many laymen assume that a mech fleet that is equipped with shield link technology will always be able to perfectly combine the energy shields of every asset until it forms into a gigantic gestalt defense. The reality is that this is rarely possible. There are many constraints to establishing so many links across so many separate elements. There are factors such as lag, combat damage, battlefield interference and range that can reduce the effectiveness of a link or outright break it. Shield links are also incredibly energy-intensive to maintain, so much so that every combat carrier equipped with this tech is forced to reduce their mech capacity in order to accommodate enough power generation to keep up with existing demand."
+
+The CEO altered the projection so that it displayed a good view of the interior compartments.
+
+Ves saw what Mr. Poderin meant. Compared to the interior of a second-class combat carrier, the layout of an RA combat carrier was considerably less spacious. The much more advanced starship had to devote a lot of capacity towards many different core and auxiliary functions.
+
+By reducing the mech capacity and increasing the support capacity, the RA combat carrier was not able to field as many mechs, but could do a lot more than linger in the background and offer distant fire support.
+
+From what it looked like, the spaceborn combat mech doctrines of the Red Association were a lot more aggressive and interdisciplinary than Ves expected!
+
+Poderin grinned as he briefly explained the attitude of the mechers.
+
+"The Mech Trade Association had four centuries to refine their approach towards combat. Its continued refusal to rely too much on warships has forced many clever minds to figure out how to make mechs more viable in the most strenuous of battles. It was not until the Web Mistress revolutionized support link technology that the most essential pieces fell into place. As far as the Association is concerned, a combat carrier should function more than just a mothership and fire support platform. It needs to be a more active participant in a battle."
+
+The shipyard leader raised his finger and began to draw a few projected symbols in the air.
+
+"The mechers have implemented two important concepts. The first is combined arms. Combat carriers should ideally accompany their own mechs and serve a range of useful purposes. Combat vessels possessed much stronger defenses than any typical mech and can serve as mobile cover in a battlefield that is otherwise dominated by empty vacuum. The shipboard weaponry of dedicated warships also be used for point defense or sieging purposes depending on their caliber, thereby fulfilling roles that most mechs cannot adequately fulfill. The overall premise behind this doctrine is that fielding mechs and combat vessels together is more effective than fielding them separately."
+
+"That sounds logical." Ves nodded. "I take it that support link technology is an extension of this mech doctrine."
+
+"You can say that, but the mechers treat it as the centerpiece of another concept. As I have stated earlier, first-class multipurpose mechs are already strong by themselves, but their performance can still be boosted through the use of force multipliers. Combat carriers and purpose-built support ships are some of the ideal force multipliers for mechs because they can offer services that are much more difficult to fulfill by other mechs."
+
+Ves widened his eyes. "I think I know what you mean!"
+
+"Support link technology is an umbrella term that describes different ways how different elements can share resources with each other. Data link technology is the most unassuming category, but it is a highly involved means of linking up the sensor input of many different assets before feeding it all to starships that are equipped with powerful processing banks. These links are more than just an attempt to centralize, process and interpret a lot of data. They actually attempt to link the separate computing systems of mechs and starships in an integrated cloud system. Nothing goes to waste as observations made by mechs that ordinarily gets dismissed may instead identify obscure details that can hide weak points, planned enemy maneuvers and possible trump cards."
+
+Ves raised his eyebrows. "That sounds really impressive, but I find it difficult to imagine that so many mechs and starships can form a singular integrated 'cloud server' in the middle of a battlefield. Heavy interference can degrade or even corrupt the data flowing through these links."
+
+"That is why the data link clusters or data webs are almost always formed within smaller formations. Most clusters are formed by mech squads and mech companies with their motherships providing active link support while following not too far away. As long as the data link quality is high enough, the participating elements are no longer separate entities from a systems perspective. They are more akin to the brain cells of a single organism. A single brain cell can hardly do anything, but a collection of them can produce far greater results such as calculating math generating inferences. In short, a data link cluster must always enable the connected assets to gain access to much more relevant information than if they are operating separately."
+
+"Information is power." Ves stated.
+
+"Exactly. Data link technology may be the most subtle and invisible variation of support link technology, but it can lead to qualitative improvements in the combat performance of all of your mechs. No singular mech or mech pilot can process and analyze more data than an entire collective that encompasses the processing banks and tactical departments of entire starships. If you leave aside other forms of support link technology and merely equip a mech force with data link technology, I can still guarantee you that it will win 10 out of 10 battles against a superior mech force without this crucial tech. The degree of coordination and optimal decision making is so much better that it is a crime that data link technology is not more widely available."
+
+The physical projection of Ves frowned at that. "Why is this the case? I can imagine that the Red Two do not want to surrender a great advantage by making shield link technology and energy link technology available to the masses, but data link technology is a lot less demanding."
+
+"The work of the Web Mistress is not that simple." The former shipwright shook his head. "There are highly advanced innovations related to data link technology that increase the integration of separate computing systems beyond the usual means. The most critical feature is one that integrates the consciousness of the mech pilots into the data link cluster through their man-machine connections."
+
+"What?! How?!"
+
+Ves had heard that data link technology could make a substantial difference in battle, but he never expected it to go as far as involving mech pilots to this degree!
+
+"Your initial reaction mirrors mine." Eric Poderin smiled in amusement. "I am not an expert in support link technology, so do not ask me how it works in precise detail. From what I have been able to surmise, there are advanced systems that somehow alter the fundamental character of the man-
+
+machine connection."
+
+In order to illustrate his point, he used his finger to draw a familiar model of the man-machine connection.
+
+"The 'man' variable in this case remains unchanged. What truly changes is the 'machine' variable. Normally, you mech designers always treat it as a synonym for a single mech, but that completely changes when data link technology comes into the picture."
+
+The CEO drew a collection of bubbles. Each of them signified a dozen or so separate mechs. The final bubble was larger and stood for a combat carrier.
+
+He then began to draw lines between each other to signify that they were all data linked together. There were so many different connections between these elements that the entire diagram began to resemble a web.
+
+Poderin purposefully left the original 'machine' variable as last. He slowed down as he drew the final lines between the initial mech and the rest of the mech squad.
+
+"When the integration between the initial mech and other data-linked is deep enough, the boundaries between them have become blurred." Eric intoned. "Many mech designers have theorized that it is possible to expand the definition of 'machine' in this model, but only the Web Mistress has successfully made this possible. This is the product of her genius."
+
+Poderin began to draw a large circle around all of the mechs as well as the combat carrier. He deliberately included the initial mech.
+
+The circle encompassed a complete data link cluster. Every single mech alongside their mothership had linked their computing systems with each other.
+
+What was important was that the data link cluster was 'strong' enough to form a unified superentity from the perspective of the mech pilot.
+
+This resulted in a massive change to the man-machine connection!
+
+The 'machine' in this expanded theoretical model did not stand for a solitary mech, but an entire data link cluster!
+
+This realization completely blew Ves' mind!
+
+It was a level of data integration that exceeded his imagination!
+
+The fact that a mech pilot could effectively connect to a collective superentity without bursting his brain was a miracle. The Web Mistress must have fiddled a lot with the neural interfaces, the software and the hardware of every related system to make it safe and practical to use on a wider scale.
+
+Now that Ves understood the basic principles of data link technology, he developed a much greater appreciation towards it. Transferring data sounded a lot less exciting than transferring energy shields, but it could make a huge difference without imposing heavy burdens on the mechs and starships equipped with this game-changing tech.
+
+"Wait." Ves suddenly made a realization. "If a mech pilot connected to this expansive web can access the collective data analysis and processing power of all of these mechs, can they also link their minds with the minds of the mech pilots in the same cluster?"
+
+"No. I asked that question myself when I first came into contact with this high technology, but data link technology explicitly does not attempt to do this. It is too dangerous. Linking the minds of living beings more directly with each other is fraught with peril. It is a distraction at best, and can induce brain damage or even total ego death. A dangerous and volatile battlefield is the worst place to conduct these kinds of experiments. Trying to expand data link technology in this direction is therefore taboo."
+
+Ves understood why that was the case. The Web Mistress and everyone else who worked on this tech had made the correct and prudent decision.UppTodat𝒆d fr𝒐m nô/v/e/lb(i)n.c(o)/m
+
+That did not stop Ves from wondering whether he could succeed where everyone else failed.
+
+He distinctly thought about Master Toqueman Huron's specialization. The man might not have access to data link technology, but his characteristic neural networks had the potential to plug this remaining gap in data link technology.
+
+Though Ves was not an expert in neural networks, he developed his own bootleg version in the form of spiritual networks.
+
+Battle networks were particularly interesting as they united the minds and spiritualities of mech pilots with each other under the direction of a powerful design spirit.
+
+Ves suddenly had a dangerous hunch that it might be possible to merge a data link cluster with
+
+a battle network.
+
+The problem was that he had no idea what would happen when these too separate linking concepts activated at the same time!
+
+The results could either be explosively effective, or result in more literal explosions that left no survivors!
+
+He inwardly shook his head.
+
+These were dangerous ideas!
+
+Ves had no pressing need to squeeze more performance out of data link technology. His forces needed to gain access to the standard version first and gain a lot of practice in using it in battle.
+
+Only after his troops had reached the limit of what they could squeeze out of data link technology would they be ready to take it a step further.

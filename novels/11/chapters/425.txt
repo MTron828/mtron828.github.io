@@ -1,0 +1,126 @@
+Winter Wonderland
+0.00 / 0.00
+
+Developing and improving the Hellcat design required an enormous amount of effort. Yet the Hellcat design team only consisted of four permanent mech designers with two temporary additions, of which Ves was one of them. Professor Velten supervised the entire effort and occasionally stepped in to solve some difficult issues, but she was too busy to spend all of her time on a single design.
+
+"Professor Velten isn’t as spry as she used to." Alloc said in an emotional fashion. "A couple of decades ago, she could easy keep track of dozens of concurrent designs, but now... she’s barely holding it with three concurrent designs."
+
+Any mech designer who advanced to the rank of Senior was a formidable person. No one ever reached this height by being stupid. Professor Velten must have been an intellectual force at her prime.
+
+Ves barely knew anything about the 6th Flagrant Vandals or Professor Velten. Both diverged so much from how the Mech Corps usually organized their units that Ves wondered what lay at the heart of their difficulties.
+
+"Sir, I’ve just arrived and I’m not very familiar with the Tarry region or the Vandals. Can you give me a rundown on the mech regiment?"
+
+Alloc sighed and released a weary breath. "The Flagrant Vandals look kind of bad, don’t they?"
+
+Ves nodded.
+
+"That’s because the Vandals never quite fit into the Mech Corps."
+
+Alloc briefly explained the origins of the Vandals. It used to be setup by an ambitious general over sixty years ago. The general tired of the constant defensive attitude of the Tarry region divisions, so erected an additional mech regiment with the express purpose of giving the Vesians a bloody nose.
+
+"The only problem with the Vandals is that the Tarry region is poorly endowed. It can barely field whatever forces they already possessed. Burdening the regional headquarters with a full regiment of mechs and everything that came with it pretty much broke the budget."
+
+Other problems also became apparent. Entering Vesian space was a perilous ordeal and while the Vandals achieved some early successes, they occasionally ran into a prepared opponent that decimated their raiding forces. The regiment used up a lot more mechs, mech pilots, ships and supplies than originally projected.
+
+"So what changed from the start?" Ves asked.
+
+Alloc shrugged his head. "Headquarters came up with a new order for the Vandals that’s never been recalled. The 6th Flagrant Vandals needs to be completely self-sufficient. They have to fabricate or procure their own mechs and ships and they need to recruit and train their own mech pilots."
+
+This completely cut off all of the support that was necessary to sustain a mech regiment. Maintaining the mechs alone drained a lot money, but supporting all of the ships was even worse.
+
+If Ves didn’t know anything better, then the Tarry region’s regional HQ wanted to dissolve the Vandals by starving it to death.
+
+"It’s a good thing that we’re more resilient than that." The Journeyman Mech Designer grinned. "We slimmed down our ships and mechs, all of our mech pilots have taken pay cuts and steal everything we need from the Vesians when we’re short on something."
+
+Still, financing an entire mech regiment through raiding planets and trade ships could only stretch so far. Most mech regiments would have collapsed eventually from the burden.
+
+"Our budget declined year after year. Nothing we did could have changed our downward slide. The biggest burden by far is the cost of replacing aging mechs and ships. Even if we’re able to recoup most of the costs by recycling them, we were still bleeding a ton of money this way."
+
+"Were?"
+
+"That’s right. I didn’t misspoke. Ever since Colonel Lowenfield took over as our regimental commander some time ago, she made a clean sweep of our regiment. She cut down costs to the absolute minimum by trading away our only fleet carrier, letting go of as much support personnel as possible and shutting down all of our bases. Under her urging, we’ve completely transitioned into a nomadic fleet."
+
+Relying on logistic ships such as the the Wolf Mother factory ship formed the core to their strategy. Though it cost a lot to maintain their operations, their ability to move with the fleet meant that the Vandals never had to worry about stretching their supply lines if they ever went deep into enemy space.
+
+Ves felt a little nervous after hearing this. "You mean the Vandals bring the Wolf Mother along whenever they cross the border?"
+
+"Exactly! She spends more time in the Vesia Kingdom than the Bright Republic even. We know the Kingdom inside-out and while the Vesians have caught us out a few times, we’ve always been able to get away."
+
+"Has the regiment lost any logistic ships over the years."
+
+"A handful of smaller vessels have succumbed to the enemy in recent times. They didn’t last very long under enemy fire."
+
+Great. When Ves imagined serving in the Mech Corps as a mech designer, he always thought he would be put in some secret base deep underground. Serving aboard a moving factory ship was an entirely different matter altogether. The Vesians must be hunting for the Wolf Mother all the time.
+
+Alloc briefly looked at the time. "That’s enough about the Vandals. We’ve got to get back to work. Ves, since you’re new, you should study the design files of the Hellcat first before you do anything else. The Hellcat is an exceedingly complex design, and were it not for your prior experience, I would have given you a refresher course instead."
+
+Everyone turned around and went back to work. Alloc passed around a weathered data pad to Ves before he returned to debugging some piece of software.
+
+Ves didn’t disturb the design team any further and sat down at a sofa pushed into a corner. He activated the data pad and began to study the confidential documents held within.
+
+"So this is what the Hellcat looks like."
+
+The Hellcat’s humanoid frame looked bulky but powerful. Its head was shaped like a lion, but that was the only reference to its name. The rest of the design evoked pure power due to the thickness of its armor and how many weapon systems it carried.
+
+One arm carried a saber and the other arm carried a kite shield. The kite shield wasn’t all that thick and didn’t provide full coverage, but that lessened some of the weight concerns of the knight. The Hellcat compensated for the deficiency in the shield by bulking up its armor to the very limits of what was expected of medium mechs.
+
+The Hellcat’s second weapon system consisted of a pair of wrist-mounted nail drivers. A nail driver was a rather exotic weapon that didn’t see much use. However, they packed a substantial kinetic punch without demanding too much space. Mech designers referred to them as the poor man’s railgun.
+
+The pair of nail drivers wouldn’t be very accurate if fired from the arm of a hybrid knight, but they granted the Hellcat a potent close-ranged punch that would be useful in a variety of situations. The only downside to the nail driver was that it only carried three nails in its tiny magazine. Along with the nail in the chamber, a Hellcat could only output 8 nails in total before needing to reload, which turned out to be a massive pain for the mech pilot. Changing magazines in the thick of battle was impracticable at best.
+
+Much like many other hybrid knights, the Hellcat also carried a pair of missile launchers on its shoulders. As a fairly low tech weapon system, it hardly looked special in his eyes. The true worth of a missile launcher lay in the missiles themselves.
+
+Surprisingly, the Hellcat’s tube diameter diverged from the standard used by the Mech Corps. Each state used their own standards in order to prevent the enemy from using their own munitions against them. If the Vesians ever captured a couple of containers worth of missiles, they were better off recycling them than trying to modify them to fire out of their own missile tubes.
+
+Adopting the enemy’s technical standard on a mech that was supposed to be the standard bearer of the Vandals said a lot about the regiment.
+
+"The Flagrant Vandals can’t afford to ship in Republic-standard missiles, so they’re getting them from the Vesians instead."
+
+It sounded crazy, but on second thought it was a brilliant design decision. The Flagrant Vandals spent a lot of time in Vesian space and frequently replenished their supplies by raiding enemy trade routes.
+
+Since the Vesians loved to employ a lot of missiles, many of these convoys would be carrying tons of mass-produced missiles. Rather than destroy the shipment or recycle them down, the Vandals were better off if they made of them. This became especially attractive after months of moving behind enemy lines. Thê sourc𝗲 of this content n/o/v/(𝒆l)bi((n))
+
+The only complication was that these missiles implemented safeguards that prevented them from exploding in the Mech Legion’s faces. The Vandals needed some time to crack these safeguards before they could put them into their own launcher tubes.
+
+"A saber for close-ranged combat, a pair of nail drivers for close-to-medium ranged burst attacks and a pair of missile launchers to provide long-ranged suppression."
+
+The weapons might be different, but the Hellcat pretty much adopted the weapon patterns as the Caesar Augustus and the Marc Antony. Many other Hybrid knight designs copied the same pattern to the point where it became a standard in the industry.
+
+The Hellcat’s flight system was the last thing that grabbed his attention. Ves became impressed and concerned at its sheer size. It was about fifty percent bigger than any other flight system he had seen on a medium hybrid knight. It took a lot of power to keep them running for a decent stretch of time.
+
+Ves turned to another file that detailed the internal architecture of the design.
+
+It looked completely different from what he imagined.
+
+Ves expected a crammed up interior where each part tried to squeeze out its neighbors. Much like the original Caesar Augustus, mechs needed to accommodate a lot more components if it wished to support so many weapon systems.
+
+The internal architecture of the Hellcat turned around his expectations. The internal components took up much less space than he thought, which allowed the design to feature a high level of redundancy and compartmentalization.
+
+The Hellcat was unimaginably tough. Its armor was thick enough to take a good beating, but its internals extended the durability of the mech by a significant amount.
+
+Inside and out, the Hellcat put the original Caesar Augustus to shame.
+
+How did the design team do it?
+
+The secret quickly became evident.
+
+"This is a really expensive design."
+
+Ves performed some mental calculations. He took note of the material composition of the mech and ran the numbers on their cost. The raw materials required to fabricate a brand new Hellcat cost as much as 350 million credits at market prices!
+
+That was as expensive as a heavy mech!
+
+"This is a prestige mech!"
+
+The Hellcat was a marvellous design that hid a lot of ingenious tricks and nuances that Ves didn’t fully understand. Professor Velten was a legitimate Senior Mech Designer, so the Hellcat’s design contained an invisible strength that brought out strength beyond what it materials should have been able to bring out.
+
+Nevertheless, cheap materials could only be elevated up to a certain point. In order to meet the Hellcat design’s insane demands, Professor Velten resorted to powerful exotics that did more with less.
+
+That came at an enormous cost. In fact, when Ves compared the performance of the Hellcat to an average heavy knight, he could hardly justify its existence.
+
+"Why do the Vandals treasure the Hellcat over more practical designs?"
+
+Heavy knights provided a lot more impact on the battlefield. Sure, they were too unwieldy to be used in space, but that was not a reason to develop an expensive boondoggle like the Hellcat.
+
+The files failed to list any information that could satisfy his curiosity. Ves had enough of looking at the schematics. He needed to see some footage of the Hellcat in action.

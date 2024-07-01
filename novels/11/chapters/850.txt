@@ -1,0 +1,122 @@
+Colorful Balloons Take Flight
+0.00 / 0.00
+
+What the Flagrant Vandals needed the most was to get their hands on a mech that beat the breakdown effect.
+
+It would be best if Ves designed a mech that fully resisted the breakdown effect, but he knew his capabilities and didn’t think he’d be able to accomplish something like that. It was fine to dream, but when it came to fulfilling an immediate project, he found it best to be realistic.
+
+"Let’s begin with the basic priorities."
+
+The breakdown-proof mech didn’t need to last for years like conventional mechs, but it absolutely had to keep working for several weeks under arduous conditions. The complexity of the design had to be as small as possible to provide fewer opportunities for faults.
+
+The more complex a mech, the more prone to faults it became.
+
+Therefore, in order to maximize the reliability of his mech, Ves had to abandon many modern advancements in the field of mech design and turn to older styles of mech design.
+
+Mechs from two-hundred, three-hundred and even four-hundred years ago were a lot more simpler and less complicated in their construction. The continued advancements in the field of mech design mostly came as the result of a combination of better materials and more sophisticated applications of technology.
+
+The latter in particular basically traded simplicity for performance.
+
+It was like the question of transportation. A person on foot traveled slower than a person riding on an aircar. A person on an aircar traveled slower than a person riding a shuttle.
+
+Right now, mechs had reached a very refined state where they incorporated many advanced systems to deliver much greater performance than before. However, this came with the downside of being much more difficult to fabricate and maintain.
+
+Even mech pilots suffered from the added complexity.
+
+Once, it took five or so years to become a decent mech pilot. Now, they could forget about it unless they trained at least ten years to pilot the most basic mechs. To most mech pilots, they would only be able to become decent mech pilots after attending the mech academies for at least fifteen years!
+
+As the Age of Mechs flourished, mechs were no longer as simple as someone traveling on foot. They slowly upgraded to traveling with aircars, until they finally reached a state equivalent to traveling aboard a shuttle.
+
+However, if Ves wanted to design a mech that resisted the breakdown effect, more complexity only added to the difficulty of his project. "The current state of mech design emphasizes performance over reliability. If a mech designer can achieve five percent better performance at the cost of a five percent increase in breakdowns, then they wouldn’t hesitate to make this tradeoff!"
+
+After all, breakdowns were a matter of chance. As long as the MTA validated the mech design, it shouldn’t be too shabby in terms of reliability! With proper maintenance and care, a high-performing but brittle mech still provided a lot of value to their buyers.
+
+Yet now the situation was completely different. Ves expected mechs to suffer malfunctions left and right the closer they got to the Starlight Megalodon. Who cared about how well a mech performed when it crashed every couple of days? Which mech pilot wanted to put their lives on the line in a mech that could fail at any second during a battle?
+
+"Reliability should be a top priority of my new mech design!"
+
+So instead of developing something as complex as a shuttle for the purpose of transportation, he should draw back and resort to older but more reliable applications of technology. Going back to traveling with an aircar or even on foot may impact the performance of his design in a drastic fashion, but as long as it worked under pressure, so what?
+
+"Besides designing a mechanically simple mech, it also has to be able to last independently while withstanding the planet’s crushing gravity." 𝑅read latest ch𝒂pters at n/𝒐v(e)lbi𝒏(.)co/m
+
+The second demand for his original mech was that it should be able to operate under six times the gravity of Old Earth without depending on gravitic backpacks. Those backpacks emanated a useful antigrav field that lightened a mech enormously, but the antigrav modules built inside the backpacks were highly prone to breakdowns themselves.
+
+The larger the backpack, the higher the risk of shutting down! This would be a highly fatal event if the gravitic backpacks shutdown in the middle of a battle!
+
+The only area where Ves intended to incorporate an antigrav module was inside the cockpit of the mech. He could place several small, redundant antigrav modules inside a cockpit in order to shield the pilot from the debilitating effects of heavy gravity.
+
+Even if one of the antigrav modules failed, one of half-a-dozen of spares could instantly kick in and pick up the slack!
+
+"The rest of the mech should be able to move under its own power."
+
+That made the mech as slow as fast transports or the god species at best. Ves took particular inspiration in the god species. They survived and thrived for thousands of years on this planet despite being huge, slow exobeasts.
+
+What did their existence signify?
+
+"Even under six gravities, it’s not impossible to design a mech that can last for a standard day without replenishing its power cells."
+
+However, this placed incredibly stringent demands on his mech, as Ves already discussed with Mayra. The mech could only be a quadruped light mech that incorporated the most lightweight alloys they could get their hands on. The mech would also be slow due to the need to conserve energy when fighting back against the planet’s heavy gravity.
+
+This was also why he didn’t favor designing a melee mech. While they were lethal up close, how long did it take for them to enter effective range?
+
+Still, melee mechs held a definite edge over fragile ranged mechs in complex terrain. The frontline mechs that Ves envisioned would only be dominant if they fought on flat and open terrain.
+
+"It’s a shame that I don’t know what kind of terrain we’ll encounter upon the crash site. There’s no question that the terrain will be weird in some way. As the heart of the anomaly that isolates this entire star system, I doubt the terrain has remained unaffected by all the weird shenanigans that take place!"
+
+Still, it wasn’t as if ranged mechs lost all their value on complex terrain. It just made things more difficult for them. Ves could only make a decision and stick to it in the hopes that his envisioned mech wouldn’t fare too badly at the mission site.
+
+It wasn’t until now that Ves began to draft the outline of his mech in his mind. Now that he set his priorities as well as the basic properties of his mech, the mech that he imagined in his mind became clearer and more defined with each second.
+
+At first glance, Ves mistook the mech his creativity cooked up as an ugly-looking trash can turned into a killer bot.
+
+"Urgh, what’s this abomination?"
+
+For some reason, he envisioned a thin and fragile-looking cylindrical base resting atop a set of four, fairly sturdy-looking legs. Of course, the legs were only sturdy compared to the legs of other light mechs. They were still a ways off from the robustness of medium mech legs.
+
+"The legs are the most important parts of a breakdown-proof mech."
+
+The legs were thicker than average light mech legs because they required the strength to fight back against the planet’s heavy gravity.
+
+The cylindrical torso that resembled a certain style of trash cans presented tricky angles to any ranged opponents that made it a little more challenging to pierce its armor with laser weapons.
+
+The rotating laser cannon barrels affixed to the side of the trash can torso gave his mech its teeth in true frontline mech fashion. Replacing humanoid arms with laser cannon barrels significantly reduced the complexity of the mech and reduced the influence of the breakdown effect.
+
+Ves did not intend to add a head to the mech. While it made mech pilots unused to piloting frontline mechs uncomfortable, Ves decided to place the main sensors onto the upper torso.
+
+Basically, the mech in his vision looked as ugly as hell. It looked like a trash can on legs or a top-heavy bar stool.
+
+"It’s not a good idea if the mech is too tall and narrow." He reminded himself. "Such a mech will have a high center or gravity, which means as soon as it leans too much on one side, it’s prone to tipping over."
+
+It would be extremely troublesome for his frontline mech to climb back up to its feet if it ever fell on its sides. This was the number one weakness of frontline mechs! Without any articulating arms, it wouldn’t be possible for it to stand up without external assistance!
+
+Bestial mechs suffered from the same problem, actually, but their limbs were sometimes designed to be flexible enough to cope with such situations.
+
+"I can’t include everything in my mech. Adding an extra arm or two for the sole purpose of righting the mech when tipped over is a costly luxury."
+
+He wasn’t willing to make such a tradeoff. With great reluctance, he made a design choice to leave this weakness intact. The price of mitigating it was too high for Ves to pay.
+
+Overall, this mech looked unbelievably crappy for a quadruped mech. It lacked the leanness of a dog mech, the primal ferocity of a tiger mech, the versatile grace of a centaur mech or the maneuverability of a spider-legged mech.
+
+Ves couldn’t help but shake off the impression that it looked like a giant trash can.
+
+"Maybe I can shape the torso into a more complex shape?"
+
+Yet what would be the point? A simple shape reduced the complexity of his mech enormously. If he shaped it like a human torso, then the difficulty of fabricating the armor plates increased by three-hundred percent or so.
+
+In contrast, it didn’t take too much effort to fabricate interchangeable uniform rounded armor plates. A cylindrical torso shape also eased the challenge of keeping the center of gravity in the center of the mech while granting a sufficient amount of internal volume to stuff an abundant amount of energy cells inside.
+
+As a mech reliant on laser weapons and meant to last for up to an entire standard day, it would certainly consume an enormous amount of energy. Beefing up its energy reserves was high on his list of priorities.
+
+The one thing he couldn’t quite get over with was the relative height of the mech.
+
+"The relative height of the mech also provides it with a small height advantage when firing their laser cannons, but overall it will be quite the disadvantage if it is withstanding a strong impact. Tipping over is a very real possibility, though possessing four legs will mitigate that risk to a certain extent."
+
+Ves slightly revised the shape of the legs in his mind. He contemplated for a while and instead of adding straight legs to his trash can design, he instead curved them outwards in order to provide a much more stabler footing. Ves essentially borrowed the design principles of an artillery mech, which often based their designs around semi-mobile firing platforms.
+
+Instead of looking like a narrow bar stool, the trash can mech now resembled a trash can mated with a four-legged spider.
+
+It still looked ugly to Ves, but when he mentally made the trash can shorter and wider, it sort of resembled a thick medallion on legs.
+
+Ves really couldn’t describe the appearance of the mechs in words. He only knew that his latest change increased the stability of the mech and enormously reduced the chance of tipping over.
+
+In addition, even if it lost a mech due to battle damage, it could still make do with moving around on three legs. In fact, if Ves approached the design of the legs a bit more cleverly, he could even ensure its mobility on just two legs!

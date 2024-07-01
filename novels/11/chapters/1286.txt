@@ -1,0 +1,142 @@
+Fitness Fun in the Park
+0.00 / 0.00
+
+The Barracuda and the Greenfeather finally departed from the busy Centerpoint System. Once they transitioned into a Coalition star system, the Barracuda went on to jump to the interior of Coalition space.
+
+"It will take a couple of weeks to arrive at Leemar, sir." Captain Silvestra reported. "According to the navigational data we’ve obtained, our vessel has to pass through some adverse tides to reach our destination. That will delay our journey by a couple of days."
+
+"It’s okay. As I’ve said before, we aren’t on a strict time limit. Just make sure we reach our destination safe and sound." Ves said dismissively.
+
+"That shouldn’t be any problem. The Barracuda is a Leemar-built space yacht, so it is more than capable of traversing the Friday Coalition’s distinctive higher-dimensional turbulence."
+
+"Oh? Is there a difference?"
+
+The captain nodded. "Star systems that are richer in exotics or features more active energy levels such as larger suns are more difficult to travel around. The surrounding regions of higher-dimensional space can sometimes be as calm and mild as in the Bright Republic, but it could also erupt into a storm."
+
+"Does that mean that the Greenfeather would have been under threat if she continued travelling alongside the Barracuda?"
+
+"Not unless a freak accident occurs. She’s a modern light carrier, so her FTL drive is still close to optimal. It’s the older ships that have seen a couple of decades of constant use that are in danger. When they’re fifty years or older, their FTL drives are seriously degraded. Their tolerance to adverse situations won’t be as good as before. This problem is much more pronounced with cheaper ships than a Coalition-standard vessel like the Barracuda."
+
+In short, cheap and old starships really shouldn’t have any business entering Coalition space. The Friday Coalition occupied a large chunk of the most desirable star systems in the star sector. Most of those systems were filled with exotics which exerted a noticeable influence on their surroundings.
+
+"What’s the lifespan of an average starship?" Ves curiously asked.
+
+"Depends. There’s no simple answer to this question, sir. It’s probably the same with mechs. Good design, sound production, diligent maintenance and prudent use will massively prolong the effective lifespan of a starship. Naturally, even if proper spacers judge that a starship has reached the end of her lifespan, others might not agree."
+
+Ves understood. "Never underestimate humanity’s urge to take shortcuts or pick up a bargain despite the risks."
+
+He had seen a lot of forces make use of second-hand or even third-hand starships. Converted carriers, the most often-used mech transport in the galaxy, were almost always adapted from decommissioned cargo haulers and the like.
+
+Mechs were expensive. Ships were expensive. Many outfits could only afford to invest the bulk of their wealth in one, leaving them with very thin purses by the time they addressed the other.
+
+The ramshackle rust buckets employed by impoverished mercenary corps and bottom feeder pirate gangs may fare okay in the frontier or in the outer region of a star sector. While these vessels possessed many faults, their aging FTL drives were unlikely to encounter any dangerous situations during FTL travel.
+
+"How long do you think the Barracuda can last?"
+
+"Easily a century as long as she won’t get shot at during this time." The captain replied. "You’ll probably upgrade to a better ship by then. With how fast you’ve shot up, I’m sure you’ll be able to afford a grand yacht or something better in a couple of decades."
+
+Ves could very well imagine such a possibility. "Your crew won’t be around forever, right?"
+
+She smiled. "All of us want to settle down eventually. While I love my job, I don’t see myself as a spaceborn. I don’t want my children to grow up entirely in space either. Still, we might serve aboard your ships for a certain duration or work from offices of the Avatars of Myth."
+
+Every employee working for Ves was also a human. They had lives outside of their jobs. Ves would be a very poor boss if he neglected that most of them wished to enjoy a family life as well.
+
+"Are your replacements already in place?"
+
+Silvestra shook her head. "Fleet Commander Rofane, who is pretty irate at you for neglecting to meet with him by the way, has already started to address that matter. He’s implementing a rotation of spacers and crew to staff your growing collection of space vessels." nÊw st𝒐ries at n𝒐/vel/b/i/n(.)co𝒎
+
+Ah. Ves did neglect to meet with the fleet commander, but strictly speaking he already reported to Melkor. There was no need for Ves to meet with every recent hire in person.
+
+In any case, it sounded as if the fleet commander was already doing good work.
+
+After letting the captain return to her work, Ves retreated to his stateroom.
+
+Days passed by as the Barracuda swiftly traversed through Coalition space. Ves turned back to busying himself by puzzling with the Skull Architect’s designs.
+
+He already completed a variant of the Caskar Pike and achieved significant progress in doing the same for the Toroz Ruby and the Jinven. The spaceborn striker and aerial marksman designs both offered useful insights to Ves, mainly because he never designed these archetypes before.
+
+The Toroz Ruby attracted his interest the most. "Most light mechs are hell to fight against up close due to their high mobility. Their opponents will have to deploy light mechs as well or resort to striker mechs."
+
+While the definition of striker mechs weren’t quite fixed, they were mostly heavier and tougher than light mechs and possessed superior wide-area armament such as flamethrowers. They were most often used to defend against light mech raids, but they performed decently in a couple of other roles as well.
+
+The Skull Architect opted to pair two weapon systems in his spaceborn take on a striker mech. The Toroz Ruby’s primary armament consisted of a ballistic shotgun with a fairly narrow shot pattern.
+
+It needed to be narrow because many battles between two different mech forces in space often turned into tangled clumps where friend and foe intermingled with each other.
+
+If the shotgun sprayed pellets or other projectiles all over the space, they might be liable to hit their allies!
+
+For this reason, the shotgun wielded by the striker mech was particularly suited to take out incoming light mechs from medium range.
+
+However, that did not leave the striker mech with a lot of options if a light mech snuck up into close range.
+
+The Skull Architect chose to address this problem by adding a second weapon system. From what Ves learned about second-class mechs, this ought to be his typical response to these kinds of problems.
+
+"A mech designer from a third-rate state would accept this shortcoming, while a mech designer from a second-rate state would seek to add something that can mitigate it instead."
+
+The problem was that the Skull Architect applied second-rate solutions to a third-rate mech. The result was that his Toroz Ruby possessed a very busy internal architecture due to the addition of integrated heat beams mounts to the striker mech’s shoulders.
+
+Though the heat beams were very useful in fending off light mechs by heating them up to dangerous levels when they came closer, they also consumed an enormous amount of power.
+
+Depending on how often a Toroz Ruby had to resort to the heat beams, the effective uptime of the striker mech might be as short as half an hour!
+
+"The Toroz Ruby’s flight system is also a bit of a power hog!"
+
+The striker mech needed to possess at least some of the mobility to keep up with all the light mechs flitting about. Although the design wasn’t expected to outrace a light mech outright, it should at least be a challenge to bypass.
+
+All in all, the Skull Architect’s design choices turned the Toroz Ruby into a very difficult mech to maintain and pilot.
+
+"It’s the same with the Caesar Augustus and the Marc Antony. Hybrid mechs are inherently more complicated to work with. Their complexity is well above average." He muttered.
+
+It didn’t help that the Skull Architect placed fairly high expectations on its mech pilots, nevermind that most of his customers consisted of badly-trained pirates nowadays.
+
+While Ves could tell that the Skull Architect made some concessions, the vast majority of the Toroz Ruby’s design focused way too much on drawing out the maximum possible performance.
+
+Something came up while he worked on his variant of the striker mech.
+
+"Now that I think about it, his design philosophy shares some resemblance to that of Gloriana. Is that why both of them are so extreme?"
+
+His guess made a lot of sense to him. Both mech designers may differ in rank and origin, but their design philosophies both pursued ideals associated with achieving the best possible result.
+
+"The best mech design doesn’t exist." Ves shook his head. "Both of them are facing an uphill battle if they seek to realize their design philosophies."
+
+Perhaps that was why mech designers who pursued the best tended to be so radical. They were far more desperate than other mech designers to find a way out of a maze that didn’t possess an exit.
+
+Gloriana must be aware of this problem, so sought to obtain a solution early.
+
+"The solution she came up with is borrowing the strength of another mech designer to overcome her problem."
+
+When different mech designers with compatible design philosophies combined their strengths, a result that surpassed the sum of two parts might emerge. Such a qualitative transformation would reveal a lot of aspects about their design philosophies that they didn’t know.
+
+Studying the result and figuring out why their design philosophies achieved better results than by themselves should be one of the proven ways to figure out a future direction.
+
+"No wonder mech designers collaborate so often. It’s not just to incorporate another mech designer’s strength into a design, but also serves as both an experiment and learning opportunity."
+
+Because both Gloriana and the Skull Architect appeared to have adopted Class I design philosophies, they should have a lot of difficulty finding synergistic collaborators. Both of them tried to improve a broad swathe of aspects, which posed a lot of hindrances to many other design philosophies.
+
+"Each of them are desperate for a mech designer who help them exit the maze."
+
+Equating the two made Ves a bit worried. He realized that the same reasons that made Gloriana so obsessed about him also applied to the Skull Architect!
+
+Imagining the Skull Architect inviting Ves to a ’meeting’ during a candlelight dinner only to return to a shared hotel room later in the night...
+
+"BLEH!" Ves erupted, startling Lucky who lazily hovered above his head. "That’s disgusting!"
+
+Even though this nightmare was so ridiculous that it would never come to pass, Ves nonetheless believed there was a kernel of truth.
+
+The Skull Architect would definitely benefit as much from collaborating with Ves as Gloriana!
+
+If his guess was right, then Ves might not only have to contend with one stalker!
+
+"Goddammit!"
+
+Still, once he calmed down, Ves did not think it was all that bad. The Skull Architect might be crazy, but he was also a force to be reckoned with in the frontier. Developing a cordial or even a friendly business relationship with him should prove very helpful down the line.
+
+"I’ll still be playing with fire, though."
+
+The risks needed to be worth it. The man was so unstable that being his friend might not mean anything, but becoming his enemy would definitely lead to awful consequences!
+
+He decided to push the matter aside and focus on finishing his variant for the Toroz Ruby.
+
+In general, Ves did not mess around too much to develop his variant. He decided not to do anything too exciting but merely tuned down some of its excessive performance while instilling it with a weak image.
+
+"That should be enough to keep the fellow happy." He muttered.

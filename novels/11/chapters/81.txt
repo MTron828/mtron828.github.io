@@ -1,0 +1,112 @@
+Fitness Fun in the Park
+0.00 / 0.00
+
+Now that the previous round eliminated most designers, everyone gained sufficient space to work. The regulating system automatically paired mech designers against each other, forcing everyone to shuffle around. Ves walked to the left side of the field and met his opponent.
+
+"Hi. I’m Ves Larkinson." He greeted politely. He looked at the man’s floating nameplate. "So you are Floyd Lee?"
+
+"Tch. This will be easy." The Leemar graduate contemptuously said. Unlike the other students who wore purple, he wore an exclusive blue uniform decorated with many more symbols. He also wore a silver sash, which carried a special meaning that Ves couldn’t figure out, though only a few graduates shared the same colors.
+
+Ves frowned a bit at his opponent’s lack of response. He wanted to spark up a conversation to learn more about his opponent, but his contempt revealed no further openings. He only figured out that this handsome floating man was an elite, and from his accent he likely originated from a core planet of the Carnegie Group.
+
+"Give up, loser. I have no idea how you got through the first round, but I can assure you your progress ends here. Save me the trouble and make way for a future master."
+
+"No thanks. I’d rather stay." Ves said in a clipped tone. He encountered plenty of entitled bastards in the past when he studied at Rittersberg, and he learned that the best way to cope with them was to keep your responses minimal.
+
+Floyd intended to press the conversation. "Don’t think that the rules will stop a man of my caliber. I have ways of cleaning you up if I find you displeasing."
+
+"Are you sure it’s a good idea to say that in the open with all kinds of monitoring systems active?"
+
+"This little school doesn’t care."
+
+Evidently, Ves placed too much faith on the Leemar Institute of Technology’s impartiality. Past competitions sometimes ended strangely when contestants of lesser means dropped out or spontaneously fell sick. Eventually it grew so bad that the LIT had to make a statement and put a stop to these unsavory actions.
+
+His mood sank when Ves figured out that mere words could not elicit protective measures. He considered Floyd closer. Though he looked imposing, Ves did not find him to be particularly notable. He didn’t recognize his face or his name, so he shouldn’t be too famous.
+
+As someone who recently stared death in the face, Ves was not easily cowed. Not anymore. Though he still acted discreet, he recently realized there were times when he had to forge ahead even if he ran into obstacles.
+
+"You refer to yourself as a master, but all I hear is bluster. Come back before me with an official master seal from the MTA and then we’ll talk. Until then, prepare to go back to your villa, because I’m going to eliminate you in a couple of hours."
+
+"You..!"
+
+In effect, Ves burned his bridges with his opponent. Without any means of reconciliation, Ves backed himself into a corner. If he succeeded in attracting the attention of a master, then clueless blowhards like Floyd were inconsequential. If he failed, then not only did he fail the System’s mission, he’d also have to watch his back on the return trip.
+
+The duel started soon enough. The noise disappeared when a new projection surrounded everyone. Everyone recognized the familiar interface of a virtual mech workshop. The only addition was that everyone could view their opponent’s workshop and even access their files on the terminal.
+
+Professor Marshall explained how their designs were tested at the end of the design period. "As with all standard duels, your designs will be piloted by our proprietary AIs in a hundred different simulations. Whoever designed the mech that wins the most will qualify for the next round. There’s only one little change."
+
+Everyone waited in anticipation.
+
+"The piloting AI will remember the previous matches and can improve from its previous experiences."
+
+This was a bombshell. Even after several hundred years of development, piloting AIs could never really match up against real pilots. The normal simulations only used the most basic, foolproof AIs for testing. Generally, only high-grade AIs were able to adapt intelligently to prior experience, and required a lot of processing power to do so.
+
+The conventional strategy in designing a mech for a duel was to make it as simple as possible. The simpler the mech, the flatter the learning curve. This allowed the piloting AIs to grasp the mech as fast as possible and effectively use its strengths.
+
+In a situation where the mech had time to learn from its mistakes and improve its performance over time, the story was different. Higher performing mechs were usually more complex, featuring a much steeper learning curve. The advantage of more complex mechs were that they usually performed much better in certain situations. If the AI was able to grasp the right technique for the right situation, it could leverage a complex mech’s strength to incredible heights.
+
+"You have eight hours to complete your design. Now start!"
+
+Everyone approached their terminals and opened the interface. At their current level, the LIT did not expect everyone to design a functional mech from scratch, so everyone had a choice of standard components. Ves took a look at what kind of parts he had to work with, and estimated that they matched up to 3-star mechs in Iron Spirit.
+
+"That’s a little beyond what I’m used to, but with my recent improvements I should be able to handle them. First, I have to determine the shape and weight classes." Yôur favorite 𝒏ovels at n/𝒐(v)el/bin(.)com
+
+He took a look at Floyd, who confidently picked a frame without even bothering to wait for Ves. His empty workshop shimmered and the giant shape of a panther-shaped mech came into view.
+
+The floating designer laughed down at Ves. "Hahaha, I gave you a chance to retreat, but now it’s too late! I’m at the top of my class when it comes to felinid mechs! Let the Beastmaster show you how it’s done!"
+
+To his regret, Ves was not very familiar with beast mechs. Even if Ves could see everything Floyd was doing, without understanding most of it, he might as well be blind.
+
+If Floyd chose to work on a humanoid mech, Ves could easily dissect his every move. Now, he could only guess at his design choices. From what he recalled, beast mechs usually flexibility for superior mobility. With four limbs, these wolf or tiger-like mechs possessed unequalled speed and agility, sometimes surpassing humanoid mechs of the same weight class.
+
+In exchange, these quadruped mechs had less choices to work with. Wolf-shaped mechs usually relied on their highly sophisticated jaws, while tiger-shaped mechs also used their claws. There were more differences, but these were the main points. From What Ves could gather, Floyd’s tiger mech was on the lower end of the medium weight class.
+
+"Such a mech relies on speed and momentum to pounce on their opponents. In an open terrain, a light mech built for endurance can maintain their distance and chip away at the slower tiger mech."
+
+Ves doubted that this was the correct solution. Who knew if Floyd followed some classes under Master Olson and could temporarily boost his mech’s speed. He was unwilling to gamble on this front.
+
+"I have more leeway if I make a more durable mech. It’s best if I design a heavy mech, but I don’t have any practical experience in designing them. I can only resort to hefty medium mechs."
+
+Though he didn’t know if the X-Factor worked on AI pilots, he still took a few minutes to sharpen his intent. His improved concentration made it easier to fall into the right mood. Even as Floyd occasionally tried to interrupt his thoughts, Ves easily swept aside the words.
+
+"If Floyd fancies himself a beastmaster, then my mech will become the ultimate hunter."
+
+In the end, Ves deferred to his past experience in working with the Caesar Augustus model. He scrolled through the parts section and picked out any legs, arms and torso that conformed to the Caesar Augustus.
+
+All the basic parts of his medium mech eventually appeared in his virtual workshop. With a sturdy torso and legs, the mech he envisioned should be able to withstand a charge if it held a shield.
+
+Against beast mechs, the best way to fight them was to shoot them down before they came into melee range. If Ves knew what kind of terrain the duels took place, he could comfortably make his choices. Yet Professor Marshall hadn’t said a thing, which meant that the duels took place in randomized environments. He could not ensure his mech could face the beast mech in open terrain.
+
+"The main armament will be a sword and shield. No, perhaps a spear is better, with a knife as a backup option. The best way to deter a charge is to point something long and sharp at them."
+
+Then what if Floyd implemented ranged weapons on his mech. Ves studied his opponent’s early progress and noted that the mouth and flanks possessed the right infrastructure to mount a couple of rifles. He wanted to keep Ves guessing.
+
+If Floyd intended to be meticulous, then he’d definitely incorporate at least one ranged weapon. That meant that Ves had to respond in kind. He studied his chosen parts and noted that the arms only allowed for shoulder mounts. He could forget about wrist-mounted weaponry.
+
+"Shoulder mounts are too fragile, but I don’t have any choice. If I resort to a rifle then my mech will take too long to switch weapons."
+
+Everything had their tradeoffs. A mech with shoulder mounts could never match up against a dedicated riflemen in a shootout. Ves persisted with his choice because he doubted Floyd relied entirely on lasers or cannons for his beast mech.
+
+As time passed, Floyd laughed when he saw what Ves decided. "Hahaha! Can’t make up your mind? You’re not going anywhere if you split your focus."
+
+Ves ignored everything but his own work. Unless Floyd ditched his beast mech and turned to an entirely different frame, Ves gained nothing if he kept staring at his opponent’s design. He trusted in his design and its ability to hunt tigers.
+
+He chose to design his medium mech based on armor, agility and close-ranged prowess. Fending off a beast mech required a certain level of fluidity. If he made his mech too sluggish, it could not keep up with a flanking beast mech.
+
+The parts he chose already possessed pretty good armor. He only replaced the base plating with a lighter but more durable variant by using the alloy compression machine. Those who were not familiar with alloy compression could only scratch their heads, but someone like Ves who mastered the basics, he could still produce the plates when fed with standard materials.
+
+Fabricating all of the replacement armor by hand took three hours, and that was with the virtual workshop giving him a speed boost. The process was much slower in reality. As mech duels were only supposed to be finished within a day, these virtual workshops customarily offered these kinds of conveniences so the audience wouldn’t get bored.
+
+He spent another two hours slapping together the rest. As Ves chose to go with a simple loadout, he did not have to extensively rearrange the internals. This saved him quite a bit of time. Together with his high Mechanics skill, he easily pieced together the different parts into a harmonious whole. He only made minor modifications to strengthen his mech’s spear handling.
+
+A hunter slowly took shape.
+
+With a couple hours left to go, Ves raised his head to see how Floyd progressed. His jaw dropped when he looked at his opponent’s design.
+
+Somehow, he converted a medium ambush-type tiger mech into a heavy artillery-type centaur mech. The mech somehow gained massive amounts of armor without conflicting its movement, while its head had been replaced by a narrow torso that held an ominous laser rifle. Floyd even gave up on the claws and crudely replaced them with heavy hooves. Its main weapon however was the prodigious amount of missile launchers mounted on its back.
+
+While the centaur mech possessed no close-ranged capabilities, its numerous missiles and its high-class laser rifle meant that it could chew up anything that came within sight. The sudden changes also introduced numerous flaws. The engine power could not keep up and its laser rifle used up too much energy for the power reactor to catch up.
+
+That still left Ves at a fundamental disadvantage. His humanoid medium mech could never compete at a distance and was too slow to close the distance in time.
+
+"I screwed up." Ves admitted to himself. He put his complete focus into maintaining his concentration, which made him forget that he could take a peek at his opponent’s work. Now he paid for it by allowing Floyd to make a u-turn without alerting him. Turned out that focusing too much on the X-Factor was not always a good thing.

@@ -1,0 +1,114 @@
+Winter Wonderland
+0.00 / 0.00
+
+Chapter 1649 Designing for Value
+
+All of the intensive design work on the Adonis Colossus distracted them a bit from the Deliverer.
+
+The latter design project received much less attention as Ves and Gloriana both became engrossed by combining their different views on Vincent's masculinity in their design project.
+
+They also enjoyed the relative freedom of choice they enjoyed by the mech's excellent capacity.
+
+"Most second-class mechs are like this." She lectured to him. "From what I've noticed from my time of working with you, cost, material capacity and tech are far greater constraints in third-class mech designs. While our Adonis Colossus is not a second-class mech, its relatively high budget significantly closes the distance."
+
+Ves recognized her point. "I guess why I'm a bit more reluctant to work on the Deliverer project. Its budget is much more constrained since I plan to make it cost as much as the Blackbeak when I initially released it. Focusing everything on offense and neglecting every other priority has turned it into a very challenging design."
+
+"Second-class mechs are so much more diverse and offer so many more capabilities and systems because they have the room to implement them all. When you can stuff many of the things you want in a second-class mech design, you need to adopt a different approach to design a successful mech."
+
+"Instead of pursuing efficiency, you instead try to amplify their value." Ves recited one of her past lessons.
+
+"Exactly! You can stuff all kinds of systems and modules in a second-class mech, but that doesn't mean the end product is useful. There are many clever mech designers in the Hegemony and other second-class mech markets who mix and match complementary systems until they achieve an outcome that is more than the sum of its parts! Only such mechs are worthy to be sold on the market!"
+
+In a way, there wasn't necessarily a difference between maximizing efficiency and amplifying the value of a mech.
+
+However, the implications of the two approaches lead to different outlooks on how to design a good mech.
+
+Maximizing efficiency emphasized being as sparing as possible. A mech had to fulfill its primary functions with the least amount of waste. Anything that did not contribute this had to be left out as much as possible!
+
+In a third-class mech market, this design approach covered almost every commercial mech. The only exemptions were super-expensive custom mechs and expert mechs. Every other mech below a certain cost had to be good in what it did without carrying any deadweight.
+
+For this reason, the Bright Repubic's mech market generally did not go wild with gimmicks. Many mech designers left them out entirely and preferred to strengthen the fundamental aspects of mechs as much as possible!
+
+This contrasted significantly when a mech designer wanted to design a mech for second-class mech markets.
+
+The improved tech and materials on hand as well as the vastly higher budgets at a mech designer's disposal opened up so many new possibilities.
+
+The key to designing a good second-class mech was to avoid getting lost by countless options and form a clear idea on what a mech had to accomplish. Starting with a basic mech type and mech concept, the mech designer's next step was to enhance their initial idea by adding various modules to augment its capabilities.
+
+For example, a second-class light skirmisher could be turned into a more elusive machine by adding modules that boosted its acceleration to a ridiculous degree in short bursts!
+
+Another mech designer might want to turn the light skirmisher into a more rounded mech by adding a small shoulder-mounted retractable gun barrel onto its shoulder. This allowed the mech to handle threats from afar and up close!
+
+"Designing for value is an approach that emphasizes synergy, coordination and coherence." Gloriana explained. "We happen to have a lot of new generation component designs at our fingertips due to your association with the government. We should take full advantage of the broad catalog to see how we can enhance the performance of the Adonis Colossus in a targeted and deliberate manner."
+
+In other words, they should make use of the spare capacity to add a couple of fitting gimmicks to their mech design.
+
+Ves studied their current so far. Right now, they already integrated the shoulder-mounted missile launcher and wrist-mounted nail drivers into the structure of the mech. Neither of the two systems demanded too much accommodation and were pretty much self-contained.
+
+That left plenty of spare capacity, some of which they already apportioned for additional ammunition and energy cells. The powerful flight system that enabled the Adonis Colossus inevitably consumed considerably more energy, though not to the point where it was too inefficient to bother.
+
+As Gloriana warned, the sheer amount of choices available momentarily overwhelmed Ves. "I rarely faced a situation where I have the luxury to add extra modules without paying a heavy price. I'm actually uncomfortable with this situation. My design instincts tell me it's better to use up the extra capacity on strengthening the core function of the mech such as extra armor plating or even more energy and ammunition to increase the deployment time of the mech."
+
+The latter was a very practical choice to Ves. While it sounded boring, it might make a difference as Vincent would be able to last at least twice as long on the battlefield without worrying about his mech running dry.
+
+His girlfriend didn't see it that way, though.
+
+"The battles against the sandmen don't necessarily last very long. Most of them turn out to be short-lasting high-intensity confrontations that result in a lot of casualties. It's more important for the Adonis Colossus to achieve the greatest within thirty minutes than trying to keep up its battle effectiveness while most battles have already ended by this time."
+
+"I get it. The marginal value of adding more energy and ammunition is small past a certain point. Depending on the circumstances, we can achieve greater improvement by devoting the spare capacity toward other modules. However, the question still remains what we should improve."
+
+They both considered this question for a moment. Since Gloriana was a lot more practiced in this approach, she answered first.
+
+"We have to look at the concept of our mech design first. Leaving aside the issue of masculinity, the Adonis Colossus is a well-armored spaceborn medium hybrid mech. Its armaments are predominantly ranged because the Adonis Colossus is primarily meant to be deployed against the sandmen. It features high offense, high defense but low mobility. Our first choice is to determine which of these three areas we ought to improve."
+
+When Ves looked at their mech design, he came up with several possible ideas.
+
+"I've always been unsatisfied with the mobility of our mech. While its flight system is already powerful, it can barely make our mech keep up with a formation. Its sluggish acceleration and awful agility due to all of its mass will not do the mech any favors in high-speed encounters."
+
+"Then how do you propose augmenting its mobility? The flight system we've selected already hits the sweet spot in terms of size, cost and energy consumption. More powerful ones not only take up vastly more room, but also guzzle too much energy. For a mech that is primarily meant to be an inspiration and employed in frontal assaults, there is not much use to improve its mobility any further."
+
+"Maybe so, but perhaps we can mount internal boosters along various points of the frame to add some extra dodging capability to the mech. They don't have to last very long. They just have to push hard and often enough to make the Adonis Colossus capable of dodging in different directions."
+
+Gloriana shook her head. "I don't think that's a good idea either. The Adonis Colossus is so massive that it requires a lot of effort to alter its trajectory in space. The boosters will either have to take up too much space or use up far more fuel than normal, thereby shortening their uptime."
+
+He reluctantly agreed with her judgement. That still left them with a lot of choices, though not as much with regards to mobility.
+
+"So in your opinion, it isn't worth it to augment its mobility at all?"
+
+"In this case, yes. That doesn't mean I disagree all of the time. If we were designing a second-class mech, we would have a lot more options at our disposal. There are augments that can temporarily reduce the mass of a mech by half, amplify the propulsion of the flight system at the cost of burning a lot of energy and deployable space warping rails that can be deployed into a channel that significantly accelerates any mech that flies through this path!"
+
+In short, there were too little viable choices available for third-class mech designs.
+
+After ruling out mobility, they turned to the other two areas.
+
+"Considering the role of the Adonis Colossus, it's more useful to augment its defense than offense." Ves scratched his smooth-shaven chin. 𝑅êạd new chapt𝒆rs on no/v/e/l𝒃in(.)com
+
+Gloriana concurred. "The offensive contribution that an individual can make is extremely negligible when it is fighting alongside hundreds or even thousands of mechs and starfighters. Adding extra weapons or augmenting our mech's existing offensive capabilities by thirty percent or so will not shift the outcome of the battle at all. Besides, with Vincent's mediocre piloting skills, he won't be able to utilize the added deadliness to its full potential anyway."
+
+"So that leaves defense."
+
+"Uh huh. The intention of this commission is not to design the most combat capable mech. It's to design a mech that impresses the public and shift their opinions. Don't forget that the government wants to integrate the former members of the BLM into mainstream society by employing Vincent as a role model. In order for the government to achieve the most out of him, the Adonis Colossus has to protect his life well enough to make him last the entire Sand War."
+
+"Ah! Recently, the Sand War has escalated! The sandmen have grown smarter and deadlier while constantly barraging our defenses with their fleets! Any encounter against the sandmen is a harrowing affair that always results in at least some casualties! Sometimes the casualties amount to over thirty percent against particularly awful opposition!"
+
+In this difficult situation, any mech pilot would be hard-pressed to preserve their lives. Only by piloting a better-armored mech would a mech pilot be able to increase their chances of making it back alive.
+
+While the Adonis Colossus was already a well-armored mech that offered good protection to its mech pilot, Ves would never say no to extra defense.
+
+The only question was whether the options came at a price they were willing to pay.
+
+"It's not that beneficial to add extra armor plating to our mech." Gloriana concluded. "The armor system is quite substantial and it will weigh down our mech far too much if we fill up the extra capacity with armor plating."
+
+"We'll have to find a way to augment our mech's defense without increasing its weight."
+
+"It's too bad that polarization is not a viable option here. We'd have to design a mech as large and massive as the Aurora Titan, and that's not good. The Adonis Colossus has to retain at least some mobility."
+
+They had to resort to another defensive module that did not weigh the mech down that much.
+
+Ves came up with a suggestion. "What about active ECM?"
+
+"It's possible, but not very efficient. However, the effectiveness of active ECM directly corresponds to how easy it is to detect a mech by itself. The Adonis Colossus is a big example of a medium mech and it's too difficult for any ECM system to hide or reduce its signature."
+
+This was why stealth and active ECM systems were mainly utilized in lighter mechs. While those mechs offered less capacity than larger mechs, it was a lot easier to hide their signatures.
+
+Since active ECM was not a very good option here, what other defensive system could they employ to increase Vincent's odds for survival?

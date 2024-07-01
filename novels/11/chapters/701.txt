@@ -1,0 +1,130 @@
+Sweat, Strength, Success
+0.00 / 0.00
+
+Just because Ves could treat the rules as air, didn’t mean he should degenerate into a lawless hoodlum of a mech designer. Rules were useful to keep him on the right track. Even he had to admit that the MTA largely got things right.
+
+The mech industry would have looked a lot more ugly if the regulating influence of the MTA hadn’t come and tamed the worst impulses of mech designers and mech pilots.
+
+However, the realization that Ves had just made pointed out that he’d benefit more if he acted like a hypocrite. It benefited him if his competitors needed to adhere to the rules and principles espoused by the MTA while he retained the freedom to pick and choose when they suited him or not. As long as he didn’t get caught, he could do anything he wanted!
+
+"And that’s the other pitfall I have to be careful of if I violate the rules."
+
+Ves believed that the Skull Architect had come to a similar realization a long time ago. At some point, Reno Jimenez decided he was better off ignoring the rules that hindered his research.
+
+The Senior’s only mistake was to get caught while doing so.
+
+"I have to learn from his example. If I’m doing something shady, I better not go overboard and become so unhinged that I’m unable to assess the risks of my actions."
+
+Ves forcefully calmed himself down. He needed to get back to business. Now that he found out he could overcome his ethical objections to this job by ignoring some of his principles entirely, he had to make use of this opportunity.
+
+He called up the design schematics of the Evaporating Spear and went to work. He started to draft some easy corrections that didn’t take too much time or resources to apply. Ves found many inefficiencies, but it galled him a bit that he needed to leave most of them alone due to lack of time to address them in a timely manner.
+
+It was as if an entire city erupted in fire, but Ves only had the time to put out the flames in a single district before the rest burned to a crisp.
+
+Along the way, he also started to figure out ways to address the biggest issue plaguing the mech. This required a lot more thought and ingenuity on his part. With the neural interface purposely configured to kill its own mech pilot in a tortuous fashion, Ves needed to work around this handicap and lessen its impact on Acolyte Gien.
+
+"It’s all about the input and output of data to and from the mech pilot."
+
+The easiest way to address this issue was to amplify the strained and garbled data transmitted by the mech pilot’s overstressed brains. Due to the torture he would likely be going through, interpreting the data instructions from the mech pilot would be severely limited in detail and sophistication.
+
+If someone dumped Ves into a vat filled with acidic solutions, Ves would probably be suffering from too much pain to design a mech at the same time. Perhaps he could manage to draw a few lines that composed a sketch of a design, but the end product wouldn’t be too great.
+
+The same applied to Acolyte Gien. With so few instructions transmitted from his brains, how could his spaceborn lancer mech act in a lifelike fashion?
+
+Many frontline mech designs suffered from the same problems. Despite simplifying the design of the mech to only the most essential parts, their designers still grappled with the issue that many borderline cases with extremely deficient genetic aptitudes wouldn’t be able to pilot their frontline mechs to a reasonable standard.
+
+So the designers cheated in a way. They compensated for the lack of skill and expression by their crappy mech pilots through pre-programmed actions and AI-assisted movements!
+
+For example, the act of walking a mech from point A to point B entailed billions of individual data transmissions. A neural interface that immersed a mech pilot deeply with their mech would directly lean on the mech pilot’s brains to control the movements to a precise degree.
+
+However, many frontline mechs came with a form of automation or cruise control, for a lack of a better word. Instead of relying on an untalented mech pilot to strain their minds into maintaining the movement of their mechs, they could instead send out a single command to a control AI which directed various subroutines or algorithms to move the mech forward in their stead.
+
+The difference between a single command and a billion individual transmissions was huge!
+
+Yet relying too much on automation came with very big caveats. A mech that offloaded more and more control to AIs began to resemble a bot rather than a mech!
+
+"A mech that is governed more by its AIs rather than its mech pilot is as effective in battle as a bot!"
+
+Implementing such routines shouldn’t be very challenging to Ves. He had access to a library of pirates AIs and algorithms from the local database of the Church of Haatumak. Many of them seemed tailor-made for the situation at hand. This indicated to Ves that this was far from the only time they held a Redemption Duel with these limitations.
+
+However, Ves disdained this particular solution. Watching two mechs that were essentially controlled by bots did not stoke anyone’s blood. This put the considerable abilities of Acolyte Gien out of play, turning his mech into his prison both physically and mentally.
+
+It would also disappoint the expectations of the Church. Ves figured the battle needed to be as exciting as a mech arena spectacle between two evenly-matched opponents.
+
+Before he started though, he still needed to decide on an important matter. Should he leverage his Spirituality into reshaping the Evaporating Spear’s X-Factor?
+
+Currently, Ves sensed it was a complete mess, which wasn’t unusual to mechs that passed through multiple incompetent hands.
+
+The issue he mulled over was whether he could risk using his specialty in the midst of a hidden hand of the Five Scrolls Compact!
+
+Ves stared at Acolyte Villis who had never once stopped staring at Ves while he sat behind the terminal.
+
+Too dangerous!
+
+With this strange old lady monitoring his every move, Ves feared the possibility that they might pick up a clue. The strange encounter with TekTak showed that the Church and its mother organization were one of the few entities that may be able to detect something funny.
+
+As much as it pained Ves to keep an essential tool of his locked in his proverbial tool chest, he really did not wish to fall into the hands of these crazy cultists!
+
+He shook his head. Instead of focusing on an advantage he couldn’t put into play, he should instead focus on the issues he’d be able to form a response.
+
+"Acolyte Villis."
+
+"Yes, Mr. Larkinson?"
+
+"Who are my opponents? Is their mech pilot as skilled as Acolyte Gien? Is the mech designer who’s assigned to work on the opposition’s mech from the frontier or from civilized space?"
+
+The acolyte shook her head behind her darkened hood. "Where’s the fun in this contest if you are able to anticipate your opponent? You will have to find out the answer to these questions on your own on the day of the Redemption Duel.
+
+Ves figured Acolyte Villis would answer him with a non-answer. The lack of intelligence on the opposition’s mech, mech pilot and mech designer left a huge question mark in his mind. Without a solid idea of the opposition the Evaporating Spear would face, Ves needed to utilize his own judgement and make his mech as adaptable as possible.
+
+"I don’t know if the Evaporating Spear will face a melee mech or a ranged mech." He said to himself. "It could be a light skirmisher, which is nimble and easy to miss for a slower lancer mech. It could be a cannoneer as well, something that hits hard and can disable the Evaporating Spear long before it can close the distance."
+
+As Ves started to tweak the design further, he emphasized its flexibility rather than extending its performance parameters towards a specific direction.
+
+These competing priorities affected mobility most of all! Ves tugged between strengthening the design’s agility to increasing its acceleration. The former increased the Evaporating Spear’s effectiveness against melee mechs while the latter helped the mech improve its odds against ranged mechs.
+
+It didn’t help that increasing one aspect largely came at the cost of the other aspect. Ves had to finagle a lot of creative solutions in order to minimize the negative impact of his adjustments.
+
+Still, the sheer inefficiencies in the original design and its subsequent amateurish repairs gave Ves a lot of leeway in optimizing its internal architecture. By the end of his first design phase, the Evaporating Spear’s mobility increased by at least twenty-five percent, which was a massive jump for so little work!
+
+In the meantime, he also worked on tweaking the input of data to the cockpit. While it was far easier to amplify the output of data by outsourcing control over the mech to an AI or some algorithms, they were too rigid and limited in his eyes.
+
+Ves did not want to design a bot!
+
+So instead, he chose to walk the difficult path by trying to do something about all of the excess junk data that was being transmitted to the mech pilot.
+
+First, he identified where the junk data came from. It didn’t show up from nothing, after all.
+
+"I see. A mech is a complicated machine with countless moving parts." He nodded in understanding. "Most of the time, their input isn’t very relevant to the mech pilot, so they get filtered out by submodules built into the cockpit. These submodules and subroutines decide which packets of data gets to be passed on to the mech pilot and which packets of data needs to be thrown out."
+
+Ves wanted to figure out a way to decrease the transmission of junk data even before it arrived at the cockpit. Nêww 𝒄hapters will be fully updated at (n)ov(𝒆)l/bin(.)com
+
+It sounded easy to do for a layman. If some component, say a temperature meter installed in the arm to watch for overheating, sent a status update to the cockpit every millisecond, he could simply cut the frequency in half. So instead of reporting the temperature of that arm section by every second, it would do so every two seconds.
+
+That wasn’t the end. What if instead of reporting in every two seconds, Ves decreased the interval even further? Even if he decreased the frequency to a rate of once per minute, the performance of the mech would hardly be affected!
+
+If Ves could apply this solution to something as small and inconsequential to a temperature meter, he could apply the same solution to millions of other tiny components, each of which constantly bombarded the cockpit with data sent at an interval measured in microseconds or nanoseconds in some cases!
+
+A machine didn’t care about how many times it received a data packet from the same source. One component or a million components, as long as the cockpit came with enough processing power, it could easily handle a thousand times the raw input of a mech!
+
+But a human mind was different!
+
+"A baseline human’s brains can’t match the sheer processing power of an artificial chip. Our evolution hasn’t been able to keep up with the advancement in processing power!"
+
+A well-tuned cockpit and neural interface treated incoming data in an intelligent fashion. It offloaded the inconsequential matters to the processors and transferred pertinent data to the mech pilot to their organic minds.
+
+Right now, the dysfunction of this feature forced Ves to make his own decisions on what kind of data a mech pilot needed to know.
+
+Suffice to say, Ves had to do a lot of cutting in order to lighten the mech pilot’s burden.
+
+The trouble was that while some components only played a marginal role, many others played a more vital one. For example, a temperature regulator that only transmitted its status once every minute might eventually result in catastrophe if the arm overheated without the mech pilot becoming aware of the danger.
+
+With the sheer amount of interdependence between different components and subcomponents, Ves possessed a lot less leeway in this area than it appeared. If he went too far with the cutting, two possible outcomes might result.
+
+The first result was that the components or even the entire mech stopped working entirely. This was because Ves interrupted a critical data loop between interconnected components.
+
+The second result was that the mech became jerky. The increase in reporting interval caused the mech’s feedback loop to lag. Increased delays between input and output effectively had the result of delaying a mech pilot’s actions by several hundred milliseconds.
+
+This was catastrophic, and could mean the difference between victory and defeat!
+
+Therefore, Ves needed to be restrained in this fashion. In the end, he only managed to cut the total input of raw data by around sixty percent.

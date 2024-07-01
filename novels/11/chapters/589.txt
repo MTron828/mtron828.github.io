@@ -1,0 +1,120 @@
+Colorful Balloons Take Flight
+0.00 / 0.00
+
+"What’s the name of this design?" A mech technician asked as he admired the technical mastery that Ves had demonstrated in fusing those parts together.
+
+"I call it the New Sentinel. It takes the basic template of the Pointed Sentinel but elevates it to the next degree. The finished product will still resemble the old version, but its actual performance is far from regular."
+
+This was because Ves had picked some of the best parts from the junkyard. Though all of them came from low-end mech that the arena organization didn’t attach much value to, they happened to be best points of their original mech models.
+
+"The New Sentinel is built from heavily modified versions of the parts I’ve collected. Each of these parts have their merits, and I’ve taken care to select the strongest parts that will still be able to merge with the frame of the Pointed Sentinel. Compatibility issues will undoubtedly pop up, but I’m confident I can deal with most of the problems."
+
+Each mech model had their good and bad points. Unless a mech designer deliberately screwed around, every design that came from their hands should contain some elements with a competitive level of performance.
+
+In his initial selection process, Ves straight up ignored the trashy bits and and took away the best parts. Combining all of them into a single frame meant that the New Sentinel shook off most of the weaknesses of the old design.
+
+Of course, that was easier said than done. They all had a lot of work in store.
+
+"Chief Haine."
+
+"Here."
+
+"I’ll hand over the responsibility of modifying the parts and assembling them together over to you and your men. Try and finish the work within two-and-a-half days."
+
+"That’s going to be tough." The chief said as she seriously studied the schematics of the new design. "You’re asking us to perform a lot of radical changes."
+
+"I’ve designed this new mech with very loose tolerances. You don’t need to be too precise in fashioning the new parts. Just get it done in time."
+
+"I can’t promise you we’ll meet your target, but I’ll work my men like hell to get it done."
+
+Chief Haine immediately issued a set of orders, dividing the work among the men. Every part needed major adjustments in order to make them compatible with the New Sentinel.
+
+By far the largest job consisted of changing out the artificial musculature. Ves was very unsatisfied with the musculature of the old Pointed Sentinel. Ophidian-Wheelax Industries had plainly cheaped out by buying an inferior component license for the muscles of the mech. This was truly infuriating considering that melee mechs depended on a good artificial musculature system to exert their offensive power.
+
+It was the equivalent of equipping a doddering old man with a spear and a set of armor! No matter the quality of the gear, if the underlying foundation was weak, the mech would never be able to surpass a certain level of performance!
+
+This low maximum ceiling of performance directly countered OWI’s original intention of designing a mech with a high price-to-performance ratio. With such a low cap on performance, how could the Pointed Sentinel ever be a good bargain for mech pilots with decent skill?
+
+Ves basically butchered the old man and pieced a new body together with the butchered parts of other corpses. The unholy creation that came into being would hopefully be able to match the strength of a warrior at his peak.
+
+"Hahaha! What a great feeling! So this is how it feels like to create a true frankenstein mech!" Ves spontaneously laughed. He felt as if he had gone mad for a moment. "I never knew that breaking so many important rules was fun."
+
+Of course, the rules were there for a reason. Mech design was a profession that was littered with rules that formed a comprehensive list of best practices. If Ves was an ordinary mech designer, he would never dream of building a frankenstein mech. The only reason why he dared to do so was that he not only possessed a broad foundation, he also made use of the Jury-Rigging Sub-Skill.
+
+The value of this Sub-Skill was inestimate to Ves. It saw very little use when he designed an original mech, but when it came to modifying existing mechs, Jury-Rigging turned into a vital necessity. It would rarely be the case where he would have the ideal set of mech parts at hand. With this Sub-Skill at hand, he could draw on decades of experience in substituting proper parts with less optimal ones.
+
+It was like replacing an amputated leg with a prosthetic. Although the replacement limb would never work as good as the original, it at least did the job of enabling the person to walk again.
+
+While Chief Haine pressed her mech technicians modify the parts in rapid tempo, Ves directed his attention to the most challenging task of all. Unifying the different parts on a software level.
+
+Rashly cutting mech parts from other wrecks and sticking them to another frame never worked unless they came from the same product line. In order to mate these parts together, Ves had to unify them on a hardware and software level.
+
+Ves had already taken care of the former by completing the New Sentinel’s design. He could trust Chief Haine to make sure the mech technicians didn’t screw up on that front.
+
+The only work he couldn’t outsource was working on the software. This was something that only Ves possessed the qualifications to tamper with. "It’s a good thing I’ve shored up my programming skills recently."
+
+Though his Computer Science Skill only reached a Apprentice-level standard, this was already good enough for the vast majority of independent mech designers to program their own mechs. Ves also learned how to hack into the existing programming of the mech, though he never dug in too deep in that field because it clashed with his design philosophy.
+
+"This is going to hurt."
+
+Ves could take a couple approaches with regard to the software of his new mech. The most optimal approach entailed creating a new software from the ground up. This sucked up a huge amount of time, so he directly skipped to the next option.
+
+The next approach would be to download a standard operating system from the galactic net and work his way into integrating all of the parts into the software system. This was also a time-consuming option, but Ves was confident enough to compress the work within three days if he skipped a lot of steps. The result wouldn’t be very pretty, but the mech should roughly be functional without any major compatibility problems.
+
+"Then there’s the last option.
+
+The quickest and dirtiest approach entailed retaining the original software of the Pointed Sentinel. This left intact the many peculiarities and optimizations from OWI. Naturally, Ves still needed to incorporate the parameters of the new parts and make sure they would mate with each other.
+
+The last two approaches were in fact very similar. One started off from a fresh install, while the other continued on from an existing configuration.
+
+"It’s going to take a lot of time to get the software into a fighting shape if I want to work from a fresh install. On the other hand, retaining the existing software will likely prompt a lot of compatibility problems when I install a lot of strange parts that the operating system has never been programmed to work with. Squashing all of those issues might take even more time."
+
+In the end, Ves decided to wipe out the existing software and install a generic software system for spearman mechs from the galactic net. He chose this option because he could at least foresee how much time he needed to finish the work. With the other option, Ves couldn’t predict how many compatibility issues would crop up and how much effort it took into solving them all.
+
+"I’ve already taken enough gambles as it is right now. I can’t keep risking my slim chances of success on sudden failures."
+
+Ves went to work behind the console. Though programming a new software system for the New Sentinel entailed a lot of work, Ves faced a smoother journey than normal because he started off from a good base. The software he downloaded from the galactic net already incorporated all of the basic and vital functions of a spearman mech. Ves merely had to adapt it to the New Sentinel.
+
+Three days quickly went by.
+
+He made a lot of progress in that time. Though the software could never match up to the programming of a mature mech model, Ves believed his work didn’t look too shabby.
+
+"According to the simulations, the mech is able to perform all of the basic maneuvers without delay. The frame should only hitch up during the most complex movements."
+
+The importance of the operating system was that a mech designer or a professional programmer could preconfigure many standard mech movements.
+
+To put it simply, it was like adding muscle memory to a mech. A mech pilot would be able to make use of the muscle memory as shortcuts. This lowered the mental burden on the mech pilot and enabled them to make the most efficient movements from a single thought.
+
+Ves unfortunately didn’t have enough time to expand upon the programming. The mech he programmed right now possessed the muscle memory of an average civilian with maybe a week’s worth of spearmanship training.
+
+With enough time, Ves could increase the strength of the software to match the performance of a trained spearman with more than a decade of dedicated training!
+
+"This is the strength of a good mech programmer!"
+
+Sadly, Ves didn’t appear to be fated to excel in this area. Certainly, if he put his mind in this field, he could become fairly proficient in this area. However, it was unlikely that Ves progressed beyond that level.
+
+"Designing a mech is like creating a new life. Programming is essential to ensure the mech can be functional, but too much may not be a good thing."
+
+Mech designers who excelled in programming could accomplish amazing feats. Ves had worked by Alloc’s side for a time and he had seen what a Journeyman-level mech designer who specialized in programming could do. In short, they could turn a worthless piece of rock into a shining piece of jade!
+
+The work that Ves had done over the last few days was far from reaching that level, but at least it should do the job.
+
+"Let’s see if Chief Haine has upheld her end of the work."
+
+Ves had been wholly absorbed in programming for his new mech. One of his major faults was that when he put his whole mind onto a task, he pretty much tuned out everything else.
+
+He stepped away from the console and entered the assembly area of the workshop. Ves immediately saw the shape of a complete mech. Fixed in place within the workshop’s assembly system, a gaggle of mech technicians climbed all around the frame of the mech to perform the finishing touches by hand.
+
+"Well." He said with some surprise. "The mech is almost finished!"
+
+"It took a few sleepless nights, but we almost got it done." Chief Haine said as she approached from the side. "We had to take in a lot of stimulants in order to work day and night. Hell, my men will probably sleep for two straight days after finishing up the mech."
+
+Skipping sleep was easy. Countless substances enabled humans to push through their desire for sleep. The only problem were practically hard-wired into requiring sleep. Ves could imagine that all of the mech technicians paid a heavy price to work for three straight days. Findd new 𝒔tories on nov/e(l)bin(.)com
+
+"Did you push them into this brutal schedule?"
+
+"Nope." The chief technician shook her head with a smile. "We all know that Captain Orfan’s life is at stake. What’s the worth of our good rest if we aren’t willing to put it all to increase the odds of her survival?"
+
+"You’re right. We’re ultimately trying to make the best mech possible so that Captain Orfan will win her honor duel. None of us should complain about our workload."
+
+Now that the physical construction of the New Sentinel was about to be finished, Ves could finally load in the new software and see for sure whether the mech worked as expected. They didn’t have much time left before the duel commenced!

@@ -1,0 +1,126 @@
+Winter Wonderland
+0.00 / 0.00
+
+Ideally, a good design involved both science and art. Good craftsmanship combined both components into a beautiful product that did the job in the most elegant fashion possible.
+
+Their cubular-shaped shuttle design was anything but elegant. It was as blunt as a brick and flew like one.
+
+That didn’t matter much in space because the vacuum environment didn’t care for concepts such as aerodynamics.
+
+However, once the shuttle plunged into a terrestrial planet with a breathable atmosphere, this ugly cube shape became an absolute detriment to the shuttle’s airworthiness.
+
+"The original stealth shuttle is a lot more capable than what we’ve drawn because it has the space to incorporate all the necessary elements that make it airworthy." Avanaeon defended himself for choosing the form of a cube for their vehicle. "We have to make do with about half the volume. Just stop and consider how much of a detriment that really is. We need to work with half as much space, but we’re unable to shrink down the essential components, of which there are many. So what choice do we have?"
+
+"And that reasoning has led you straight to a cube?" Ves raised his eyebrow. "Why not go for a sphere while you’re at it? Our shuttle can hardly look more ridiculous from there."
+
+"The cube is perfect for our purposes. Let me explain." The chief engineer said, and summoned a small side projection to illustrate his train of thought. "So we have a set amount of fragments, but we want to maximize our shuttle’s volume, because more volume means more space, right? The shape of a sphere as opposed to the traditional triangular cone allows us to use as little fragments as possible but allows us to stuff the most cargo inside. However, the curvature of the sphere itself poses lots of problems by itself. You know what I’m talking about, right?"
+
+Ves knew what the man was getting at. "Yeah. A curved surface is a lot harder to hide than a flat surface. Every countermeasure needs to be adjusted by angle, and that requires an extremely powerful processor as well as very sophisticated algorithms. Otherwise you get that phenomenon where you see light bending around an optically camouflaged object."
+
+Such an effect resembled the distortion people experience when they look at a plant that stuck out from the surface of a lake. The angle of the plant abruptly turned crooked at the edge of the water.
+
+While the effect wasn’t exactly the same, such kinds of imperfections would take place across the entire surface of a ball-shaped shuttle. While the problem could be remedied with further development, it required far too much expertise, manpower and time to get something like that done.
+
+Rather than wrack their heads over trying to get a stealth ball to work, Avanaeon simply chose to go for a stealth cube instead.
+
+"It’s a matter of efficiency." The engineer explained with gusto. "Theoretically, a sphere has close to an infinite amount of sides. Even if we simplify it to, say, a hundred sides or so, that still requires the shuttle to make hundreds of extremely strenuous calculations at a time. While the surface area of each of the sides are rather small, because there are so many sides, it wastes a huge amount of processing power. More processing power demands more space and more energy, both of which we really can’t afford to waste."
+
+Ves nodded as he understood the crux of the matter. "On the other hand, a cube has six sides at most. Up down left right forward and back. So in theory, you only need to perform six calculations to account for six larger surface areas."
+
+"Right! While that is still a strenuous demand, it is only a fraction of the amount of calculations the original processors of the stealth shuttle performed. Those stealth shuttles carried enough processing power around to run a basic simulation of the weather of a terrestrial planet!"
+
+That was quite a lot!
+
+"I see. If we cut the shape of the shuttle down to a cube, the savings in processing power will allow us to squeeze in a much smaller processing bank, thereby freeing up valuable space for other cargo, am I right?"
+
+"Yes! And don’t forget about the savings in energy consumption as well. Less calculations means our energy cells last longer."
+
+Every argument Avanaeon put forth made logical sense. Ves really couldn’t put down any of the engineer’s design choice when his rational mind fully agreed with all of their underlying reasoning.
+
+He still found the cube ugly, though.
+
+Ves sighed. "Well, this cube-shaped shuttle isn’t going to win any design or beauty awards, that’s for sure. I’m glad we’re only designing this for ourselves, because if we dared to put this on the market, we’d be laughed out of business!"
+
+Completing this draft design made Ves realize that the role of art played a larger role in designing products than he realized. If a designer stripped away every consideration for beauty and elegance, they would be left with a bot-like approach that aimed to maximize the physical parameters of their designs without a single spark of creativity.
+
+This approach may be adequate to their current situation, but it wouldn’t fly in a commercial setting. The market expected better than machines that might as well be designed by AIs.
+
+In any case, Ves reluctantly accepted Avanaeon’s chosen shape and worked from there.
+
+Taking the draft design as a starting point, they both began to refine the design. They performed precise calculations on what should go where. They worked away the imprecisions and filled up gaps with something concrete.
+
+Deciding for a cube as their basic shape led to a large divergence from the original stealth shuttle model. The main difference between their homebrew version and the one utilized by the Masters of Combat was that the latter possessed the capability to enter the atmosphere.
+
+Their cube plainly couldn’t do so, which severely limited their options in case they needed to take refuge on the surface of a planet as opposed to another starship in space.
+
+However, the silver lining of this design choice was that they could throw out all of the parts out of their design that only saw use when the shuttle flew in an atmospheric environment.
+
+In fact, maximizing space while minimizing waste became the running theme of this escape shuttle. They threw out as much redundant parts as they could get away with, all in an attempt to squeeze in other necessities.
+
+"If this is to be an escape shuttle, it has to be able to last in space for an extended period of time." Avanaeon insisted. "That means it should be completely self-sufficient in terms of air, water, food, energy, heat, vision and propulsion. These are the Basic Seven necessities of independent spacecraft."
+
+The Basic Seven applied to virtually all spacecraft except for machines dependent on a mothership.
+
+This meant that spaceborn mechs actually fell outside the Basic Seven’s purview, though in practice they followed the guidelines anyway. The most obvious outcome was that each cockpit contained a small stash that stored a bunch of water bottles, nutrient packs and maybe oxygen tanks.
+
+"We should also reserve some space for tools, spare parts, medical kits, communication gear, hazard suits, weapons, K-coins and more." Ves couldn’t help but add. "There’s no point in being left alone without any means to pick ourselves up again."
+
+"That wishlist of yours will take up an awful lot of space, you know."
+
+"It’s a good thing we didn’t give in to our vanity and chose to go for a cube-shaped shuttle, then." Ves idly joked. "Say, can we fit in an FTL drive as well?"
+
+"What?!" Avanaeon almost spat out blood. "Impossible! Just because the CFA managed to fit an FTL drive into a shuttle doesn’t mean that we can do the same! FTL drives are monstrous objects and even the smallest and weakest ones are the size of a full-sized cargo shuttle! Aside from that, FTL drives are gluttons for energy! To power one up and to keep it running long enough to reach another star system requires energy cells that are at least half as large as the FTL drive itself to my estimation!"
+
+Okay, that basically ruled out this possibility.
+
+"Okay, chief. It was just an idle thought."
+
+Several days of intensive design work eventually resulted in a crude, artless design that stripped away everything without purpose and maximized every available scrap of space.
+
+Ves did not feel proud of this collaborative design, but as long as it worked, his feelings shouldn’t matter.
+
+As Avanaeon admired the finished design, Ves spoke up at that moment.
+
+"The shuttle design needs a name."
+
+"Hmm.. I haven’t thought of that. Normally, manufacturers don’t bother naming their shuttles, especially the cheaper and more utilitarian ones. They just come in a string of codes."
+
+"I think this shuttle deserves a proper name. Even if we only ever produce one copy of it, the design and every aspect of its construction is deliberately put together using our best judgement."
+
+They both paused for a moment as they thought of an appropriate name.
+
+"The Cube? The Cubinator? The Cubester? The Failed Sphere? The Six-Sided Dice?"
+
+Ves palmed his face. "What kind of naming sense is that?!" VIssịT n0(v)eL/b(i)(n).𝘤𝑜𝓂 for the best novel reading experience
+
+"Well, I don’t see the point in giving the shuttle a fancy name. Since its shape is already blunt, why not give it a straightforward name to reflect its nature?"
+
+After some deliberation, they eventually decided on naming their shuttle the Six-Sided Dice. It sounded a bit more sophisticated than calling it the ’Cube’ or something.
+
+Construction of the Six-Sided Dice began immediately after, though properly speaking they skipped a lot of necessary steps. Ves felt bad about hurrying the project along, because they spent way too little time on optimizing the design and inspecting it for potentially fatal flaws.
+
+However, Ves had a feeling that it wouldn’t take the Flagrant Swordmaidens too long to reach the much-sought-after coordinates of the Starlight Megalodon. Everyone else in the crew felt it too. The long days of travel would finally end!
+
+In the meantime, though, the Vandals and the Swordmaidens constantly put their guard up whenever they dropped out of FTL. Due to the fact that they intruded into sandmen space, the allied fleet proceeding along the slowest but most casual route forward.
+
+They navigated to red dwarfs only if there wasn’t any viable choice. In their core space, the sandmen mostly ignored these anemic stars, and even if the sandmen settled them, the colony governors usually consisted of the most pathetic examples of their race.
+
+Even if the Flagrant Swordmaidens intruded into such a star system, they didn’t suffer much repercussion, though the sandman governor doubtlessly passed on their observations of the human fleet to the other sandmen leaders in their network.
+
+In most cases, though, the fleet preferred to jump to the dimmest or the most uninteresting stellar objects imaginable such as old neutron stars and even black holes if they detected any, though naturally the fleet never came anywhere near the event horizon.
+
+Brown dwarfs, the physically handicapped cousins of red dwarfs, became their favored target destinations. These retarded versions of proper stars were the dwarf versions of dwarf stars, smaller and less physically adept than red dwarfs which at least sustained proper thermonuclear reactions.
+
+If a family of different stars showed up at a wedding, they’d leave out the brown dwarfs out of the group recordings, because that was how much of an embarrassment these stars really were. Some astronomers even called them failed stars because the absence of hydrogen fusion reactions make them really dim.
+
+In navigational terms, many brown dwarfs still live in their parents or sibling’s basement despite being adult stars. They formed binary pairs with proper stars and stayed that way forever until the normal star eventually reached the end of its lifespan or something happened to crash them together.
+
+This was the equivalent of a brown dwarf waiting for its parents or siblings to die and inherit the mass they left behind to transform into proper stars. The brown dwarfs never worked properly for their entire lives, and only managed to shape up after cannibalizing the remains of its family.
+
+The ultimate expression of losers among stars were two binary dwarfs spinning together in a single binary star system. The only redeeming factor between such a system was that if the two dwarfs merged together, a normal star might result.
+
+In any case, the traits that made them so unattractive also turned them into the safest locations in sandmen space.
+
+The only problem was that because they massed so light, it became exceedingly difficult to navigate them unless the fleet was already very close to them. In practice, this meant that the Flagrant Swordmaidens crawled their way forward, one agonizingly short jump at a time.
+
+However, they weren’t the only ones who utilized this strategy.

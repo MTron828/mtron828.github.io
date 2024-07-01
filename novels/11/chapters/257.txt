@@ -1,0 +1,154 @@
+Colorful Balloons Take Flight
+0.00 / 0.00
+
+The wrecked state of the prototype diminished its value immensely. Ves decided to scrap the pieces outright in order to recover as much exotics as possible and ship them back to his workshop.
+
+With most of the company’s envoys remaining on Bentheim to take care of business, Ves, Jake and his usual entourage decided to race back to Cloudy Curtain aboard the Barracuda. Without the shackles of a slow and lumbering convoy, the swift and agile corvette reached Cloudy Curtain in roughly a day.
+
+Ves hardly wasted any time by returning to his office. The Blackbeak’s ten-day crucible revealed a lot about its limits. "The simulations haven’t been that far off."
+
+The differences between the virtual models and the realspace testing didn’t amount to much, but the details mattered. In particular, the testing revealed that the Blackbeak could use some improvements in terms of heat management and armor coverage.
+
+"My mech runs too hot the longer it keeps running. It’s not venting heat fast enough. The joints are also rather vulnerable."
+
+Defensive knights featured very thick armor around their joints, making it difficult to exploit them as weak points. The Blackbeak demanded a certain level of mobility however, which limited the amount of armor Ves could put around its knees and elbows.
+
+The testing grounds revealed that the joint armor degraded a little too quickly. The Veltrex armor system performed well below standards if Ves thinned its three layers beyond the minimum threshold.
+
+Both problems demanded Ves to make a couple of unpalatable compromises. Solving the heat issues entailed incorporating more active heat emission elements, which took up valuable space. Increasing the armor around the joints meant that the Blackbeak lost a substantial amount of flexibility.
+
+Could he plug both gaps while retaining the Blackbeak’s current level of performance?
+
+Ves crunched his head over the problems, but came up with nothing. He decided to consult the imaginary existence roosting in his mind. "C’mon, black phoenix, show me an idea."
+
+The image hardly stirred. It didn’t possess any intrinsic knowledge about mech design to suggest any solutions to the problems he faced. Ves had to solve the issue on his own.
+
+He decided to punt on the problems and address the minor problems first. Ves corrected various minor shortcomings about his design by minutely shifting the placements of some components. It only took a couple of hours to enact all the changes, but Ves took three entire days to confirm they didn’t result in any adverse consequences.
+
+By that time, Ves made a decision about his design. "My mech is meant to stay on the field for long stretches of time. Both heat management and joint coverage are essential to extending the Blackbeak’s operational time."
+
+Though it hurt him a lot, he decided to cut into the Blackbeak’s design in order to make room for further improvements. He made room by expanding its exterior to make room for a couple of heatsinks and some heat shunting mechanisms. He also clad the joints in thicker layers of interlocking plates.
+
+Both changes profoundly affected the performance of his design. They also turned it into a slightly different beast, which forced Ves to rerun all of his virtual tests in order to insure he hadn’t introduced any new flaws. This stretched on for two weeks.
+
+The deadline to submit his new design to the MTA was only days away. Carlos knocked on his door and entered it when Ves signalled he could come in. Ves looked fairly haggard right now.
+
+"I just came to tell you that our time is running out. You spent enough time on your design. I know you feel like you can always do more, but that’s not how the industry works. Don’t be like those perfectionists who spend decades on a single design."
+
+Ves snapped out of his obsessive gaze towards his design. "You’re right. I doubt I can squeeze more performance out of this design. It’s time to wrap it all up."
+
+Compared to the prototype, the latest version of the Blackbeak looked more robust. Its slightly expanded frame and substantial joint coverage slowed down the knight, shifting it away from the fighting style of a skirmisher. In exchange, Ves plugged some of its weak points and slightly increased its capacity to absorb damage.
+
+He found it hard to tell whether his design actually improved, but at least he made it a little more rounded. Strengthening the joint armor closed a potential loophole that knowledgeable opponents could exploit with contemptuous ease. Now they had to work a little harder to cripple his knight.
+
+The closer his design reached completion, the more the black phoenix stirred. When Ves added the logo of the LMC on the upper left chest of his mech, the bird practically screeched with impatience.
+
+"Not yet." He whispered, trying hard to contain his image inside his head. "There’s still something missing."
+
+Despite the wholesomeness of his design, Ves felt as if it lacked a final touch. "There’s a line between a fine mech and a great mech."
+
+All of the compromises he made had turned the Blackbeak into a fine mech. His extensive use of modeling gave him confidence that all of the major kinks had been worked out. His design shouldn’t carry any major flaws.
+
+Yet that didn’t seem enough.
+
+Ves paused for over thirty minutes over this road block. No matter how much he flexed his mind, he couldn’t figure out why his design was still not complete.
+
+He decided to step out and ask for the opinions of others. He first showed off a small projection to Lucky.
+
+"What do you think, buddy? Is it a good mech?"
+
+"Meow!" His cat batted the projection away.
+
+"Okay, then."
+
+He entered the workshop floor next and gathered Cyril and Carlos. The two supervisors hummed over the Blackbeak with serious expressions in their minds.
+
+"It’s larger than the previous version." Carlos stated. "The initial design looked graceful. That’s not quite the case anymore with this newer version. It looks fatter somehow."
+
+"It looks less like a light mech and more like a medium mech." Chief Cyril added. "Thin mechs look pretty, but they don’t tend to last too long in the field. Your design looks perfectly suitable to rough it out."
+
+They supplied some comments but didn’t mention anything too pertinent. Ves took his design to the rest of the mech technicians who had even less of an idea of what might be wrong.
+
+Carlos shook his head. "Really Ves, you’re obsessing too much again. I know it’s important to get your first design right, but it’s already a great mech. Let it go, man."
+
+"I’ll regret it if I stop at this point." He replied and shut off the projection. "I know I can do something to make it even better."
+
+No one could help him identify the problem, he realized. Even his closest friends never understood his design philosophy. They only saw the surface of his design.
+
+Ves left his workshop and stepped outside. He looked up at the perpetual cloudy skies and noted the subtle rainbow colors reflecting off their puffy surfaces.
+
+It took only a minute to figure it out. "Sentiment."
+
+He often liked to disparage other mech designers as producers of soulless objects. Yet many mech designers injected their designs with sentiment and personal feeling. The Larkinson ancestor’s Valiant struck the strongest impression in his mind. The iconic mech was a piece of living history that was capable of telling an interesting tale from its appearance alone.
+
+What kind of story did the Blackbeak convey? Why did he opt for an offensive knight, and why did it end up with a sinister aura?
+
+His memories cast back to the start of his career.
+
+Arriving at his workshop with a mountain of debt hanging over his head.
+
+Designing his first virtual mech out of two badly matched elements.
+
+Participating in the YTE and reaching the finals with the help of Charlotte.
+
+Developing and producing the Marc Antony Mark I, his very first production model.
+
+Journeying to Leemar and partnering up with Cadet Lovejoy to become one of the finalists of the Open Competition.
+
+Transitioning from Novice to Apprentice, acquiring the tutelage and patronage of a venerated Master Mech Designer.
+
+Improving the design of the original Marc Antony that resulted in the much-improved Mark II, which provided a steady amount of income to Ves.
+
+Founding the Living Mech Corporation, thereby establishing himself as an entrepreneur as well as a mech designer.
+
+Taking part in Lord Kaine’s treacherous expedition to Groening IV, harvesting both benefits and misfortune, only to escape by the skin of teeth.
+
+Returning home, spending his newfound wealth in merits and credits, and laying the groundwork for his first original mech.
+
+"The Blackbeak is the culmination of my personal journey up to this point." He whispered to skies.
+
+Even if he didn’t mean to, his design had been shaped by his past experiences. The Blackbeak, for all its beauty and darkness, exposed a portion that lay hidden beneath his heart.
+
+"What does this tell me?"
+
+The Blackbeak represented a subversion of the standard doctrine of employing knights as defensive bulwarks. He emphasized this design choice by applying a predominantly black coating.
+
+The Blackbeak represented his response to the darkness of the galaxy. It had already swallowed up his father and threatened to grasp Ves in its clutches. To fight back, he had to bend the rules as well, using something as unconventional as the System to get a head-start. Finndd the new𝒆st 𝒏ovels on n/𝒐/velbin(.)com
+
+He also developed the Blackbeak as a poignant response to the Caesar Augustus. The old lastgen design served as the debut of Jason Kozlowski. Perhaps Ves wanted to avoid the famous business scion’s lack of success by trying to convey the opposite mood.
+
+It also expressed his opinion that the next war would be won by survivors instead of heroes. No one knew the depths at which both sides could sink a couple of years from now. In these murky times, you had to think outside the box if you wanted to thrive.
+
+"My mastery has something to do with this as well."
+
+His brief but unforgettable journey into Barley’s mind provided him with an essential understanding of a pilot of knights. Even if the Blackbeak looked as if it couldn’t be trusted, it still possessed a bone of unyielding will. It could still be relied on to act as a defender if needed.
+
+"I understand now. The Blackbeak is something that I had always wanted to pilot if I ever became a mech pilot."
+
+Sadly, his genetic aptitude ruled out any possibility of piloting his own mechs. Only the seemingly omnipotent System might offer a way, but Ves never looked up the option. He had a feeling the price was much more than he could bear.
+
+The momentary break helped him reflect upon his work and figure out what he missed. Once he finished his contemplation, he calmly went inside and returned to his office. He summoned up his projection and zoomed in on the cockpit.
+
+The interior offered fairly luxurious furnishings for a cockpit. Ves spent a decent amount of time in prettying up the interior and making it more comfortable for pilots in it for the long haul.
+
+He also added reliefs of the black phoenix. The different carvings conveyed a made-up story about the phoenix’s origins and its eventual transformation into a black phoenix.
+
+As a final touch, Ves didn’t think of changing the functional design of his mech. He merely wanted to add his personal signature to his work. One could argue that the label underneath the front console already sufficed, but Ves thought he needed to add a deeper meaning to his design.
+
+A weight imposed on his mind, pushing him towards monumental decision. "You’re the Blackbeak, but that’s more of a name for a design."
+
+If Ves considered his creations to be alive, then they deserved an intimate name that they could call their own. He felt like a father who was about to bestow a name to his recently born child.
+
+With a couple of controls, Ves engraved the name of his design at the top of the interior of the cockpit.
+
+"Your name is Akhran."
+
+Ves let go of the reins of the image clamoring in his mind. The black phoenix screeched triumphantly as it escaped from the prison of its progenitor’s mind and dove into the Blackbeak’s intangible domain.
+
+Even though he only witnessed a projection, Ves had the illusion that his design felt more complete somehow. The Blackbeak exuded a sense of finality and solidity that had always been lacking from the prototype.
+
+"Hahahaha!" He laughed, finally letting go of the tension that had been crushing over his shoulder. "It’s finished! I’m finally done!"
+
+His very first original design was ready to be submitted to the MTA. Assuming everything went well, he would finally be able to advance his career and make his mark as a designer of original mechs.
+
+He looked forward to competing against his upstart rival. An air of bloodlust momentarily infected his mood.

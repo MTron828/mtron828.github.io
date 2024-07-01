@@ -1,0 +1,134 @@
+Fitness Fun in the Park
+0.00 / 0.00
+
+The jump in difficulty from fabricating a couple of gadgets to fabricating a handful of batteries was immense. These weren’t regular batteries but ones that stuffed an incredible amount of energy in a package around the size of a couple of K-coins!
+
+Ves respected the intricacy of the tech he only gained a rudimentary mastery from a fragmentary collection of research papers. He suspected that the Skull Architect who provided them to him likely never expected him to come so far after only a single month of intensive studying.
+
+Everything the Senior handed over to Ves consisted of a treasure hiding behind a trap. It must have been some sick game to the Skull Architect to witness greedy mech designers become ruined after they sought to master knowledge beyond their ken.
+
+However, once Ves succeeded in avoiding the many pitfalls hidden within the gifts, the merits became evident. His gains in the field related to ultracompact batteries and energy storage enabled him to design the most suitable battery of this nature that fit his exact circumstances.
+
+Taking into account his relative lack of experience with working with this tech, he designed the battery with as much room for error as possible. Even if a single part went a little askew, it wouldn’t ruin the entire component and send over three-hundred million credits worth of exotics out of the airlock.
+
+Naturally, the increased tolerances came at a hefty cost. Its maximum capacity received a severe hit. This in turn lessened its overall longevity as the battery ran out faster, forcing Ves to recharge it more often.
+
+Ves willingly accepted this tradeoff. He would rather increase his chance of succeeding with an inferior product than risk ending up with an expensive pile of scrap in a race for perfection.
+
+Right now, he did not qualify for perfection. Getting them barely to work was the best he could hope for. In fact, if he wasn’t in such a hurry, he would have wanted to spend an entire year before embarking on this project. Too bad time was one of a mech designer’s scarcest resources.
+
+There was always work to be done but so little time to complete any!
+
+Fortunately, Ves already became accustomed to compromising on his standards and principles. Putting together an abomination of an ultracompact battery that barely deserved to be called as such offended his sensibilities but met his needs.
+
+If Ves had to choose between pride and necessity, he’d always go for the latter.
+
+His circumstances were far from ideal, yet what other choice did he have than to play with the cards he’d been dealt?
+
+Powering his gadgets with anemic standard-issue batteries was as effective as stabbing someone with a fork. If he really wanted to kill someone, he needed to create the right tools and forge something like Ketis’ greatsword.
+
+A supercharged stealth detector enabled him to overpower weaker applications of stealth or enhance its effective detection range by up to a hundred meters! A supercharged signal jammer would be able to block nearly anything except quantum entanglement nodes within a similar effective range!
+
+And if Ves succeeded in producing a spare battery, then he already had a very nasty gadget in mind to make use of its considerable power.
+
+"Let’s begin."
+
+After crafting together two gadgets in a row, he recalibrated his precision gear, both to offset anything that went out of alignment, and to correct a faulty setting that he hadn’t noticed beforehand until he made use of it. Thirty minutes later, he began to work.
+
+The actual energy storage components were so tiny that they could easily rest on top of his fingernail. Even then, the actual subcomponents that held all of that energy was even smaller.
+
+However, because it was so small, it needed to be reproduced in a near-perfect condition. Any single error might very well result into a catastrophic discharge that would unleash so much energy that it could easily fry him to a crisp, armor or not!
+
+Therefore, the housing basically consisted of various safeguards that mitigated all the potential risks that such a disaster might occur. Many batteries and energy cells adopted similar structures due to the amount of energy they carried.
+
+In order to warm himself up and to verify whether he calibrated his tools correctly, he fabricated and partially assembled the housing first. All of his progress so far enabled him to pick up a few more tiny faults that he subsequently corrected midway.
+
+It didn’t take too much time to finish the housing. He set the semi-assembled shell aside and began to work on the most critical portion of this job.
+
+"Here goes."
+
+Ves started with a couple of hundred grams of sulomnium. This was the main ingredient of of the chemical substance that stored all of the electrical energy. He treated the sulomnium and blended it with precisely-weighed samples of junk exotics and mundane elements, taking care to verify he performed each step correctly.
+
+He ended up with something the size of his fingernail that could potentially store as much energy to power a mech for a minute or more.
+
+However, in this state, if Ves started to charge it with electrical energy, it would instantly become volatile and blow up in his face, potentially melting everything in a radius of a couple of meters!
+
+"I’m only a third of the way done."
+
+This was where beta-otricine came in. Beta-otricine saw frequent use in all kinds of components that depended on large amounts of energy because it exhibited the rare and vital property of reducing its volatility. In the right circumstances, it could even tame a lightning bolt and turn it into a static entity!
+
+Ves blended in the beta-otricine into his product, which reduced its restlessness when charged. An added benefit to introducing the beta-otricine was that it also reduced the scope of a catastrophic discharge if something went wrong!
+
+However, rather than stabilizing the chemical substance, it grew increasingly more agitated. That was because sulomnium and beta-otricine did not get along with each other!
+
+Ves had a limited window of opportunity to apply a stabilizing agent that forced these two incompatible exotics to accept each other’s presence or at least pretend they didn’t exist.
+
+"Flesha’s Tears."
+
+This exotic easy turned into a liquid form when treated, which Ves subsequently added to the agitated substance. Instantly, the mixture ceased to stir around, becoming an ocean of calm where the three different key materials all got along with each other like three unfamiliar roommates sharing a single apartment.
+
+As Ves carefully studied the finished substance under a powerful scanner, he observed that the roommates didn’t entirely get along with each other, but they hadn’t resorted to violence at least.
+
+"Barely successful. I made a mistake in the design. The proportions are slightly off!"
+
+He made a mistake, but not a major one. He already took note of it and figured out he needed to apply a little less sulomnium next time in order to increase the overall stability of the end product.
+
+But first, he finished what he started. He housed the substance along with a number of other important subcomponents into a multi-layer housing tough enough to withstand a small number of rifle rounds!
+
+The battery was so dense that it could easily cave in someone’s skull when thrown!
+
+A sense of accomplishment ran through his body once he realized he actually completed a battery that others would kill to obtain! The magnitude of this success couldn’t be overstated. Just this invention alone propelled him over the heads of nearly every Apprentice and Journeyman Mech Designers in existence!
+
+"Is that it?" Ketis asked once she noticed that Ves started to relax while staring at his finished product. "That’s the fancy battery you’ve been obsessing over ever since we left Mancroft?"
+
+"Yup. Don’t underestimate this little puck. If I slot it into a laser pistol, I can shoot all day with it as long as it doesn’t overheat. This is the real deal. If they weren’t so expensive to make, I’d incorporate them in every mech I sell."
+
+"You haven’t tried it, right? Let’s see if it works!"
+
+"I was just about to do that."
+
+Testing the battery took some time. First he needed to charge it. Ves hooked it up with a power source but charged it extremely slowly, monitoring the telemetry every second of the way. He slowly cranked up the charging rate, but never dared to surpass a certain rate. The longevity of the battery suffered if too much power transferred back and forth.
+
+When Ves slotted the minutely-charged battery into a testing device, he stepped far away and proceeded to see whether the battery discharged its energy at a controlled rate.
+
+The testing device set off a number of lights.
+
+"It works!"
+
+The battery behaved as he intended to. No significant problems popped up during its operation, and while that didn’t mean that it was completely safe, Ves settled for the results. Further testing would likely prove redundant while taking up too much time that he still needed to spend on his other side project.
+
+"Since I’m on a roll, I better finish the other two batteries.
+
+The first time was always the most difficult attempt. That he succeeded on the first try should be a good sign for his subsequent success.
+
+Still, he almost botched the job on his second try. As soon as Ves added the beta-otricine to the sulomnium-based substance, the entire mixture started to shake and bubble like a witch’s brew gone berserk!
+
+Ves hastily recovered by dumping in the Flesha’s Tears after he hastily processed it, which barely managed to rescue over three-hundred million credits worth of exotics!
+
+"Damn, what went wrong this time?"
+
+He waved around his multiscanner in every direction and employed the larger scanner as well.
+
+The answer turned out to be a phenomenon that he had never foreseen.
+
+For some reason, the entire vicinity came under influence to some kind of energy field that had built up during the course of his first attempt at crafting the battery. The reaction that resulted from putting sulomnium and beta-otricine together evidently generated strange forms of energy that lingered in the surrounding air.
+
+The energy field of remnant energies might not have affected his first try, but it definitely exacerbated the agitation that resulted from his second attempt! ViiSiit n𝒐velb𝒊/n(.)c/(𝒐)m for l𝒂test 𝒏𝒐vels
+
+Ves fumbled around a bit to get rid of the remnant energy field. He finally found a solution by waving a plain rod of metal back and forth. It somehow sucked up the unidentified energy in the air and turned his workspace back to normal. After chucking the rod into a chute that brought it to a junk pile, he resumed the assembly of his second battery and completed it without further incident.
+
+Several hours later, he completed his third battery in its best state yet. He repeated none of the mistakes he made in the previous attempts, and nothing unforeseen popped up this time. After using up his entire stock of sulomnium, beta-otricine and Flesha’s Tears, he finally succeeded in achieving his greatest goal!
+
+Completing three completely functional ultracompact batteries!
+
+"Wow!" Ketis admired the batteries from a distance. She didn’t dare touch the objects or get close to them in fear of ruining them for some reason. "From the way you fussed over this project all this time, I would have expected you to fail at least once."
+
+He chuckled a bit. Looking back on his behavior, he certainly went overboard in terms of his preparations. "You can never be too careful when you are working with components that have the potential to carve out a hole in the hull of our ship. Besides, I really don’t want to waste my hard-earned cash."
+
+Putting together the batteries demanded the utmost of his concentration and skill. However, because it was so small and simple, Ves only needed to focus on successfully completing a small number of critical steps.
+
+If Ves attempted to craft something more complex like an expert mech, then he might have to accomplish a perfect result for over a thousand steps! Even he wouldn’t be able to accomplish a perfect track record in such conditions!
+
+"Well, this should be the end of it." He sighed, feeling incredibly drained now that he relaxed his mind. "Let’s pack everything up and get something to eat. I hope you haven’t been staring for nothing, because I’m going to quiz you on some of the methods I’ve demonstrated."
+
+"Noo!"

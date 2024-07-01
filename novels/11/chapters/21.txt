@@ -1,0 +1,154 @@
+Sweat, Strength, Success
+0.00 / 0.00
+
+A mech’s armor defined the machine’s appearance. The changes made to the internals might not be visible to outsiders, but it affected the heart and soul of the mech. His experiences in muddling around with the Nero and making more focused modifications with the Nero Redividus taught him a lot about the design philosophy behind the Caesar Augustus.
+
+Ves already knew that Jason wanted to cram as much goodies in his frame as possible. This adversely affected the mech’s internal integrity as any damage that passed by its armor could spark a cascade of faults.
+
+While Jason relied on National Aeromotives’ excellent armor to mitigate this issue, Ves had to make do with Marlin Solution’s budget-focused 1004-HRF 5th Generation. Despite his best efforts, the Marc Antony’s armor only withstood about a third as much as the original armor in the worst locations. The best places only matched the original armor by 80%, which was already extremely generous.
+
+With an armor scheme that only protected the Marc Antony’s internals by an average of 50% of the base model, Ves wondered if he should vacate some unnecessary components in order to make room for more structural support.
+
+The internals of a mech consisted of every component underneath a mech’s outer shell.
+
+The internal frame that acted as the skeleton of the Caesar Augustus was strong and thick. It needed to be, as it sometimes came under intense stress due to the weight it carried and the attacks it bore when the armor was penetrated.
+
+The highly durable synthetic muscles that controlled its limbs also took a lot of space, as an abundance of power was required to move the CA-1’s generous armor.
+
+The components themselves varied in their requirements. The cockpit, engine and power reactor all took up most of the space in the torso, but other systems such as sensors and processors had plenty of space in the mech’s otherwise useless head.
+
+The pipes and cabling that connected the components together looked thin, but added up together they made up a significant and important portion of a mech’s internal space.
+
+The original Caesar Augustus’ models came installed with some truly fine components. Even though the mech was now considered last generation, the quality of its numerous components allowed the mech to overcome most current generation frontline models as long as its energy lasted. However, this led to the CA-1’s internal space becoming congested by cabling as all those components needed to be connected to the engines, power reactor, cockpit or more. It exceeded all the recommended safety margins Ves learned in college.
+
+The mech only supported so much weight. The Caesar Augustus had been classified as a medium mech. Such mechs were the mainstays of battles, able to dodge slow attacks and tank the lighter ones. To retain the minimum amount of mobility required to pilot the mech in such a manner, Jason already stretched the Caesar Augustus to its maximum limits.
+
+Any heavier and the mech would end up into an uncomfortable weight class beyond mediumweight but lighter than heavyweight. It was hardly able to dodge most attacks, but its armor couldn’t endure against a sustained assault.
+
+Ves mulled the difficult problem of solving the mech’s internal structure while keeping his mech effective in performing its role.
+
+"The Marc Antony is aggressive. As long as it’s able to charge at the enemy and thump them in the opening moments, it’s sufficient. Battles of attrition and extended engagements are not its specialties. The mech doesn’t demand too much endurance."
+
+His first internal modification was to make the painful decision to remove 15% of the mech’s energy cells. This reduced the mech’s ability to sustain a pitched battle, but it freed up quite a bit of space.
+
+Mechs generally featured two kinds of energy cells. The most often used cells acted as batteries or capacitors with a fair amount of readily available energy. These battery type cells could be used to power a high-intensity laser cannon, allowing the weapon to fire in quick succession as it drained power very fast. Battery cells generally were employed on mechs that depended highly on energy weapons and were expected to fight short but intensive fights.
+
+Other types of energy cells carried fuels or other energetic materials. While these cells couldn’t provide an immediate boost of energy to power a weapon, they provided a lot more energy for the same amount of weight and space. When these fuels were injected into a power reactor, the mech enjoyed a steady output of energy that could sustain it in a medium intensity battle for an extended time. This energy profile worked great for mechs that emphasized endurance and staying power, such as frontline mass production mechs.
+
+The energy cells Jason used were high end batteries that provided the mech with a decent amount of instantaneous energy. However, once they were drained, the Marc Antony could only rely on its slower working power reactor. At low intensity mode, these usually provided enough power to keep a mech moving, but could not power anything else, such as weaponry.
+
+Ves dared to reduce the amount of energy cells because he had also tuned down the wrist-mounted laser cannons previously. The weapons should last the same amount of time even with a reduced maximum capacity. Naturally, this came at the expense of a mech’s total damage output, which many mech pilots placed an undue amount of attention on. It was also just plain uncomfortable knowing you’d run out of juice faster.
+
+It nevertheless freed up sufficient space to rearrange some placements in order to optimize the extra breathing room Ves created. He carried out more extensive modifications than the ones he made with the Nero and Nero Redividus. With the older variants, he had to really force himself to squeeze maximum value out of every millimeter he moved something away. The larger buffer of space he had now did wonders in untangling a crowded internal space.
+
+It was like rearranging a crowded suitcase, when you had stuffed it with clothes, toiletries and other objects to the point that it wouldn’t close. There came a point when no matter how many tricks you pulled, you couldn’t reduce the volume any further. Simply removing a few unimportant items let the suitcase have a breath of air, allowing the owner to easily fill up any excess empty space and ensure the contents were distributed equally.
+
+Ves kind of treated his design the same way. The energy cells didn’t take up a lot of space, but removing a chunk of them still freed up 5% of the mech’s internal volume. This allowed him to shift part A, making room for the shifting of part B, which made room for part C, and so on until Ves could finally untangle the highly congested portions of parts X and Y.
+
+It took several days of constant work to rearrange the base model’s internals. The modifications he made reduced the amount of weak points by at least half. The mech’s ability to receive internal structure damage had improved quite significantly. Not to the point of calling his mech a zombie, but just enough to make up for the Marc Antony’s inferior armor. Ves made sure to prioritize the most critical components related to the engines and power reactor. Above all else, the mech had to keep running.
+
+The Marc Antony neared its completion. Ves had put the finishing touches on its internals and even readjusted some of the armor’s contours in order to accommodate the changes. A faint and barely present sense of anticipation built up in Ves. In the end, he spent two weeks pouring much of his heart and soul into creating the Marc Antony. The mech represented his first foray into real mech design.
+
+"Then why do I feel my design is incomplete?" Ves wondered as he zoomed out the mech’s image in the designer. He felt a sense of incongruity that prevented him from finalizing his design. "There is something lacking about my mech."
+
+This was the intuition Ves had recently acquired when he crafted based on intent. It guided his actions and decisions, not necessarily making him choose the most efficient routes, but always one that fit.
+
+When Ves studied the mech’s crest and the red plumes floating out of the narrow slit, he finally realized it. "It’s the paint job."
+
+The Caesar Augustus came primarily in white. Jason chose this color in order to echo ancient marble statues of majestic figures.
+
+The Marc Antony lacked the regal air of a ruler. Ves instead molded it in the image of an aggressive vanguard. The stately white appearance felt out of place.
+
+"Luckily the standard paints only cost a couple of thousand credits." Ves muttered, and went to work in the Designer’s painting function.
+
+He choose to dye the mech in black, and accompanied it with red and bronze accents. It contrasted nicely with the Caesar Augustus, and gave his own design an intimidating, bloodthirsty appearance. He dyed the shield in red as well, and added a couple of yellow stylized eagle wings and lightning bolts in homage to the historical Marc Antony’s homeland.
+
+Ves stepped back and viewed his mech in its entirety. The dark colors, the aggressive contours, the red vapor helmet crest, it all combined together in a mech designed for battle. It exuded masculinity. Where the Caesar Augustus stately appearance made it suitable to rally its subordinates in battle, the Marc Antony instead preferred to press upon the enemy.
+
+It was time to finish the new design and let the System take a critical look at his work.
+
+"I’m ready. Let’s hear it System. Gimme your best shot."
+
+[Design Evaluation: CA-1C Marc Antony.]
+
+Variant name: CA-1C Marc Antony
+
+Base model: Caesar Augustus CA-1
+
+Original Manufacturer: National Aeromotives
+
+Weight Classification: Medium-Heavy
+
+Recommended Role: Shock Trooper
+
+Armor: C+
+
+Carrying Capacity: D
+
+Aesthetics: A-
+
+Endurance: D-
+
+Energy Efficiency: C-
+
+Flexibility: E
+
+Firepower: B-
+
+Integrity: C+
+
+Mobility: D+
+
+Spotting: C-
+
+X-Factor: C-
+
+Deviance: 35%
+
+Performance improvement: -35%
+
+Cost efficiency: +60%
+
+Overall evaluation: An acceptable variant of the Caesar Augustus. Though very lacking in its armor compared to the base model, it has achieved an admirable amount of cost savings over the original model. 𝑅read latest ch𝒂pters at n/𝒐v(e)lbi𝒏(.)co/m
+
+[You have received 200 Design Points for completing an original design variant of a last generation mech with significant cost savings.]
+
+[You have received 500 Design Points for designing a mech with a moderate presence of X-Factor.]
+
+The System added a new parameter since the last time he received a design evaluation. Reducing the cost of Ves’ first real variant had been a top priority for him, and it was nice for the System to acknowledge his intentions and take the time to judge whether he succeeded. Considering he made the mech 60% cheaper while only losing 35% performance, he had accomplished his aim.
+
+Ves felt he had tasted what true mech designers called pride. In order to come this far, he gambled his workshop and his father’s legacy. he rejected all other career opportunities and insisted on running his own business.
+
+"This is worth every sacrifice I made so far." He said as he inspected the Marc Antony’s design from every angle. This was a product of his own design. He could base his nascent mech boutique on the sales of this new design.
+
+The invisible but potentially influental X-Factor was the single biggest draw of this mech. Ves devoted almost all of his time constructing his mech with a single purpose in mind. Though not a mech pilot himself, as its designer he felt the Marc Antony possessed a faint aura of aggression. His customers might not be aware his design could spark the X-Factor, but it remained a minor benefit even if they remained clueless about the X-Factor.
+
+He was sure the Marc Antony could please his customers. The variant might not feature excellent specs, but it cost 60% less to build compared to the base model, allowing him to set a competitive price if he wanted to drive sales.
+
+Naturally, he’d have to pay taxes and license fees for every mech he made and sold. Yet even the crumbs left over was sufficient to reinvest back in his business, allowing him to upgrade his machines and license more mechs and components. Even better, he’d gain more opportunities to earn a lot of DP.
+
+"Hot damn. 700 Design Points. That’s more than twice than what I’m earning in a week." And his existing sales also kept diminishing. The apparent craze about the Fantasia variants had run its course, and every young mech pilot that wanted to own a Seraphim, Phantasm or Nomad already bought them. This reinforced the notion that Ves always had to keep moving on. He couldn’t rest his laurels after designing a successful mech variant.
+
+"Also, I can earn a shipload of DP designing a mech that’s still in use today compared to a hundred prehistoric mechs."
+
+It made sense. Costs had risen while technology advanced and became more complex. The 400 year old 1-star mechs exercised the knowledge Ves learned in college, but he hadn’t truly made any breakthroughs. In contrast, Ves learned much more about mech design when he worked on what Iron Spirit considered a 5-star mech.
+
+With the points he already saved up, Ves possessed just over a thousand DP. It represented an unexpected windfall, and opened up many goodies in the System Store.
+
+"Lottery tickets, attribute candies, I can even buy a brand new 3D printer for my workshop." Ves muttered to himself as he gulped his saliva. "There’s even a time capsule that allows me to slow time by two times. How crazy is that? The System’s so powerful it can even affect spacetime."
+
+Perhaps the System wasn’t bluffing when it boasted it was omnipotent as long as it had enough DP.
+
+He shook his head. "Gotta stop dreaming these fanciful ideas. I’ve already budgeted my upcoming DP spending."
+
+With a reluctant and painful gesture, Ves bought the Assembly skill upgrade from the Skill Tree. A whoosh of energy burst in his mind as an explosion of knowledge started to press on his brain. He screamed in pain as he felt information he once read but never really understood become clear as day. Outside data also continued to stream in, settling into the deepest parts of his brain.
+
+Ves breathed deeply once his brain stopped stampeding inside his skull. "I thought I did decently in my studies, but it turned out I was too ignorant."
+
+Raising his Assembly skill to Apprentice level deeply impressed him of the power of the System once again. He imagined he went through school as an average slacker, only to trip on the ground and hurt his head, causing him to inexplicably turn into a genius. He learned so much about Assembly that it put his previous work to shame.
+
+The benefit of learning a main skill was much more comprehensive than upgrading a single sub-skill like learning how to operate 3D printers. He filled a lot of gaps that fell in the cracks between his increased proficiencies in operating the 3D printer and assembly machines.
+
+"I’m ready to bring this design to life."
+
+Naturally Ves wanted to fabricate the mech. It was too risky to build up the mech for real, but constructing it in the simulated environment of Iron Spirit will allow him to test his product and iron out the kinks he missed.

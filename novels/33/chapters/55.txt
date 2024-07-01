@@ -1,0 +1,176 @@
+Majestic Desert Splendor
+0.00 / 0.00
+
+Chapter 57: Quest Reward Settings
+
+Translator: MJ_ Editor: Millman97
+
+“Fatal danger‽”
+
+Frenzied Sword gulped. Even the armored security guard just now only had a ‘high’ danger level. This was his most dangerous encounter yet. Who exactly was this guy whose information was full of question marks‽
+
+“Shouldn’t it be safe in the city? Will today be the first time that I die?”
+
+Suddenly, the man spoke.
+
+“Examining someone you just met? That’s not very polite.”
+
+Frenzied Sword gave a start.
+
+According to the official information, an NPC would know if it had been examined if it was over 30 levels higher than the player using the function.
+
+Han Xiao chuckled to himself. He had simply predicted Frenzied Sword’s course of action.
+
+After learning of the beta test, Han Xiao had taken note of all the nearby starting zones on his map. The closest one was none other than Big Horn Mountain Village. It was only three days away, but Han Xiao did not want to leave the Western Capital as Germinal was actively looking for him.
+
+While keeping track of the influx of posts on the forums, Han Xiao came across a thread created by a player called Sleepy Winter. It was a post about the benefits of exploration.
+
+Han Xiao knew who Sleepy Winter was – a legendary pro gamer who was quite active in public forums. He liked to discuss strategies and create guides. He was a good man, handsome (beside the point), and naturally had a huge fan base. In the Chinese server, he had ranked consistently amongst the top 30. Han Xiao himself had only ever peaked at 47th, and during a period of time, he even fell out of the top 100. That lesson that he had learnt then was to stay away from girls (if you want to succeed).
+
+Once, he had shared his thoughts regarding this with the 28-year-old owner of the convenience store below his apartment building who he was on friendly terms with. The bachelor had laughed him off.
+
+“Cool story bro,” he said, “but I’d rather have a girl.”
+
+To which Han Xiao had replied, “But which girl would have you?”
+
+That was the day that Han Xiao lost his special discount at that store.
+
+The rankings were not based purely on combat. In Galaxy, there were all kinds of competitions apart from fighting – from treasure hunts to monster killing, and even races! As Han Xiao had taken on a number of revenge assignments from other players, his combat ability was quite polished. Unfortunately, he had lacked in other areas – such as trash talking. He never forgot to practice it though.
+
+After reading the thread, Han Xiao had guessed that there would probably be a few players who would make it to the Western Capital. As such, over the past few days, he had spent some time keeping an eye out for any at the city entrance. He was able to spot the party of four easily as their names were – to Han Xiao’s surprise – clearly displayed over their heads. Furthermore, three of their names were those of famous people.
+
+Han Xiao was not sure if the reason he could see their names was that he, too, had an interface.
+
+Nevertheless, it was a good thing. Just like how players could see the names of NPCs, Han Xiao could recognize them on sight.
+
+The reason that he had decided to make direct contact with a player was to test out his NPC functions.
+
+“Brave adventurer, do you have time to help me?”
+
+A standard line for a quest-giver.
+
+Frenzied Sword’s eyes widened.
+
+‘To think that I’d get the chance to interact with a high-level NPC this soon! This place is the best!’
+
+He replied, as calmly as he could, “I am willing to help.”
+
+“I need a loaf of bread. Can you find one?”
+
+A confirmation window popped up as soon as Han Xiao asked the question.
+
+_____________________
+
+Do you wish to issue a quest to Frenzied Sword?
+
+Y/N
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+‘It really works!
+
+‘Hold on, why are there automated prompts for an NPC function? Maybe I can automate my own actions too?’
+
+Han Xiao narrowed his eyes. Now was not the time to worry about those questions.
+
+“Yes.”
+
+A window appeared, along with some messages.
+
+_____________________
+
+Please set the requirements and rewards for the mission. The amount of experience that you can hand out is limited based on your level, rank, influence, and myth.
+
+Note: You can choose to give objects that you possess ownership of as rewards: money, items, experience, skills, etc.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+The window was split into two sections. On the left side was a drop-down menu that allowed Han Xiao to select the quest type. There were a ton of quest types to choose from.
+
+On the right side was for inputting the rewards. There were two lines: “Maximum Reward”, and “Daily Reward Limit”.
+
+The Maximum Reward was currently set to 11,600 experience points. It also seemed to be provided by the system, meaning that Han Xiao would not have need to fork any out of his own pocket.
+
+Daily Reward Limit referred to the amount of experience reward that Han Xiao could issue out in a day. Currently, it was fixed at five times the Maximum Reward (5 x 11600 = 58,000).
+
+_____________________
+
+Maximum Reward: 11600 exp
+
+Level: 24 (7200 exp)
+
+Rank: E (300 exp)
+
+Faction(s):
+
+Germinal – Hated (1000 exp)
+
+Division 13 – Neutral (400 exp)
+
+Myth Level: 0
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+As Han Xiao tested the settings out, he discovered a limitation – if the current Maximum Reward did not meet the minimum amount required for a quest, he would not be able to issue it – a Rank A quest such as destroying the Germinal Organization would require a Rank A reward.
+
+Han Xiao’s maximum reward of 11,600 meant that he could only issue E-rank quests. D-rank quests required a reward of at least 30,000 exp. The reward criteria also seemed to differ among the different quest types. No further messages popped up to explain this, so it seemed like Han Xiao would have to figure it out on his own through trial and error.
+
+Han Xiao tried to issue himself a quest, but it failed. RêAd lat𝙚St chapters at nô(v)e(l)bin/.c/o/m Only
+
+“If only I could have some of that sweet experience...”
+
+Although he now had the ability to hand out experience like water, he himself was only earning about 20,000 to 30,000 exp a day. Of course, there was no way that he would help someone else.
+
+“Seems like I could use this to my advantage though...” Han Xiao’s eyes began to twinkle. It was possible to use this function to manipulate players into doing his bidding. After all, players would do any quest if the reward was high enough.
+
+Han Xiao suddenly had an epiphany. “I have to increase my maximum reward!”
+
+In most games, it was the key, high-level NPCs who gave the hardest missions and the highest rewards. The quest function’s system made perfect sense.
+
+Han Xiao issued a regular mission to Frenzied Sword.
+
+Frenzied Sword stared at the mission window with his mouth agape.
+
+‘What kind of high level NPC would ask for a loaf of bread and reward only $1‽’
+
+“Hold on... he could just be testing me!”
+
+Frenzied Sword recalled that in some of the games he had played before, there were indeed quests like this.
+
+The more he thought about it, the more likely it seemed to him, so Frenzied Sword whipped out all seven of the bread loaves he had in his possession and put them into Han Xiao’s hands.
+
+“This is all the bread I have,” he added sincerely.
+
+Han Xiao was stunned.
+
+‘What’s going on? Are gamers these days so excessive with doing quests?’
+
+Nonetheless, a completion dialogue popped up when Han Xiao received the bread.
+
+There were too many quest types to test out, so Han Xiao decided to try out the other NPC functions.
+
+There was an icon in the shape of a person beside Frenzied Sword’s name above his head. When Han Xiao focused on it, an RPG-style meter bar popped out. The bar was half red, half green, and with a needle at the center.
+
+[Do you want to adjust Favorability with Frenzied Sword?]
+
+“I can even do this‽” Han Xiao was a bit scared to try. What if changing this also adjusted his thoughts?
+
+“If I set favorability to maximum, will I... turn gay on the spot?
+
+“No no no no no – I can’t risk that.”
+
+Han Xiao decided to test it by moving the needle slightly left to reduce favorability by five. He heaved a sigh of relief when nothing else seemed to change.
+
+“This function isn’t very useful...”
+
+_____________________
+
+Your favorability with Han Xiao has dropped by 5.
+
+Current status: Stranger
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+‘What the-‽ Why would my favorability go down after quest completion?
+
+‘What the hell?’

@@ -1,0 +1,142 @@
+Cuteness Unleashed
+0.00 / 0.00
+
+Once Ves obtained all the relevant information Nitaa possessed about the Compact, he lost interest in inquiring any further about her situation.
+
+The few crucial pieces of information he obtained already loomed heavily on his mind. He cared little about the plots of the Order of Fl’xix or what the rejected trainees of the order were doing when they sold themselves to foreigners.
+
+He turned his eyes back to Nitaa. Though he still held some reservations about trusting her, he was okay with bringing her onboard as a bodyguard.
+
+"Alright, Nitaa. That’s enough for one day. Please bring Mr. Crindon to me. I need to have a talk with him as well."
+
+While she exited the room to carry out her errand, Ves deactivated his Privacy Shield and returned his System comm back into his Inventory. Compared to his sensitive talk with Nitaa, he did not plan on raising any sensitive topics with his new virtual security specialist.
+
+"Meow."
+
+"Yeah, Nitaa is a lot more willing to work for me than Crindon. I have the feeling that he would have been fine with working for any other wealthy patron."
+
+Once the skinny man entered the room and closed the door, he directed an interesting stare towards Lucky.
+
+The cat was still radiating its ECM field.
+
+"That is a very interesting functionality, sir." He said with mild awe. "I have never seen a mechanical cat employ an interference field of this caliber. Even my new comm is rendered impotent in this field!"
+
+Ves smirked. "It’s CFA tech."
+
+"Impressive! With such a function at your disposal, I have a lot more confidence in fulfilling my responsibilities! Can I ask whether your cat contains other CFA functions? An ECM field rarely comes by itself."
+
+"I think Lucky has access to a lot of useful software and hardware. I’ll tell him to cooperate with you so that you can take advantage of what he has to offer."
+
+"Meow!"
+
+Lucky objected to that? What was he, a cat-shaped comm? He was more than just a tool!
+
+Of course, Ves would have none of it. "Just do it. This wouldn’t have happened if you hadn’t assimilated my CFA equipment. It’s your own fault we have to make use of you to access those functions!"
+
+"Meow meow!"
+
+"Would you rather let us be hunted down by our enemies?"
+
+"Meow.."
+
+"Thought so."
+
+Ves turned back to his new permanent employee. "So, Mr. Crindon. What do you think about my security arrangements?"
+
+"I am still trying to get up to speed with all of your security arrangements. After communicating with the crew of your starship, I can already tell you though that she is reasonably secure against hacking. There’s only one issue, though."
+
+"The Leemar Institute of Technology probably built a backdoor into her systems, right?"
+
+Crindon nodded. "They would be crazy to let this opportunity go by. From what I heard, you received her as a prize for winning a contest. It makes sense if this institute would want to keep an eye on you. While your ship’s security suite has always been kept up to date, it will never pose a hindrance to its own developers."
+
+His words rang true. Even without proof, Ves could very well believe the Barracuda was riddled with bugs that relayed everything they observed back to the Friday Coalition.
+
+He never cared too much about it until recently. Before he made his last and final visit to Leemar, he always considered himself to be in the Friday Coalition’s camp. His distant but very real connection to Master Olson deterred the Coalition from making any overt moves against him while he was her apprentice.
+
+Yet Ves no longer enjoyed the protection of the umbrella of this status! He’d been kicked out of Master Olson’s sphere of influence, thereby depriving him of a shield to fend off Coalition probes!
+
+Now that it appeared that he was beginning to side with the Hexers, the Coalition would definitely monitor his starship carefully. Who knew what they would do with all of the data they gathered!
+
+"Is there a way to stop the Coalition from snooping in our ship?"
+
+"I advise replacing your ship with another. The most secure ones tend to be ships imported from other star sectors or ships that are made and sold in Centerpoint. The latter are extremely expensive, though."
+
+None of those options appealed to Ves.
+
+He estimated that buying an imported ship would definitely entail a downgrade in most parameters. The money earned from selling the Barracuda wouldn’t be enough to buy a ship with the same level of performance.
+
+Buying a ship constructed by one of the ship-building enterprises related to the MTA would be even more expensive. Because they weren’t built by a state, they only possessed one backdoor for the MTA instead of backdoors for both the MTA and the state in question.
+
+This was extremely valuable, as the MTA were mostly hands-off and rarely meddled in the affairs of the local states it supervised!
+
+Perhaps the only way for Ves to get completely rid of every possible backdoor was if he built a starship by himself from the ground up. That was way too far-fetched to him as designing and constructing a fully-functional starship from the ground up was a huge endeavor! Their sheer size and functions meant they were incomparably more complex to build!
+
+All of these options were either too expensive or too unrealistic for Ves to contemplate.
+
+"Is there really no other way to get rid of the Barracuda’s vulnerability to eavesdropping by the Coalition?"
+
+"Hmm..." Crindon thought deeply. "With your mechanical pet’s help, I think it may be possible for me to rid your ship of most software backdoors. That still doesn’t address the hardware vulnerabilities, but there may be an answer for that as well. We’ll simply have to replace the gate."
+
+The theory of his suggestion was simple. No matter what kind of backdoors had been baked into the components of his ship, they wouldn’t be able to transmit their data to the Coalition without piggybacking on the communication channels of the ship!
+
+As long as they beefed up the security of the gates leading into and out of the castle, they could ensure that no data would be transmitted to any third parties aside from the Big Two!
+
+"It will require a weeks-long overhaul to tear out all of the transceivers built all over the hull of the ship and replace them with more secure ones." The Kinner bondsman determined. "The most delicate operation entails modifying the quantum entanglement node. It is crucial to replace the systems that translate and convert the data transmissions it receives before passing them on to its core components for transmission to another node that is many light-years away."
+
+The entire story was a bit technical, but Ves possessed enough understanding in signals and communications technology to understand what his staff member tried to convey.
+
+It was beyond Ves to replicate the core portions of the quantum entanglement node that enabled instantaneous communication throughout the galaxy.
+
+Yet the systems surrounding the portion responsible for sending out messages weren’t as difficult to decipher.
+
+These systems sorted the data and stuffed them into packages before sending them out. Replacing them with imitations made by a different organization would ensure the Coalition no longer had access to the sensitive data surreptitiously snuck into the packages.
+
+The only problem with that solution was that the replacement systems would henceforth carry the backdoors of their manufacturers instead! The entire operation amounted to replacing one voyeur with another!
+
+Both of them recognized this thorny problem. Crindon shook his head. "The only way to address this problem is to make the quantum entanglement node systems yourself. Since you are a mech designer, it might be possible for you to do so, but it requires a lot of specialist knowledge in order to design it from scratch."
+
+This wasn’t a realistic solution either. Ves estimated that it would take months of focused study to accomplish something like that, and he didn’t have the time to spare on an endeavor that was much more relevant to ship design than mech design.
+
+"How about sourcing the replacement parts from the Hexadric Hegemony?" He eventually suggested. "Right now, my relationship with the Coalition has deteriorated. While I can’t say for sure whether my ties to the Hegemony are getting warmer, I trust them more than the Coalition at this point."
+
+"If you fear the Hegemony less than the Coalition, then it’s a viable solution, sir. I still suggest you find a way to replace the vulnerable systems with more secure ones down the line, but as a stopgap solution I can work with your suggestion. We just have to find the right time and place to put your ship into drydock."
+
+"Can we do it here?"
+
+"We can, but I don’t advise you to. The Kinner shipyards and drydocks aren’t famed for their quality and capabilities. We’ll also have to order and possibly arrange for the shipment of the replacement parts from the Hegemony in advance."
+
+The two began to hash out a plan regarding the overhaul. After Ves revealed his itenary to Crindon, the Kinner advised him to book a drydock at the Sentinel Kingdom.
+
+"It’s one of the largest third-rate states in the star sector and it is vastly more secure than the Chuko Republic where you are traveling next. Its industrial infrastructure is excellent so the modifications can be achieved as quickly as possible without much risk."
+
+"Alright. Speak with Gavin and tell him to put this plan on the agenda. Please work with him to prepare all the arrangements. If you encounter any hindrances with regards to access, for example procuring the Hegemony-built replacement parts, just get back to me so I can throw my weight around."
+
+"Understood, sir." Crindon nodded. "Addressing the vulnerabilities of your gear and the ship will go a long way in preventing third parties from obtaining damaging data." Aall 𝒏𝒆west ch𝒂pt𝒆rs on n.o./v𝒆l𝒃i/n/(.)c𝒐m
+
+"Alright. Go ahead and take Lucky and see what you can do with him. I’m sure he’s been hiding a lot of goodies from me. Make sure you get everything out of him that can help us beef our security even further!"
+
+Though it took some pushing from Ves, Lucky grumpily allowed Crindon to pick him up and move him to a different room so that he could perform his duties without disturbing anyone.
+
+Ves wasn’t worried that Crindon might possibly tamper with Lucky. He instead would be a lot more concerned about his bondsman’s life. He paid the equivalent of 180 million bright credits to secure his services, after all! He still wanted to get his money’s worth out of his perpetual employee!
+
+Now that he had a moment to himself, Ves loosened his shoulders and sank into a couch.
+
+"What a day."
+
+Encountering Nitaa and hearing her explosive revelations seriously upended his long-term plans.
+
+He always figured he could keep his head down and quietly progress his mech design abilities in peace. Yet the Five Scrolls Compact was not content in leaving their questions unanswered.
+
+For a dignitary to depart from the galactic center decades ago and still be on the way to the Komodo Star Sector strongly hinted that the envoys of the Ruined Temple would be here to stay.
+
+This threw a huge wrench into his plans! It might even be severe enough to compel him into moving to another star cluster for a time!
+
+"Holing up in Vicious Mountain or Majestic Teal won’t be enough. It’s too close to the Nyxian Gap."
+
+He needed to move further ahead. While he didn’t have to run all the way to the other end of the galactic rim or all the way to the galactic heartland, he at least needed to cross over into another star cluster.
+
+"Yet how can I leave behind my ventures in the Komodo Star Sector?" He questioned.
+
+Could he afford to leave behind the LMC and the Larkinson Family? Comm calls and remote interactions helped a lot in keeping him in touch, but it was no replacement to being physically present.
+
+"I’ll have to think about it carefully." He sighed.

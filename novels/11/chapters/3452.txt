@@ -1,0 +1,176 @@
+Fitness Fun in the Park
+0.00 / 0.00
+
+Chapter 3453: Short Burst Mech
+
+At the start of the High Tide Tournament, all 94 competing Journeymen called up a document that precisely explained the conditions they had to work in. The lengthy pages outlined what they were allowed to design, what they needed to avoid in their work, what materials and components they could employ and what specific technical requirements they needed to meet.
+
+Ves quickly noticed that the tournament organizers didn't set any unusual or overly limiting conditions.
+
+Sure, he had to work with a set of completely unfamiliar materials. He also wasn't familiar with any of the component designs in the catalog. However, a good mech designer didn't need to know all of these elements in advance to design a working mech.
+
+"I can still design many different kinds of mechs under these conditions."
+
+The High Tide Tournament evidently wanted to showcase a lot of variety. The greater point behind this was to show to the audience that the Korok Alpha KA-35 could easily produce many different machines.
+
+After he understood all of the specific parameters his competition mech had to meet, he cast his thoughts on his most important decision.
+
+"Which plan should I adopt?"
+
+He developed several different plans, each of which was based on a specific mech type and a design concept.
+
+Personally, he wanted to design a hero mech. A machine that was equally capable in ranged and melee combat could perform well no matter what opponent it faced during the fighting phase.
+
+"This is a mistake, though."
+
+The tournament format didn't provide the best conditions for hero mechs. An all-round performance meant that a hero mech would never lose quickly, but also needed to fight hard in order to achieve a victory.
+
+This was rather iffy to Ves. What if the hero mech lost all three matches because the hero mech didn't possess any pronounced strengths?
+
+Sure, hero mechs were versatile and adaptable, but in an arena setting like this, it was too easy for more specialized mechs to showcase their power.
+
+Ves recalled one very important detail in the tournament rules.
+
+"Every competition mech must fight against three random opponents. The scores of the two best performances will be added up in order to form a final score. As a consequence, the results of the worst match will not be taken into consideration."
+
+The implication of this scoring method was that it was okay if a competition mech lost in a terrible fashion!
+
+Such situations usually occurred when mechs were matched up against other ones that just happened to counter them. For example, a light mech would have an awful time if it had to fight against a striker mech.
+
+"With the way the rules are set up, I don't have to be too afraid of taking a gamble. I can afford to lose one without suffering any consequences."
+
+The downside was that his competitors also enjoyed the same advantage!
+
+He believed that they too understood how to game the rules in order to maximize their chances of winning. They shouldn't be stupid enough to design balanced, versatile mechs in this setting.
+
+It was much wiser to design a specialized mech that clearly excelled in a single mode of combat!
+
+This way, the competition mech would have the tools it needed to gain the upper hand in even matchups.
+
+"Besides, a hero mech is also more complex to design and build."
+
+Ves only had 12 hours to design and fabricate a competition mech. Even if a superfab worked faster than any of his own production machines, he still needed to reserve at least two hours for this task, so his effective design time amounted to just 10 hours!
+
+With so little time at his disposal, how could he have the courage to design a complicated mech? He should be going for simplicity instead!
+
+"The simpler the mech, the greater I can elevate its overall quality and performance."
+
+With that in mind, Ves silently discarded his plan to design a hero mech and considered his remaining choices.
+
+"I can design either a landbound or aerial mech. Regardless, it will have to fight in a decently-sized arena with no distinct features and a moderate height limit."
+
+If Ves wanted to avoid his mechs getting countered too easily, then he should design a mech that was able to retaliate against aerial opponents.
+
+That meant he should either design a ranged mech or a melee mech with flight capabilities.
+
+However, neither choice sounded optimal.
+
+A ranged mech was good at taking out targets from any range, but they were basically dead if any melee mech managed to get into point-blank range.
+
+The key to designing a good ranged mech in tournaments like these was to design a machine with a big gun.
+
+A very big gun.
+
+An enormous gun.
+
+The goal was to output the highest amount of damage in a brief time interval.
+
+Anything that could damage, hinder or cripple an enemy mech right away could deliver an easy victory before the first minute had passed!
+
+"If I was a ranged mech specialist, I could confidently design a mech armed with a formidable gun."
+
+The problem was that he didn't excel in this area. Sure, he was proficient in designing luminar crystal rifles, but there were several problems with designing a competition mech armed with this exotic weapon system.
+
+He was completely unfamiliar with the materials provided by the tournament. While Ves could rely on existing theory and prior experience to come up with a new formula for a luminar crystal, he would have to waste an hour or more to come up with an acceptable solution.
+
+Could Ves afford to invest so much time in just a single aspect of his entire mech design?
+
+"Probably not." He shook his head. "Besides, luminar crystal weapons are energy weapons. It's too difficult for me to amplify their damage output."
+
+Energy weapons were generally known for being able to inflict reliable and accurate damage over time. They were not that optimal for short duration fights such as one-on-one mech duels.
+
+Of course, just because this was the standard didn't necessarily mean that energy weapons were unable to unleash a big wallop right out of the gate.
+
+There were energy weapons that could unleash an overpowering torrent of energy right away. While they weren't sustainable, as long as the other mech collapsed, it didn't matter!
+
+"It's too bad I don't have any experience with designing overpowering energy weapons."
+
+Sure, he could theoretically design such an energy weapon. He was quite proficient in the theory behind energy weapons due to acquiring numerous related System Sub-Skills.
+
+However, he never designed a mech with such an extreme weapon. They were great in mech duels but quite terrible in real battles. Ves would be stupid to equip any of his Larkinson mechs or commercial mechs with such a stupid weapon system.
+
+He ultimately lacked the confidence to design a powerful energy weapon for a ranged mech.
+
+One of the alternatives he could choose from was to design a ranged mech with a physical weapon. It was a lot easier to develop a gauss cannon or other kinetic weapon system that could deliver a big punch right away.
+
+Yet Ves didn't enjoy any advantages in this area either. The Eternal Redemption was the last mech he designed that was armed with a powerful physical ranged weapon, but the cannoneer mech model was awful in mech duels.
+
+"Ah, forget about it. I'll just settle for a simple melee mech."
+
+This was much less complicated. There were only a limited number of mech types and mech configurations that he was proficient with. Thinking back on his existing mech designs, he was particularly impressed by the Valkyrie Redeemer.
+
+While it was technically a marauder mech, it was able to function like a lighter version of a lancer mech.
+
+Ves was quite attracted to the notion of designing a lancer mech in this tournament.
+
+It was one of the biggest gambles he could make for this tournament. Either it would succeed in its charge and impale an opponent within the first minute, or it would fail abjectly and get beaten up by a mech that was able to cope with lancer mechs.
+
+"If it succeeds, it will definitely make a powerful and domineering impression. If it fails… well, at least its suffering will end quickly."
+
+He could choose other melee mech types if he wished. He wasn't in the mood to design them, though.
+
+While he was fairly confident in his ability to design a swordsman mech, he would always be burdened with the truth that Ketis would always be able to do better.
+
+It was a silly and unproductive thought, but Ves couldn't get rid of it. Each time he thought about designing any swordsman mech, he would always compare himself to Ketis. It was a psychological weakness that he needed to get rid of but couldn't do so at the moment. Fị𝒏dd 𝒏ew upd𝒂t𝒆s on n(o)v/e/l𝒃in(.)com
+
+What else could he design? An axeman mech? A hammer-wielding mech?
+
+"I don't know anything about axes or hammers."
+
+What about a knight mech?
+
+"I'm not a defensive specialist. I won't be able to do a knight mech justice."
+
+Specializations mattered a lot at the Journeyman level. High-ranking mech designers who excelled at defense could design machines that were much more resilient than whatever Ves could come up with! Man-machine symbiosis was strong in several areas, but it could not make a mech tougher!
+
+Perhaps average Journeymen weren't much of a threat, but the High Tide Tournament attracted a lot of skilled and renowned mech designers. Ves could not take any of his competition lightly. If he wanted to secure a victory against them, then he needed to play to his strong points.
+
+To Ves, adapting the concept of the Valkyrie Redeemer to a competition mech sounded like a workable approach.
+
+Sure, it wasn't an original idea, but Ves wasn't obligated to innovate in every design setting.
+
+Sometimes, it is better to stick with familiar territory!
+
+"While I definitely want to make progress in this tournament, it can't come at the expense of obtaining combat carriers."
+
+Only the top 3 contestants of the High Tide Tournament were eligible to receive these coveted vessels!
+
+Ves couldn't afford to play around!
+
+Although designing a lancer mech was far from the only viable choice he could make, right now he just felt like it. Besides, his competition mech would not be a close imitation of the Valkyrie Redeemer.
+
+The tournament rules and the arena setting turned that into a bad idea.
+
+Instead, he needed to adapt his lancer mech configuration to perform well under the current circumstances.
+
+Ves created a list of traits that his lancer mech should possess.
+
+"It has to possess high acceleration. It doesn't have to be able to sustain it or possess a small turning radius, but it absolutely must be able to charge forward without an excessively long lead time."
+
+Juliet Stameros would easily be able to design a powerful flight system that could produce a powerful impulse, but Ves believed he could make a decent attempt.
+
+"My competition mech must be able to destroy or at least cripple a target with a single charge."
+
+Lancer mechs generally rarely enjoyed second chances if they failed a charge in a duel setting. If Ves wanted to minimize his chances of failure, then he needed to make sure his competition mech possessed the capital to finish the job in a single run!
+
+Speed and momentum were huge factors in determining the damage potential of a lancer mech, but Ves needed to pay attention to other areas as well.
+
+"My lancer mech must be able to survive and maintain as much functionality as possible until it is able to complete its charge."
+
+This meant that his work had to possess at least some defensive capabilities. This translated into a larger, heavier and tougher mech.
+
+The problem with this was that it was a lot harder to develop a lancer mech that got up to speed quickly if it was a lot more massive.
+
+"Another problem is maneuverability." Ves frowned. "A sluggish mech doesn't have a good turning radius. This makes it hard for a lancer mech to hit fast and elusive targets."
+
+A light mech was the nemesis of a lancer mech!

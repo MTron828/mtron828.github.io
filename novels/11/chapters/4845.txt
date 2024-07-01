@@ -1,0 +1,88 @@
+Energize and Prepare
+0.00 / 0.00
+
+﻿
+
+"Begin!"
+
+Ves and all of the other participants of the Twin Weapons Tournament had a serious design challenge on their hands!
+
+He could swear that Master Elroy and his fellow colleagues were laughing behind everyone's backs for coming up with these inane set of rules.
+
+The biggest limitations were the rule that forced the teams to design at least one light mech and the rule that compelled all of the mechs to incorporate an obvious weak point.
+
+The implications of these two rules were massive and forced every participating mech designer to discuss their plans with their partners.
+
+Once all of the 71 teams took their places in the main area of Spencer Hall, a large number of energy screens came to life, isolating them in their own little cells.
+
+The floor shifted to reveal numerous terminals, work tables, break rooms and most importantly the advanced superfab.
+
+Ves studied the model for a moment. It was considerably better than ordinary second-class superfabs but fell short of the AP-VEX Superfab that he obtained for 60 million MTA merits.
+
+Many mech designers immediately approached the superfab in order to explore its interface and study its technical specs. They needed to know what it was capable of in order to ensure their upcoming design work could be realized in the short time they had available.
+
+"Hm, this is a surprisingly user-friendly superfab model." Ves remarked as he compared its technical specs to that of the superfabs he worked with. "The DUT is a learning institution, so it makes sense for it to procure a large batch of superfabs that are designed with wider tolerances and lower precision in mind. The degree of automation and preassembly functions are also particularly high. It is easier to fabricate working parts with this machine, but it is nearly impossible to stretch it beyond its narrow limits and produce truly excellent parts."
+
+That was a disappointment to Ves. He was accustomed to working with more advanced hardware that were primarily designed to be utilized by Senior Mech Designers and Master Mech Designers.
+
+However, there was no time for him to waste on maximizing the quality of his products. He needed to prioritize speed instead, and working with a more dummy-proof superfab was clearly the better choice.
+
+As the two Journeymen from the Larkinson Clan thoroughly explored the superfab's capabilities, they had already begun to discuss the ramifications of the rules and restrictions.
+
+"Those enforced weak points are going to be a huge pain." Ves complained. "Almost every mech designed for combat and even non-combat purposes always carry thicker armor at the front. There are good reasons for this as they are most likely to get damaged by frontal threats. Leaving the rear less armored is not that reassuring, but there are ways to prevent enemies from targeting your rear while in active combat. You can't do that when targeting enemy mechs. You have to face them with your front."
+
+"We can design mechs that can circumvent this rule. For example, you can arm it with weapons that can fire backwards." Juliet proposed.
+
+"Nope. Won't work. I've already skimmed through the full document that explains the rules. There are provisions that specifically guard against that loophole and many others besides. We can design a knight mech with a thick fat shield if we want, but it can't be permanently affixed above the weak point like a pseudo-armor plate. Those Masters who drafted these rules have accounted for every possibility. We should just follow the rules and not try anything funny."
+
+"I see." The Penitent Sister mech designer frowned. She was just as unaccustomed to this situation as Ves. "If we truly must incorporate these dreadful weak points into our mech designs, then we need to think about defense first. The other mech designers are likely doing the same. Our mechs cannot win any matches if their weak points are exploited first. Our design approach must proceed on the premise of defending the weak points of our own machines while at the same time setting them up to target the weak points of the opposing mechs."
+
+Ves slowly nodded in agreement. "Your logic is sound. I agree with you. The Twin Weapons Tournament centers almost entirely around how the competition mechs are able to handle these vulnerabilities. Well, there is also the rule that forces every team to design at least one light mech in their lineup. If we can design a striker mech, it should be able to counter that light mech really hard, weak point or not. Don't you agree, Juliet?"
+
+His partner for this competition frowned.
+
+"I am afraid it is not as simple as you think. Striker mechs… are indeed effective against light mechs, but only at close range. They will struggle to take out ranged light mechs. Striker mechs are also generally heavier and slower in order to accommodate more armor and firepower. Their defenses are generally stronger to compensate for their lack of evasion ability, but in this case it is not a good choice because their weak points are clearly exposed."
+
+"We can equip the striker mech with a shield. They're commonly known as riot mechs." Ves proposed. "It is a common combination to pair a mech with a ranged weapon and a shield in numerous regions of human space."
+
+"Hm, that might work, but there are reasons why mobile rifleman mechs are more popular, Ves. Striker mechs are already slow enough. Striker mechs equipped with shields are even slower and less agile. They have clear advantages in ranged combat, but they cannot effectively defend themselves in melee combat. Light mechs can ironically counter them as long as they are attacked from their rear. The mechs you have described cannot turn around quickly enough to defend against attacks launched from other directions. You will effectively be trading a frontal vulnerability point to a rear weak vulnerability if you opt for a riot mech."
+
+Ves frowned and rubbed his hairless chin. "You sound like you don't want to weigh down any of our mechs with physical shields."
+
+"I think that relying on armor is a trap." Juliet theorized. "When Master Elroy explained the rules to us, you can hear his disdain towards mechs that are equipped with physical or energy defenses. Don't forget about his specialization. He has a deep appreciation and bias towards mobile mechs. I would not be surprised if he was the main individual responsible for drafting the rules in the first place. I think that he is subtly encouraging us all to design highly mobile mechs."
+
+"That… is an interesting theory, Juliet. I did not think about this situation from this angle. I am not certain that your interpretation is as strong as you suggest, though. The rules may be set in a way that encourages the use of highly mobile mechs, but I wouldn't rule out the alternatives either. One of the most straightforward pairings that we can design is a rifleman mech and a knight mech. The former shoots down the enemy mechs while the latter defends from most of the incoming attacks. It is a classic combination even if the added restrictions force the teams to make compromises or adaptations such as equipping the ranged mechs with a shotgun or a flamethrower."
+
+Ves believed that most teams would opt for this classic combo. It was probably fairly weak against certain combinations of light mechs, but fairly strong against anything else.
+
+The two mech designers from the Larkinson Clan continued to argue against each other about what sort of mech types they should focus upon.
+
+Ves already had his mind set on a particular combination. "We need to design at least one light mech. If this is the case, then I would prefer it to be a light skirmisher."
+
+"What is your reasoning?"
+
+"Because out of all of the possible light mechs we can design, the light skirmisher possesses the highest lethality under ideal circumstances. We could design a light ranged mech, but its firepower will be so low that it cannot threaten any opponent unless it is able to strike the weak points. It is better to stick to a classic light skirmisher that can either storm an enemy's front and attack the weak point with great speed, or have it circle around and attack a slower but more defensive mech from the rear where it cannot adequately fend off attackers."
+
+"I am not opposed to designing a light skirmisher." Juliet said. "I have sufficient experience with designing one. I also think it is a good and flexible choice. The more important decision is the ranged mech that we pair with a light melee mech. It cannot be slow and rely too much on armor to defend itself because it will only be outflanked in a serious match."
+
+A light skirmisher was a purely offensive mech. It was exceedingly bad at defending other friendly mechs, so it was a bad choice to pair it with a less mobile ranged mech.
+
+Ves kept thinking. "A mobile rifleman mech might do, but I do not feel it is the right choice. It will perform decently against most opponents, but it is easily countered by an opposing light skirmisher. I would rather go for a striker mech because it can at least defend effectively against these pesky flies. Besides, Spencer Hall isn't all that large. The range will remain fairly short so striker mechs should have a greater advantage in this specific tournament."
+
+Juliet shook her head in disagreement. "If we go for this choice, we will suffer from the problem that we have described before. It is too easy to counter a striker mech with a mobile  rifleman mech that is careful about maintaining its distance."Discover 𝒏ew chapters at novelbi𝒏(.)co𝒎
+
+Neither mech designers liked this dilemma. A rifleman mech and a striker mech both possessed clear strengths and weaknesses. Choosing one would force the two mech designers to commit to a strategy that might not work out that well against all opponents.
+
+"If we have to stick to a light skirmisher as our melee mech, then we will always have a problem with the survivability of the ranged mech." Ves sighed. "The single-elimination bracket makes this an unwise decision. Our mechs cannot suffer a single defeat. If they do, then we are out of the tournament. I don't know about you, but I am determined to take first place. We need to think outside the box and come up with a more adaptable and resilient combination that can fight against a variety of opponents with at least decent effectiveness."
+
+Juliet gazed at him. "You sound as if you have already come up with a possible solution. What do you propose?"
+
+"What if instead of settling for either a rifleman mech or a striker mech, we combine both of their strengths in a single frame? What if we opt for designing a hybrid mech that can carry both a long-ranged weapon but also has in-built flamethrowers or vice versa?"
+
+"...I do not think that is a wise idea, Ves. We only have two days to complete our work. Hybrid mechs are some of the most complicated and time-consuming mechs that you can design. It will take too much time for us to design a hybrid mech that incorporates multiple integrated weapons without introducing more weak points. The ideal of trying to combine multiple ranged mech types into a single mech frame sounds promising in theory, but it is anything but practical."
+
+"I disagree."
+
+"Are you sure about that, sir?"
+
+Ves smirked. "Have you forgotten about my recent improvements? I've become a lot more capable recently. I can tell you that I can do three times as much design work as before. Do you understand the implications of this? I can essentially cram 6 days worth of design work during the design phase! Perhaps hybrid mechs are not viable choices for other mech designers, but I am different. If you believe in my ability, then let us proceed with this combination. As long as the hybrid mech is light enough, it can accompany our light skirmisher and assault the enemy mechs at close range!"

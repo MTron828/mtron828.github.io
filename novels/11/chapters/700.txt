@@ -1,0 +1,144 @@
+Majestic Desert Splendor
+0.00 / 0.00
+
+Without a rudimentary understanding of how neural interfaces worked, a mech designer could still figure out a viable solution, though it would take them longer.
+
+When Ves cut out the complicated jargon and unimportant variables, the basic situation with the mech looked clear. The filters and other measures the neural interface possessed to truncate and purify the data entering the brains of the mech pilot stopped working as normal.
+
+They still worked, but not to a perfect extent. If they stopped working at all, a mech pilot’s brains would probably fry within seconds, which was not what the Church of Haatumak wanted to see.
+
+"They want to drag out the torture, make the mech pilots suffer, and witness a good show."
+
+Another clue reinforced this notion. The Evaporating Spear was one of the crappiest third-hand mechs he had ever seen. Even the cheapest, most awful pieces of junk that Walter’s Whalers employed in the Glowing Planet campaign were more reliable than the Evaporating Spear at its current state!
+
+"Two days? This mech probably needs at least three weeks of around-the-clock servicing to reach a satisfactory level of performance!"
+
+However, Ves knew that the cultists didn’t want to see that. The Redemption Duel wasn’t about the machines. To these crazies, it was all about torturing the mech pilots as long as possible and to see which one lasted the longest.
+
+The crappier the mechs, the longer it took to deliver a lethal blow to each other, thereby insuring the Redemption Duel wouldn’t end in the first minute.
+
+"It’s also cheaper that way. If they employed their proper mechs instead, they risk damaging tens of millions of worth of credits in mechs."
+
+Losing the Evaporating Spear cost the Church of Haatumak nothing, considering they likely salvaged it off a debris field in space somewhere. Losing a more valuable mech like the Gun Whale or the Snapper Dolphin directly weakened their defense line while impacting their budget.
+
+Fanatics or not, they could hardly operate the Temple of Haatumak on faith alone!
+
+The first two problems Ves planned to address required little thought on his part to address. Ves possessed an abundant amount of experience in tweaking the internal architecture of mechs, and patching up the structure of the frame sounded no different to what he was already responsible for as head designer. F0lloww new 𝒄hapters at nov/(e)l/bin/(.)com
+
+"It’s the third problem that’s really the crux. The neural interface is actively working against the mech pilot, and the only way for me to mitigate the damage is to manipulate the input of data from the rest of the mech."
+
+A mech consisted of a complete system. The cockpit of a mech served as the control center that directed the actions of a mech by transmitting the commands of the mech pilot sitting within.
+
+Mech. Cockpit. Mech pilot.
+
+Ordinarily, a mech designer grouped up the former two or all three of them in a single group, essentially regarding them as one entity. A completely normal neural interface allowed the mech designer to blur the distinction between the mech and mech pilot and therefore consider their combination as the effective controlling force of the machine.
+
+"Yet now the neural interface has stopped working as intended."
+
+A complication occurred in the connection between the cockpit and the mech pilot. The chain had been broken and the cycle of input and output became rugged and uneven.
+
+The input from a mech to its mech pilot became bloated with junk data, while the output from the mech pilot to its mech became shriveled due to the unimaginable pain he went through.
+
+Both of these effects decreased the level of control of the mech to a point where the mech pilot effectively exhibited an F-grade neural aptitude.
+
+This was catastrophic.
+
+"I’ve got to bump up the effective neural aptitude to at least E or E+. Settling for E- is too insufficient. Acolyte Gien is no Leviticus, and a spaceborn mech requires substantially more exertion to pilot than a landbound mech."
+
+If Ves centered his perspective around the mech pilot, then he had two ways of addressing the problem. He could either minimize the input of data or amplify the output of data transmitted out of the mech pilot’s brains.
+
+Despite the gruesome nature of this torture, Ves couldn’t help but become intrigued at this unique problem. It was a novel situation that Ves had never encountered before in his career as a mech designer.
+
+Ves enjoyed these challenges. They presented an interesting set of demands that Ves needed to pull all the stops to fulfill. Any passionate mech designer would feel the same as him. Fail or succeed, they always came away with another distinctive experience that enriched their mech design foundation.
+
+However, this assignment came with one other major snag. The ethical dilemma constantly hung over his head like a Sword of Damocles ready to slice his head from his neck.
+
+The issue stemmed from the fact that if Ves played along with the twisted game the Soulless Priest pushed him into, he’d be engaging in a gross violation of the mech designer’s creed.
+
+A creed was more than a simple statement of intent. It governed the spirit that guided his design work.
+
+The wording differed from region to region, from school to school, from teacher to teacher, from generation to generation.
+
+However, the essence of the creed broadly followed the same core thread.
+
+"Mech designers are servants to the mech pilots they serve."
+
+This simple, broad sentence laid down the ideal relationship between a mech designer and a mech pilot. A mech designer must not place their interests above the interests of the mech pilot, and should never produce a mech that harmed the mech pilot.
+
+It was pretty safe to say that the Evaporating Spear with its messed up neural interface directly took a dump on the mech designer’s creed.
+
+If Ves was a scummy pirate designer who possessed no scruples for any rules or taboos, then he wouldn’t let this little ethical violation stop him from advancing his goals.
+
+Yet he was not. Ves may have played fast and loose with some of the rules, but when it came to mech design he had almost always embodied the spirit of a proper mech designer.
+
+He may not look like it at times, but he agreed with and identified with the mech designer’s creed.
+
+It fulfilled the same role as the old Hippocratic Oath that had been much-maligned during the Age of Conquest and only recently regained its standing in the Age of Mechs.
+
+Doctors and exobiologists used to treat their patients as test subjects for their latest genetic concoctions. The old rule that they should do no harm to those under their care was conveniently laid aside, to disastrous result as their unbridled experimentation led to horrors that humanity had only been able to suppress at ruinous cost.
+
+No one wanted to reopen Pandora’s Box in this age.
+
+Humanity had learned the hard way that good ethics played a vital role in steering their civilization. From the start of any mech design class in a university or institution, the teachers stress the importance that they were brought up to become a mech pilot’s most essential aid.
+
+"The mechs we fashion out of our imagination brings mech pilots one step closer to victory."
+
+Would Ves still be doing the mech pilot a service by developing a literal torture machine for him? No matter what mental gymnastics he came up with, Ves couldn’t avoid the fact that his product was expressly designed to harm and torment its own mech pilot.
+
+Even if Ves was brought up by the orthodox principles of the MTA, he could still accept this bad situation by convincing himself that enabling Acolyte Gien to win would benefit the poor sod more than any other alternative. The traitor to the Church had already been condemned to death. The Redemption Duel offered a minute opportunity to gain a second life, so technically Ves shouldn’t make a big deal out of this situation.
+
+The problem here was that the Evaporating Spear pretty much ran counter to his own design philosophy.
+
+"And that makes my approach to this mech exceedingly important."
+
+No matter what road he decided to take, once he stepped forward he could never go back. His decision at this point would impact his design philosophy for the rest of his mech design career.
+
+His design philosophy centered around bringing life to mechs and ascribing a higher intrinsic value to their existence.
+
+However, Ves did not forget about the human component either. A mech gained its fullest expression when they were paired up with a compatible mech pilot that shared the same traits and values.
+
+Simply said, a good mech was one that mech pilots felt comfortable about. Ves had always aimed to maximize the compatibility and fit between the mech and mech pilot, if only because it was an easy method to increase the performance of his products without investing in better licenses or more expensive materials.
+
+Becoming involved with the design of the Evaporating Spear threatened to chip away that the foundation that Ves had painstakingly built up for several years.
+
+Ves was particularly accustomed to pushing problems that he couldn’t solve to the back of his mind and forget about them, but he wouldn’t be able to do so at this instance.
+
+He couldn’t avoid the ethical implications of his decision. He needed to tackle it head-on. No matter what he decided, incurring damage was inevitable.
+
+..Or was it?
+
+If Ves approached this situation with the mindset of an orthodox mech designer, he might have tortured himself about the consequences of what he might incur. And while he did so, did this mindset really apply to him as closely as he initially thought?
+
+"Can I even call myself an orthodox mech designer?"
+
+Several points about his career track put this assertion to doubt. Ever since he received the System, his development had taken an entirely different progression. Not only had it accelerated, it also broke numerous rules, many of them harmless, but one of them was extremely egregious.
+
+He recalled the time he moved all the way to a lifeless star system in the middle of the Bright Republic and holed himself up in an asteroid to work on a gamma laser rifle. Back then, his nascent design philosophy was a lot more immature, and thereby had been flexible enough to remain intact despite his massive violation of one of the fundamental taboos of the MTA and CFA.
+
+Even though the System instigated him into doing so, Ves fully accepted responsibility over his crime!
+
+"I’ve already run roughshod over the rules governing mech designers!"
+
+Even though he only crossed the line so severely for a single instant, that decision tainted his entire outlook on mech design.
+
+He realized the effect even now. A normal mech designer should have been horrified and apprehensive at the thought of breaking one of the cardinal rules that the MTA held high! Yet while Ves agonized over the decision, he didn’t exactly feel any fear at the thought of crossing the line!
+
+The absence of fear perplexed him. Why didn’t he feel scared at the thought of treating the MTA and its sacred cows with contempt?
+
+Now, he realized that the incident with working with gamma ray technology affected him far more than he had ever thought. His design philosophy already followed a skewed path from the start, but choosing to work with forbidden tech derailed his path completely from the orthodox direction!
+
+In essence, Ves had more in common with the pirate designers of the frontier than the orthodox mech designers from civilized space!
+
+The principles he thought he respected so dearly turned out to be empty platitudes that Ves only adhered to when it suited him. The moment a rule became a hindrance to his interests, he wasn’t afraid at all to push it aside!
+
+"I am unbound from the MTA!"
+
+This statement encompassed the state in which he found himself in. While he still valued certain principles, they didn’t necessarily have to match the principles of the MTA! What was best for Ves may not be best for the MTA and vica versa. Becoming unbound from this powerful organization meant that Ves essentially freed himself from becoming one of their slaves!
+
+He laughed, causing Acolyte Villis to stir from her robes. The old lady had been watching Ves quietly while he wasted his time in his own mind. To her, Ves should be making use of every spare second to improve the Evaporating Spear.
+
+Yet none of that was as important as the realization that Ves no longer needed to concern himself with shackles that no longer existed.
+
+No one cared about the rules in the frontier! Why should Ves be any different?
+
+Perhaps he spent too much time immersing himself in frontier culture, or perhaps the mental contamination from the Skull Architect and the research papers had influenced him too much. Yet now that he thought about it, why should he hold any reverence to the sacred cows when Ves was in the mood for steak?

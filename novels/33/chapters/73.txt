@@ -1,0 +1,126 @@
+Winter Wonderland
+0.00 / 0.00
+
+Chapter 75: Hacker
+
+Translator: Chocolion Editor: Millman97
+
+Ten minutes later...
+
+Snap!
+
+Magarnu twisted the neck of the sentry guard.
+
+They had already secured the information they wanted.
+
+Winna’s voice blared out from the communication device. “From our preliminary reconnaissance activity, we discovered that the base has been divided into 6 high-alert regions. The level of defense gradually increases from the innermost to the outermost sectors. We are currently at the outermost region.
+
+“Every high-alert region will have a sentry post manned by an officer and his troops. Based on our previous interrogation, officers have access to the intranet of the military base. Therefore, as long as we can arrive at the sentry post, we will be able to access the intranet and gather intelligence using the officer’s computer.
+
+“This sentry guard revealed the exact position of the post. Let’s move out immediately!”
+
+Ye Fan knew that even the slightest delay would change the outcome of the operation. There was a series of protocols to follow for the shift-changing of the sentry guards in the next few hours; by then, other soldiers would discover the disappearance of the sentry guard who had been killed. However, their first priority was still to gather sufficient intelligence even if that risked revealing their positions, since ultimately, the enemy would realize the impending invasion by the Hesla military. They needed to find out the military strength and defenses at the Dark Crow Valley base.
+
+If Winna managed to succeed, the agents of Division 13 hiding in Dark Crow Forest Town would fall into the precarious situation of revealing their positions to the enemy. The agents might even be caught before they made their moves.
+
+Ye Fan analyzed the situation rationally and made the decision.
+
+“Operation approved! Immediately head out to the enemy base.”
+
+Winna nodded and disposed of the sentry guard’s body. She then led her teammates into the enemy base.
+
+Ye Fan heaved a sigh of relief, and his eyes moved away from the screen. He glanced at the operations’ office of Division 13 and shook his head slightly. He did not know what his decision would bring, but he wanted the best for the mission. He would inform the department afterwards.
+
+There were times when one had to take a leap of faith.
+
+...
+
+Before twilight, Winna and her team found the sentry post.
+
+It was a shed camouflaged deep in the vegetation used by the hunters.
+
+Quietly, the team moved closer to their target. Magarnu grabbed the sound-wave detector from his haversack and scanned the interior of the shed from outside. The results returned revealed three human targets: one lying on the sofa and two who seemed to be consuming their supper at the table.
+
+Winna raised her hand and started the count.
+
+Three, two, one! Winna leapt forward into the shed through the window. Her teammates followed behind.
+
+The three enemy soldiers were shocked by the unexpected attack, and before they could retaliate, they were shot with the tranquilizers by the Hesla agents and collapsed onto the ground.
+
+The Hesla agents then searched the shed and the clothing of the unconscious soldiers. They uncovered a hidden compartment behind the wall. The agents discovered that out of the three soldiers, one of them was an officer based on the identity card he carried.
+
+“This is our target.” Winna grinned to herself. This officer by the name of Roman seemed to be the one in charge of the sentry post.
+
+The agents tied Roman up and gave him an injection to wake him up. Magarnu then slapped Roman repeatedly to speed up the process. “Tell us the password to the safe if you want to live!”
+
+Roman was scared to death by the troop of heavily armed agents and immediately confessed the password without any sign of hesitance.
+
+After entering the password, the safe successfully opened, and a laptop could be seen. After turning on the laptop, a sign-in page appeared on the screen, and both the identity card and a verbal password were required to access the portal.
+
+Roman was very cooperative, and the agents managed to access the portal with his account. Following the jingle, the words ‘Dang Dang Dang the Germinal assistant is at your service.’ flashed on the screen.
+
+Startled, Ye Fan choked on his coffee.
+
+All the agents had confused looks on their faces. No one could have imagined that the portal’s interface would look like that.
+
+Ye Fan didn’t know what to say. “What a cute portal...”
+
+A couple of menus appeared on the server, and due to the low rank of Roman, he could only access a few of them. Winnie found the page that displayed the daily activity log for the military base, and the team became really excited.
+
+There must be important information hidden in the daily logs.
+
+“Let me do it.” Ye Fan instructed Magarnu to plug the chip into the computer, which allowed Ye Fan’s computer to also access the server.
+
+There was a look of seriousness on Ye Fan’s face, and his fingers started to punch the keyboard and input the codes like a butterfly dancing in the air.
+
+Level 1 Firewall, hacked!
+
+Level 2 Firewall, hacked!
+
+Level 3 Firewall, hacked!
+
+One-time-password, hacked!
+
+Rights restrictions, hacked! CH𝒆Ck for 𝒏ew st𝒐ries on no/v/el/bin(.)c0m
+
+Ye Fan gave a slight smile. He was a seasoned hacker in Hesla with hundreds of viruses and bugs in his arsenal. Except for certain servers on the dark web, there was practically no server that could escape his attacks.
+
+In less than three minutes, all the encrypted documents were decoded. At that point, the enemy technicians realized what was happening and started deleting the documents frantically while Ye Fan was copying the files.
+
+In a brief moment, all the documents were deleted. Ye Fan’s computer was too slow and only managed to copy 28% of the documents. The more confidential documents were deleted first.
+
+However, the copied documents contained sufficient intelligence, including defense blueprints, internal structure information, and the military strength of the base.
+
+Ye Fan felt relieved. “Good job and well done! Now it’s time to return.”
+
+The attempt to steal sensitive information about the Dark Crow Valley base would definitely heighten the security of the enemy. However, it was all worth it for the intelligence reports.
+
+But despite the success, there was still a sense of unease in Ye Fan.
+
+It seemed a little... too easy.
+
+...
+
+A member of staff from the central control room of the Dark Crow Valley base reported, “Sir, our external server was hacked.”
+
+The assistant director of the military base was Ji Jie. He was a tall, lanky man with a sly appearance. He proceeded calmly to the screened and asked, “What data was stolen?”
+
+“The daily activity logs, internal structure of the military base, the coordinates of the base, the sentry logs for the base...”
+
+Even though so much critical information had been stolen by the hackers, there was no sign of panic within the base.
+
+“Were the hackers actually from Hesla?”
+
+“The bait is set; now, we are just waiting for the fish.” Ji Jie gave an eerie grin. He was like a hunter, excited to see the prey he had managed to trap.
+
+Ji Jie went into the director’s office and reported the situation to Pan Kuang.
+
+“Our external deceptive server was hacked. I presume the hackers to be from Hesla, and they will probably launch a military invasion soon.”
+
+Pan Kuang was polishing his dark, long machete with his handkerchief. The machete had an icy cold blade and a thick body with its handle wrapped with strips of cloth. There were clear spots of dried blood on the cloth. The machete had been used to slay many enemies throughout the years.
+
+Pan Kuang was fixated on polishing his blade. He then asked calmly, “What do you think we should do?”
+
+Ji Jie cleared his throat and said, “Although the information stolen by the enemy is false, we have unfortunately revealed the existence of the base. Therefore, I hope that the chief can evacuate the base and bring along all necessary equipment and information. In addition, I also recommend that we deal a hard and decisive blow to the existing enemy forces.”
+
+”Ok, just tell me when you need me to fight,” Pan Kuang replied.

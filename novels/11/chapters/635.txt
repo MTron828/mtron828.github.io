@@ -1,0 +1,128 @@
+Fitness Fun in the Park
+0.00 / 0.00
+
+Ves had the tendency to be driven by obsession whenever he put his mind on a major project. This mostly manifested whenever he began to design a virtual or a physical mech design. He ignored every other matter in favor of solving the puzzle pieces brought in front of him. He loved these moments, because he felt as if he performed his calling.
+
+Right now, his latest obsession concerned stealth technology. His fears about their use by his enemies and the thought of mastering this technology for his own ends drove him on a path to no return. He could halt his progress, set it aside for a time, but he would never be truly content until he reached the promised end.
+
+As Ves stepped back inside his office, he sat down behind his desk and unlocked the top drawer. Two crude hand-sized gadgets rested inside. Ves retrieved both of them and placed them on top of his desk.
+
+Ves smirked at his handiwork for the last couple of days.
+
+He had gone through a lot of trouble to construct these two gadgets. He spent hours on adapting their capabilities into a slim and portable form factor for both devices.
+
+He flicked the activation button for the first device. A horrible feeling of static washed over his body, and his terminal projection turned unstable before winking out entirely. When Ves tried to activate his comm, the wrist device acted as if it had gone completely dead.
+
+"It still works." He muttered and flicked another button that shut it down.
+
+The gadget was an inspired creation of Ves. Inspired by Calabast’s jamming device, Ves wanted to obtain something similar. He was amazed at the original device’s effectiveness despite its compact package.
+
+That led to the creation of his first homebrew jamming device. Ves skimmed over several technical documents from the central database for inspiration. While he only had access to technical specifications of jamming modules sized for mechs, he still managed to derive their principles with the help of his existing base knowledge.
+
+Once he understood the principles, it wasn’t hard for him to design an imitation scaled for humans. The result was a working jamming device that was smaller but much less powerful than the real deal. It could effectively block all manner of signals within a range of a couple of meters.
+
+It was a passable first attempt. While it hardly matched Calabast’s more refined jamming device, it still did the job. Ves had no doubt that he could refine his initial attempt into something smaller and better if he spent enough time on this project.
+
+"Still, this isn’t the only project on my mind."
+
+The jamming device was useful, but the utility of his next creation was much more valuable to him. He carefully placed the jamming device back in the draw and shoved the second device to the center of his desk. He pressed its activation button, causing its surface components to unfold into an array of antennas.
+
+Another wave washed over his body. Compared to the jarring sensation of being shocked by static electricity, this one was more subtle. The output of his second gadget wasn’t meant to disrupt signals and transmissions.
+
+Instead, it was meant to detect invisible presences.
+
+Ves stood up from his desk and pulled out his multiscanner from his toolbelt. He activated his scanner and held it out towards his second gadget. He started off pointing his multiscanner right in front of the active device, and slowly stepped backwards until his back bumped against the bulkhead of the compartment.
+
+"Damn. It’s worse than last time."
+
+This meant his second device had degraded due to its shoddy construction. After studying the readings from his multiscanner, he figured out its effective was no more than five meters.
+
+"Five meters of effective stealth detection. While it’s better than nothing, that won’t help me if an infiltrator is aiming a gun at me from a distance."
+
+The second device was his attempt at creating a compact human-sized stealth detector. The original mech-sized sensor array was already delicate and finicky. Shrinking it by at least two orders of magnitude introduced many complications. Its effective range dwindled from thousands of kilometers to only a handful of meters. Discover 𝒏ew chapters at novelbi𝒏(.)co𝒎
+
+The main problem with these gadgets was that their power supply was woefully insufficient. The larger mech-sized modules could tap into the mech’s central power supply at any time. These handheld objects wouldn’t be able to do so because Ves wasn’t in the habit of carrying a portable power reactor everywhere he went. He had to fashion some batteries for the devices, and what power they eked out was woefully insufficient to the task at hand.
+
+Without access to better batteries, Ves wouldn’t be able to upgrade the capabilities of his two latest gadgets.
+
+"It’s fine, though. After some refinement, they’ll be good enough to earn a permanent place on my toolbelt."
+
+He pursued these pet projects while he thought about his approach to reconstructing a stealth shuttle. Compared to the challenge of creating a jamming device and a stealth detector, figuring out the principles of stealth technology was a much larger challenge.
+
+The chief engineer was right to doubt the viability of this project. Both of them were burdened with a huge workload, and sinking so many free hours into this pipedream may not be the best use of their time.
+
+Ves didn’t care.
+
+"The mech designers and mech technicians don’t need any hand holding by this point."
+
+While it was true that he could always solve the problems the others had difficulty with, they needed to stand on their own. Ves increased his dependence on delegation to take care of mundane matters. He became proficient at figuring out which issued needed his personal attention and which problems could be left to his subordinates.
+
+If Ves delegated hard enough, he could easily create some holes in his schedules that he could devote to his pet projects.
+
+"I’ll certainly need a lot of time to figure out how to build a stealth shuttle."
+
+It helped that Ves had worked with a primitive iteration of stealth technology. Some of his old virtual mech designs incorporated very real instances of stealth plating. Back then, the principles behind this technology was crude but understandable to any Apprentice Mech Designer.
+
+Hundreds of years of ceaseless progress and refinement had left these crude applications of stealth tech in the dust. The difference between old and modern stealth tech was as vast as comparing a horse-drawn carriage to a modern flight-capable aircar.
+
+"The leap is too big."
+
+If the evolution had been smaller or more gradual, then Ves could still leverage his old knowledge to construct a new framework in his mind. That was out of the question now. The differences between the generations was so vast that it might as well be a new development field.
+
+Modern stealth technology accomplished more than fooling the eyes and ears. It could suppress a much wider range of signals in the electromagnetic spectrum. It could block sound and vibrations. It could counteract gravitic sensors, basically fooling even gravity itself in a limited fashion.
+
+"Hiding a multi-ton mech or shuttle from powerful sensors and scanners can’t be done by snapping your fingers. It takes a huge amount of ingenuity and cross-discipline collaboration to come up with something that actually works on mechs."
+
+The technical challenges to develop a working example of stealth technology was enough to fill the storage of a data chip.
+
+It was a good thing that the salvaging parties recovered some debris of the stealth shuttles. Even if not a single component was complete, Ves could still scan their composition and derive the underlying principles from what remained.
+
+It was like possessing an encrypted textbook on stealth technology. Cracking the code required a lot of work, but that was infinitely easier than trying to reinvent one of the most complex wheels that Ves had ever encountered.
+
+Pulling in Chief Avanaeon as his unwitting assistant allowed Ves to draw strength from the chief engineer’s considerable knowledge base. With more minds at work, the decryption process would go a lot faster.
+
+His ultimate goal wasn’t to create a working stealth shuttle. His ambitions was much more encompassing than that. Even though stealth technology was restricted knowledge, who could blame him if he figured it out without anyone else’s assistance?
+
+Once the Mech Corps released him from his service, Ves would truly be able to leverage his gains.
+
+There was only a single snag in his plan.
+
+"Stealth tech is prohibited by almost every state. Only state actors are permitted to wear stealth suits or pilot stealth craft."
+
+This basically meant that he couldn’t flaunt his stealth creations or put them on the market.
+
+"No matter. I can still fabricate some mechs and hand them over to the Avatars of Myth."
+
+Expanding, strengthening and increasing the Avatars of Myth would be one of his highest priorities once he returned to civilian life. Ves had to admit that he had become charmed to the strength of the Flagrant Vandals. The mech regiment was able to avoid many problems that could hamper a normal mech outfit just by virtue of its status and actual strength.
+
+Ves recently aspired to possess the same kind of strength! With hundreds of landbound and spaceborn mechs at his disposal, hardly anyone in the Bright Republic could pose a threat to him! Cultivating a hidden force of assassin mechs would also allow him to take the offensive without incurring greater repercussions.
+
+"It feels good to hit back for a change."
+
+Now that he thought about it, it might be better to allocate his stealth mechs to another force. The Avatars of Myth were meant to attract publicity, showing the galaxy what his products were capable of when utilized at their full potential.
+
+Stealth mechs worked best if they worked in the shadows. Connecting them to a public outfit like the Avatars of Myth was detrimental to their effectiveness. All of his enemies would see them coming.
+
+"I’ll have to establish another outfit. It’s best if nobody can connect it to my identity. Maybe they can even pretend to be pirates or something."
+
+Ves would be able to wield this shady outfit to do his dirty work. Anyone who reached the annals of power inevitably accrued enemies. He hadn’t forgotten his old friends such as Michael Dumont, Vincent Ricklin and the rest of his scornful family.
+
+Before, he had been fearful of their power and influence. Lacking connections and unable to leverage as much wealth, Ves had no choice but to become their punching bags.
+
+All of this would change once he developed his own force of assassins and saboteurs. While recruiting capable and trustworthy mech pilots was still a huge issue, having the mechs in place at least opened up the door.
+
+"It would have been perfect if I can recruit veterans from the Flagrant Vandals."
+
+This was one hope that would remain unfulfilled.
+
+"I’ll have to recruit loyal mech pilots through another channel."
+
+Others had managed to do so, so what stopped Ves from accomplishing the same? He would probably have to turn to someone else for help, or rely on the System to figure out a solution on his own.
+
+All of these plans might have sounded fanciful, but Ves worked towards another end when he crafted these intentions. Having been exposed to some of the underground that ruled society from the shadows, Ves no longer saw it as a scary and incomprehensible abyss.
+
+He began to develop an ambition to enter the Nyxian Gap. He wanted to address an issue that had long laid dormant in his mind.
+
+He wanted to find his persecuted father and obtain some answers from him. Ves hungered for answers. About the System. About what happened to his mother. About the conspiracy his father became entangled with. More than anything, Ves wanted to dispel his ignorance and help out his parents.
+
+"My father wants me to forget about him and live for myself, but how can I do so?"

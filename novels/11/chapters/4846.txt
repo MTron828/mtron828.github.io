@@ -1,0 +1,98 @@
+Energize and Prepare
+0.00 / 0.00
+
+﻿
+
+"A hybrid mech?"
+
+Juliet Stameros wasn't stupid. She was a Journeyman just like Ves and deeply understood the technical challenges involved with designing a hybrid mech.
+
+These were mechs that did not easily fit into a single category. They deviated from other humanoid mechs in that they could not replicate the human experience.
+
+Conventional humanoid mechs such as swordsman mechs and rifleman mechs fought in a manner that closely mirrored how normal infantry soldiers fought.
+
+Ves had recently taken part in such a battle himself, so he fully understood how much more difficult it was to design a hybrid mech that performed fluidly enough in less than two days.
+
+"We will be making this a lot more difficult for ourselves if we design a hybrid mech for this competition." Juliet said with a frown. "Hybrid mechs are offensive mechs that normally do not stand out in terms of mobility. They are faster than knight mechs but slower than rifleman mechs. We can make them faster by lowering their armor content, but it will be difficult to make them any faster without compromising their integrated weapon loadouts."
+
+Hybrid mechs were offensive mechs by nature. Taking away their weapons invalidated his selection for this mech type. This was not a price that Ves wanted to pay in order to squeeze out a marginal amount of speed from this mech.
+
+Ves and Juliet rapidly sketched out a couple of crude draft designs. They performed a few hasty calculations in order to get a rough estimate of the technical parameters of their competition mechs.
+
+This ate away 20 minutes of their precious time, but they had no other choice. They needed to verify that their plan was viable before they invested the rest of their allotted time on realizing their desired mechs.
+
+"The light skirmisher should easily be doable." Juliet confidently said. "It is partially based on the Ferocious Piranha as there is not much of a reason to deviate from a winning formula that we are already familiar with. The only major deviations are the lack of a flight system and other changes to account for landbound operations. The light mech will not have the greatest top speed, but should have excellent evasion characteristics, especially in conjunction with its powerful but short-lasting boosters. It is only armed with twin knives and a backup pistol but that should be more than sufficient for its needs."
+
+Ves studied the proposed light mech. He felt that its armor might be a little too inadequate than he was comfortable with, but it was not as if thicker armor would make that much of a difference.
+
+There was a part of Ves that did not entirely feel good about this proposal. It took a moment for him to realize the reason why he felt restless.
+
+Juliet did not add anything exciting to the technical design and configuration of the light skirmisher. She did not go out of her way to add an experimental feature or stray too far out of her comfort zone. She approached the tournament with the mindset of sticking to what she was good at and trying to make it as solid as possible in the little time they had to complete their work.
+
+She did not do anything wrong per se, but she did not adopt a champion's mindset to this challenge.
+
+He inwardly shook his head. Juliet had not progressed as far as Ves and did not have any notably brilliant innovations to her name. There was no reason to fault her for trying to design a competition mech that was within her means and no further.
+
+In fact, it was not necessarily a bad idea for their team to make sure that at least one of their mechs turned into a known quantity. Its relatively conventional configuration could balance out the extreme design choices that Ves had made for the hybrid mech.
+
+Juliet closely studied the draft design that Ves had sketched.
+
+"It is as I thought. You went for a slimmed-down medium hybrid mech that is weighed down with numerous offensive armaments. While I admit that it should likely be fast enough to rely on evasion to avoid a great deal of damage, it is ultimately not a light mech."
+
+"I am aware of that." He responded. "The reason why I slimmed down the armor to this extent is to add a bastardized version of the Battle Skirt System that we created for the Maiden of Adversity design. I think it achieves the best of both worlds. The modular and adjustable armor plating will not offer as much protection as a solid physical shield, but it can be adapted to better guard against different kinds of opposition. What is even more important is that it can gradually shed its broken plates and reduce the total mass of the hybrid mech on a gradual basis. The final advantage is that it can offer physical protection without occupying any of the limbs."
+
+Juliet looked troubled again. "That sounds good in theory, but it is difficult to realize it with the limited tech and materials that we have to work with. The amount of effort you need to design a version of the Battle Skirt System that is specifically adapted to your hybrid mech can take several hours. What if you fixate too much on this optional feature and neglect the fundamentals of what should already be a complicated hybrid mech?"
+
+He sighed. "Just trust me, okay? I can do it. I know I can. I have the skills and the cognitive abilities to design this hybrid mech within the allotted time. I wouldn't propose a mech design like this if I thought I would be short of time."
+
+They discussed the issue a bit more but Ves remained adamant that he could make it work despite Juliet's legitimate doubts.
+
+"This is a challenge that is beyond the level of a Journeyman Mech Designer." Juliet pointed out. "You will need to push yourself beyond your limits in order to complete your extensive wish list."
+
+"Then you should be glad that I am not a normal Journeyman. I can really do this, Juliet. I can always pull back the scope of my design if it turns out that it is too ambitious for its own good."
+
+The hybrid mech that Ves proposed included a number of weapon systems that each took a certain amount of time to integrate into the mech design. He could always leave them out and fill the empty spaces with extra armor or other components if necessary.
+
+Once the pair of mech designers agreed with the combination that they had chosen for their competition entries, they moved on to specifying the more esoteric features of the two mechs.
+
+Ves had left this matter for last because it would be the gimmick that he wanted to rely upon to propel him to first place in this tournament!
+
+His colleague knew that he had left this for last for a reason. The idea he had in mind was great but might not work with all possible combinations of mech types.
+
+"Alright. I don't think I need to explain to you that pairing a light skirmisher with a mobile hybrid mech can either turn into an amazing combination or become a recipe for disaster. It depends a lot on how the two mech pilots are able to make use of their mechs and how well they can coordinate with each other. The tournament rules doesn't say whether the mech pilots drawn from the Federal Military are squad members who have developed any existing synergies, but it is safe to assume that this is not the case."
+
+Juliet nodded in understanding. "That can be a serious handicap for us. Light mechs have little margins of error to begin with. Knight mechs and other sturdy machines can afford to make mistakes, but we have given that up by committing to a speed route. We should look for methods to increase the degree of coordination for our mechs while preventing our enemies from doing the same. We can easily accomplish the latter by applying the same glow of the Ferocious Piranha to our light skirmisher. We only need one mech to fulfill this purpose. We can devote the other to a supportive glow."
+
+"No." Ves shook his head. "I already thought about that, but I do not think it will work out the way we hoped. Everyone is aware of my existing work. The Ferocious Piranha is one of my most famous works and I bet that our competitors will definitely find a way to account for this factor. Besides, the mech pilots of the Federal Military are well-trained and highly disciplined as a rule. They should have already received specialized training to resist such effects given how much copies of the Ferocious Piranha the LMC has sold in the last few years."
+
+He did not want to be predictable. He hated the idea of sticking to what worked in the past, because that was a good way to get countered by people who had done their homework on him and his work.
+
+"Suppressive glows are one of the strongest advantages of your work, Ves. What alternative do you have in mind that can help our competition mechs defeat their opposition?"
+
+"Do you recall Master Huron's works?" Ves began to smirk at his colleague.
+
+"I do. You based several of your own applications on his neural network technology. Where are you going with this, Ves?"
+
+"Don't worry. I am not going to mess around with neural interfaces. I don't have the necessary knowledge or permits to do so. My idea is that I will use my own design philosophy and specialty to design these two mechs as twins, for lack of a better word. My vision is to design these two living mechs concurrently and make them close from the beginning. Not only will they be attuned to each other as if they were born on each other's hips, I want to make it so that their mech pilots will be able to form a similar connection to each other."
+
+"That… sounds as if you are trying to replicate the deep and extensive coordination of the bonded couples of the Gemini Family."
+
+"The Geminis may be incestuous weirdos, but you cannot deny that what they have created is utterly brilliant. I don't dare to claim that my mech designs can recreate the full effects of their so-called destiny teams, but if I employ Titania as the design spirits of the two competition mechs, I am confident I can rig a special connection between the two living mechs that can facilitate a small-scale network that is strong enough to make a difference during the combat phase! I call it the Twin Souls System!"
+
+The Twin Souls System!
+
+It was the latest creative idea that Ves came up with! In his opinion, excellent teamwork was a fantastic force multiplier. If he could drastically increase the familiarity and coordination between two mech pilots who did not know each other too well, he could ensure that his competition mechs would be able to produce synergy that was far in excess to that of other mech pilot duos!
+
+Juliet finally looked impressed at this time! The idea sounded simple, but it was too difficult for most people to realize.Ch𝒆êck out l𝒂t𝒆st 𝒏𝒐v𝒆l𝒔 on nov𝒆l/bin(.)c𝒐m
+
+For example, Master Huron had to dedicate his entire career to mastering neural interfaces and developing dangerous and finicky neural networks in order to produce comparable results.
+
+The Gemini Family had to become complete pariahs and cross a lot of ethical lines in order to allow their bonded couples to understand each other over many years of their lives.
+
+If Ves could reproduce just a fraction of their most desired effects by tweaking the spiritual designs of his competition mechs in specific ways, then he predicted that it would make a huge difference in the arena!
+
+This was a design application that had a lot of promise as far as Ves was concerned.
+
+For now, he only limited it to fostering teamwork between a single pair of mech pilots.
+
+If he fleshed out this design application in the future, he might be able to increase its scope to allow for much better communication and coordination between many more mech pilots at the same time!

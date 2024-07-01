@@ -1,0 +1,100 @@
+Fitness Fun in the Park
+0.00 / 0.00
+
+The probes were impressively designed. Master Benedict Cortez only spent a short amount of time on their design, but his deep understanding of engineering along with his amazing understanding of energy allowed him to whip up a device that reluctantly met all of the criteria.
+
+The most important demand was that it could survive the hostile environment of the upper reaches of a brown dwarf star. The second most important demand was that it would remain as obscure and unnoticeable as possible.
+
+Under normal circumstances, Master Benedict would have preferred to design the probes and each of their individual components from the ground up, but he had opted to license existing probe and component designs to save a lot of time.
+
+Starting off with existing parts and frameworks also enabled Master Benedict to split up the workload among many different mech designers and engineers. As long as he supervised the work and made a final pass on each individual assignment, he was confident that the quality would be sufficient.
+
+He ended up making surprisingly small and low-profile probes.
+
+When Ves shuttled over to the Hemmington Cross in order to gawk at the probes as they were being fabricated, he still struggled to wrap his mind around their design.
+
+He initially expected that the Crossers would be making probes with the volume of an armored footsoldier, but they ended up as thin and sleek cylinders that were only as long as his torso.
+
+Ves had a growing affinity for metal, so he was instinctively able to sense that the cylindrical probes contained surprisingly little alloys. Much of their structure was made out of non-metallic composites that were as durable as Master Benedict could make them without increasing their mass and density by too much.
+
+When Ves whipped out his old Vulcaneye and scanned one of the probes, he saw that his device took a bit of time to make its readings, and that it had difficulty defining a lot of parameters.
+
+He believed that the probes would truly be able to do the job. Their ability to resist the hostile environment of a brown dwarf star while blending in the background was excellent.
+
+"This is truly impressive work." Ves spoke as he did not hold back in his praise. "My clan and I would have never been able to develop probes that perform so well while maintaining such a low profile."
+
+Master Benedict nodded in satisfaction. "You are good at coming up with new and highly unorthodox inventions, but the fundamentals are also important. By building up a greater understanding and mastery of fundamental human science and technology over several decades and many different mech design projects, we can create products of engineering the likes that normal people can never make. Since we have mastered the creation of mechs first, it is much easier for us to develop other devices with common elements. If you go far enough, you will eventually reach a point where the boundaries between mechs and other machines begin to blur."
+
+Ves looked up at Master Benedict with a solemn expression. "Is that… how a Master Mech Designer evolves into a Star Designer?"
+
+"Hehehe." The Cross Clan's head designer. "It is far more complicated than that. The gap between the two ranks is enormous. Star Designers are not simply Masters who have broadened their specialty from mechs to technology in general. They are reality engineers who have somehow gained the capability to access a deeper and more fundamental layer of the laws of nature. The transition from being a civilian who has to obey these laws to being an administrator that can alter the expression of those laws is… immense."
+
+Though Ves really wanted to hear more about the older man's views on Star Designers, Master Benedict controlled himself and refrained from saying more.
+
+The reason for that was understandable. A Journeyman wasn't supposed to worry about this at his current stage.
+
+Ves wasn't an ordinary Journeyman, though. He strongly believed that his recent sublimation that had partially turned him into a design spirit unlocked a lot of limitations that normally hindered the evolution of humans.
+
+When Ves compared himself to the Polymath, he estimated that the gap between the two was still enormous, but not as much as before.
+
+He already recognized that he acquired a few traits that he spotted from the Polymath during their only meeting thus far. The magnitude was still great as Ves was just starting to develop these additional extraordinary traits. He was like a baby who needed to design a lot more mechs and flesh out his design philosophy to a greater degree before he could come close to reaching her level.
+
+When Ves briefly studied Master Benedict from a spiritual perspective, he could clearly sense the man's blazing power radiating from his mind. He was like a miniature star that could shine its light across the whole galaxy and perhaps beyond.
+
+Yet as much as Master Benedict had grown by leaps and bounds compared to when he was just a Senior, Ves had met many Masters who were much stronger and more impressive in this regard.
+
+It was rather interesting to compare the spiritual signatures of Master Benedict Cortez, Master Carmin Olson, Master Moira Willix, Master Termaneo Dervidian and the Polymath.
+
+He met enough Masters in person to build up an incomplete model of the progression of the upper half of the mech designer profession.
+
+Master Benedict had grown quickly over the past five years, but he was still at the beginning stages of his current phase in his career.
+
+Ves could even discern a few more details about the progress he had made since he had initially broken through a few years ago. The man had worked hard to expand his theoretical knowledge. This made sense as the MTA was willing to give Master Mech Designers much greater access to its extensive library of high technology.
+
+However, the downside of spending so much time on book learning was that Master Benedict did not have much room for designing lots of mechs or conducting new and original research.
+
+Master Benedict's ability to design mechs hadn't improved that much because he essentially spent much of his time on preparation.
+
+Once he was done with catching up on his homework, he would probably enter into a growth spurt as he combined all of that learning with his specialty to crunch out all kinds of new and amazing design solutions!
+
+That was when Master Benedict's mech company would also take off. The Living Mech Corporation would probably have to contend against a more powerful competitor, especially one that was highly familiar with living mechs and came up with viable alternatives.
+
+"What are the weaknesses of these new probes?" Ves asked as he saw that a couple of crew members cautiously packed them up and transported them over to the hangar bay.
+
+"Their effective observation range is smaller than I would have liked." Benedict admitted without shame. "I had to make a tradeoff between range and undetectability, and considering that we may be stumbling upon a hidden nunser warship of immense power, I erred on the side of caution and leaned towards the latter."
+
+Ves would have made the same choice. A probe that possessed powerful observation capabilities inevitably stood out a lot more, and that was extremely bad in this situation.
+
+Master Benedict had taken excessive precautions because the nunsers mastered technology that was equivalent to that of the first-raters when they were at their best.𝒂ll new st𝒐ries at n0ve/lbi/𝒏(.)c𝒐m
+
+There was no easy way to make the probes good at detecting ships at longer ranges, so Master Benedict did not even bother to do so. He instead chose to go for quantity and fabricated many small probes that could be spread out over a wider area like an invisible net.
+
+"Creating a network of probes solves multiple problems at once." Benedict said as the 3D printer he was operating was just about to complete the final batch of probes. "It lowers the performance requirements of each individual probe. It mitigates the limited range of each probe. It also allows us to create a daisy chain of probes that will allow us to maintain a longer active connection to all of the probes."
+
+All of this sounded good, but Ves knew it wasn't easy for the Cross Clan to produce all of this on short notice.
+
+"These probes may be small, but you have to fabricate a lot of them, and none of them appear to be cheap. These composite materials must definitely cost a lot for them to be so resilient."
+
+"I originally stocked up on these materials for use in the development of the next iteration of the Conavis Mer." Master Benedict replied. "I updated it to Red Ocean standards not too long ago, but as the need to counter alien warships grows stronger, I have been exploring a potential new design application that can give our expert light skirmisher an immense advantage against tough opponents such as the V'gahnt-Zezne. To be honest, these materials are actually related to one of my more unrealistic ideas. I only procured a limited amount of high-quality composites so that I can experiment with them. If my idea turns out to be unworkable, then I wouldn't have wasted too many materials."
+
+Talk about mechs always got Ves excited. He tried to figure out what Master Benedict had in mind by combining these composites with the Cross Clan's expert light skirmisher.
+
+"I don't understand how these materials help with making the Conavis Mer stronger. Are you trying to reduce its mass, density and signature so that it is harder to track and hit?"
+
+"It is not as simple as that." Master Benedict shook his head. "Developing the expert mech that you have described will only give us an inferior imitation of your Dark Zephyr. While Venerable Imaris Cross probably wouldn't mind piloting such a machine, our expeditionary fleet does not have a great need for such an addition. What we really need is a better way to solve the problem of heavily shielded alien warships. In my opinion, one of the most effective ways to counter them is to render their powerful transphasic shields irrelevant."
+
+Ves suddenly had an inkling of what the Master had in mind. "Wait. Are you trying to design an expert light mech that can actually phase through energy shields as if they don't exist?! Can you even do that with your skillset?!"
+
+Master Benedict laughed in an indulgent manner.
+
+"Hahaha! It is a good idea, do you not agree? It is not as impossible as it sounds. Most energy shields are highly attuned to blocking dense and metallic metal objects as well as destructive amounts of energy. Their developers have not paid as much attention to blocking lighter and less metallic materials."
+
+"That doesn't necessarily mean that a mech that is made entirely out of non-metallic composite materials can pass through energy shields without any effort." Ves critically pointed out. "I am pretty sure those energy shields are also attuned to blocking things like biomechs and other organic stuff."
+
+"That is true." Master Benedict conceded. "There is much more to my concept and framework than I care to explain to you. Suffice to say, I think I can use my specialty to exploit a fundamental weakness of energy shield technology to enable a future version of the Conavis Mer to… slip through the cracks, as it were. It is as if the expert light skirmisher's entire frame has automatic permission to open a door and reach the other side of a typical energy shield."
+
+If this worked… then the Cross Clan would gain a powerful weapon against any alien warship!
+
+It would even help against many human starships as well, given that more and more pioneering fleets were adopting energy shields derived from alien technology. They had proven to work for the indigenous population, so humans did what it had always done and appropriated the new transphasic shields for themselves!
+
+Given this inescapable trend, it became more important than ever to develop countermeasures against transphasic energy shields, and it sounded as if Master Benedict Cortez was pursuing an inventive way to circumvent their existence!

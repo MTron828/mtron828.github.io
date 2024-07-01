@@ -1,0 +1,114 @@
+Majestic Desert Splendor
+0.00 / 0.00
+
+An hour before the final briefing, Ves dug through the logs of the previous battle. The pirate ambush may have been repelled, but the space mines inflicted serious damage to the armor belts of their combat carriers. Just because their ships could take them didn’t mean they liked to get hurt.
+
+Various engineers formed up work crews composed of ship technicians and other ratings in order to assist with the emergency patchups of the worst armor breaches. They pulled out various pre-prepared alloys from the cargo holds that molded easy into shape and possessed enough resilience to act as stopgap armor.
+
+"Huh." He said. "That’s interesting."
+
+"What is it?" Ketis looked over at his console.
+
+"Venerable Xie deployed into action. He took the Parallax Star for a spin."
+
+Footage of the Parallax Star in action showed the Parallax Star inconspicuously trying to blend in with the Hellcats, though it mostly failed at that because the expert mech appeared too flashy to be mistaken for anything else
+
+Still, Venerable Xie avoided utilizing any flashy resonance abilities so the modified lancer mech only showed an elevated level of performance compared to veteran mech pilots.
+
+"The Venerable likely wanted to test his actual performance with the Parallax Star." Ketis pointed out. "Since the simulators are so poor in modeling his piloting ability, only a real battle can show whether he has the chops to pilot the lancer mech."
+
+Ves also surmised this was the case, as the Parallax Star moved rather jerkily in some instances, as if Venerable Xie tried and failed to perform a complicated move. Overall, the Parallax Star appeared to be a poor fit for the expert pilot. He was like a kid trying to make an adult-sized suit of exoskeleton armor to work. The expert mech simply demanded too much out of the weaker expert.
+
+"We’ve already anticipated this outcome, but the results are worse than I feared." Ves spoke. While Venerable Xie increased his mastery over the difficult lancer mech, it never quite ran smoothly. "Expert mechs are always intricate machines that are designed to be piloted by one specific individual. The higher the degree of fit, the less the mech is compatible with other mech pilots, particularly ones that don’t resemble the original pilot at all. Specialization is a strength as well as a weakness when it comes to expert mechs."
+
+He pulled up some of the telemetry of the mech in combat, though it didn’t tell him much because he hadn’t dove into designing expert mechs yet. The telemetry of an expert mech diverged so drastically from normal mechs that they should be considered as two separate species.
+
+He wrote a quick report about the Parallax Star’s performance and added on the advice that the mech would continue to perform poorly unless Venerable Xie suddenly grew stronger, which wouldn’t be happening anytime soon.
+
+He expected the expert pilot’s performance with the Pale Dancer to be a lot better than his attempt to make the Parallax Star work for him. After all, unlike the spaceborn lancer mech, the landbound rifleman mech at least had the benefit of fitting to Venerable Xie like a glove.
+
+Of course, once the Vandals finally got out of this mess, they should scrap and replace the Pale Dancer as soon as possible with a new machine designed in-house. As much as the Pale Dancer seemed like a convenient gift, who knew how much the Senior retained by the Royal House of Talk tampered with some of its functions.
+
+Almost an hour later, a bunch of armored men and women entered the conference room. The mood among the Vandal officers and chiefs appeared grim.
+
+While they feared what lay ahead, they all accepted the importance of their duties. The Starlight Megalodon beckoned, and if they couldn’t secure its bounty, then the pirates would do so instead, allowing them to gain a massive boost of strength!
+
+Even if this mission had nothing to do with the war between the Bright Republic and the Vesia Kingdom, they still intended to do their duty.
+
+Ves sat next to Chief Avanaeon and Chief Haine. All of the people from the technical and support department sat on one side of the compartment while the mech officers and security officers stood on the other side.
+
+Once the hatch to the conference room became locked, Major Verle stepped to the center and drew everyone’s attention.
+
+"Good work on repelling the pirate ambush, everyone. None of us panicked or faltered when we transitioned out of FTL in the middle of a minefield, and everyone kept their eyes focused on their tasks. We all need to be level-headed and focused on the job when we emerge at the suspected coordinates of the Starlight Megalodon."
+
+Everyone felt good at the major’s praise. Their commanding officer rarely offered them so openly, so the praise lifted up the moods of Ves and the others. Some even broke out into a rare smile.
+
+After a brief pause, the major turned on the projection and switched it to a localized star map of the deep frontier. A thin blue line zigged-zagged from star system to star system, each of them notable for their relative dimness compared to the neighboring sandmen-occupied star systems.
+
+The line halted at their current location. Up ahead lay a cloud of whirling uncertainty.
+
+"This star system, whatever it is, has never been charted before. The CFA exploration charts does not depict the presence of any star system, rogue planet or any other kind of stellar object at these coordinates. This is extremely odd, as it is a bright trinary star system that centers around two yellow dwarfs and one red dwarf. With three suns in a single star system, it is impossible to overlook such an energetic location."
+
+Chief Haine raised her hand. "How up to date are those exploration charts, sir?"
+
+"The latest ones are half-a-century old. Not very current, I know, but stars don’t have a tendency to pop up or wink out in such a short time-frame. In galactic terms, fifty years is as inconsequential as the blink of an eye."
+
+Nobody could figure out where this star system came from and how it ended up in the middle of what should have been completely empty except for some errant dust, comets or gas clouds.
+
+"Our gravitic detectors have detected anomalous readings from the star system temporary designated as the Aeon Corona System. The reason why we have given this star system this designation is because spacetime itself is rippling around these coordinates!"
+
+That caused the crew to burst into concern.
+
+"Now, our science officers along with our specialists in FTL travel have indicated that it is impossible for normal FTL drives to reach the Aeon Corona System. The spacetime phenomenon that surrounds the trinary star system effectively surrounds it in a permanent gravitic storm. Any ship that attempts to drive through the turbulence will be swept off course and will likely end up lost or reach an entirely different star system many light-years away from the intended destination!"
+
+"Then how do we reach this freaky star system, sir?" A security captain asked with a pensive face. All of this science stuff flew right over his head.
+
+"We have a key." Chief Avanaeon spoke out after Verle gestured to him. "The spacetime storm looks random and uncontrolled, but the ebbs and waves actually follow and extremely complex set of mathematical patterns. It’s frankly impossible for us to model the undulations and crack the code in less than a century, but we don’t have to because we have already obtained the solutions. Using this data as our key, we can program in our FTL drives with a highly-customized configuration that will allow us to slip through the cracks of the spacetime storm and reach the Aeon Corona System without our ships getting battered aside."
+
+All of this sounded discomforting to the rest of the Vandals. While Avanaeon tried his best to dumb down the explanation so that normal people understood the overall principles behind the science, his analogy painted a hazardous journey where one misstep might lead their ship to oblivion!
+
+A bridge officer raised her hand. "Chief, does that mean without this key, no one else will be able to tool their FTL drives in the right way?"
+
+"Yes. The key is safe in our hands. As soon as the FTL drives of our supply train has finished cycling, we can immediately use the key to input the right settings for our upcoming FTL transition. Once we do that, we will be committed to entering the heart of the storm. Do note that it is highly likely that we also need this key to exit the Aeon Corona System. Those same gravitic waves can easily batter us back into the system if we attempt to make it out without going through the same cracks as we initially entered."
+
+A worrying silence fell over the conference room. As they began to contemplate the implications of this key, Ves slowly began to grow more alarmed.
+
+How long would it be until the FTL drives of their slower ships finished cycling?
+
+How many of these keys still existed outside of the Aeon Corona System?
+
+An ominous possibility flitted in his mind, and his paranoia screamed at him that the uninvited guests might make their play soon!
+
+After all, if the objective of the Church of Haatumak was to piggy-back off the Flagrant Swordmaidens all the way to the Starlight Megalodon, then they needed to take the key for themselves before it went out of their reach!
+
+His heart pumped faster as his fingers started itching. He had programmed a series of preplanned actions into his suit of combat armor. He also made some preparations during his time at the Gorgon’s Gaze when Acolyte Villis didn’t dare to be present in the same compartment as Venerable Xie.
+
+Now would be the time to see if the Vandals believed his warnings. He didn’t wish to pull the trigger at this moment, but time waited for no one!
+
+He forcibly tried to present a calm facade which belied the fear and excitement that sprung up from his heart. He slowly raised his hand, moving far too slow for his like. After Major Verle answered someone else’s question, the man turned his attention to Ves.
+
+"Yes, Mr. Larkinson?"
+
+"I’d like to declare a code 835." 𝑅read latest ch𝒂pters at n/𝒐v(e)lbi𝒏(.)co/m
+
+Half of the occupants in the room jerked up at the mention of this strange number. The other half looked confused at the ones who recognized this code.
+
+"Are you certain?" Major Verle’s eyes suddenly bore into Ves. "The damage will be severe if you are proven wrong. So far, we failed to observe any evidence to support your declaration."
+
+Despite the Major’s skeptical words, Ves knew that the covert warning he sent from the Gorgon’s Gaze had convinced the Vandals!
+
+"I’ll take full responsibility if I’m wrong."
+
+"Very well." Major Verle nodded, then switched his projection to display the combat footage of the Parallax Star in action. "Let us discuss the the battle performance of our new expert pilot. Some of you were right to doubt him, as the Parallax Star failed to live up to its promises in his hands. Commence countermeasures to a code 835 situation."
+
+Verle spoke those last words in a measured cadence that did not fall out of place from his previous sentences. Yet what happened next made it obvious that those words were anything but normal!
+
+All of the oxygen immediately sucked out of the conference room. The sudden loss of air caused everyone’s hazard or combat suits to fold out their helmets and enclose their wearers in an airtight seal to protect them against the sudden vacuum!
+
+Only half a second after the air began sucking out, the artificial gravity started reversing so that the ceiling became the deck and the deck became the ceiling!
+
+Fortunately, the suits worn by the Vandals automatically responded to this next emergency by activating their emergency magnetic modules built into the soles of their boots and greaves. This caused them to hang upside-down, disorienting those who hadn’t anticipated such an action while only briefly inconveniencing those who already knew this would happen!
+
+Half the Vandals who expected this to happen drew out their pistols from their holsters. Ves drew out his ballistic handgun as well, though he much preferred to materialize the Amastendira.
+
+Code 835 had been declared!

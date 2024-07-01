@@ -1,0 +1,134 @@
+Winter Wonderland
+0.00 / 0.00
+
+Due to the continuing pursuit of the sandman motherships, the remnant fleet couldn’t stick around for long. The Swordmaidens made their calls first before the Vandals had their turn.
+
+Of course, they expected no privacy when the Vandals sent various encrypted and nonsensical messages to obscure comm addresses registered all over the galaxy.
+
+Nonetheless, only very few people would be able to decipher the meaning of these messages, and that was sufficient.
+
+Ves knew that Major Verle definitely informed the relevant authorities of their state. What help they would send, he had no clue, but it would definitely come!
+
+Shortly before the remnant fleet with the addition of the Saffron Poke transitioned back into FTL, Ves made a short comm call to the Jaded Sword.
+
+"Hello, Ves. Why did you call me this time?" Ketis asked.
+
+"Can you hook me up to the Saffron Poke’s quantum entanglement node? I’d like to send some messages to some of my people back home as well."
+
+She frowned at Ves. "We’re not supposed to let individuals access the galactic net. That’s bad information security, you know. Major Verle told us to block all individual requests unless they are cleared by him in person."
+
+"Oh come on, Ketis, you know who I am. Would I ever betray the Vandals or exercise poor information security? I urgently need to arrange some personal matters. Please?"
+
+Fortunately, the Swordmaiden mech designer proved to be susceptible to her emotions. She quickly softened at his appeals.
+
+"Okay, I’ll take up with Commander Dise. She’s the only one who can unlock access to the quantum entanglement node."
+
+After a few minutes of arguing with the new leader of the Swordmaidens, Dise finally allowed Ves access on account of their private dealings.
+
+"I hope you don’t abuse your new access." Dise warned him. "It will go very poorly for all of us if you inadvertently lead us into an ambush."
+
+"I know what to do. Don’t worry."
+
+Once Ves obtained the authorization codes, he cut off his call to the Jaded Sword and initiated a new call to the Saffron Poke.
+
+After a few seconds of authentication, he finally obtained a connection.
+
+As soon as his CFA comm connected to the galactic net, he didn’t get to make his call immediately. Instead, his device locked up and automatically exchanged a host of data to somewhere!
+
+[Redirecting connection to the galactic fleet network... Connection established... Synchronizing data and uploading logs... Checking device versions... Downloading mandatory updates...]
+
+Ves looked at his comm in alarm! It actually connected to the CFA’s exclusive fleet network without his say so! This was deeply troubling to Ves because while the connection was shielded by heavy CFA encryption that prevented any snoopers from knowing what he sent, that didn’t apply to the CFA themselves!
+
+While Ves wasn’t stupid enough to store sensitive data relating to the Vandals or the mission in his CFA comm, he hadn’t been able to delete all of the logs.
+
+Fortunately, the CFA practiced extremely good information security, so it never recorded anything in restricted sections. However, that still left it with a couple of logs and records about his forged identity’s recommissioning to a missing CFA battleship!
+
+Ves almost felt like vomiting. No matter what buttons he pressed, his CFA comm refused to disconnect. Even activating his signal jammer didn’t help because his CFA comm somehow circumvented the interference. It blocked anything else but the comm’s direct connection to the Saffron Poke’s quantum communication node, which completely bypassed the regular communication channels of the Shield of Hispania.
+
+The enhanced transceiver built into his Squalon actually possessed sufficient range to stretch out all the way to the corvette! More than that, the quantum communication node’s programming treated CFA communications differently from regular communications!
+
+"Damn CFA! Stop hijacking my comm!"
+
+His comm’s fast processors rapidly applied the updated software packages despite their size and complexity. While Ves could do nothing about the outdated hardware of his comm, its software experienced a sea of change, bringing it fully up to date!
+
+[Updates completed. Checking for further updates... Downloading mandatory updates for the XV-99... Applying updates... Updates completed. Welcome to the galactic fleet network, Reserve Lieutenant Commander Longhorn. You have pending messages in your inbox.]
+
+Ves looked at the projection of the slick new interface of his CFA comm with a nauseous expression. He lightly poked at it and it didn’t seem to have noticed anything amiss nor raised any alarms. He checked the settings of his Squalon and quickly noted many new additions and enhancements.
+
+While he appreciated the updates, he didn’t quite know what it meant to him. Surely he couldn’t keep pretending to be someone he wasn’t? The Starlight Megalodon didn’t even exist anymore!
+
+"Hopefully I’ll just be forgotten in the crowd. There are billions, if not trillions of CFA personnel and their dependents. Surely they won’t pay attention to my entry in their vast network, right?" Gẹtt the l𝒂test 𝒏𝒐v𝒆ls at 𝒏.o/(v)/e/l/bi𝒏(.)co𝒎
+
+While he didn’t feel too sure about that, he already spilled the milk. Ves pushed aside his concerns about the implications of this connection and proceeded to follow his original plan.
+
+Due to the forced changes, his updated CFA comm now connected to the galactic fleet network with state-of-the-art encryption at high priority. The galactic fleet network operated outside the regular galactic net operated by the Comm Consortium, which everyone believed leaked like a sieve.
+
+"As long as I don’t mind the CFA listening in, the galactic fleet network is probably a lot more secure than the Comm Consortium’s net."
+
+After familiarizing himself with the modern interface, he finally managed to send a couple of comm messages to several dormant comm accounts he set up once before. Just like Vandals, Ves prepared his own encrypted communication methods that Calsie, who led the Living Mech Corporation in his stead, and Melkor, who led the Avatars of Myth, regularly checked.
+
+So long as they checked the inboxes of those comm accounts and received his encrypted messages, they’d be able to unlock them in their own ways and find out what Ves demanded of them. If more than a week passed by without opening the messages, the comm accounts automatically removed them from their inboxes.
+
+"Hopefully Calsie and Melkor are capable of following my instructions. I would hate it if the LMC or the Avatars of Myth are affected by the war."
+
+Every company and every mercenary corps needed to pitch in to the war effort in some way. While the Bright Republic didn’t treat them as rigidly as their own soldiers, they nonetheless needed to commit to defending the state.
+
+"I should stop now."
+
+While Ves was tempted to explore the galactic net and see if the LMC still did business, he didn’t want to keep this comm connection any longer than he ought to. Who knew what this out-of-control CFA comm would do next!
+
+After cutting off the connection, he regained full control over his gear. Ves sighed in relief as he determined his comm wasn’t maintaining some covert connection to the Saffron Poke’s quantum entanglement node.
+
+As the remnant fleet transitioned into FTL less than fifteen minutes later, Ves tentatively explored all the new updates to his gear. Almost every system of his CFA gear experienced a sea of change in terms of their software.
+
+"At least I don’t have to worry about hackers anymore." Ves chuckled without much humor. "On the other hand, I’m pretty sure the CFA can snoop in whenever they want to. It’s way too risky for me to continue using this comm. I’ll have to mothball it once I get home."
+
+The troublesome part about putting down his CFA comm was that his XV-99 Squalon wouldn’t function without authorization, which only that very same CFA comm could provide!
+
+On second thought, Ves probably wouldn’t need to wear the Squalon in his daily civilian life. He still possessed the shield generator gifted by Master Olson, and that would be sufficient to protect him from assassination attempts.
+
+"If something awful does happen to me one day, I can always take my CFA gear out of storage and don them again. Compared to a threat against my life, it’s not a big deal if the CFA collects some sporadic logs that will probably be thrown into a forgotten database."
+
+He would just have to make sure he never wore any of his CFA gear around the System or any other sensitive secrets. The mandatory updates already spooked him enough about their susceptibility to outside forces and reminded him that every comm connection was inherently insecure.
+
+No wonder someone like the Skull Architect would rather communicate with someone by remote with the use of Tzianti crystals.
+
+With nothing much to do as Ves already delegated most of his responsibilities, he idly explored the new functionality of his comm and Squalon in case he ever needed to call upon them during a crisis. Even if Ves was less than pleased about the forced updates, he couldn’t help but admit they substantially improved the performance of his own gear.
+
+"Just software updates can make a huge difference in so many aspects!"
+
+Ves admired the way the new programming streamlined the performance of old hardware and added many new functions. It reminded him of Alloc Brandstad, the Journeyman Mech Designer who went missing in action during the Detemen Operation.
+
+Thinking of Alloc put a dampener on his mood. Although Ves didn’t spend much time under Alloc’s supervision, it did show him a new appreciation of what a difference good software could make in the performance of mechs.
+
+Ves regretted that he didn’t excel in this area. His design philosophy also made it difficult for him to dive deeply in this important field.
+
+As time went past, the Flagrant Swordmaiden fleet silently slipped out of the territory of the sandman and crossed back into the so-called ’shallow frontier’. The amount of sandman motherships following behind their FTL transitions dropped sharply.
+
+The sandman admirals who controlled the motherships all learned that it became increasingly dangerous for them if they ever encroached into human space.
+
+Only a handful of sandman motherships didn’t get the message, but the Flagrant Swordmaidens hardly concerned themselves with the stragglers.
+
+The only downside about the remaining pursuit was that the Vandals and Swordmaidens couldn’t stop to mine an asteroid to replenish some of their dwindling resources.
+
+"This can’t go on." Ves observed as he checked the diminishing fuel levels of the Shield of Hispania and the Gorgon’s Gaze. "We’ll run dry in two weeks or less!"
+
+When Ves brought this issue up with Major Verle during a private meeting, the commanding officer didn’t show any alarm.
+
+"We’re already on top of our fuel and supply issues, Mr. Larkinson. We’ve already made arrangements with the Swordmaidens to address all of our problems. Right now, we can’t afford any leaks, so you’ll have to keep your curiosity to yourself."
+
+"Fine, sir." Ves said, knowing that the major wouldn’t tell him anything even if he entered his inner circle. There were some secrets that Verle could never share to anymore. "Let me ask you this. I’ve been thinking about what you told me last time about the opportunity to retain all of the gear and equipment I’ve obtained from the CFA."
+
+"Oh? Do tell what you have in mind."
+
+Ves briefly explained his intentions, causing the major to change his expression.
+
+"I don’t think my superiors will be pleased with your solution except yourself. However, considering your substantial contributions, I’m inclined to turn a blind eye to your shenanigans."
+
+"Thank you, sir. That’s all I ask." Ves said in relief.
+
+"By the way, while I haven’t been able to transmit anything too detailed through the Saffron Poke’s quantum entanglement node, I already sent a glowing report about your performance to the relevant institutions. While I’m not entirely certain what’s in store for you back home, the Bright Republic aren’t misers when it comes to recognizing stellar performance."
+
+"Ah, thank you, sir." Although Ves didn’t quite know how this would benefit him in concrete terms, he hoped he at least earned a cushy job in the rear for the remainder of the war.
+
+"I’m telling you this not to stroke your ego, but because we may have need of your earnest efforts one last time." Major Verle stated grimly. "You see, the Swordmaidens received intelligence from their network of allies and friends that the Dragons of the Void are amassing a fast strike force to intercept us before we rendez-vous with friendlies. By all accounts, it doesn’t seem likely we can avoid another battle!"

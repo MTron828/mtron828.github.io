@@ -1,0 +1,126 @@
+Fitness Fun in the Park
+0.00 / 0.00
+
+It took three weeks for the convoy to meander through Republic space, dropping a couple of ships off at every star system along the way, before it reached the Tarry System. By then, the convoy only consisted of a handful of ships.
+
+The three mech designers noticed none of that. The crew kept them in their assigned compartment and never issues any notifications except to warn them of FTL transitions.
+
+As a group of outcasts, none of them shared much in common, nor did they speak too much about their background beyond the basics.
+
+The restrictive passenger compartment contained nothing but furniture and food. The few projectors they found couldn’t be turned on to display a news feed or outdated dramas.
+
+Thus, with nothing else to do, they shifted to talking about the only thing they had in common.
+
+"What are the nuances of designing aerial mechs? What do you have to take into account?" Ves asked as he sat across the table from Laida.
+
+"Aerial mechs are designed specifically according to a range of gravities. Most designs work best at 1.0 g, the standard gravity of Old Earth, because most states prioritize on terraforming planets that closely match this gravity."
+
+"Not all planets feature standard gravity. A significant amount of planets have gravities that range from 0.5 g to 2 g."
+
+Though the woman was rather shy when it came to her personal life, she carried herself with a bit more confidence when it came to her expertise.
+
+"That’s why a mech that’s designed to operate at 1.0 g will always lose against a mech designed to operate at 0.6 g on a 0.6 g planet."
+
+"Why is that so?" Ves furrowed his brows. "A mech that’s rated to fly at 1.0 g carries a much stronger flight system. I can understand why it won’t be able to perform as effective in a 2.0 g environment where gravity is twice as strong, but if the gravity is forty percent weaker, shouldn’t it be forty percent stronger?"
+
+"You landbound mech designers are all the same." Laida rubbed her head. "You have to realize that aerial light mechs devote up to half of their volume and carrying capacity to their flight systems alone. I can’t say too much about medium mechs, but for light mechs, every cubicle centimeter is as precious as exotics. Space that could have been used to strengthen the mech’s armor or firepower instead has to be dedicated to powering the flight system or shunt away its heat."
+
+"Ah. So it’s a matter of priorities. So if I understand you correctly, an aerial mech that’s designed to fly in 0.6 g will allocate less capacity to supporting the flight system?"
+
+"Correct." Laida bobbed her thin head, causing her bun of hair to bob in a cute fashion. "You can say that such a mech is becoming less of an aerial mech and more of a landbound mech. In extreme cases, such as small moons or large asteroids, an aerial mech could theoretically make due with a handful of anti-grav modules for three-dimensional propulsion, though the lack of atmosphere in those environments is better suited to spaceborn mechs."
+
+"What’s the difference between spaceborn mechs and aerial mechs?"
+
+"Early on, there wasn’t any difference. Mechs with flight systems did double duty because it was more affordable to design and produce a single model that could do both than dedicate two separate models entirely. It’s only later that the two classifications came into being."
+
+"Because of specialization?"
+
+"Yes. A mech designed to operate in space doesn’t need to accommodate for gravity. Instead, they have to be designed to withstand a lot of g-forces and rapid changes in course. As for aerial mechs, they need to be able to retain their balance in the air at all times. Their flight systems are also tweaked to be highly efficient in counteracting the force of gravity that is being exerted from below."
+
+Laida freely explained all of the nuances behind designing aerial mechs. Ves heard about some of these maxims, but never in such detail and accompanied by the personal insight of a mech designer who knew what she was talking about.
+
+Of course, Laida didn’t explain her insights for free. Among mech designers, an exchange of this nature required Ves to put up knowledge of equal value.
+
+As Laida finished providing Ves with a general overview of aerial mechs, she began to ask her own questions. "What do you need to pay attention to when you design an original mech on your own?"
+
+"A lot of things. There’s too much to mention. Leaving aside the material requirements such as possessing the right licenses and having access to the production equipment, designing a mech is mainly a test of your vision."
+
+"Vision?" Laida frowned as she pursed her lips. "What is vision?"
+
+That caused Ves to stare at Laida as if she forgot to wear a helmet on a spacewalk. "You studied at the Ansel University of Mech Design, right? Don’t they teach you the importance of vision in their classes?"
+
+Laida still looked clueless. "They primarily focused on teaching the sciences to us. The school calls it setting a firm foundation. Without knowing the math and science behind designing mechs, there’s no chance of becoming a qualified mech designer."
+
+Through their talks, Ves found out that Laida was indeed fairly competent in that area. Her intelligence couldn’t be underestimated and it was impressive how well she grasped the mechanics of designing an aerial mech.
+
+However, Ves found it really strange that her school neglected to teach the artistic side to mech design. FiNd 𝒖pd𝒂tes on n(𝒐)/v𝒆l𝒃𝒊n(.)c𝒐m
+
+"Designing mechs is both an art and a science. Building up a foundation sounds good and all, but that doesn’t prepare you to design a mech on your own. Did they even teach you the steps you needed to follow to develop an original design?"
+
+"...No. Many graduates of the AUMD are expected to learn these lessons after graduation. A lot of promising alumni take in the most promising graduates and teach them the ropes."
+
+Despite her talent in learning, Laida fell outside their scope. Her hometown of Haston did not fit in the elite society of Ansel.
+
+She was lucky that other employees still valued her AUMD degree. She reluctantly joined a design studio as a junior assistant and enjoyed a first-hand glimpse on how the designers of the studio created new aerial mech designs.
+
+However, the design studio’s generosity had limits. the senior designers never seriously groomed her into becoming a senior designer in their studio.
+
+Perhaps that was why Laida radiated a lack of confidence.
+
+"Laida, designing an original mech is not that hard." Ves said softly. "It comes from the heart, not the mind. True, a mech is a technical product that can be broken down in a set of parameters, but if everything can be solved with numbers, why don’t we leave the job of designing mechs to AIs?"
+
+Creating a complex war machine the size of a building opened up an endless amount of possibilities. Its design could take on countless of shapes. Some of them might be better than others, but none could claim to be perfect. Even the strongest processors in the galaxy would never be able to derive the perfect mech design.
+
+Because it didn’t exist.
+
+"Rittersburg might not be the most renowned institution in the Republic when it comes to mech design, but the method they taught me has served me well in my career."
+
+Ves understood why the AUMD took a different approach. For Novices and Apprentices, it was indeed important to accumulate as much knowledge as possible. Someone who didn’t know the answer of one plus one could forget about designing a mech.
+
+For the next half hour, Ves conveyed her with a brief introduction of the basic approach on how to design an original mech.
+
+It started with setting a vision. Without a solid clue on what you wanted to design, your work wouldn’t be constrained by any rules. Mech designers who forgot about vision often strayed from their initial intentions and let their designs to be affected by feature creep and disharmony.
+
+Only after a designer established a vision for their mech could they begin to follow the other steps. Ves briefly explained on what she needed to pay attention on when she moved to the draft stage.
+
+"The specifics aren’t very important. A good draft design is flexible enough to accommodate a number of different component licenses. Don’t set anything in stone, or else you will limit yourself to components that turn out not to fit with your design."
+
+After that came feedback, the initial design phase, the initial simulation phase, the prototype testing phase, and depending on the amount of time, manpower and resources available, the design process might loop back into a second round of designing and testing.
+
+"That sounds exactly like how we work at the design studio." Laida nodded once she realized she came back to familiar territory. "Designing mechs is a very iterative process. Involving more designers allows for more directions to follow. Sometimes, the lead designer of a project changes after each new iteration. The studio takes the original design and publishes it while the design team that’s in charge of the project is already developing a new variant."
+
+Ves nodded in understanding. Adopting such a development cycle enabled the design studio to come up with a large amount of variants, each of them carrying unique traits due to the change in lead designers.
+
+"When you work on your own, you don’t have the luxury to iterate all that much. Up to now, I only went back to the design board after one or two rounds of testing. Due to practical constraints, I couldn’t spend more than a couple of months on each of my original designs."
+
+"That’s still an impressive achievement!" Laida softly praised as her eyes grew a little more worshipful at him. "I could never finish an original design within a year."
+
+"A year is too long. If it takes you that long to get a design together, then you aren’t ready to embark on this venture."
+
+"How can I speed up my work, then?"
+
+"Think long and hard about your plan. When I designed my mechs, I could have spent a lot more time on modelling the performance of my design. Yet I only spent a month or so on this at most. Do you know why? Because the tradeoff wasn’t worth it. I could have spent another month at crunching the numbers, but it would have only improved my work by one percent or less."
+
+Granted, many people cared about about that one percent. The whole point of the Mech Corps drafting so many mech designers was to provide more manpower to operations that only achieved something substantial as long as it involved enough people.
+
+It was a very brute force way of solving a problem, but as long as it worked, the Mech Corps did nothing wrong.
+
+Laida needed some time to realize this point. "I learned never to let go of an opportunity to improve the design, no matter how slim the parameters grow. It’s hard for me to adjust my thinking into letting these opportunities go."
+
+"Trust me, when you run your own business, you need to get used to balancing costs and priorities." Ves chuckled in amusement at her struggle. He felt as if he threw a cat in a bathtub full of water. "When designing your mechs, you should never lose track of your vision for your design. Parameters are important, but I’d rather let go of some percentage points of performance and adhere to my vision than the other way around."
+
+Ves truly provided a different perspective to Laida. Though his approach to mech design didn’t sound very complicated, it different substantially from everything she learned from the design studio. None of the senior designers there talked about a vision. The only thing that resembled a vision was a list of demands that their designs should meet.
+
+A different voice spoke out from the side. "You’re wrong, Mr. Larkinson."
+
+They both turned around to see Pierce, who had just finished taking a shower.
+
+"Why am I wrong?"
+
+"Your method is too rigid. It’s all well and good to visualize your end goal at the start of your design process, but designing a mech is a very fluid process. The more you flesh out your design, the more you start to reconsider the choices made at the start. You always know more when you are in the middle of designing your mech than when you started on the draft."
+
+"The iterative cycle is meant to accommodate a mech designer’s desire to change his choice."
+
+"That’s different." Pierce retorted. "It’s like putting a box of rusting bolts from one side of a storage room to the other side of the storage room. The correct decision here would be to take the box away from the storage room entirely."
+
+This was a very different mindset from what Ves had encountered before.
