@@ -1,0 +1,382 @@
+Colorful Balloons Take Flight
+0.00 / 0.00
+
+It was only for a moment that Cain's presence resonated across Dis as he has undone all the limitations he put on himself to protect the girls.
+
+The first limitation he was putting on himself was the mad soul he kept hidden, alongside his chimera. All people were perceiving him as a human in the outside world, here, no one could make a mistake. All devils here could perceive him as the horrid monster he is.
+
+The second one was the number of spells he could use. The more he used, the higher the mana density around him, and the more dangerous he was to live around. After all, absorbing too much Mana was bound to morph life, and he couldn't risk the plants turning into monsters in his garden and hurting the maids.
+
+<MP: 15616/15616><Mana Regeneration (SMP): 9390MP/min>
+
+MP consumption:
+
+[Lesser Empowerment] [4 MP/Min]
+
+[Lesser Healing] [4 MP/Min]
+
+[Swiftness] [4 MP/Min]
+
+[Soundless] [8 MP/Min]
+
+[Shadow Cover] [4 MP/Min]
+
+[Shadow Creation] [4 MP/Min]
+
+[Mist Step] [8 MP/S]
+
+[Blink] [16 MP/S]
+
+[Haste] [16 MP/Min]
+
+[Passwall] [64 MP/Min]
+
+[Steel wind strike] [64 MP/Min]
+
+[Regenerate] [256 MP/Min]
+
+[Telekinesis] [64 MP/Min]
+
+[Lisworth's Enchantable sword] [256 MP/Min]
+
+Total consumption [2188 MP/Min]
+
+<MP: 15616/15616><Mana Regeneration (SMP): (7202/9390) MP/min>
+
+I took a deep breath, I'm stable. My Mana regeneration is keeping up well enough, I should be able to keep fighting as long as I don't push too hard.
+
+I looked across the obsidian black hills, and a red haze of heat started to rise on the horizon as a flock of black things flew. The ground started rumbling, and the troops of hell were approaching.
+
+The moment I spotted the devils in the distance, I immediately apprised them to check for any danger.
+
+-------------------------------------------------
+
+<Name: ---><Race: Fire Imps><Rank: Lower><Exp: 200><Estimate count: 200~250>
+
+<HP: 21><MP: 22><SP: 21>
+
+<Strength: 6><Dexterity: 17><Constitution: 13>
+
+<Intelligence: 11><Wisdom: 12><Charisma: 14>
+
+Innate skills:
+
+[Spear arts]
+
+<Magic><Retract>
+
+[Firebolt]
+
+[Firelance]
+
+-------------------------------------------------
+
+-------------------------------------------------
+
+<Name: ---><Race: Spined Devil><Rank: Lower><Exp: 450><Estimate count: 250~300>
+
+<HP: 47><MP: 27><SP: 46>
+
+<Strength: 10><Dexterity: 15><Constitution: 12>
+
+<Intelligence: 11><Wisdom: 14><Charisma: 8>
+
+Innate skills:
+
+[Devil Sight: Magical darkness can't blind the devil]
+
+[Spine growth: The devil can grow up to 12 spines before needing a rest]
+
+[Multiattack: two attacks]
+
+[Tail Spine: A fiery tail attack]
+
+<Magic><Retract>
+
+[Firebolt]
+
+-------------------------------------------------
+
+Those are the areal devils? They are weak but they are quite numerous. Yet, I don't think they will provide nearly enough Exp. Better clear them all with one attack.
+
+-------------------------------------------------
+
+<Name: ---><Race: Bearded Devil><Rank: Middle><Exp: 700><Estimate count: 350~400>
+
+<HP: 128><MP: 36><SP: 112>
+
+<Strength: 16><Dexterity: 15><Constitution: 15>
+
+<Intelligence: 9><Wisdom: 11><Charisma: 11>
+
+Innate skills:
+
+[Devil Sight: Magical darkness can't blind the devil]
+
+[Beard: A poisonous attack from the snake beard of the devil]
+
+[Multiattack: two attacks]
+
+[Glaive arts]
+
+[Spear arts]
+
+[Magic resistance]
+
+<Magic><Retract>
+
+[Firebolt]
+
+-------------------------------------------------
+
+-------------------------------------------------
+
+<Name: ---><Race: Trident Devil><Rank: Middle><Exp: 1100><Estimate count: 700~750>
+
+<HP: 240><MP: 91><SP: 214>
+
+<Strength: 19><Dexterity: 16><Constitution: 16>
+
+<Intelligence: 11><Wisdom: 12><Charisma: 13>
+
+Innate skills:
+
+[Devil Sight: Magical darkness can't blind the devil]
+
+[Hellish flames: The devil's body gets covered in scorching flames]
+
+[Multiattack: three attacks]
+
+[Trident Arts]
+
+[Magic resistance]
+
+[Fire Immunity]
+
+<Magic><Retract>
+
+[Firebolt]
+
+[Flamelance]
+
+[Fireblade]
+
+[Scorching Rays]
+
+[Fireball]
+
+[Fireburst]
+
+-------------------------------------------------
+
+Oh! Hell no…Malta's brothers. They are quite tough hope my big meatball takes care of them nicely.
+
+-------------------------------------------------
+
+<Name: ---><Race: Barbed Devil><Rank: Middle><Exp: 1800><Estimate count: 650~700>
+
+<HP: 241><MP: 117><SP: 213>
+
+<Strength: 16><Dexterity: 17><Constitution: 18>
+
+<Intelligence: 12><Wisdom: 14><Charisma: 14>
+
+Innate skills:
+
+[Devil Sight: Magical darkness can't blind the devil]
+
+[Multiattack: three attacks]
+
+[Barbed Hide: The devil's Body is covered in bone spikes]
+
+[Hurl Flames: Throw a fireball]
+
+[Hurl Poison: Throw a poisonball]
+
+[Claw Arts]
+
+[Magic resistance]
+
+[Fire Immunity]
+
+<Magic><Retract>
+
+[Firebolt]
+
+[Flamelance]
+
+-------------------------------------------------
+
+Isn't this a bit aggressive for me just appearing? Wait, didn't spindle say that he felt magic similar to mine from Asmodeus's experiments when I summoned him? Are they are thinking that I'm, by any chance the monster their lord created?
+
+-------------------------------------------------
+
+<Name: ---><Race: Bone Devil><Rank: Middle><Exp: 8400><Estimate count: 300~350>
+
+<HP: 315><MP: 187><SP: 285>
+
+<Strength: 18><Dexterity: 16><Constitution: 18>
+
+<Intelligence: 13><Wisdom: 14><Charisma: 16>
+
+Innate skills:
+
+[Devil Sight: Magical darkness can't blind the devil]
+
+[Multiattack: three attacks]
+
+[Poison Stinger: Throw a poisonball]
+
+[Polearm Arts]
+
+[Claw Arts]
+
+[Magic resistance]
+
+[Fire Immunity]
+
+<Magic><Retract>Aall 𝒏𝒆west ch𝒂pt𝒆rs on n.o./v𝒆l𝒃i/n/(.)c𝒐m
+
+[Firebolt]
+
+[Poison Spray]
+
+-------------------------------------------------
+
+Ok, take this.
+
+Cain spread his arms…Mana gathered immediately around his. Two red magic circles appeared around his arms as he start floating. The devils stopped moving, looking at the sky in despair.
+
+'Meatballs' [Meteor Fall] [Meteor Fall]
+
+Dis's ashen sky and dark clouds immediately dispersed revealing two massive, red-hot meteors rushing toward the devils. CRACKLE! The entire lair started rumbling as the meteors approached rubbing on each other.
+
+KABOOOOOOOOOOOOOOOOOOM! They landed in a massive explosion, the ultimate magic that Cain just can't use freely outside, he now can now fling it without worry.
+
+Watching the hellish explosion, Cain took a taste of the enormous Exp he was gaining.
+
+[Exp: +5280000]
+
+------------------------------------------------
+
+<Name: Cain Lisworth><Race: Primordial Spwan><Level: 42/60<Exp: 2395000/2670000>
+
+<HP: 6512/6512><MP: 16048/16048><SP: 6344/6344>
+
+<(Passive Mana regeneration)PMR: 3130/min><(Active Mana regeneration)AMR: 6260/min><(Sleeping Mana regeneration)SMR: 9390/min>
+
+<Strength: 22><Dexterity: 20><Constitution: 20>
+
+<Intelligence: 30><Wisdom: 24><Charisma: 20>
+
+[Primordial Spawn] A creature of mixed origins, a primordial being born at the chaotic start of the world from wild magic.
+
+Primordial spawn Traits:
+
+[Alien Biology] The creature can feed on Mana and get sustenance from it.
+
+[Infused Body] The creature's body is circulating Mana like it circulates blood, infused into all of its muscles and bones, the monster inhibits great power and fortitude.
+
+Strength +6
+
+Dexterity +3
+
+Constitution +3
+
+[Devourer of minds] Can gain intelligence by devouring brains and infusing it into its central nervous system.
+
+------------------------------------------------
+
+Cain didn't have time to bask in his glory, it's true that all small devils perished, but the higher ones who hid in the back are now surfacing.
+
+From the ashen ground, Exploding geysers of lava formed when he pummeled the dried rivers of obsidian. The powerful devils emerged while the weaker ones began to revive like ants crawling from the ground.
+
+-------------------------------------------------
+
+<Name: ---><Race: Pit Fiend><Rank: upper><Exp: 25000><Estimate count: 100~150>
+
+<HP: 648><MP: 552><SP: 600>
+
+<Strength: 26><Dexterity: 14><Constitution: 24>
+
+<Intelligence: 22><Wisdom: 18><Charisma: 24>
+
+Innate skills:
+
+[Devil Sight: Magical darkness can't blind the devil]
+
+[Multiattack: Four attacks]
+
+[Poison spit: The devil's fangs hold a deadly poison]
+
+[Polearm Arts]
+
+[Claw Arts]
+
+[Spear Arts]
+
+[Warhammer Arts]
+
+[Magic resistance]
+
+[Physical resistance]
+
+[Fire Immunity]
+
+[Poison Immunity]
+
+<Magic><Retract>
+
+[Firebolt]
+
+[Poison Spray]
+
+[Detect Magic]
+
+[Fireball]
+
+[Fireburst]
+
+[Hold Monster]
+
+[Wall of Fire]
+
+-------------------------------------------------
+
+More than I expected but…The more, the merrier…let the madness begin…
+
+By projecting his mad soul, the devils quickly lost their sense of self and turned into crazed, bloodthirsty forces. They will revive over and over to fight and quell their thirst, giving Cain an endless supply of Exp.
+
+ZAP! [Thunder Step] Cain flashed toward them in the blink of an eye, Grabbing one of the pit fiends by the horns. [Telekinesis] He pulled up tearing the head up, Tentacles grew from Cain's back and swallowed the whole devil, integrating him into his body.
+
+[Exp +25000]
+
+[Brain count: 5]
+
+[1 Brain sleeping. One for physical combat, one for magic, one for detection, and one for Enchanting]
+
+[Heart count: 6]
+
+[Four powering the active four brains, two empowering the remained body]
+
+Seeing their friend get eaten like that, five pit fiends leaped toward Cain with rage swinging all of their weapons. BAM! CLANG! As their hit landed, Cain's body turned into a haze of shadows. He swung two shadowy swords, cutting the five to shred, and devoured them.
+
+[Brain count: 10]
+
+[Brain hierarchy]
+
+[The first Brain] = [Rule over 2 brains]
+
+[The Second Brain] = [Rule over 2 brains]
+
+[Gray] = [Rule over 1 brain]
+
+[Morena] = [Rule over 1 brain]
+
+[Heart count: 11]
+
+[Not enough space to contain the hearts in the body, merging ten into one Primordial heart…]
+
+[Primordial Heart: 1]
+
+[Heart: 1]
