@@ -301,7 +301,6 @@ while True:
         loadData()
         print("Data loaded...")
         print("Data size: {}".format(len(data)))
-        downloadNovel("My Enchanting System")
         #scrapNovelTags()
         #scrapNovelDescriptions()
         #scrapNovels()
