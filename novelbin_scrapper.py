@@ -8,12 +8,12 @@ import json
 import undetected_chromedriver as uc
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 import os
 import threading
 from fill_chapter_data import fill_chapter_data
 from progress_bar import printProgressBar
-
+import novels
 
 driver = uc.Chrome(executable_path = "./chromedriver.exe")
 driver.close()
@@ -154,10 +154,10 @@ def scrapNovelTags():
         storeData()
 
 def getLinks(link):
-    print("Getting links...")
+    #print("Getting links...")
     jump(driver, link)
     getById(driver, "tab-chapters-title").click()
-    print("Waiting to load...")
+    #print("Waiting to load...")
     while len(getElsByClass(driver, "loading")) != 0:
         getById(driver, "tab-chapters-title").click()
         time.sleep(0.1)
@@ -169,7 +169,7 @@ def getLinks(link):
         res.append(a.get_attribute("href"))
     print("Done, returing {} links.".format(len(res)))
     return res"""
-    print("Getting links...")
+    #print("Getting links...")
     res = driver.execute_script("""
 var res = [];
 for (let li of document.getElementsByClassName("panel-body")[0].getElementsByTagName("li")) {
@@ -177,7 +177,7 @@ for (let li of document.getElementsByClassName("panel-body")[0].getElementsByTag
 }
 return res;
 """)
-    print("Done, returing {} links.".format(len(res)))
+    #print("Done, returing {} links.".format(len(res)))
     return res
 
 
@@ -295,12 +295,28 @@ while True:
         except:
             pass
         driver = uc.Chrome(executable_path = "./chromedriver.exe")
-        drivers = []
-        #for i in range(MAX_THREADS):
-        #    drivers.append(uc.Chrome(headless = True, executable_path = "./chromedriver.exe"))
         loadData()
         print("Data loaded...")
         print("Data size: {}".format(len(data)))
+        cnt = 0
+        for name in data:
+            id = novels.getIdFromName(name)
+            filenumber = id//100
+            if os.path.isfile("./novelbin_links_{}.json".format(filenumber)):
+                offset = id%100
+                links = novels.loadJson("./novelbin_links_{}.json".format(filenumber))
+                if len(links[offset]) == 0:
+                    links[offset] = getLinks(data[name]["link"])
+                    novels.storeJson("./novelbin_links_{}.json".format(filenumber), links)
+            else:
+                links = []
+                for i in range(100):
+                    links.append([])
+                offset = id%100
+                links[offset] = getLinks(data[name]["link"])
+                novels.storeJson("./novelbin_links_{}.json".format(filenumber), links)
+            cnt += 1
+            printProgressBar(cnt, len(data.keys()), prefix="Progress: ", suffix="{} of {}".format(cnt, len(data.keys())), length=30)
         #scrapNovelTags()
         #scrapNovelDescriptions()
         #scrapNovels()
