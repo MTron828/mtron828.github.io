@@ -1,4 +1,5 @@
 import json
+import os
 
 
 json_cache = {}
@@ -58,10 +59,22 @@ def giveIdsToNovels():
         getIdFromName(name)
 
 def getChapterCount(id):
-    pass
+    filenum = id//100
+    offset = id%100
+    file = loadJson("./novelbin_links_{}.json".format(filenum))
+    return len(file[offset])
+
+def getAiChapterCount(id):
+    path = "./novels/{}/chapters/ai".format(id)
+    if os.path.isdir(path):
+        return sum(1 for entry in os.listdir(path) if os.path.isfile(os.path.join(path, entry)))
+    else:
+        return 0
 
 def getNovelDescription(id):
-    pass
+    data = loadJson("./novelbin_data.json")
+    return data[getNameFromId(id)]["description"]
 
 def getNovelTags(id):
-    pass
+    data = loadJson("./novelbin_data.json")
+    return data[getNameFromId(id)]["tags"]  

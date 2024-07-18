@@ -2,6 +2,71 @@
 <html>
 <head>
     <title>Home</title>
+    <style>
+        .columns {
+            display: flex;
+        }
+        ul {
+            padding:0px;
+            flex: 1;
+        }
+        li::before {
+            display: none;
+        }
+        li {
+            display: block;
+            margin:5px;
+            padding: 5px;
+            border-radius: 5px;
+            background-color: rgb(217, 240, 248);
+        }
+        .title {
+            font-size: 18px;
+            margin-right: 10px;
+        }
+        .chapter_cnt {
+            font-size: 15px;
+        }
+        .tags {
+            font-size: 13px;
+        }
+        .ai {
+            background-color: lightgreen;
+            border-radius: 5px;
+            margin:2px;
+            padding: 2px;
+        }
+
+        ul.draggable-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul.draggable-list li {
+            padding: 8px 10px;
+            margin-bottom: 6px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: move; /* Indicates that an element is draggable */
+        }
+        
+        ul.draggable-list li.preview {
+            height: 50px;
+            display: block;
+            background-color: lightgray;
+        }
+
+        ul.draggable-list li:last-child {
+            margin-bottom: 0;
+        }
+
+        ul.draggable-list li.dragging {
+            opacity: 0.5;
+        }
+        ul.draggable-list li.over {
+            background-color: rgb(178, 212, 223);
+        }
+    </style>
     <script>
         function changePassword() {
             var pass = document.getElementById("password").value;
@@ -13,9 +78,27 @@
                 document.getElementById("password_form").submit();
             }
         }
-        async function fillStack(name) {
+        function arrToString(arr) {
+            var res = "";
+            for (let i = 0; i < arr.length; i++) {
+                res += arr[i];
+                if (i != arr.length-1) {
+                    res += ", ";
+                }
+            }
+            return res;
+        }
+        function limitCharacters(string, len, close) {
+            if (string.length < len) {
+                return string;
+            } else {
+                var final_len = len-close.length;
+                return string.substring(0, final_len-1)+close;
+            }
+        }
+        function fillStack(name) {
             var list = document.getElementById(name);
-            var res = await fetch("{{ url_for('get_stack') }}", {
+            fetch("{{ url_for('get_stack') }}", {
                 credentials:"same-origin",
                 method: "POST",
                 headers: {
@@ -24,14 +107,39 @@
                 body: JSON.stringify({
                     "stack_name": name
                 })
+            }).then(res => {
+                return res.json();
+            }).then(data => {
+                //console.log(data);
+                for (let el of data) {
+                    //console.log(el);
+                    list.innerHTML += "<li id = '"+name+"_novel_"+el+"' draggable='true'></li>";
+                    fetch("{{ url_for('get_novel_info') }}", {
+                        credentials:"same-origin",
+                        method: "POST",
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({
+                            "id": parseInt(el),
+                            "req_arr":[
+                                "novelName", "chapterCount", "aiChapterCount", "tags"
+                            ]
+                        })
+                    }).then(res => {return res.json();}).then(json => {
+                        var novel_name = json["name"];
+                        var chapters = json["chapters"];
+                        var aiChapters = json["aiChapters"];
+                        var tags = json["tags"];
+                        var val = "<span class = title >"+novel_name+"</span><span class = chapter_cnt >"+chapters+" chapters</span>";
+                        if (aiChapters != 0) {
+                            val += "<span class = 'chapter_cnt ai' >"+aiChapters+" ai translated chapters</span>";
+                        }
+                        val += "</br><span class = tags >" + limitCharacters(arrToString(tags), 70, "...")+"</span>";
+                        setTimeout(()=>{document.getElementById(name+"_novel_"+el).innerHTML = val;}, 100);
+                    });
+                }
             });
-            var data = await res.json();
-            //console.log(data);
-            for (let el of data) {
-                //console.log(el);
-                list.innerHTML += "<li id = "+el+"></li>";
-                fetch("{{ url_for('novel_info') }}")
-            }
         }
         window.onload = () => {
             var stacks = document.getElementById("stacks").getElementsByTagName("ul");
@@ -39,24 +147,152 @@
                 fillStack(stack.id);
             }
         };
+        
+        var draggedItem = null;
+        function setDraggables(event) {
+            
+            //var preview = document.getE
+
+            // Function to handle the start of dragging
+            function handleDragStart(e) {
+                draggedItem = this;
+                this.parentElement.insertBefore()
+                setTimeout(() => {
+                    this.style.display = 'none';
+                }, 0);
+            }
+
+            // Function to handle the end of dragging
+            function handleDragEnd(e) {
+                setTimeout(() => {
+                    draggedItem.style.display = 'block';
+                    draggedItem = null;
+                }, 0);
+            }
+
+            // Function to handle when dragging over another item
+            function handleDragOver(e) {
+                e.preventDefault();
+            }
+
+            // Function to handle when a dragged item enters another list
+            function handleDragEnter(e) {
+                e.preventDefault();
+                if (this !== draggedItem) {
+                    this.classList.add('over');
+                }
+            }
+
+            // Function to handle when a dragged item leaves a list
+            function handleDragLeave(e) {
+                this.classList.remove('over');
+            }
+
+            // Function to handle when a dragged item is dropped
+            function handleDrop(e) {
+                e.preventDefault();
+                if (this !== draggedItem) {
+                    let allItems = [...this.parentElement.children];
+                    let draggedIndex = allItems.indexOf(draggedItem);
+                    let targetIndex = allItems.indexOf(this);
+
+                    if (targetIndex < draggedIndex) {
+                        this.parentElement.insertBefore(draggedItem, this);
+                    } else {
+                        this.parentElement.insertBefore(draggedItem, this.nextElementSibling);
+                    }
+                }
+                this.classList.remove('over');
+            }
+
+            // Attach the event listeners to the list items
+            let listItems = document.querySelectorAll('.draggable-list li');
+            // Apply drag events to each list item
+            listItems.forEach(item => {
+                if (!item.classList.contains("draggable-item")) {
+                    item.classList.add("draggable-item");
+                    item.addEventListener('dragstart', handleDragStart);
+                    item.addEventListener('dragend', handleDragEnd);
+                    item.addEventListener('dragover', handleDragOver);
+                    item.addEventListener('dragenter', handleDragEnter);
+                    item.addEventListener('dragleave', handleDragLeave);
+                    item.addEventListener('drop', handleDrop);
+                }
+            });
+
+            // Function to handle when a dragged item is over a list
+            function handleListDragOver(e) {
+                e.preventDefault();
+            }
+
+            // Function to handle when a dragged item is dropped on an empty list
+            function handleListDrop(e) {
+                e.preventDefault();
+                if (draggedItem && this.querySelectorAll('li').length === 0) {
+                    this.appendChild(draggedItem);
+                }
+            }
+
+            // Attach the event listeners to the lists themselves to handle empty list drops
+            let lists = document.querySelectorAll('.draggable-list');
+
+            lists.forEach(list => {
+                if (!list.classList.contains("draggable-item")) {
+                    list.classList.add("draggable-item");
+                    list.addEventListener('dragover', handleListDragOver);
+                    list.addEventListener('drop', handleListDrop);
+                }
+            });
+            /*Detailed Explanation
+
+            Let's break down the JavaScript code to understand how the drag-and-drop functionality works:
+
+            1. **Event Listeners for Dragging Items**: Each list item (`<li>`) has several event listeners:
+            - **dragstart**: When the user starts dragging an item. The item is temporarily hidden.
+            - **dragend**: When the user stops dragging the item. The item is shown again.
+            - **dragover**: Fired continuously as the item is being dragged over another element. This is necessary to prevent the default behavior and allow drops.
+            - **dragenter**: When the item drags over another item or list. We use this to highlight potential drop targets.
+            - **dragleave**: When the item leaves another item or list. We use this to remove any highlights.
+            - **drop**: Handles the drop, reordering items if necessary.
+
+            2. **Handling Empty Lists**: To handle dropping items into an empty list:
+            - **dragover** on the list: Similar to `dragover` on items but for the list to handle being a drop target when empty.
+            - **drop** on the list: To handle the drop if the list is empty.
+
+            3. **Moving Items Around**:
+            - If a dragged item is dropped onto another item, it determines the order based on their current positions and moves the dragged item before or after.
+            - If a dragged item is dropped onto an empty list, it simply appends the item to that list.
+
+            ### CSS Highlights
+
+            You might have noticed that there’s a reference to a class `.over` in the JavaScript that isn't defined in the CSS. This class can be used to highlight potential drop targets. Here’s how you could define it:
+
+            ```css
+            ul.draggable-list li.over {
+                background-color: #e0e0e0;
+            }```*/
+        };
+        document.addEventListener('DOMContentLoaded', (event) => {setDraggables(event)});
+        document.addEventListener('DOMNodeInserted', (event) => {setInterval(()=>{setDraggables(event);},0);});
     </script>
 </head>
 <body>
     <h2>Welcome, {{ username }}!</h2>
     <a href="{{ url_for('logout') }}">Logout</a>
 
-    <div id = "stacks">
-        <ul id = "stack_0">
+    <div id = "stacks" class = "columns">
+        <li id = "drag-preview" class = "preview"></li>
+        <ul id = "stack_0" class = "draggable-list">
             <h2>Stack 1:</h2>
         </ul>
-        <ul id = "stack_1">
+        <ul id = "stack_1" class = "draggable-list">
             <h2>Stack 2:</h2>
         </ul>
-        <ul id = "trash_0">
+        <ul id = "trash_0" class = "draggable-list">
             <h2>Trash:</h2>
         </ul>
     </div>
-
+    <div id = "logger"></div>
     <div>
         <h2>Change password</h2>
         <input id = password type = password placeholder="Currend password"/>

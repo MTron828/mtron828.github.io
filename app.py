@@ -3,6 +3,7 @@ from flask_login import LoginManager, UserMixin, login_user, logout_user, login_
 from flask_bcrypt import Bcrypt
 from models import User
 from users import *
+from novels import *
 
 app = Flask(__name__)
 app.secret_key = 'replace_with_a_strong_secret_key'
@@ -64,12 +65,15 @@ def get_stack():
     stack_name = request.json.get("stack_name")
     stack_type = stack_name.split("_")[0]
     stack_idx = int(stack_name.split("_")[1])
-    txt = json.dumps(data[stack_type][stack_idx])
-    return txt
+    try:
+        txt = json.dumps(data[stack_type][stack_idx])
+        return txt
+    except:
+        return json.dumps([])
 
-@app.route('/info', methods=['POST'])
+@app.route('/novel_info', methods=['POST'])
 @login_required
-def get_info():
+def get_novel_info():
     user = current_user.username 
     req = request.json
     req_arr = req.get("req_arr")
@@ -79,13 +83,15 @@ def get_info():
         res["name"] = getNameFromId(id)
     if "chapterCount" in req_arr:
         res["chapters"] = getChapterCount(id)
+    if "aiChapterCount" in req_arr:
+        res["aiChapters"] = getAiChapterCount(id)
     if "description" in req_arr:
         res["description"] = getNovelDescription(id)
     if "tags" in req_arr:
         res["tags"] = getNovelTags(id)
     return json.dumps(res)
 
-@app.route('/info', methods=['POST'])
+@app.route('/recomendations', methods=['POST'])
 @login_required
 def get_recomendations():
     user = current_user.username 
