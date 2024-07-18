@@ -4,6 +4,7 @@ from flask_bcrypt import Bcrypt
 from models import User
 from users import *
 from novels import *
+from utility import *
 
 app = Flask(__name__)
 app.secret_key = 'replace_with_a_strong_secret_key'
@@ -96,6 +97,26 @@ def get_novel_info():
 def get_recomendations():
     user = current_user.username 
     req = request.json
+    string = req.get("string")
+    res = []
+    if "title" in req.get("types"):
+        tres = searchTitles(string)
+        res = addNotPresent(res, tres) 
+    if "tags" in req.get("types"):
+        tres = searchTags(string)
+        res = addNotPresent(res, tres)  
+    if "description" in req.get("types"):
+        tres = searchDescriptions(string)
+        res = addNotPresent(res, tres)  
+    if "embbeding" in req.get("types"):
+        pass #TODO
+    if "aiTags" in req.get("types"):
+        pass #TODO
+    if "aiDescription" in req.get("types"):
+        pass #TODO
+    if "aiDescriptionEmbbeding" in req.get("types"):
+        pass #TODO
+    return json.dumps(res)
     
 
 @app.route('/change_password', methods=['POST'])

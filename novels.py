@@ -25,7 +25,13 @@ def getIdToName():
     return loadJson("./id_to_name.json")
 
 def setIdToName(arr):
-    return storeJson("./id_to_name.json", arr)
+    storeJson("./id_to_name.json", arr)
+
+def getNovelData():
+    return loadJson("./novel_data.json")
+
+def setNovelData(data):
+    storeJson("./novel_data.json", data)
 
 def getNameFromId(id):
     names = getIdToName()
@@ -82,12 +88,10 @@ def getNovelTagsNovelbin(id):
 def precalc_novel_data():
     novelbin_data = loadJson("./novelbin_data.json")
     names = getIdToName()
-    data = loadJson("novel_data.json")
+    data = getNovelData()
     for i in range(1, len(names)):
         if len(data) == i:
             data.append({})
-        elif data[i] != {}:
-            continue
         name = getNameFromId(i)
         src = None
         description = None
@@ -107,7 +111,7 @@ def precalc_novel_data():
         def replaceIfMissing(field, value):
             if isMissing(field) and value != None:
                 data[i][field] = value
-        
+        replaceIfMissing("id", i)
         replaceIfMissing("name", name)
         replaceIfMissing("source", src)
         replaceIfMissing("description", description)
@@ -115,4 +119,40 @@ def precalc_novel_data():
         replaceIfMissing("chapters", chapters)
         replaceIfMissing("chaptersAi", chaptersAi)
         printProgressBar(i, len(names)-1, prefix = "Progress: ", suffix = "{} of {}".format(i, len(names)-1), length = 30)
-    storeJson("novel_data.json", data)
+    setNovelData(data)
+
+def getChapterCount(id):
+    return getNovelData()[id]["chapters"]
+
+def getAiChapterCount(id):
+    return getNovelData()[id]["chaptersAi"]
+
+def getNovelDescription(id):
+    return getNovelData()[id]["description"]
+
+def getNovelTags(id):
+    return getNovelData()[id]["tags"]
+
+def searchTitles(string):
+    res = []
+    data = getNovelData()
+    for novel in data[1:]:
+        if string.lower() in novel["name"].lower():
+            res.append(novel["id"])
+    return res
+
+def searchTags(string):
+    res = []
+    data = getNovelData()
+    for novel in data[1:]:
+        if True in [string.lower() in x.lower() for x in novel["tags"]]:
+            res.append(novel["id"])
+    return res
+
+def searchDescriptions(string):
+    res = []
+    data = getNovelData()
+    for novel in data[1:]:
+        if string.lower() in novel["description"].lower():
+            res.append(novel["id"])
+    return res

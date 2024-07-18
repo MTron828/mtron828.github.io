@@ -66,6 +66,20 @@
         ul.draggable-list li.over {
             background-color: rgb(178, 212, 223);
         }
+
+        #suggestions {
+            border: 1px solid #ddd;
+            display: none; /* Hide initially */
+            position: absolute;
+            background-color: white;
+        }
+        .suggestion-item {
+            padding: 10px;
+            cursor: pointer;
+        }
+        .suggestion-item:hover {
+            background-color: #f0f0f0;
+        }
     </style>
     <script>
         function changePassword() {
@@ -141,11 +155,94 @@
                 }
             });
         }
+
+
+        function updateSuggestions() {
+            const inputElement = document.getElementById('search_bar');
+            const suggestionsElement = document.getElementById('suggestions');
+
+            const inputText = inputElement.value.trim().toLowerCase();
+            suggestionsElement.innerHTML = ''; // Clear previous suggestions
+
+            if (inputText.length === 0) {
+                suggestionsElement.style.display = 'none';
+                return;
+            }
+
+            fetch("{{ url_for('get_recomendations') }}", {
+                credentials: "same-origin",
+                method: "POST",
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    "string": inputText,
+                    "types": [
+                        "title"
+                    ]
+                })
+            }).then(res => {return res.json();}).then(json => {
+                let filteredWords = [];
+                const recomendationAmount = 20;
+                let min = (a, b) => {
+                    if (a < b) return a;
+                    return b;
+                }
+                for (let i = 0; i < min(recomendationAmount, json.length); i++) {
+                    filteredWords[filteredWords.length] = json[i];
+                }
+
+                if (filteredWords.length === 0) {
+                    suggestionsElement.style.display = 'none';
+                } else {
+                    suggestionsElement.style.display = 'block';
+                }
+
+                // Create suggestion items
+                filteredWords.forEach(id => {
+                    fetch("{{ url_for('get_novel_info') }}", {
+                        credentials:"same-origin",
+                        method: "POST",
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({
+                            "id": id,
+                            "req_arr":[
+                                "novelName"
+                            ]
+                        })
+                    }).then(res => {return res.json()}).then(json => {
+                        const div = document.createElement('div');
+                        div.textContent = json["name"];
+                        div.classList.add('suggestion-item');
+                        div.onclick = function() {
+                            inputElement.value = json["name"]; // Set input value to the selected word
+                            suggestionsElement.style.display = 'none'; // Hide suggestions
+                        };
+                        suggestionsElement.appendChild(div);
+                    });
+                });
+
+            });
+        }
+
         window.onload = () => {
             var stacks = document.getElementById("stacks").getElementsByTagName("ul");
             for (let stack of stacks) {
                 fillStack(stack.id);
             }
+            
+
+            document.getElementById("search_bar").addEventListener("input", updateSuggestions);
+            document.getElementById("search_bar").addEventListener("focus", updateSuggestions);
+            document.getElementById("search_bar").addEventListener('blur', () => {
+                // Hide suggestions after a short delay to allow click event to register
+                setTimeout(() => {
+                    document.getElementById('suggestions').style.display = 'none';
+                }, 200);
+            });
+        
         };
         
         var draggedItem = null;
@@ -280,8 +377,12 @@
     <h2>Welcome, {{ username }}!</h2>
     <a href="{{ url_for('logout') }}">Logout</a>
 
+    <div id = "search">
+        <input type="text" id = "search_bar"/>
+        <div id="suggestions"></div>
+    </div>
+
     <div id = "stacks" class = "columns">
-        <li id = "drag-preview" class = "preview"></li>
         <ul id = "stack_0" class = "draggable-list">
             <h2>Stack 1:</h2>
         </ul>
