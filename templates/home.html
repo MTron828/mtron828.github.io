@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+    <script>
+        function changePassword() {
+            var pass = document.getElementById("password").value;
+            var npass1 = document.getElementById("newpassword1").value;
+            var npass2 = document.getElementById("newpassword2").value;
+            if (npass1 == npass2) {
+                document.getElementById("form_password").value = pass;
+                document.getElementById("form_new_password").value = npass1;
+                document.getElementById("password_form").submit();
+            }
+        }
+        async function fillStack(name) {
+            var list = document.getElementById(name);
+            var res = await fetch("{{ url_for('get_stack') }}", {
+                credentials:"same-origin",
+                method: "POST",
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    "stack_name": name
+                })
+            });
+            var data = await res.json();
+            //console.log(data);
+            for (let el of data) {
+                //console.log(el);
+                list.innerHTML += "<li id = "+el+"></li>";
+                fetch("{{ url_for('novel_info') }}")
+            }
+        }
+        window.onload = () => {
+            var stacks = document.getElementById("stacks").getElementsByTagName("ul");
+            for (let stack of stacks) {
+                fillStack(stack.id);
+            }
+        };
+    </script>
+</head>
+<body>
+    <h2>Welcome, {{ username }}!</h2>
+    <a href="{{ url_for('logout') }}">Logout</a>
+
+    <div id = "stacks">
+        <ul id = "stack_0">
+            <h2>Stack 1:</h2>
+        </ul>
+        <ul id = "stack_1">
+            <h2>Stack 2:</h2>
+        </ul>
+        <ul id = "trash_0">
+            <h2>Trash:</h2>
+        </ul>
+    </div>
+
+    <div>
+        <h2>Change password</h2>
+        <input id = password type = password placeholder="Currend password"/>
+        <input id = newpassword1 type = password placeholder="New password"/>
+        <input id = newpassword2 type = password placeholder="Confirm new password"/>
+        <button onclick="changePassword()">Change password</button>
+        <form id = "password_form" style="display:none;" method="post" action="{{ url_for('change_password') }}">
+            <input id = "form_password" name = "password"/>
+            <input id = "form_new_password" name = "new_password"/>
+        </form>
+    </div>
+</body>
+</html>
