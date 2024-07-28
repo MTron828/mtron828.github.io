@@ -1,0 +1,30 @@
+{% if "inStack" in data and (not data["inStack"]) %}
+<div class = "inline-block column" id = "add_to_stack_{{data['id']}}">
+    <img class = "icon" src = "./imgs/stack.webp"/>
+</div>
+<script>
+    document.getElementById("add_to_stack_{{data['id']}}").addEventListener("click", (e)=>{
+        fetch("{{ url_for('add_to_stack') }}", {
+            credentials:"same-origin",
+            method: "POST",
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                "novel": parseInt('{{ data["id"] }}')
+            })
+        }).then(res => {return res.text()}).then(text => {
+            if (text == "ok"){
+                document.getElementById("add_to_stack_{{data['id']}}").getElementsByTagName("img")[0].src = "./imgs/check.webp";
+            } else {
+                console.log(text);
+            }
+        });
+    });
+</script>
+{% endif %}
+{% if "inStack" in data and data["inStack"] %}
+<div class = "inline-block column">
+    <img class = "icon" src = "./imgs/check.webp"/>
+</div>
+{% endif %}

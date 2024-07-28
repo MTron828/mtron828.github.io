@@ -1,18 +1,18 @@
 import json
 import os
 from progress_bar import printProgressBar
+import copy
 
 json_cache = {}
 def loadJson(file):
     if file in json_cache:
         #print(json_cache[file])
-        return json_cache[file]
+        return copy.deepcopy(json_cache[file])
     txt = ""
     with open(file, "r") as f:
         txt = f.read()
     json_cache[file] = json.loads(txt)
-    #print(json_cache[file])
-    return json_cache[file]
+    return copy.deepcopy(json_cache[file])
 
 def storeJson(file, data):
     if file in json_cache:
@@ -122,22 +122,34 @@ def precalc_novel_data():
     setNovelData(data)
 
 def getChapterCount(id):
-    return getNovelData()[id]["chapters"]
+    novel = getNovelData()[id]
+    if "chapters" in novel:
+        return novel["chapters"]
+    return None
 
 def getAiChapterCount(id):
-    return getNovelData()[id]["chaptersAi"]
+    novel = getNovelData()[id]
+    if "chaptersAi" in novel:
+        return novel["chaptersAi"]
+    return None
 
 def getNovelDescription(id):
-    return getNovelData()[id]["description"]
+    novel = getNovelData()[id]
+    if "description" in novel:
+        return novel["description"]
+    return None
 
 def getNovelTags(id):
-    return getNovelData()[id]["tags"]
+    novel = getNovelData()[id]
+    if "tags" in novel:
+        return novel["tags"]
+    return None
 
 def searchTitles(string):
     res = []
     data = getNovelData()
     for novel in data[1:]:
-        if string.lower() in novel["name"].lower():
+        if "name" in novel and string.lower() in novel["name"].lower():
             res.append(novel["id"])
     return res
 
@@ -145,7 +157,7 @@ def searchTags(string):
     res = []
     data = getNovelData()
     for novel in data[1:]:
-        if True in [string.lower() in x.lower() for x in novel["tags"]]:
+        if "tags" in novel and True in [string.lower() in x.lower() for x in novel["tags"]]:
             res.append(novel["id"])
     return res
 
@@ -153,6 +165,25 @@ def searchDescriptions(string):
     res = []
     data = getNovelData()
     for novel in data[1:]:
-        if string.lower() in novel["description"].lower():
+        if "description" in novel and string.lower() in novel["description"].lower():
             res.append(novel["id"])
     return res
+
+def getNovelChapter(novel, chapter):
+    path = "./novels/{}/chapters/{}.txt".format(novel, chapter)
+    if os.path.isfile(path):
+        txt = ""
+        with open(path, "r") as f:
+            txt = f.read()
+        return txt
+    return "This chapter has not been scrapped yet. Automatic scrapping is a work in progress."
+    #TODO 
+
+def getAiGeneratedNovelChapter(novel, chapter):
+    path = "./novels/{}/chapters/ai/{}.txt".format(novel, chapter)
+    if os.path.isfile(path):
+        txt = ""
+        with open(path, "r") as f:
+            txt = f.read()
+        return txt
+    return "This chapter has not been ai-translated yet."

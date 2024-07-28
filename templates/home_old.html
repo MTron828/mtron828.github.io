@@ -272,10 +272,10 @@
         }
 
         window.onload = () => {
-            /*var stacks = document.getElementById("stacks").getElementsByTagName("ul");
+            var stacks = document.getElementById("stacks").getElementsByTagName("ul");
             for (let stack of stacks) {
                 fillStack(stack.id);
-            }*/
+            }
             
 
             document.getElementById("search_bar").addEventListener("input", updateSuggestions);
@@ -474,31 +474,15 @@
         <div id="suggestions"></div>
     </div>
 
-    {% from 'novel_preview.html' import novel_preview %}
     <div id = "stacks" class = "columns">
         <ul id = "stack_0" class = "draggable-list">
             <h2>Stack 1:</h2>
-            {% for el in user_data["stack"][-1][0] %}
-                <li id = 'stack_0_novel_{{ el }}' class = 'novel' draggable='true'>
-                    {{ novel_preview(novel_data[el]) }}
-                </li>
-            {% endfor %}
         </ul>
         <ul id = "stack_1" class = "draggable-list">
             <h2>Stack 2:</h2>
-            {% for el in user_data["stack"][-1][1] %}
-                <li id = 'stack_1_novel_{{ el }}' class = 'novel' draggable='true'>
-                    {{ novel_preview(novel_data[el]) }}
-                </li>
-            {% endfor %}
         </ul>
         <ul id = "trash_0" class = "draggable-list">
             <h2>Trash:</h2>
-            {% for el in user_data["trash"][-1][0] %}
-                <li id = 'trash_0_novel_{{ el }}' class = 'novel' draggable='true'>
-                    {{ novel_preview(novel_data[el]) }}
-                </li>
-            {% endfor %}
         </ul>
     </div>
     <div id = "logger"></div>

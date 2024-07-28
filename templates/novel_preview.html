@@ -1,0 +1,72 @@
+{% macro novel_preview(data) %}
+
+{% from 'macros.html' import arrayToString, limitCharacters %}
+
+<style>
+    .inline-block {
+        display:inline-block;
+    }
+    .icon {
+        width: 30px;
+        height: 30px;
+        margin-left: 10px;
+    }
+</style>
+<div class = "columns" id = '{{ data["id"] }}_item_preview'>
+<a class = "no-link-style column" href = '{{ url_for("get_novel", novel_id = data["id"])}}'>
+    <span class = title > {{ data["name"] }} </span>
+    <span class = chapter_cnt > {{ data["chapters"] }} chapters</span>
+    {% if "chaptersAi" in data and data["chaptersAi"] != 0 %}
+        <span class = 'chapter_cnt ai' >{{ data["chaptersAi"] }} ai translated chapters</span>
+    {% endif %}
+    </br><span class = tags >{{ limitCharacters(arrayToString(data["tags"]), 70, "...") }}</span>
+    <div id = '{{ data["id"] }}_preview' class = "preview">
+        <span class = title > {{ data["name"] }} </span>
+        <span class = chapter_cnt > {{ data["chapters"] }} chapters</span>
+        {% if "chaptersAi" in data and data["chaptersAi"] != 0 %}
+            <span class = 'chapter_cnt ai' >{{ data["chaptersAi"] }} ai translated chapters</span>
+        {% endif %}
+        </br><span class = tags >{{ arrayToString(data["tags"]) }}</span>
+        </br><span class = "description">
+            {{ data["description"] }}
+        </span>
+    </div>
+</a>
+{% include 'add_to_stack.html' with context %}
+</div>
+<script type = "text/JavaScript">
+    function func() {
+        const target = document.getElementById('{{ data["id"] }}_item_preview');
+        const preview = document.getElementById('{{ data["id"] }}_preview');
+        let hoverTimer;
+        const hoverDelay = 500; // Delay in milliseconds
+        target.addEventListener('mouseenter', (e) => {
+            // Clear previous timer if any
+            clearTimeout(hoverTimer);
+            
+            // Set a new timer
+            hoverTimer = setTimeout(() => {
+                // Show the preview popup
+                preview.style.display = 'block';
+                // Position it near the target element, with a small offset
+                preview.style.left = `${window.scrollX + e.clientX + 10}px`;
+                preview.style.top = `${window.scrollY + e.clientY + 10}px`;
+            }, hoverDelay);
+        });
+
+        target.addEventListener('mouseleave', () => {
+            // Clear the timer to prevent the popup from showing
+            clearTimeout(hoverTimer);
+            
+            // Hide the preview
+            preview.style.display = 'none';
+        });
+        target.addEventListener('dragenter', ()=>{
+            preview.style.display = 'none';
+        });
+        target.getElementsByClassName("description")[0].innerHTML = rget.getElementsByClassName("description")[0].innerHTML.split("\n").join("</br>");
+    }
+    func();
+</script>
+
+{% endmacro %}

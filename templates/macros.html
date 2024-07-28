@@ -1,0 +1,11 @@
+{% macro arrayToString(arr) %}
+    {{- arr | join(", ") }}
+{% endmacro %}
+
+{% macro limitCharacters(string, maxlen, end) %}
+    {%- if string|length > maxlen %}
+        {{- string[:maxlen - end|length] + end -}}
+    {%- else %}
+        {{- string -}}
+    {%- endif %}
+{% endmacro %}

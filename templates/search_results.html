@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Search results for {{ string }}.</title>
+        <style>
+            .columns {
+                display: flex;
+            }
+            ul {
+                padding:0px;
+                flex: 1;
+            }
+            li::before {
+                display: none;
+            }
+            li {
+                display: block;
+                margin:5px;
+                padding: 5px;
+                border-radius: 5px;
+                background-color: rgb(217, 240, 248);
+            }
+            .title {
+                font-size: 18px;
+                margin-right: 10px;
+            }
+            .chapter_cnt {
+                font-size: 15px;
+            }
+            .tags {
+                font-size: 13px;
+            }
+            .ai {
+                background-color: lightgreen;
+                border-radius: 5px;
+                margin:2px;
+                padding: 2px;
+            }
+
+            ul.draggable-list {
+                list-style: none;
+                padding: 0;
+            }
+
+            ul.draggable-list li {
+                padding: 8px 10px;
+                margin-bottom: 6px;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+                cursor: move; /* Indicates that an element is draggable */
+            }
+            
+            ul.draggable-list li.preview {
+                height: 50px;
+                display: block;
+                background-color: lightgray;
+            }
+
+            ul.draggable-list li:last-child {
+                margin-bottom: 0;
+            }
+
+            ul.draggable-list li.dragging {
+                opacity: 0.5;
+            }
+            ul.draggable-list li.over {
+                background-color: rgb(178, 212, 223);
+            }
+
+            #suggestions {
+                border: 1px solid #ddd;
+                display: none; /* Hide initially */
+                position: absolute;
+                background-color: white;
+            }
+            .suggestion-item {
+                padding: 10px;
+                cursor: pointer;
+            }
+            .suggestion-item:hover {
+                background-color: #f0f0f0;
+            }
+            .preview {
+                display: none;
+                position: absolute;
+                border: 1px solid #ddd;
+                background: #f9f9f9;
+                width: 700px;
+                padding: 10px;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            }
+            a {
+                text-decoration: none;
+                color: inherit;
+            }
+
+            /* Optionally, customize hover and active states */
+            a:hover, a:focus {
+                color: blue; /* Customize hover color */
+            }
+
+            a:active {
+                color: red; /* Customize active color */
+            }
+            
+            a.no-link-style:hover, a.no-link-style:focus, a.no-link-style:active {
+                color:inherit;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Search results for "{{ string }}".</h1>
+        {% from 'novel_preview.html' import novel_preview %}
+        <ul class = 'result-container' id = 'results'>
+            {% for result in results %}
+                <li class = 'result' id = '{{ result }}'>
+                    {{- novel_preview(novel_data[result]) }}
+                </li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>
