@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> {{ novel_data["name"] }} </title>
+        <style>
+            .columns {
+                display: flex;
+            }
+            .column {
+                flex:1;
+            }
+            ul {
+                list-style-type: none;
+                padding: 0;  /* Optional: removes default padding */
+                margin-left: 0;  /* Optional: removes default margin */
+                padding:auto;
+                height: 700px;
+                overflow: scroll;
+            }
+            li {
+                display: inline-block;
+                width: 150px;
+            }
+            li a {
+                display:block;
+            }
+            .ai {
+                background-color: lightgreen;
+                border-radius: 5px;
+                margin:2px;
+                padding: 2px;
+            }
+            a {
+                text-decoration: none;
+                color: inherit;
+            }
+
+            /* Optionally, customize hover and active states */
+            a:hover, a:focus {
+                color: blue; /* Customize hover color */
+            }
+
+            a:active {
+                color: red; /* Customize active color */
+            }
+        </style>
+    </head>
+    <body>
+        <h1 id = 'title'> {{ novel_data["name"] }} </h1>
+        <p id = 'tags'>
+            {% for i, tag in zip(range(len(novel_data["tags"])), novel_data["tags"]) %} 
+                {% if i != len(novel_data["tags"]) %}
+                {{ tag }},
+                {% else %}
+                {{ tag }}
+                {% endif %}
+            {% endfor %}
+        </p>
+        <p id = 'description'>
+            {{ novel_data["description"] }}
+        </p>
+        <div id = "chapters" class="columns">
+            <div id = "normal_chapters" class = "column">
+                <h2>Chapters:</h2>
+                <ul>
+                    {% for i in range(novel_data["chapters"]) %}
+                        <li><a href = "{{ url_for('get_chapter', novel_id=novel_data['id'], chapter_id = i, ai_generated=False) }}">
+                            Chapter {{i+1}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% if "chaptersAi" in novel_data and novel_data["chaptersAi"] > 0 %}
+                <div id = "ai_chapters" class = "column">
+                    <h2 class = "ai">Ai-translated chapters:</h2>
+                    <ul>
+                        {% for i in range(novel_data["chaptersAi"]) %}
+                            <li><a href = "{{ url_for('get_chapter', novel_id=novel_data['id'], chapter_id = i, ai_generated=True) }}">
+                                Chapter {{i+1}}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endif %}
+        </div>
+    </body>
+</html>

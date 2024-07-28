@@ -1,18 +1,18 @@
 import json
 import os
 from progress_bar import printProgressBar
+import copy
 
 json_cache = {}
 def loadJson(file):
     if file in json_cache:
         #print(json_cache[file])
-        return json_cache[file]
+        return copy.deepcopy(json_cache[file])
     txt = ""
     with open(file, "r") as f:
         txt = f.read()
     json_cache[file] = json.loads(txt)
-    #print(json_cache[file])
-    return json_cache[file]
+    return copy.deepcopy(json_cache[file])
 
 def storeJson(file, data):
     if file in json_cache:
@@ -25,7 +25,13 @@ def getIdToName():
     return loadJson("./id_to_name.json")
 
 def setIdToName(arr):
-    return storeJson("./id_to_name.json", arr)
+    storeJson("./id_to_name.json", arr)
+
+def getNovelData():
+    return loadJson("./novel_data.json")
+
+def setNovelData(data):
+    storeJson("./novel_data.json", data)
 
 def getNameFromId(id):
     names = getIdToName()
@@ -82,12 +88,10 @@ def getNovelTagsNovelbin(id):
 def precalc_novel_data():
     novelbin_data = loadJson("./novelbin_data.json")
     names = getIdToName()
-    data = loadJson("novel_data.json")
+    data = getNovelData()
     for i in range(1, len(names)):
         if len(data) == i:
             data.append({})
-        elif data[i] != {}:
-            continue
         name = getNameFromId(i)
         src = None
         description = None
@@ -107,7 +111,7 @@ def precalc_novel_data():
         def replaceIfMissing(field, value):
             if isMissing(field) and value != None:
                 data[i][field] = value
-        
+        replaceIfMissing("id", i)
         replaceIfMissing("name", name)
         replaceIfMissing("source", src)
         replaceIfMissing("description", description)
@@ -115,4 +119,71 @@ def precalc_novel_data():
         replaceIfMissing("chapters", chapters)
         replaceIfMissing("chaptersAi", chaptersAi)
         printProgressBar(i, len(names)-1, prefix = "Progress: ", suffix = "{} of {}".format(i, len(names)-1), length = 30)
-    storeJson("novel_data.json", data)
+    setNovelData(data)
+
+def getChapterCount(id):
+    novel = getNovelData()[id]
+    if "chapters" in novel:
+        return novel["chapters"]
+    return None
+
+def getAiChapterCount(id):
+    novel = getNovelData()[id]
+    if "chaptersAi" in novel:
+        return novel["chaptersAi"]
+    return None
+
+def getNovelDescription(id):
+    novel = getNovelData()[id]
+    if "description" in novel:
+        return novel["description"]
+    return None
+
+def getNovelTags(id):
+    novel = getNovelData()[id]
+    if "tags" in novel:
+        return novel["tags"]
+    return None
+
+def searchTitles(string):
+    res = []
+    data = getNovelData()
+    for novel in data[1:]:
+        if "name" in novel and string.lower() in novel["name"].lower():
+            res.append(novel["id"])
+    return res
+
+def searchTags(string):
+    res = []
+    data = getNovelData()
+    for novel in data[1:]:
+        if "tags" in novel and True in [string.lower() in x.lower() for x in novel["tags"]]:
+            res.append(novel["id"])
+    return res
+
+def searchDescriptions(string):
+    res = []
+    data = getNovelData()
+    for novel in data[1:]:
+        if "description" in novel and string.lower() in novel["description"].lower():
+            res.append(novel["id"])
+    return res
+
+def getNovelChapter(novel, chapter):
+    path = "./novels/{}/chapters/{}.txt".format(novel, chapter)
+    if os.path.isfile(path):
+        txt = ""
+        with open(path, "r") as f:
+            txt = f.read()
+        return txt
+    return "This chapter has not been scrapped yet. Automatic scrapping is a work in progress."
+    #TODO 
+
+def getAiGeneratedNovelChapter(novel, chapter):
+    path = "./novels/{}/chapters/ai/{}.txt".format(novel, chapter)
+    if os.path.isfile(path):
+        txt = ""
+        with open(path, "r") as f:
+            txt = f.read()
+        return txt
+    return "This chapter has not been ai-translated yet."

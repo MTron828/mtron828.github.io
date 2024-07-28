@@ -1,22 +1,50 @@
-from flask import Flask, render_template, redirect, url_for, request, flash
+from flask import Flask, Blueprint, render_template, get_template_attribute, redirect, url_for, request, flash
 from flask_login import LoginManager, UserMixin, login_user, logout_user, login_required, current_user
 from flask_bcrypt import Bcrypt
 from models import User
 from users import *
 from novels import *
+from utility import *
+from werkzeug.routing import BaseConverter
+
+class BooleanConverter(BaseConverter):
+    def __init__(self, url_map):
+        super().__init__(url_map)
+        self.regex = 'true|false|1|0|yes|no|y|n'
+
+    def to_python(self, value):
+        if value.lower() in ['true', '1', 'yes', 'y']:
+            return True
+        elif value.lower() in ['false', '0', 'no', 'n']:
+            return False
+        else:
+            raise ValueError(f"Invalid boolean value: {value}")
+
+    def to_url(self, value):
+        return 'true' if value else 'false'
+
 
 app = Flask(__name__)
+app.url_map.converters['bool'] = BooleanConverter
 app.secret_key = 'replace_with_a_strong_secret_key'
+
+app.static_folder = 'static'
+
+img_bp = Blueprint('imgs', __name__, static_folder='imgs', static_url_path='/imgs')
+app.register_blueprint(img_bp)
 
 # Initialize extensions
 login_manager = LoginManager(app)
 login_manager.login_view = 'login'
 bcrypt = Bcrypt(app)
 
-
 @login_manager.user_loader
 def load_user(username):
     return User(username, username, getUserData(username)["password"])
+
+@app.route('/')
+def index():
+    return redirect(url_for('home'))
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
@@ -42,7 +70,70 @@ def logout():
 @app.route('/home')
 @login_required
 def home():
-    return render_template('home.html', username=current_user.username)
+    user = current_user.username
+    user_data = getUserData(user)
+    novel_data = getNovelData()
+    return render_template('home.html', user_data = user_data, novel_data = novel_data)
+
+@app.route('/search_result', methods=['GET', 'POST'])
+def search_results():
+    user = current_user.username
+    req = {}
+    if request.method == "GET":
+        req = request.args 
+    elif request.method == "POST":
+        req = request.json 
+    else:
+        return "Error! No query provided for search."
+    
+    res = []
+    string = req.get("string")
+
+    if "title" in req.get("methods"):
+        tres = searchTitles(string)
+        res = addNotPresent(res, tres) 
+    if "tags" in req.get("methods"):
+        tres = searchTags(string)
+        res = addNotPresent(res, tres)  
+    if "description" in req.get("methods"):
+        tres = searchDescriptions(string)
+        res = addNotPresent(res, tres)  
+    if "embbeding" in req.get("methods"):
+        pass #TODO
+    if "aiTags" in req.get("methods"):
+        pass #TODO
+    if "aiDescription" in req.get("methods"):
+        pass #TODO
+    if "aiDescriptionEmbbeding" in req.get("methods"):
+        pass #TODO
+    
+    if "minChapters" in req:
+        minChaps = req.get("minChapters")
+        res = [x for x in res if minChaps <= getChapterCount(x)]
+    if "tagExpression" in req:
+        nres = []
+        tagExp = req.get("tagExpression") 
+        # tag expression example:
+        # 'a' & 'b' & (!'c' | 'd')
+        # recursive evaluation
+        for i in res:
+            if evaluateTagExpression(i, tagExp):
+                nres.append(i)
+        
+        res = nres
+    
+    novel_data = getNovelData()
+
+    stack = getUserData(user)["stack"][-1]
+
+    for i in range(len(novel_data)):
+        novel_data[i]["inStack"] = False
+    for st in stack:
+        for el in st:
+            novel_data[el]["inStack"] = True
+
+    return render_template("search_results.html", string=string, results=res, novel_data = novel_data)
+    
 
 @app.route('/get_stack', methods=['POST'])
 @login_required
@@ -66,10 +157,40 @@ def get_stack():
     stack_type = stack_name.split("_")[0]
     stack_idx = int(stack_name.split("_")[1])
     try:
-        txt = json.dumps(data[stack_type][stack_idx])
+        txt = json.dumps(data[stack_type][len(data[stack_type])-1][stack_idx])
         return txt
     except:
         return json.dumps([])
+
+@app.route('/update_stack', methods=['POST'])
+@login_required
+def update_stack():
+    user = current_user.username 
+    data = getUserData(user)
+    stacks = request.json.get("stacks")
+    trashes = request.json.get("trashes")
+    data["stack"].append(stacks)
+    data["trash"].append(trashes)
+    setUserData(user, data)
+
+@app.route('/novels/<int:novel_id>/')
+@login_required
+def get_novel(novel_id):
+    novel_data = getNovelData()[novel_id]
+    return render_template("novel.html", novel_data = novel_data, len = len, zip = zip)
+
+@app.route('/novels/<int:novel_id>/chapters/<bool:ai_generated>/<int:chapter_id>')
+@login_required
+def get_chapter(novel_id, chapter_id, ai_generated):
+    novel_data = getNovelData()[novel_id]
+    txt = ""
+    print(ai_generated)
+    if not ai_generated:
+        txt = getNovelChapter(novel_id, chapter_id)
+    else:
+        txt = getAiGeneratedNovelChapter(novel_id, chapter_id)
+    return render_template("chapter.html", txt=txt, novel_data = novel_data, chapter_id=chapter_id, novel_id=novel_id, ai_generated=ai_generated)
+
 
 @app.route('/novel_info', methods=['POST'])
 @login_required
@@ -89,13 +210,71 @@ def get_novel_info():
         res["description"] = getNovelDescription(id)
     if "tags" in req_arr:
         res["tags"] = getNovelTags(id)
+    if "preview" in req_arr:
+        novel_data = getNovelData()[id]
+        if "showAddToStackButton" in req_arr:
+            novel_data["inStack"] = inStack(user, id)
+        novel_preview = get_template_attribute('novel_preview.html', 'novel_preview')
+        res["preview"] = novel_preview(novel_data)
     return json.dumps(res)
+
+@app.route('/add_to_stack', methods=['POST'])
+@login_required
+def add_to_stack():
+    user = current_user.username 
+    req = request.json 
+    novel_id = req["novel"]
+    if inStack(user, novel_id):
+        return "alredy in stack"
+    data = getUserData(user)
+    current_stack = data["stack"][-1]
+    current_trash = data["trash"][-1]
+    new_trash = []
+    for trash in current_trash:
+        new_trash.append([])
+        for el in trash:
+            if el != novel_id:
+                new_trash[-1].append(el)
+    data["trash"].append(new_trash)
+    new_stack = []
+    added = False
+    for stack in current_stack:
+        new_stack.append([])
+        if not added:
+            new_stack[-1].append(novel_id)
+            added = True
+        for el in stack:
+            if el != novel_id:
+                new_stack[-1].append(el)
+    data["stack"].append(new_stack)
+    setUserData(user, data)
+    return "ok"
 
 @app.route('/recomendations', methods=['POST'])
 @login_required
 def get_recomendations():
     user = current_user.username 
     req = request.json
+    string = req.get("string")
+    res = []
+    if "title" in req.get("types"):
+        tres = searchTitles(string)
+        res = addNotPresent(res, tres) 
+    if "tags" in req.get("types"):
+        tres = searchTags(string)
+        res = addNotPresent(res, tres)  
+    if "description" in req.get("types"):
+        tres = searchDescriptions(string)
+        res = addNotPresent(res, tres)  
+    if "embbeding" in req.get("types"):
+        pass #TODO
+    if "aiTags" in req.get("types"):
+        pass #TODO
+    if "aiDescription" in req.get("types"):
+        pass #TODO
+    if "aiDescriptionEmbbeding" in req.get("types"):
+        pass #TODO
+    return json.dumps(res)
     
 
 @app.route('/change_password', methods=['POST'])

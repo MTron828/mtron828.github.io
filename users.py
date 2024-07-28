@@ -51,3 +51,14 @@ def newUser(name, password):
         "trash":[]
     }
     setUserData(name, data)
+
+def inStack(user, id):
+    data = getUserData(user)
+    stack = data["stack"]
+    trash = data["trash"]
+    stack = stack[len(stack)-1]
+    trash = trash[len(trash)-1]
+    for v in stack:
+        if id in v:
+            return True 
+    return False

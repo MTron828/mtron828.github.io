@@ -6,6 +6,9 @@
         .columns {
             display: flex;
         }
+        .column {
+            flex:1;
+        }
         ul {
             padding:0px;
             flex: 1;
@@ -66,6 +69,46 @@
         ul.draggable-list li.over {
             background-color: rgb(178, 212, 223);
         }
+
+        #suggestions {
+            border: 1px solid #ddd;
+            display: none; /* Hide initially */
+            position: absolute;
+            background-color: white;
+        }
+        .suggestion-item {
+            padding: 10px;
+            cursor: pointer;
+        }
+        .suggestion-item:hover {
+            background-color: #f0f0f0;
+        }
+        .preview {
+            display: none;
+            position: absolute;
+            border: 1px solid #ddd;
+            background: #f9f9f9;
+            width: 700px;
+            padding: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        /* Optionally, customize hover and active states */
+        a:hover, a:focus {
+            color: blue; /* Customize hover color */
+        }
+
+        a:active {
+            color: red; /* Customize active color */
+        }
+
+        a.no-link-style:hover, a.no-link-style:focus, a.no-link-style:active {
+            color:inherit;
+        }
     </style>
     <script>
         function changePassword() {
@@ -111,9 +154,9 @@
                 return res.json();
             }).then(data => {
                 //console.log(data);
-                for (let el of data) {
+                data.forEach(el => {
                     //console.log(el);
-                    list.innerHTML += "<li id = '"+name+"_novel_"+el+"' draggable='true'></li>";
+                    list.innerHTML += "<li id = '"+name+"_novel_"+el+"' class = 'novel' draggable='true'></li>";
                     fetch("{{ url_for('get_novel_info') }}", {
                         credentials:"same-origin",
                         method: "POST",
@@ -123,11 +166,11 @@
                         body: JSON.stringify({
                             "id": parseInt(el),
                             "req_arr":[
-                                "novelName", "chapterCount", "aiChapterCount", "tags"
+                                "preview" //,"novelName", "chapterCount", "aiChapterCount", "tags"
                             ]
                         })
                     }).then(res => {return res.json();}).then(json => {
-                        var novel_name = json["name"];
+                        /*var novel_name = json["name"];
                         var chapters = json["chapters"];
                         var aiChapters = json["aiChapters"];
                         var tags = json["tags"];
@@ -136,18 +179,162 @@
                             val += "<span class = 'chapter_cnt ai' >"+aiChapters+" ai translated chapters</span>";
                         }
                         val += "</br><span class = tags >" + limitCharacters(arrToString(tags), 70, "...")+"</span>";
-                        setTimeout(()=>{document.getElementById(name+"_novel_"+el).innerHTML = val;}, 100);
+                        */
+                        val = json["preview"];
+                        setTimeout(()=>{
+                            document.getElementById(name+"_novel_"+el).innerHTML = val;
+                            setTimeout(()=>{
+                                document.getElementById(name+"_novel_"+el).querySelectorAll("script").forEach(oldScript => {
+                                    var newScript = document.createElement('script');
+                                    if (oldScript.src) {
+                                        newScript.src = oldScript.src;
+                                    } else {
+                                        newScript.textContent = oldScript.textContent;
+                                    }
+                                    document.getElementById(name+"_novel_"+el).appendChild(newScript);
+                                    document.getElementById(name+"_novel_"+el).removeChild(oldScript);
+                                });
+                            });
+                        }, 0);
                     });
-                }
+                });
             });
         }
+
+
+        function updateSuggestions() {
+            const inputElement = document.getElementById('search_bar');
+            const suggestionsElement = document.getElementById('suggestions');
+
+            const inputText = inputElement.value.trim().toLowerCase();
+            suggestionsElement.innerHTML = ''; // Clear previous suggestions
+
+            if (inputText.length === 0) {
+                suggestionsElement.style.display = 'none';
+                return;
+            }
+
+            fetch("{{ url_for('get_recomendations') }}", {
+                credentials: "same-origin",
+                method: "POST",
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    "string": inputText,
+                    "types": [
+                        "title"
+                    ]
+                })
+            }).then(res => {return res.json();}).then(json => {
+                let filteredWords = [];
+                const recomendationAmount = 20;
+                let min = (a, b) => {
+                    if (a < b) return a;
+                    return b;
+                }
+                for (let i = 0; i < min(recomendationAmount, json.length); i++) {
+                    filteredWords[filteredWords.length] = json[i];
+                }
+
+                if (filteredWords.length === 0) {
+                    suggestionsElement.style.display = 'none';
+                } else {
+                    suggestionsElement.style.display = 'block';
+                }
+                // Create suggestion items
+                filteredWords.forEach(id => {
+                    const div = document.createElement('div');
+                    suggestionsElement.appendChild(div);
+                    fetch("{{ url_for('get_novel_info') }}", {
+                        credentials:"same-origin",
+                        method: "POST",
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({
+                            "id": id,
+                            "req_arr":[
+                                "novelName"
+                            ]
+                        })
+                    }).then(res => {return res.json()}).then(json => {
+                        div.textContent = json["name"];
+                        div.classList.add('suggestion-item');
+                        div.onclick = function() {
+                            inputElement.value = json["name"]; // Set input value to the selected word
+                            suggestionsElement.style.display = 'none'; // Hide suggestions
+                        };
+                    });
+                });
+
+            });
+        }
+
         window.onload = () => {
-            var stacks = document.getElementById("stacks").getElementsByTagName("ul");
+            /*var stacks = document.getElementById("stacks").getElementsByTagName("ul");
             for (let stack of stacks) {
                 fillStack(stack.id);
-            }
+            }*/
+            
+
+            document.getElementById("search_bar").addEventListener("input", updateSuggestions);
+            document.getElementById("search_bar").addEventListener("focus", updateSuggestions);
+            document.getElementById("search_bar").addEventListener('blur', () => {
+                // Hide suggestions after a short delay to allow click event to register
+                setTimeout(() => {
+                    document.getElementById('suggestions').style.display = 'none';
+                }, 200);
+            });
+            document.getElementById("search_bar").addEventListener('keydown', (e) => {
+                if (e.key === 'Enter') {
+                    const baseUrl = "{{ url_for('search_results') }}";
+                    const params = new URLSearchParams({
+                        "string": document.getElementById("search_bar").value.trim().toLowerCase(),
+                        "methods": "'title' 'tags' 'description'"
+                    });
+
+                    const fullUrl = `${baseUrl}?${params.toString()}`;
+
+                    window.location.href = fullUrl;
+                }
+            });
+        
         };
         
+        function updateStack() {
+            var stacks = [];
+            var trashes = [];
+            for (let st of document.getElementsByClassName("draggable-list")) {
+                var els = [];
+                var type = st.id.split("_")[0];
+                var idx = parseInt(st.id.split("_")[1]);
+                for (let el of st.getElementsByClassName('novel')) {
+                    els[els.length] = parseInt(el.id.split("_")[3]);
+                }
+                if (type == "stack") {
+                    for (let i = stacks.length; i <= idx; i++)
+                        stacks[stacks.length] = [];
+                    stacks[idx] = els;
+                } else if (type == "trash") {
+                    for (let i = trashes.length; i <= idx; i++)
+                        trashes[trashes.length] = [];
+                    trashes[idx] = els;
+                }
+            }
+            fetch("{{ url_for('update_stack') }}", {
+                credentials:"same-origin",
+                method: "POST",
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    "stacks":stacks,
+                    "trashes":trashes
+                })
+            })
+        }
+
         var draggedItem = null;
         function setDraggables(event) {
             
@@ -201,6 +388,7 @@
                     } else {
                         this.parentElement.insertBefore(draggedItem, this.nextElementSibling);
                     }
+                    updateStack();
                 }
                 this.classList.remove('over');
             }
@@ -230,6 +418,7 @@
                 e.preventDefault();
                 if (draggedItem && this.querySelectorAll('li').length === 0) {
                     this.appendChild(draggedItem);
+                    updateStack();
                 }
             }
 
@@ -277,19 +466,39 @@
     </script>
 </head>
 <body>
-    <h2>Welcome, {{ username }}!</h2>
+    <h2>Welcome, {{ current_user.username }}!</h2>
     <a href="{{ url_for('logout') }}">Logout</a>
 
+    <div id = "search">
+        <input type="text" id = "search_bar"/>
+        <div id="suggestions"></div>
+    </div>
+
+    {% from 'novel_preview.html' import novel_preview %}
     <div id = "stacks" class = "columns">
-        <li id = "drag-preview" class = "preview"></li>
         <ul id = "stack_0" class = "draggable-list">
             <h2>Stack 1:</h2>
+            {% for el in user_data["stack"][-1][0] %}
+                <li id = 'stack_0_novel_{{ el }}' class = 'novel' draggable='true'>
+                    {{ novel_preview(novel_data[el]) }}
+                </li>
+            {% endfor %}
         </ul>
         <ul id = "stack_1" class = "draggable-list">
             <h2>Stack 2:</h2>
+            {% for el in user_data["stack"][-1][1] %}
+                <li id = 'stack_1_novel_{{ el }}' class = 'novel' draggable='true'>
+                    {{ novel_preview(novel_data[el]) }}
+                </li>
+            {% endfor %}
         </ul>
         <ul id = "trash_0" class = "draggable-list">
             <h2>Trash:</h2>
+            {% for el in user_data["trash"][-1][0] %}
+                <li id = 'trash_0_novel_{{ el }}' class = 'novel' draggable='true'>
+                    {{ novel_preview(novel_data[el]) }}
+                </li>
+            {% endfor %}
         </ul>
     </div>
     <div id = "logger"></div>
