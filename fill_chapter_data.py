@@ -3,7 +3,7 @@ import glob
 from progress_bar import printProgressBar
 
 def fill_chapter_data():
-
+    #TODO
     novel_data_str = ""
     with open("./novels/novels.json", "r") as f:
         novel_data_str = f.read()
@@ -36,4 +36,4 @@ def fill_chapter_data():
             f.write(json_str)
         printProgressBar(cnt, len(novel_data["novels"]), prefix="Updating chapter data: ", length = 30)
 
-fill_chapter_data()
+#fill_chapter_data()

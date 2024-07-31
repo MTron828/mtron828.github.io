@@ -6,6 +6,9 @@ from users import *
 from novels import *
 from utility import *
 from werkzeug.routing import BaseConverter
+from markupsafe import Markup
+import novelbin_scrapper
+import threading
 
 class BooleanConverter(BaseConverter):
     def __init__(self, url_map):
@@ -184,12 +187,27 @@ def get_novel(novel_id):
 def get_chapter(novel_id, chapter_id, ai_generated):
     novel_data = getNovelData()[novel_id]
     txt = ""
+    script = ""
     print(ai_generated)
     if not ai_generated:
         txt = getNovelChapter(novel_id, chapter_id)
+        if not txt:
+            txt = "Waiting for autoscrapper to download chapter...\n"
+            txt += "Meanwhile, you can visit the chapter in it's <a href = '{0}'>original source</a>.".format(getNovelLinks(novel_id)[chapter_id])
+            txt = Markup(txt)
+            script = """
+            <script>
+                setTimeout(()=>{
+                    window.location.reload();
+                }, 5000);
+            </script>
+            """
+            novelbin_scrapper.addScrapChapters(novel_data["name"], chapter_id, 10)
     else:
         txt = getAiGeneratedNovelChapter(novel_id, chapter_id)
-    return render_template("chapter.html", txt=txt, novel_data = novel_data, chapter_id=chapter_id, novel_id=novel_id, ai_generated=ai_generated)
+        if not txt:
+            txt = "Automatic ai generation is a work in progress."
+    return render_template("chapter.html", txt=txt, script=script, novel_data = novel_data, chapter_id=chapter_id, novel_id=novel_id, ai_generated=ai_generated)
 
 
 @app.route('/novel_info', methods=['POST'])
@@ -288,4 +306,6 @@ def change_password():
     return redirect(url_for("home"))
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    scrapper = threading.Thread(target = novelbin_scrapper.scrap)
+    scrapper.start()
+    app.run(debug=False)
