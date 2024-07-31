@@ -14,15 +14,14 @@ import threading
 from fill_chapter_data import fill_chapter_data
 from progress_bar import printProgressBar
 import novels
+import traceback
 
 driver = uc.Chrome(executable_path = "./chromedriver.exe")
 driver.close()
 
-drivers = []
-MAX_THREADS = 5
-drivers_avaliable = [True for i in range(MAX_THREADS)]
-
 data = {}
+
+stack = []
 
 def loadData():
     global data
@@ -154,10 +153,10 @@ def scrapNovelTags():
         storeData()
 
 def getLinks(link):
-    #print("Getting links...")
+    print("Getting links...")
     jump(driver, link)
     getById(driver, "tab-chapters-title").click()
-    #print("Waiting to load...")
+    print("Waiting to load...")
     while len(getElsByClass(driver, "loading")) != 0:
         getById(driver, "tab-chapters-title").click()
         time.sleep(0.1)
@@ -169,7 +168,7 @@ def getLinks(link):
         res.append(a.get_attribute("href"))
     print("Done, returing {} links.".format(len(res)))
     return res"""
-    #print("Getting links...")
+    print("Getting links...")
     res = driver.execute_script("""
 var res = [];
 for (let li of document.getElementsByClassName("panel-body")[0].getElementsByTagName("li")) {
@@ -177,11 +176,12 @@ for (let li of document.getElementsByClassName("panel-body")[0].getElementsByTag
 }
 return res;
 """)
-    #print("Done, returing {} links.".format(len(res)))
+    print("Done, returing {} links.".format(len(res)))
     return res
 
 
 def getNovelId(name, chap_cnt):
+    return novels.getIdFromName(name)
     print("Getting novel id...")
     print("Opening json...")
     novels = {}
@@ -233,12 +233,10 @@ def getChapter(drv, link):
         print(getByTag(drv, "body").get_attribute("innerText"))
     return txt
 
-def getChapterThread(drv_idx, filename, link):
+def getAndSaveChapter(filename, link):
     if not os.path.exists(filename):
-        drivers_avaliable[drv_idx] = False
         #txt = getChapter(drivers[drv_idx], link)
         txt = getChapter(driver, link)
-        drivers_avaliable[drv_idx] = True
         with open(filename, "w", encoding='utf-8') as f:
             f.write(txt)
         getChapsPerSecond()    
@@ -257,7 +255,6 @@ def downloadNovel(name):
     updateNovelFolder(name, id)
     chapter_directory = "./novels/{}/chapters/".format(id)
     print("Downloading chapters of {}:".format(name))
-    threads = deque()
     for i in range(len(links)):
         #if len(threads) >= MAX_THREADS:
         #    lft = threads.popleft()
@@ -268,7 +265,7 @@ def downloadNovel(name):
         #trd = threading.Thread(target=getChapterThread, args=(drv_idx, filename, links[i],))
         #trd.start()
         #threads.append(trd)
-        getChapterThread(-1, filename, links[i])
+        getAndSaveChapter(filename, links[i])
         #getChapterThread(filename, links[i])
         printProgressBar(i+1, len(links), prefix = "Progress: ", suffix = "{:.2f} cps".format(last_cps), length = 50)
     print("Updating chapter data...")
@@ -285,48 +282,106 @@ def downloadNovels():
 #    getChapter("https://lightnovel.novelcenter.net/novel-book/nine-star-hegemon-body-arts/chapter-1")
 
 
-#Change to true to enable main loop
-while True:
-    try:
+def getNovelLinks(novel_id):
+    filenumber = novel_id//100
+    name = novels.getNameFromId(novel_id)
+    if os.path.isfile("./novelbin_links_{}.json".format(filenumber)):
+        offset = novel_id%100
+        links = novels.loadJson("./novelbin_links_{}.json".format(filenumber))
+        if len(links[offset]) == 0 or True:
+            links[offset] = getLinks(data[name]["link"])
+            novels.storeJson("./novelbin_links_{}.json".format(filenumber), links)
+    else:
+        links = []
+        for i in range(100):
+            links.append([])
+        offset = novel_id%100
+        links[offset] = getLinks(data[name]["link"])
+        novels.storeJson("./novelbin_links_{}.json".format(filenumber), links)
+
+def addToStack(task):
+    global stack
+    stack.append(task)
+
+def addArrToStack(arr):
+    for i in range(len(arr)-1, -1, -1):
+        addToStack(arr[i])
+
+def addScrapChapter(name, chapter_id):
+    print("Added scrap chapter: {} {}".format(name, chapter_id))
+    def scrapChapter():
+        id = novels.getIdFromName(name)
+        updateNovelFolder(name, id)
+        chapter_directory = "./novels/{}/chapters/".format(id)
+        filename = chapter_directory+"{}.txt".format(chapter_id)
+        getAndSaveChapter(filename, novels.getNovelLinks(id)[chapter_id])
+    addToStack(scrapChapter)
+
+
+def addScrapChapters(name, chapter_id, chapter_cnt):
+    print("Added scrap chapters: {} {} {}".format(name, chapter_id, chapter_cnt))
+    for i in range(chapter_cnt-1, -1, -1):
+        addScrapChapter(name, chapter_id+i)
+
+def addScrapNovelPage(page_num):
+    pass
+
+def addScrapNovels():
+    pass
+
+def addScrapLink(id):
+    if id%100 == 0:
+        print("Added scrap link: {}".format(id))
+    def scrapLink():
+        print("Scrapping links of novel: {}".format(id))
+        getNovelLinks(id)
+        #TODO
+    addToStack(scrapLink)
+    
+
+def addScrapLinks():
+    print("Added scrap links")
+    for name in data:
+        id = novels.getIdFromName(name)
+        addScrapLink(id)
+
+def scrap():
+    global stack
+    while True:
         try:
-            driver.close()
-            for drv in drivers:
-                drv.close()
-        except:
-            pass
-        driver = uc.Chrome(executable_path = "./chromedriver.exe")
-        loadData()
-        print("Data loaded...")
-        print("Data size: {}".format(len(data)))
-        cnt = 0
-        for name in data:
-            id = novels.getIdFromName(name)
-            filenumber = id//100
-            if os.path.isfile("./novelbin_links_{}.json".format(filenumber)):
-                offset = id%100
-                links = novels.loadJson("./novelbin_links_{}.json".format(filenumber))
-                if len(links[offset]) == 0:
-                    links[offset] = getLinks(data[name]["link"])
-                    novels.storeJson("./novelbin_links_{}.json".format(filenumber), links)
-            else:
-                links = []
-                for i in range(100):
-                    links.append([])
-                offset = id%100
-                links[offset] = getLinks(data[name]["link"])
-                novels.storeJson("./novelbin_links_{}.json".format(filenumber), links)
-            cnt += 1
-            printProgressBar(cnt, len(data.keys()), prefix="Progress: ", suffix="{} of {}".format(cnt, len(data.keys())), length=30)
-        #scrapNovelTags()
-        #scrapNovelDescriptions()
-        #scrapNovels()
-        downloadNovels()
-        storeData()
-        driver.close()
-        break
-    except Exception as ec:
-        print(ec)
+            try:
+                driver.close()
+            except:
+                pass
+            driver = uc.Chrome(executable_path = "./chromedriver.exe")
+            loadData()
+
+            while True:
+                if len(stack) == 0:
+                    addScrapLinks()
+                else:
+                    print("Executing top of stack:")
+                    print(stack[-1])
+                    stack[-1]()
+                    print("Done.")
+                    stack = stack[:-1]
+                    print("New stack length: {}".format(len(stack)))
+            
+            """for name in data:
+                id = novels.getIdFromName(name)
+                getNovelLinks(id)"""
+            #scrapNovelTags()
+            #scrapNovelDescriptions()
+            #scrapNovels()
+            #downloadNovels()
+            #storeData()
+            #driver.close()
+            #break
+        except Exception as ec:
+            print("An exception occured in scrapper thread: {}".format(ec))
+            traceback.print_exc()
 
 
 
 
+scrap()

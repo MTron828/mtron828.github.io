@@ -3,6 +3,7 @@ import os
 from progress_bar import printProgressBar
 import copy
 
+
 json_cache = {}
 def loadJson(file):
     if file in json_cache:
@@ -176,8 +177,7 @@ def getNovelChapter(novel, chapter):
         with open(path, "r") as f:
             txt = f.read()
         return txt
-    return "This chapter has not been scrapped yet. Automatic scrapping is a work in progress."
-    #TODO 
+    return None 
 
 def getAiGeneratedNovelChapter(novel, chapter):
     path = "./novels/{}/chapters/ai/{}.txt".format(novel, chapter)
@@ -186,4 +186,10 @@ def getAiGeneratedNovelChapter(novel, chapter):
         with open(path, "r") as f:
             txt = f.read()
         return txt
-    return "This chapter has not been ai-translated yet."
+    return None
+
+def getNovelLinks(id):
+    filenum = id//100
+    offset = id%100
+    file = loadJson("./novelbin_links_{}.json".format(filenum))
+    return file[offset]

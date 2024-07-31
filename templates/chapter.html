@@ -115,7 +115,6 @@
         for (let opt of document.querySelectorAll("option.chapter")) {
             if (opt.value == (window.location.pathname + window.location.search)) {
                 opt.selected = true;
-                console.log("Here");
             }
         }
       };
@@ -169,6 +168,7 @@
     <div id = "content" class = "text">
       {{ txt }}
     </div>
+      {{ script|safe }}
     <div id = "buttons">
       <a id = "prev" href = "{{url_for('get_chapter', novel_id = novel_id, ai_generated=ai_generated, chapter_id = (chapter_id-1))}}">
         <div class = "btn">Previous</div></a>
