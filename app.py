@@ -188,7 +188,7 @@ def get_chapter(novel_id, chapter_id, ai_generated):
     novel_data = getNovelData()[novel_id]
     txt = ""
     script = ""
-    print(ai_generated)
+    #print(ai_generated)
     if not ai_generated:
         txt = getNovelChapter(novel_id, chapter_id)
         if not txt:
@@ -308,4 +308,4 @@ def change_password():
 if __name__ == '__main__':
     scrapper = threading.Thread(target = novelbin_scrapper.scrap)
     scrapper.start()
-    app.run(debug=False)
+    app.run(debug=False, port=5000)

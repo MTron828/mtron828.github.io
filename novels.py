@@ -172,9 +172,10 @@ def searchDescriptions(string):
 
 def getNovelChapter(novel, chapter):
     path = "./novels/{}/chapters/{}.txt".format(novel, chapter)
+    print(path)
     if os.path.isfile(path):
         txt = ""
-        with open(path, "r") as f:
+        with open(path, "r", encoding='utf-8') as f:
             txt = f.read()
         return txt
     return None 
@@ -183,7 +184,7 @@ def getAiGeneratedNovelChapter(novel, chapter):
     path = "./novels/{}/chapters/ai/{}.txt".format(novel, chapter)
     if os.path.isfile(path):
         txt = ""
-        with open(path, "r") as f:
+        with open(path, "r", encoding='utf-8') as f:
             txt = f.read()
         return txt
     return None
