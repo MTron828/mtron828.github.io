@@ -306,6 +306,10 @@ def change_password():
     return redirect(url_for("home"))
 
 if __name__ == '__main__':
-    scrapper = threading.Thread(target = novelbin_scrapper.scrap)
-    scrapper.start()
-    app.run(debug=False, port=5000)
+    scrapper = None
+    try:
+        scrapper = threading.Thread(target = novelbin_scrapper.scrap)
+        scrapper.start()
+        app.run(debug=False, port=5000)
+    finally:
+        novelbin_scrapper.driver.quit()
