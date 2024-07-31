@@ -153,10 +153,10 @@ def scrapNovelTags():
         storeData()
 
 def getLinks(link):
-    print("Getting links...")
+    #print("Getting links...")
     jump(driver, link)
     getById(driver, "tab-chapters-title").click()
-    print("Waiting to load...")
+    #print("Waiting to load...")
     while len(getElsByClass(driver, "loading")) != 0:
         getById(driver, "tab-chapters-title").click()
         time.sleep(0.1)
@@ -168,7 +168,7 @@ def getLinks(link):
         res.append(a.get_attribute("href"))
     print("Done, returing {} links.".format(len(res)))
     return res"""
-    print("Getting links...")
+    #print("Getting links...")
     res = driver.execute_script("""
 var res = [];
 for (let li of document.getElementsByClassName("panel-body")[0].getElementsByTagName("li")) {
@@ -176,7 +176,7 @@ for (let li of document.getElementsByClassName("panel-body")[0].getElementsByTag
 }
 return res;
 """)
-    print("Done, returing {} links.".format(len(res)))
+    #print("Done, returing {} links.".format(len(res)))
     return res
 
 
@@ -287,7 +287,12 @@ def getNovelLinks(novel_id):
     name = novels.getNameFromId(novel_id)
     if os.path.isfile("./novelbin_links_{}.json".format(filenumber)):
         offset = novel_id%100
-        links = novels.loadJson("./novelbin_links_{}.json".format(filenumber))
+        try:
+            links = novels.loadJson("./novelbin_links_{}.json".format(filenumber))
+        except:
+            links = []
+            for i in range(100):
+                links.append([])
         if len(links[offset]) == 0 or True:
             links[offset] = getLinks(data[name]["link"])
             novels.storeJson("./novelbin_links_{}.json".format(filenumber), links)
@@ -314,6 +319,7 @@ def addScrapChapter(name, chapter_id):
         updateNovelFolder(name, id)
         chapter_directory = "./novels/{}/chapters/".format(id)
         filename = chapter_directory+"{}.txt".format(chapter_id)
+        print(filename)
         getAndSaveChapter(filename, novels.getNovelLinks(id)[chapter_id])
     addToStack(scrapChapter)
 
@@ -346,8 +352,9 @@ def addScrapLinks():
         addScrapLink(id)
 
 def scrap():
-    global stack
+    global stack, driver
     while True:
+        stack_top = None
         try:
             try:
                 driver.close()
@@ -360,11 +367,13 @@ def scrap():
                 if len(stack) == 0:
                     addScrapLinks()
                 else:
-                    print("Executing top of stack:")
-                    print(stack[-1])
-                    stack[-1]()
-                    print("Done.")
+                    
+                    stack_top = stack[-1]
                     stack = stack[:-1]
+                    print("Executing top of stack:")
+                    print(stack_top)
+                    stack_top()
+                    print("Done.")
                     print("New stack length: {}".format(len(stack)))
             
             """for name in data:
@@ -380,8 +389,11 @@ def scrap():
         except Exception as ec:
             print("An exception occured in scrapper thread: {}".format(ec))
             traceback.print_exc()
+            if stack_top:
+                print("Restoring stack top")
+                addToStack(stack_top)
 
 
 
 
-scrap()
+#scrap()
