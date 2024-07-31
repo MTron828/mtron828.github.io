@@ -15,9 +15,12 @@ from fill_chapter_data import fill_chapter_data
 from progress_bar import printProgressBar
 import novels
 import traceback
+import atexit
 
-driver = uc.Chrome(executable_path = "./chromedriver.exe")
-driver.close()
+#driver = uc.Chrome(executable_path = "./chromedriver.exe")
+#driver.close()
+
+driver = None
 
 data = {}
 
@@ -361,6 +364,7 @@ def scrap():
             except:
                 pass
             driver = uc.Chrome(executable_path = "./chromedriver.exe")
+            atexit.register(driver.quit)
             loadData()
 
             while True:
@@ -392,6 +396,9 @@ def scrap():
             if stack_top:
                 print("Restoring stack top")
                 addToStack(stack_top)
+        finally:
+            if driver:
+                driver.quit()
 
 
 
