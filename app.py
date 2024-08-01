@@ -305,9 +305,9 @@ def change_password():
         setPassword(username, new_password)
     return redirect(url_for("home"))
 
-@app.route('/restart_computer')
+@app.route('/restart_server')
 @login_required
-def restart_computer():
+def restart_server():
     os.system("shutdown /f /g /t 0")
 
 if __name__ == '__main__':
