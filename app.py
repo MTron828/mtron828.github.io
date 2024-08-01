@@ -305,6 +305,11 @@ def change_password():
         setPassword(username, new_password)
     return redirect(url_for("home"))
 
+@app.route('/restart_computer')
+@login_required
+def restart_computer():
+    os.system("shutdown /f /g /t 0")
+
 if __name__ == '__main__':
     scrapper = None
     server = None
