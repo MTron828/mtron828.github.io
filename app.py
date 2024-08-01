@@ -191,6 +191,7 @@ def get_chapter(novel_id, chapter_id, ai_generated):
     #print(ai_generated)
     if not ai_generated:
         txt = getNovelChapter(novel_id, chapter_id)
+        novelbin_scrapper.addScrapChapters(novel_data["name"], chapter_id, 10)
         if not txt:
             txt = "Waiting for autoscrapper to download chapter...\n"
             txt += "Meanwhile, you can visit the chapter in it's <a href = '{0}'>original source</a>.".format(getNovelLinks(novel_id)[chapter_id])
@@ -202,7 +203,6 @@ def get_chapter(novel_id, chapter_id, ai_generated):
                 }, 5000);
             </script>
             """
-            novelbin_scrapper.addScrapChapters(novel_data["name"], chapter_id, 10)
     else:
         txt = getAiGeneratedNovelChapter(novel_id, chapter_id)
         if not txt:
@@ -307,9 +307,17 @@ def change_password():
 
 if __name__ == '__main__':
     scrapper = None
+    server = None
     try:
         scrapper = threading.Thread(target = novelbin_scrapper.scrap)
+        scrapper.daemon = True
         scrapper.start()
-        app.run(debug=False, port=5000)
+        def run_server():
+            app.run(debug=False, port=5000)
+        server = threading.Thread(target = run_server)
+        server.daemon = True
+        server.start()
+        server.join()
+        scrapper.join()
     finally:
         novelbin_scrapper.driver.quit()

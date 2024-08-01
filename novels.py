@@ -68,8 +68,11 @@ def giveIdsToNovels():
 def getChapterCountNovelbin(id):
     filenum = id//100
     offset = id%100
-    file = loadJson("./novelbin_links_{}.json".format(filenum))
-    return len(file[offset])
+    try:
+        file = loadJson("./novelbin_links_{}.json".format(filenum))
+        return len(file[offset])
+    except:
+        return None
 
 def getAiChapterCountOsPath(id):
     path = "./novels/{}/chapters/ai".format(id)
@@ -80,17 +83,55 @@ def getAiChapterCountOsPath(id):
 
 def getNovelDescriptionNovelbin(id):
     data = loadJson("./novelbin_data.json")
-    return data[getNameFromId(id)]["description"]
+    try:
+        return data[getNameFromId(id)]["description"]
+    except:
+        return None
 
 def getNovelTagsNovelbin(id):
     data = loadJson("./novelbin_data.json")
-    return data[getNameFromId(id)]["tags"]  
+    try:
+        return data[getNameFromId(id)]["tags"]  
+    except:
+        return None
 
-def precalc_novel_data():
-    novelbin_data = loadJson("./novelbin_data.json")
-    names = getIdToName()
+def update_novel_data_entry(i):
     data = getNovelData()
-    for i in range(1, len(names)):
+    novelbin_data = loadJson("./novelbin_data.json")
+    if len(data) == i:
+        data.append({})
+    name = getNameFromId(i)
+    src = None
+    description = None
+    tags = []
+    chapters = None
+    chaptersAi = None
+    if name in novelbin_data:
+        src = "novelbin"
+        description = getNovelDescriptionNovelbin(i)
+        tags = getNovelTagsNovelbin(i)
+        chapters = getChapterCountNovelbin(i)
+        chaptersAi = getAiChapterCountOsPath(i)
+
+    def isMissing(field):
+        return (not (field in data[i])) or (data[i][field] == None)
+
+    def replaceIfMissing(field, value):
+        if isMissing(field) and value != None:
+            data[i][field] = value
+    replaceIfMissing("id", i)
+    replaceIfMissing("name", name)
+    replaceIfMissing("source", src)
+    replaceIfMissing("description", description)
+    replaceIfMissing("tags", tags)
+    replaceIfMissing("chapters", chapters)
+    replaceIfMissing("chaptersAi", chaptersAi)
+    setNovelData(data)
+
+def update_novel_data_entries(arr):
+    data = getNovelData()
+    novelbin_data = loadJson("./novelbin_data.json")
+    for i in arr:
         if len(data) == i:
             data.append({})
         name = getNameFromId(i)
@@ -119,8 +160,12 @@ def precalc_novel_data():
         replaceIfMissing("tags", tags)
         replaceIfMissing("chapters", chapters)
         replaceIfMissing("chaptersAi", chaptersAi)
-        printProgressBar(i, len(names)-1, prefix = "Progress: ", suffix = "{} of {}".format(i, len(names)-1), length = 30)
     setNovelData(data)
+
+def precalc_novel_data():
+    names = getIdToName()
+    for i in range(1, len(names)):
+        crate_novel_data_entry(i)
 
 def getChapterCount(id):
     novel = getNovelData()[id]

@@ -80,16 +80,32 @@ def getChapsPerSecond():
     last_cps = 10/max(0.0001, (time.time()-tm))
     return last_cps
 
-def indexNovel(el):
-    h3 = getByClass(el, "novel-title")
-    a = getByTag(h3, "a")
-    name = a.get_attribute("innerText")
-    href = a.get_attribute("href")
-    data[name] = {"name":name, "link":href}
+def indexNovel(name, link):
+    data[name] = {"name":name, "link":link}
+    id = novels.getIdFromName(name)
     
 def indexNovels():
-    for novel in novelListIterator():
-        indexNovel(novel)
+    loadData()
+    script = """
+var res = [];
+for (let nov of document.getElementsByClassName("col-novel-main")[0].getElementsByClassName("row")) {
+    let name = nov.getElementsByClassName("novel-title")[0].innerText;
+    let link = nov.getElementsByTagName("a")[0].href;
+    res[res.length] = ([name, link]);
+}
+return res;
+    """
+    print("Executing script...")
+    arr = driver.execute_script(script)
+    print("Script executed")
+    print("Indexing...")
+    for p in arr:
+        indexNovel(p[0], p[1])
+    print("Indexed")
+    novels.storeJson("./novelbin_data.json", data)
+    print("Updating entries...")
+    novels.update_novel_data_entries([novels.getIdFromName(name) for name, link in arr])
+    print("Updated")
 
 def jumpPopularPage(n):
     jump(driver, "https://novelbin.me/sort/novelbin-popular?page="+str(n+1))
@@ -230,6 +246,7 @@ def getChapter(drv, link):
     soup = BeautifulSoup(html, features="html.parser")
     txt = soup.find(id="chr-content").get_text()"""
     jump(drv, link)
+    txt = "Error!"
     try:
         txt = getById(drv, "chr-content").get_attribute("innerText")
     except:
@@ -322,7 +339,7 @@ def addScrapChapter(name, chapter_id):
         updateNovelFolder(name, id)
         chapter_directory = "./novels/{}/chapters/".format(id)
         filename = chapter_directory+"{}.txt".format(chapter_id)
-        print(filename)
+        print("Scrapping contents of chapter '{}'.".format(filename))
         getAndSaveChapter(filename, novels.getNovelLinks(id)[chapter_id])
     addToStack(scrapChapter)
 
@@ -333,10 +350,21 @@ def addScrapChapters(name, chapter_id, chapter_cnt):
         addScrapChapter(name, chapter_id+i)
 
 def addScrapNovelPage(page_num):
-    pass
+    if page_num%10 == 0:
+        print("Added scrap novel page: {}".format(page_num))
+    def scrapNovelPage():
+        print("Scrapping novels of novel page: {}".format(page_num))
+        jump(driver, "https://novelbin.me/sort/novelbin-daily-update?page={}".format(page_num))
+        indexNovels()
+    addToStack(scrapNovelPage)
 
 def addScrapNovels():
-    pass
+    print("Adding scrap novels...")
+    jump(driver, "https://novelbin.me/sort/novelbin-daily-update")
+    maxn = driver.execute_script('return document.getElementsByClassName("pagination")[0].getElementsByTagName("li")[8].getElementsByTagName("a")[0].href.split("=")[1]')
+    maxn = int(maxn)
+    for i in range(1, maxn+1):
+        addScrapNovelPage(i)
 
 def addScrapLink(id):
     if id%100 == 0:
@@ -370,15 +398,15 @@ def scrap():
             while True:
                 if len(stack) == 0:
                     addScrapLinks()
+                    addScrapNovels()
                 else:
                     
-                    stack_top = stack[-1]
-                    stack = stack[:-1]
-                    print("Executing top of stack:")
-                    print(stack_top)
+                    stack_top = stack.pop()
+                    #print("Executing top of stack:")
+                    #print(stack_top)
                     stack_top()
-                    print("Done.")
-                    print("New stack length: {}".format(len(stack)))
+                    #print("Done.")
+                    #print("New stack length: {}".format(len(stack)))
             
             """for name in data:
                 id = novels.getIdFromName(name)
