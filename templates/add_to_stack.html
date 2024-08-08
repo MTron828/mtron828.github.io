@@ -1,6 +1,6 @@
 {% if "inStack" in data and (not data["inStack"]) %}
 <div class = "inline-block column" id = "add_to_stack_{{data['id']}}">
-    <img class = "icon" src = "./imgs/stack.webp"/>
+    <img class = "icon" src = "/webnovel/imgs/stack.webp"/>
 </div>
 <script>
     document.getElementById("add_to_stack_{{data['id']}}").addEventListener("click", (e)=>{
@@ -15,7 +15,7 @@
             })
         }).then(res => {return res.text()}).then(text => {
             if (text == "ok"){
-                document.getElementById("add_to_stack_{{data['id']}}").getElementsByTagName("img")[0].src = "./imgs/check.webp";
+                document.getElementById("add_to_stack_{{data['id']}}").getElementsByTagName("img")[0].src = "/webnovel/imgs/check.webp";
             } else {
                 console.log(text);
             }
@@ -25,6 +25,6 @@
 {% endif %}
 {% if "inStack" in data and data["inStack"] %}
 <div class = "inline-block column">
-    <img class = "icon" src = "./imgs/check.webp"/>
+    <img class = "icon" src = "/webnovel/imgs/check.webp"/>
 </div>
 {% endif %}

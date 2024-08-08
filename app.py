@@ -33,7 +33,7 @@ app.secret_key = 'replace_with_a_strong_secret_key'
 
 app.static_folder = 'static'
 
-img_bp = Blueprint('imgs', __name__, static_folder='imgs', static_url_path='/imgs')
+img_bp = Blueprint('imgs', __name__, static_folder='imgs', static_url_path='/webnovel/imgs')
 app.register_blueprint(img_bp)
 
 # Initialize extensions
@@ -45,11 +45,11 @@ bcrypt = Bcrypt(app)
 def load_user(username):
     return User(username, username, getUserData(username)["password"])
 
-@app.route('/')
+@app.route('/webnovel/')
 def index():
     return redirect(url_for('home'))
 
-@app.route('/login', methods=['GET', 'POST'])
+@app.route('/webnovel/login', methods=['GET', 'POST'])
 def login():
     if request.method == 'POST':
         username = request.form.get('username')
@@ -63,14 +63,14 @@ def login():
             flash('Invalid username or password!', 'danger')
     return render_template('login.html')
 
-@app.route('/logout')
+@app.route('/webnovel/logout')
 @login_required
 def logout():
     logout_user()
     flash('You have been logged out.', 'info')
     return redirect(url_for('login'))
 
-@app.route('/home')
+@app.route('/webnovel/home')
 @login_required
 def home():
     user = current_user.username
@@ -78,7 +78,7 @@ def home():
     novel_data = getNovelData()
     return render_template('home.html', user_data = user_data, novel_data = novel_data)
 
-@app.route('/search_result', methods=['GET', 'POST'])
+@app.route('/webnovel/search_result', methods=['GET', 'POST'])
 def search_results():
     user = current_user.username
     req = {}
@@ -138,7 +138,7 @@ def search_results():
     return render_template("search_results.html", string=string, results=res, novel_data = novel_data)
     
 
-@app.route('/get_stack', methods=['POST'])
+@app.route('/webnovel/get_stack', methods=['POST'])
 @login_required
 def get_stack():
     """print("I am a post")
@@ -165,7 +165,7 @@ def get_stack():
     except:
         return json.dumps([])
 
-@app.route('/update_stack', methods=['POST'])
+@app.route('/webnovel/update_stack', methods=['POST'])
 @login_required
 def update_stack():
     user = current_user.username 
@@ -176,13 +176,13 @@ def update_stack():
     data["trash"].append(trashes)
     setUserData(user, data)
 
-@app.route('/novels/<int:novel_id>/')
+@app.route('/webnovel/novels/<int:novel_id>/')
 @login_required
 def get_novel(novel_id):
     novel_data = getNovelData()[novel_id]
     return render_template("novel.html", novel_data = novel_data, len = len, zip = zip)
 
-@app.route('/novels/<int:novel_id>/chapters/<bool:ai_generated>/<int:chapter_id>')
+@app.route('/webnovel/novels/<int:novel_id>/chapters/<bool:ai_generated>/<int:chapter_id>')
 @login_required
 def get_chapter(novel_id, chapter_id, ai_generated):
     novel_data = getNovelData()[novel_id]
@@ -210,7 +210,7 @@ def get_chapter(novel_id, chapter_id, ai_generated):
     return render_template("chapter.html", txt=txt, script=script, novel_data = novel_data, chapter_id=chapter_id, novel_id=novel_id, ai_generated=ai_generated)
 
 
-@app.route('/novel_info', methods=['POST'])
+@app.route('/webnovel/novel_info', methods=['POST'])
 @login_required
 def get_novel_info():
     user = current_user.username 
@@ -236,7 +236,7 @@ def get_novel_info():
         res["preview"] = novel_preview(novel_data)
     return json.dumps(res)
 
-@app.route('/add_to_stack', methods=['POST'])
+@app.route('/webnovel/add_to_stack', methods=['POST'])
 @login_required
 def add_to_stack():
     user = current_user.username 
@@ -268,7 +268,7 @@ def add_to_stack():
     setUserData(user, data)
     return "ok"
 
-@app.route('/recomendations', methods=['POST'])
+@app.route('/webnovel/recomendations', methods=['POST'])
 @login_required
 def get_recomendations():
     user = current_user.username 
@@ -295,7 +295,7 @@ def get_recomendations():
     return json.dumps(res)
     
 
-@app.route('/change_password', methods=['POST'])
+@app.route('/webnovel/change_password', methods=['POST'])
 @login_required
 def change_password():
     username = current_user.username
@@ -305,7 +305,7 @@ def change_password():
         setPassword(username, new_password)
     return redirect(url_for("home"))
 
-@app.route('/restart_server')
+@app.route('/webnovel/restart_server')
 @login_required
 def restart_server():
     os.system("shutdown /f /g /t 0")
