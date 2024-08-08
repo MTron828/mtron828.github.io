@@ -311,9 +311,9 @@ if __name__ == '__main__':
     try:
         scrapper = threading.Thread(target = novelbin_scrapper.scrap)
         scrapper.daemon = True
-        #scrapper.start()
+        scrapper.start()
         def run_server():
-            app.run(debug=False, port=5000)
+            app.run(debug=False, host='0.0.0.0', port=5000)
         server = threading.Thread(target = run_server)
         server.daemon = True
         server.start()
