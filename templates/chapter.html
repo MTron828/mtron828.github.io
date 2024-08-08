@@ -148,8 +148,8 @@
     <h1 id = "novel_name">{{ novel_data["name"] }}</h1>
     <h2 id = "chapter_title">Chapter {{ chapter_id+1 }}</h2>
     <div id = "button_container">
-      <button onclick=increaseFontSize()><img src="/imgs/plus.svg"/></button>
-      <button onclick=decreaseFontSize()><img src="/imgs/minus.png"/></button> 
+      <button onclick=increaseFontSize()><img src="/webnovel/imgs/plus.svg"/></button>
+      <button onclick=decreaseFontSize()><img src="/webnovel/imgs/minus.png"/></button> 
       <select id = "chapter_dropdown" onchange="changeChapter()" >
         {% for i in range(novel_data["chapters"]) %}
             <option class = "chapter" value = "{{ url_for('get_chapter', novel_id = novel_id, chapter_id = i, ai_generated = False) }}">

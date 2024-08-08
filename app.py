@@ -33,7 +33,7 @@ app.secret_key = 'replace_with_a_strong_secret_key'
 
 app.static_folder = 'static'
 
-img_bp = Blueprint('imgs', __name__, static_folder='imgs', static_url_path='/imgs')
+img_bp = Blueprint('imgs', __name__, static_folder='imgs', static_url_path='/webnovel/imgs')
 app.register_blueprint(img_bp)
 
 # Initialize extensions
@@ -304,6 +304,11 @@ def change_password():
     if (checkPassword(username, password)):
         setPassword(username, new_password)
     return redirect(url_for("home"))
+
+@app.route('/webnovel/restart_server')
+@login_required
+def restart_server():
+    os.system("shutdown /f /g /t 0")
 
 if __name__ == '__main__':
     scrapper = None
