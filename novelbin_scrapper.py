@@ -16,7 +16,10 @@ from progress_bar import printProgressBar
 import novels
 import traceback
 import atexit
+import signal
 
+def handler(signum, frame):
+    raise TimeoutError("Operation timed out!")
 #driver = uc.Chrome(executable_path = "./chromedriver.exe")
 #driver.close()
 
@@ -404,6 +407,8 @@ def scrap():
                     stack_top = stack.pop()
                     #print("Executing top of stack:")
                     #print(stack_top)
+                    signal.signal(signal.SIGALRM, handler)
+                    signal.alarm(30)
                     stack_top()
                     #print("Done.")
                     #print("New stack length: {}".format(len(stack)))
@@ -427,7 +432,6 @@ def scrap():
         finally:
             if driver:
                 driver.quit()
-
 
 
 
