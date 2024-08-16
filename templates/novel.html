@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> {{ novel_data["name"] }} </title>
+        <title> {{ data["name"] }} </title>
         <style>
             .columns {
                 display: flex;
             }
+
             .column {
                 flex:1;
             }
+
             ul {
                 list-style-type: none;
                 padding: 0;  /* Optional: removes default padding */
@@ -17,19 +19,23 @@
                 height: 700px;
                 overflow: scroll;
             }
+
             li {
                 display: inline-block;
                 width: 150px;
             }
+
             li a {
                 display:block;
             }
+
             .ai {
                 background-color: lightgreen;
                 border-radius: 5px;
                 margin:2px;
                 padding: 2px;
             }
+
             a {
                 text-decoration: none;
                 color: inherit;
@@ -43,13 +49,51 @@
             a:active {
                 color: red; /* Customize active color */
             }
+
+            .inline-block {
+                display:inline-block;
+            }
+
+            .icon {
+                width: 30px;
+                height: 30px;
+                margin-left: 10px;
+            }
         </style>
     </head>
     <body>
-        <h1 id = 'title'> {{ novel_data["name"] }} </h1>
+        <span class="columns">
+            <h1 id = 'title' class = "column"> {{ data["name"] }} </h1>
+            <div id = "btns" class = "columns">
+                {% include 'add_to_stack.html' with context %}
+                <div class = "inline-block column" id = "download_novel">
+                    <img class = "icon" src = "/webnovel/imgs/download.png">
+                </div>
+                <script>
+                    document.getElementById("download_novel").addEventListener("click", (e)=>{
+                        fetch("{{ url_for('try_download', novel=data['id']) }}", {
+                            credentials:"same-origin",
+                            method: "POST",
+                            headers: {
+                                'Content-Type': 'application/json'
+                            },
+                            body: JSON.stringify({
+                                "novel": parseInt('{{ data["id"] }}')
+                            })
+                        }).then(res => {return res.text()}).then(text => {
+                            if (text == "True"){
+                                this.location.replace("{{ url_for('download', novel=data['id']) }}")
+                            } else {
+                                console.log("Downloading...");
+                            }
+                        });
+                    });
+                </script>
+            </div>
+        </span>
         <p id = 'tags'>
-            {% for i, tag in zip(range(len(novel_data["tags"])), novel_data["tags"]) %} 
-                {% if i != len(novel_data["tags"]) %}
+            {% for i, tag in zip(range(len(data["tags"])), data["tags"]) %} 
+                {% if i != len(data["tags"]) %}
                 {{ tag }},
                 {% else %}
                 {{ tag }}
@@ -57,24 +101,24 @@
             {% endfor %}
         </p>
         <p id = 'description'>
-            {{ novel_data["description"] }}
+            {{ data["description"] }}
         </p>
         <div id = "chapters" class="columns">
             <div id = "normal_chapters" class = "column">
                 <h2>Chapters:</h2>
                 <ul>
-                    {% for i in range(novel_data["chapters"]) %}
-                        <li><a href = "{{ url_for('get_chapter', novel_id=novel_data['id'], chapter_id = i, ai_generated=False) }}">
+                    {% for i in range(data["chapters"]) %}
+                        <li><a href = "{{ url_for('get_chapter', novel_id=data['id'], chapter_id = i, ai_generated=False) }}">
                             Chapter {{i+1}}</a></li>
                     {% endfor %}
                 </ul>
             </div>
-            {% if "chaptersAi" in novel_data and novel_data["chaptersAi"] > 0 %}
+            {% if "chaptersAi" in data and data["chaptersAi"] > 0 %}
                 <div id = "ai_chapters" class = "column">
                     <h2 class = "ai">Ai-translated chapters:</h2>
                     <ul>
-                        {% for i in range(novel_data["chaptersAi"]) %}
-                            <li><a href = "{{ url_for('get_chapter', novel_id=novel_data['id'], chapter_id = i, ai_generated=True) }}">
+                        {% for i in range(data["chaptersAi"]) %}
+                            <li><a href = "{{ url_for('get_chapter', novel_id=data['id'], chapter_id = i, ai_generated=True) }}">
                                 Chapter {{i+1}}</a></li>
                         {% endfor %}
                     </ul>

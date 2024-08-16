@@ -16,7 +16,6 @@ from progress_bar import printProgressBar
 import novels
 import traceback
 import atexit
-import signal
 
 def handler(signum, frame):
     raise TimeoutError("Operation timed out!")
@@ -179,9 +178,13 @@ def getLinks(link):
     jump(driver, link)
     getById(driver, "tab-chapters-title").click()
     #print("Waiting to load...")
+    start_time = time.time()
     while len(getElsByClass(driver, "loading")) != 0:
         getById(driver, "tab-chapters-title").click()
         time.sleep(0.1)
+        spent_time = time.time()-start_time
+        if spent_time > 30:
+            raise Exception("Timed out.")
     """panel = getByClass(driver, "panel-body")
     res = []
     print("Scrapping links...")
@@ -327,25 +330,39 @@ def getNovelLinks(novel_id):
         links[offset] = getLinks(data[name]["link"])
         novels.storeJson("./novelbin_links_{}.json".format(filenumber), links)
 
-def addToStack(task):
+stack_functions = {}
+def scrapChapter(name, chapter_id):
+    id = novels.getIdFromName(name)
+    chapter_directory = "./novels/{}/chapters/".format(id)
+    filename = chapter_directory+"{}.txt".format(chapter_id)
+    print("Scrapping contents of chapter '{}'.".format(filename))
+    if os.path.isfile(filename):
+        return
+    updateNovelFolder(name, id)
+    getAndSaveChapter(filename, novels.getNovelLinks(id)[chapter_id])
+stack_functions["scrapChapter"] = scrapChapter
+def scrapNovelPage(page_num):
+    print("Scrapping novels of novel page: {}".format(page_num))
+    jump(driver, "https://novelbin.me/sort/novelbin-daily-update?page={}".format(page_num))
+    indexNovels()
+stack_functions["scrapNovelPage"] = scrapNovelPage
+def scrapLink(id):
+    print("Scrapping links of novel: {}".format(id))
+    getNovelLinks(id)
+stack_functions["scrapLink"] = scrapLink
+
+
+def addToStack(task, args):
     global stack
-    stack.append(task)
+    stack.append((task, args))
 
 def addArrToStack(arr):
     for i in range(len(arr)-1, -1, -1):
-        addToStack(arr[i])
+        addToStack(arr[i][0], arr[i][1])
 
 def addScrapChapter(name, chapter_id):
     print("Added scrap chapter: {} {}".format(name, chapter_id))
-    def scrapChapter():
-        id = novels.getIdFromName(name)
-        updateNovelFolder(name, id)
-        chapter_directory = "./novels/{}/chapters/".format(id)
-        filename = chapter_directory+"{}.txt".format(chapter_id)
-        print("Scrapping contents of chapter '{}'.".format(filename))
-        getAndSaveChapter(filename, novels.getNovelLinks(id)[chapter_id])
-    addToStack(scrapChapter)
-
+    addToStack("scrapChapter", [name, chapter_id])
 
 def addScrapChapters(name, chapter_id, chapter_cnt):
     print("Added scrap chapters: {} {} {}".format(name, chapter_id, chapter_cnt))
@@ -355,11 +372,7 @@ def addScrapChapters(name, chapter_id, chapter_cnt):
 def addScrapNovelPage(page_num):
     if page_num%10 == 0:
         print("Added scrap novel page: {}".format(page_num))
-    def scrapNovelPage():
-        print("Scrapping novels of novel page: {}".format(page_num))
-        jump(driver, "https://novelbin.me/sort/novelbin-daily-update?page={}".format(page_num))
-        indexNovels()
-    addToStack(scrapNovelPage)
+    addToStack("scrapNovelPage", [page_num])
 
 def addScrapNovels():
     print("Adding scrap novels...")
@@ -372,11 +385,8 @@ def addScrapNovels():
 def addScrapLink(id):
     if id%100 == 0:
         print("Added scrap link: {}".format(id))
-    def scrapLink():
-        print("Scrapping links of novel: {}".format(id))
-        getNovelLinks(id)
-        #TODO
-    addToStack(scrapLink)
+    
+    addToStack("scrapLink", [id])
     
 
 def addScrapLinks():
@@ -386,7 +396,7 @@ def addScrapLinks():
         addScrapLink(id)
 
 def scrap():
-    global stack, driver
+    global stack, driver, stack_functions
     while True:
         stack_top = None
         try:
@@ -397,8 +407,11 @@ def scrap():
             driver = uc.Chrome(executable_path = "./chromedriver.exe")
             atexit.register(driver.quit)
             loadData()
-
             while True:
+                try:
+                    stack = novels.loadJson("scrapper_stack.json")
+                except Exception as ec:
+                    stack = []
                 if len(stack) == 0:
                     addScrapLinks()
                     addScrapNovels()
@@ -407,12 +420,10 @@ def scrap():
                     stack_top = stack.pop()
                     #print("Executing top of stack:")
                     #print(stack_top)
-                    signal.signal(signal.SIGALRM, handler)
-                    signal.alarm(30)
-                    stack_top()
+                    stack_functions[stack_top[0]](*stack_top[1])
                     #print("Done.")
                     #print("New stack length: {}".format(len(stack)))
-            
+                novels.storeJson("scrapper_stack.json", stack)
             """for name in data:
                 id = novels.getIdFromName(name)
                 getNovelLinks(id)"""
@@ -428,7 +439,7 @@ def scrap():
             traceback.print_exc()
             if stack_top:
                 print("Restoring stack top")
-                addToStack(stack_top)
+                addToStack(stack_top[0], stack_top[1])
         finally:
             if driver:
                 driver.quit()

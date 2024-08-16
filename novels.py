@@ -239,3 +239,12 @@ def getNovelLinks(id):
     offset = id%100
     file = loadJson("./novelbin_links_{}.json".format(filenum))
     return file[offset]
+
+def getDownladedChapterCount(novel):
+    path = "./novels/{}/chapters".format(novel)
+    if os.path.isdir(path):
+        total_files = 0
+        for root, dirs, files in os.walk(path):
+            total_files += len(files)
+        return total_files
+    return 0
