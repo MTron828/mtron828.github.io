@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Web novel reader</title>
+    <style>
+      .novel {
+        margin: 10px;
+        padding: 10px;
+        background-color: lightgrey;
+        border-radius: 10px;
+      }
+      a {
+        color: inherit; /* blue colors for links too */
+        text-decoration: inherit; /* no underline */
+      }
+    </style>
+    <script>
+      async function loadNovels() {
+        var novel_request = await fetch('./novels/novels.json');
+        var novel_data = await novel_request.json();
+        console.log(novel_data);
+        for (var novel of novel_data.novels) {
+          var novel_title = novel.title;
+          var novel_chapters = novel.chapters;
+          var html_content = "<a><div id = '"+novel.id+"' class = 'novel'><h4>"+novel_title+"</h4><p>Chapters: "+ novel_chapters +"</p></div></a>";
+          document.getElementById("web_novel_list").innerHTML += html_content;
+        }
+      }
+      window.onload = () => {
+        loadNovels().then(()=>{
+          console.log("Done loading novels");
+          var divs = document.getElementsByClassName("novel");
+          for (var div of divs) {
+            var novel_id = div.id;
+            div.parentNode.href = './novel.html?nov='+novel_id;
+            /*div.addEventListener("click", (event)=>{
+              console.log(novel_id);
+              window.location.replace('./novel/'+novel_id);
+            });*/
+          }
+        });
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Web novel reader</h1>
+    <h3>Web novels:</h3>
+    <div id = "web_novel_list"></div>
+  </body>
+</html>

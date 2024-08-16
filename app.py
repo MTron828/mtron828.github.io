@@ -1,4 +1,4 @@
-from flask import Flask, Blueprint, render_template, get_template_attribute, redirect, url_for, request, flash
+from flask import Flask, Blueprint, render_template, get_template_attribute, redirect, url_for, request, flash, send_file
 from flask_login import LoginManager, UserMixin, login_user, logout_user, login_required, current_user
 from flask_bcrypt import Bcrypt
 from models import User
@@ -9,6 +9,8 @@ from werkzeug.routing import BaseConverter
 from markupsafe import Markup
 import novelbin_scrapper
 import threading
+import os
+import shutil
 
 class BooleanConverter(BaseConverter):
     def __init__(self, url_map):
@@ -179,8 +181,11 @@ def update_stack():
 @app.route('/webnovel/novels/<int:novel_id>/')
 @login_required
 def get_novel(novel_id):
+    user = current_user.username 
     novel_data = getNovelData()[novel_id]
-    return render_template("novel.html", novel_data = novel_data, len = len, zip = zip)
+    stack = getUserData(user)["stack"][-1]
+    novel_data["inStack"] = inStack(user, novel_id)
+    return render_template("novel.html", data = novel_data, len = len, zip = zip)
 
 @app.route('/webnovel/novels/<int:novel_id>/chapters/<bool:ai_generated>/<int:chapter_id>')
 @login_required
@@ -304,6 +309,56 @@ def change_password():
     if (checkPassword(username, password)):
         setPassword(username, new_password)
     return redirect(url_for("home"))
+
+@app.route('/webnovel/<int:novel>/try_download', methods=['POST'])
+@login_required
+def try_download(novel):
+    dwn = getDownladedChapterCount(novel)
+    total = len(getNovelLinks(novel))
+    novel_data = getNovelData()[novel]
+    if dwn < total:
+        novelbin_scrapper.addScrapChapters(novel_data["name"], 0, total)
+        return "False"
+    return "True"
+
+@app.route('/webnovel/<int:novel>/download', methods=['GET', 'POST'])
+@login_required
+def download(novel):
+    user = current_user.username
+    dwn = getDownladedChapterCount(novel)
+    total = len(getNovelLinks(novel))
+    novel_data = getNovelData()[novel]
+    if dwn < total:
+        novelbin_scrapper.addScrapChapters(novel_data["name"], 0, total)
+        return "Not all chapters have been downloaded"
+    clear_folder("./tmp")
+    os.makedirs("./tmp/novels")
+    os.makedirs("./tmp/novels/{}".format(novel))
+    os.makedirs("./tmp/novels/{}/chapters".format(novel))
+    copy_folder_contents("./novels/{}/chapters".format(novel), "./tmp/novels/{}/chapters".format(novel))
+    novels_json = {
+        "novels":[
+            {
+                "title":novel_data["name"],
+                "chapters":total,
+                "id":novel
+            }
+        ]
+    }
+    storeJson("./tmp/novels/novels.json", novels_json)
+    data_json = {
+        "title":novel_data["name"],
+        "chapters":[]
+    }
+    for i in range(total):
+        data_json["chapters"].append(str(i))
+    storeJson("./tmp/novels/{}/data.json".format(novel), data_json)
+    shutil.copy2("./index.html", "./tmp/index.html")
+    shutil.copy2("./novel.html", "./tmp/novel.html")
+    shutil.copy2("./chapter.html", "./tmp/chapter.html")
+    zip_folder("./tmp", "./download_novel.zip")
+    return send_file("./download_novel.zip", as_attachment=True, download_name="{}.zip".format(novel_data["name"]))
+
 
 @app.route('/webnovel/restart_server')
 @login_required
